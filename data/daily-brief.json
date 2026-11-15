@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T17:18:14.223669Z",
+  "generated_at": "2026-11-15T21:56:34.237329Z",
   "window_hours": 24,
   "total_items": 11,
   "items": [
@@ -57,14 +57,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5093,
+      "importance": 0.5093,
+      "importance_score": 0.5093,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8067,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -135,14 +135,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5093,
+      "importance": 0.5093,
+      "importance_score": 0.5093,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8067,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -213,14 +213,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5377,
-      "importance": 0.5377,
-      "importance_score": 0.5377,
+      "score": 0.499,
+      "importance": 0.499,
+      "importance_score": 0.499,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9485,
+        "recency": 0.7552,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -235,6 +235,83 @@
         "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
         "source": "Lobsters (技术社区)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_57809c39abaa",
+      "title": "MacBook Pro 的 OLED PWM 问题：当“更佳”的显示屏反而变得难以使用时 / The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use",
+      "primary_url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "28200826bbc77d98d9db547a723cb9c8725ea013",
+          "title": "MacBook Pro 的 OLED PWM 问题：当“更佳”的显示屏反而变得难以使用时 / The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+          "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-15T13:15:22Z"
+        },
+        {
+          "id": "fcd9d1cb3309e72ffa0b76c06927b0e47f1cf1c6",
+          "title": "MacBook Pro 的 OLED PWM 问题：当“更佳”的显示屏反而变得难以使用时 / The MacBook Pro's OLED PWM problem",
+          "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-15T13:15:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "28200826bbc77d98d9db547a723cb9c8725ea013",
+          "title": "MacBook Pro 的 OLED PWM 问题：当“更佳”的显示屏反而变得难以使用时 / The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+          "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-15T13:15:22Z"
+        },
+        {
+          "id": "fcd9d1cb3309e72ffa0b76c06927b0e47f1cf1c6",
+          "title": "MacBook Pro 的 OLED PWM 问题：当“更佳”的显示屏反而变得难以使用时 / The MacBook Pro's OLED PWM problem",
+          "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-15T13:15:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4756,
+      "importance": 0.4756,
+      "importance_score": 0.4756,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6381,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-15T13:15:22Z",
+      "latest_at": "2026-11-15T13:15:22Z",
+      "primary_item": {
+        "id": "28200826bbc77d98d9db547a723cb9c8725ea013",
+        "title": "MacBook Pro 的 OLED PWM 问题：当“更佳”的显示屏反而变得难以使用时 / The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+        "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -291,14 +368,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4757,
-      "importance": 0.4757,
-      "importance_score": 0.4757,
+      "score": 0.4371,
+      "importance": 0.4371,
+      "importance_score": 0.4371,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6386,
+        "recency": 0.4453,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -388,14 +465,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4655,
-      "importance": 0.4655,
-      "importance_score": 0.4655,
+      "score": 0.4268,
+      "importance": 0.4268,
+      "importance_score": 0.4268,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4624,
+        "recency": 0.2691,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -466,14 +543,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4889,
-      "importance": 0.4889,
-      "importance_score": 0.4889,
+      "score": 0.4503,
+      "importance": 0.4503,
+      "importance_score": 0.4503,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7046,
+        "recency": 0.5113,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -544,14 +621,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4889,
-      "importance": 0.4889,
-      "importance_score": 0.4889,
+      "score": 0.4503,
+      "importance": 0.4503,
+      "importance_score": 0.4503,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7046,
+        "recency": 0.5113,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -621,14 +698,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4281,
-      "importance": 0.4281,
-      "importance_score": 0.4281,
+      "score": 0.3894,
+      "importance": 0.3894,
+      "importance_score": 0.3894,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4003,
+        "recency": 0.207,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -699,14 +776,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4889,
-      "importance": 0.4889,
-      "importance_score": 0.4889,
+      "score": 0.4503,
+      "importance": 0.4503,
+      "importance_score": 0.4503,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7046,
+        "recency": 0.5113,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -721,84 +798,6 @@
         "url": "https://www.ithome.com/1/027/406.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_ec3388a4bdf7",
-      "title": "克劳德要求重新编号页数删除了教授的教学大纲、年份笔记 / Claude asked to renumber pages deletes professor's syllabus, year of notes",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "63e513bc5c44b33b951a767625b2a6d6fa23f8aa",
-          "title": "克劳德要求重新编号页数删除了教授的教学大纲、年份笔记 / Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T17:51:13Z"
-        },
-        {
-          "id": "a867cb383a49c730c5b25ab61cff9769068489d1",
-          "title": "克劳德要求重新编号页数删除了教授的教学大纲、年份笔记 / Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "url": "https://news.ycombinator.com/item?id=50499114",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T17:51:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "63e513bc5c44b33b951a767625b2a6d6fa23f8aa",
-          "title": "克劳德要求重新编号页数删除了教授的教学大纲、年份笔记 / Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T17:51:13Z"
-        },
-        {
-          "id": "a867cb383a49c730c5b25ab61cff9769068489d1",
-          "title": "克劳德要求重新编号页数删除了教授的教学大纲、年份笔记 / Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "url": "https://news.ycombinator.com/item?id=50499114",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T17:51:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3526,
-      "importance": 0.3526,
-      "importance_score": 0.3526,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0229,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T17:51:13Z",
-      "latest_at": "2026-11-14T17:51:13Z",
-      "primary_item": {
-        "id": "63e513bc5c44b33b951a767625b2a6d6fa23f8aa",
-        "title": "克劳德要求重新编号页数删除了教授的教学大纲、年份笔记 / Claude asked to renumber pages deletes professor's syllabus, year of notes",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -854,14 +853,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.428,
-      "importance": 0.428,
-      "importance_score": 0.428,
+      "score": 0.3894,
+      "importance": 0.3894,
+      "importance_score": 0.3894,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4002,
+        "recency": 0.2069,
         "story_heat": 0.25
       },
       "category": "watch",
