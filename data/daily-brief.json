@@ -1,8 +1,929 @@
 {
-  "generated_at": "2026-11-16T08:48:39.192313Z",
+  "generated_at": "2026-11-16T19:05:51.921294Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_2799af16e9a0",
+      "title": "批量启动 AI 扫描存储库 / Bulk start AI Scan for repositories",
+      "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+      "primary_url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
+          "title": "批量启动 AI 扫描存储库 / Bulk start AI Scan for repositories",
+          "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T15:50:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
+          "title": "批量启动 AI 扫描存储库 / Bulk start AI Scan for repositories",
+          "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T15:50:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8338,
+      "importance": 0.8338,
+      "importance_score": 0.8338,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8642,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T15:50:22Z",
+      "latest_at": "2026-11-16T15:50:22Z",
+      "primary_item": {
+        "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
+        "title": "批量启动 AI 扫描存储库 / Bulk start AI Scan for repositories",
+        "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9c48298fc62f",
+      "title": "三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军",
+      "url": "https://www.aibase.com/news/32343",
+      "primary_url": "https://www.aibase.com/news/32343",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ed960778fb5059e30ccd7bd1ee16225c426644dd",
+          "title": "三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军",
+          "url": "https://www.aibase.com/news/32343",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T18:05:51.921294Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ed960778fb5059e30ccd7bd1ee16225c426644dd",
+          "title": "三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军",
+          "url": "https://www.aibase.com/news/32343",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T18:05:51.921294Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9583,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T18:05:51.921294Z",
+      "latest_at": "2026-11-16T18:05:51.921294Z",
+      "primary_item": {
+        "id": "ed960778fb5059e30ccd7bd1ee16225c426644dd",
+        "title": "三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军",
+        "url": "https://www.aibase.com/news/32343",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_cfcc7acb02e9",
+      "title": "OpenAI 为医疗推出 ChatGPT for Healthcare 新功能 / More ways to move care forward with ChatGPT for Healthcare",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "primary_url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "aab4bdc3b4e1eab4014008d443cd6b1925102936",
+          "title": "OpenAI 为医疗推出 ChatGPT for Healthcare 新功能 / More ways to move care forward with ChatGPT for Healthcare",
+          "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T06:00:00Z"
+        },
+        {
+          "id": "a5182fd67e5f2abe0d27004143925c2ffb1d4d41",
+          "title": "OpenAI 为医疗推出 ChatGPT for Healthcare 新功能",
+          "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "aab4bdc3b4e1eab4014008d443cd6b1925102936",
+          "title": "OpenAI 为医疗推出 ChatGPT for Healthcare 新功能 / More ways to move care forward with ChatGPT for Healthcare",
+          "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T06:00:00Z"
+        },
+        {
+          "id": "a5182fd67e5f2abe0d27004143925c2ffb1d4d41",
+          "title": "OpenAI 为医疗推出 ChatGPT for Healthcare 新功能",
+          "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8009,
+      "importance": 0.8009,
+      "importance_score": 0.8009,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.4543,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T06:00:00Z",
+      "latest_at": "2026-11-16T19:05:51.921294Z",
+      "primary_item": {
+        "id": "aab4bdc3b4e1eab4014008d443cd6b1925102936",
+        "title": "OpenAI 为医疗推出 ChatGPT for Healthcare 新功能 / More ways to move care forward with ChatGPT for Healthcare",
+        "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e2b78d00432a",
+      "title": "FBI 警告开源 AI 渗透测试工具 Artex 被用于三小时内攻破企业网络",
+      "url": "https://aihot.news/items/zficxtnfx6piiwlefryulanmh",
+      "primary_url": "https://aihot.news/items/zficxtnfx6piiwlefryulanmh",
+      "source": "TechCrunch：AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7f2ad5b1681f7ad76f2aeb320eedfbfafb0fd863",
+          "title": "FBI 警告开源 AI 渗透测试工具 Artex 被用于三小时内攻破企业网络",
+          "url": "https://aihot.news/items/zficxtnfx6piiwlefryulanmh",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-16T17:36:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI"
+      ],
+      "items": [
+        {
+          "id": "7f2ad5b1681f7ad76f2aeb320eedfbfafb0fd863",
+          "title": "FBI 警告开源 AI 渗透测试工具 Artex 被用于三小时内攻破企业网络",
+          "url": "https://aihot.news/items/zficxtnfx6piiwlefryulanmh",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-16T17:36:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9381,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T17:36:43Z",
+      "latest_at": "2026-11-16T17:36:43Z",
+      "primary_item": {
+        "id": "7f2ad5b1681f7ad76f2aeb320eedfbfafb0fd863",
+        "title": "FBI 警告开源 AI 渗透测试工具 Artex 被用于三小时内攻破企业网络",
+        "url": "https://aihot.news/items/zficxtnfx6piiwlefryulanmh",
+        "source": "TechCrunch：AI",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_64a5e0c104bb",
+      "title": "Microsoft Research 开源 TokenEconomizer 插件，让编码智能体从经验中省 token",
+      "url": "https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17",
+      "primary_url": "https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17",
+      "source": "Microsoft Research 博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ae3202e48149fbd16eecb85b2fded9d805afa7f1",
+          "title": "Microsoft Research 开源 TokenEconomizer 插件，让编码智能体从经验中省 token",
+          "url": "https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17",
+          "source": "Microsoft Research 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-16T17:01:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Microsoft Research 博客"
+      ],
+      "items": [
+        {
+          "id": "ae3202e48149fbd16eecb85b2fded9d805afa7f1",
+          "title": "Microsoft Research 开源 TokenEconomizer 插件，让编码智能体从经验中省 token",
+          "url": "https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17",
+          "source": "Microsoft Research 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-16T17:01:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7947,
+      "importance": 0.7947,
+      "importance_score": 0.7947,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9137,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T17:01:35Z",
+      "latest_at": "2026-11-16T17:01:35Z",
+      "primary_item": {
+        "id": "ae3202e48149fbd16eecb85b2fded9d805afa7f1",
+        "title": "Microsoft Research 开源 TokenEconomizer 插件，让编码智能体从经验中省 token",
+        "url": "https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17",
+        "source": "Microsoft Research 博客",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_27660c06a366",
+      "title": "Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本",
+      "url": "https://aihot.news/items/ctdbuq2r9l6dakhxrm4pmd8ru",
+      "primary_url": "https://aihot.news/items/ctdbuq2r9l6dakhxrm4pmd8ru",
+      "source": "Databricks：Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2e9e045d2afb9e192f2065af8343d1f1d12c6454",
+          "title": "Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本",
+          "url": "https://aihot.news/items/ctdbuq2r9l6dakhxrm4pmd8ru",
+          "source": "Databricks：Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-16T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Databricks：Blog"
+      ],
+      "items": [
+        {
+          "id": "2e9e045d2afb9e192f2065af8343d1f1d12c6454",
+          "title": "Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本",
+          "url": "https://aihot.news/items/ctdbuq2r9l6dakhxrm4pmd8ru",
+          "source": "Databricks：Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-16T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7945,
+      "importance": 0.7945,
+      "importance_score": 0.7945,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9126,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T17:00:00Z",
+      "latest_at": "2026-11-16T17:00:00Z",
+      "primary_item": {
+        "id": "2e9e045d2afb9e192f2065af8343d1f1d12c6454",
+        "title": "Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本",
+        "url": "https://aihot.news/items/ctdbuq2r9l6dakhxrm4pmd8ru",
+        "source": "Databricks：Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_28a9a6ddcb12",
+      "title": "OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预",
+      "url": "https://aihot.news/items/cidgb5cgquwqxtiydrzykwc2p",
+      "primary_url": "https://aihot.news/items/cidgb5cgquwqxtiydrzykwc2p",
+      "source": "OpenAI：官网动态",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "634bb4e1bb5d08f018434cf61af086bf3f0ba2e5",
+          "title": "OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预",
+          "url": "https://aihot.news/items/cidgb5cgquwqxtiydrzykwc2p",
+          "source": "OpenAI：官网动态",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-16T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI：官网动态"
+      ],
+      "items": [
+        {
+          "id": "634bb4e1bb5d08f018434cf61af086bf3f0ba2e5",
+          "title": "OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预",
+          "url": "https://aihot.news/items/cidgb5cgquwqxtiydrzykwc2p",
+          "source": "OpenAI：官网动态",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-16T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7945,
+      "importance": 0.7945,
+      "importance_score": 0.7945,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9126,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T17:00:00Z",
+      "latest_at": "2026-11-16T17:00:00Z",
+      "primary_item": {
+        "id": "634bb4e1bb5d08f018434cf61af086bf3f0ba2e5",
+        "title": "OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预",
+        "url": "https://aihot.news/items/cidgb5cgquwqxtiydrzykwc2p",
+        "source": "OpenAI：官网动态",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4f85959693f9",
+      "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
+      "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+      "primary_url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
+          "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
+          "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T14:30:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
+          "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
+          "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T14:30:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8085,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T14:30:07Z",
+      "latest_at": "2026-11-16T14:30:07Z",
+      "primary_item": {
+        "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
+        "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
+        "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_fa16fcc78f6b",
+      "title": "Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型",
+      "url": "https://aihot.news/items/zo7ubny2zjk4qoqjdoiec91b8",
+      "primary_url": "https://aihot.news/items/zo7ubny2zjk4qoqjdoiec91b8",
+      "source": "Philipp Schmid",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5fa7ded08fb5e8d6db443647f677459686dd4ff8",
+          "title": "Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型",
+          "url": "https://aihot.news/items/zo7ubny2zjk4qoqjdoiec91b8",
+          "source": "Philipp Schmid",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-16T16:02:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Philipp Schmid"
+      ],
+      "items": [
+        {
+          "id": "5fa7ded08fb5e8d6db443647f677459686dd4ff8",
+          "title": "Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型",
+          "url": "https://aihot.news/items/zo7ubny2zjk4qoqjdoiec91b8",
+          "source": "Philipp Schmid",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-16T16:02:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7865,
+      "importance": 0.7865,
+      "importance_score": 0.7865,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8727,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T16:02:31Z",
+      "latest_at": "2026-11-16T16:02:31Z",
+      "primary_item": {
+        "id": "5fa7ded08fb5e8d6db443647f677459686dd4ff8",
+        "title": "Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型",
+        "url": "https://aihot.news/items/zo7ubny2zjk4qoqjdoiec91b8",
+        "source": "Philipp Schmid",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c2d7251ef2da",
+      "title": "Lovable 推出 Drafts 功能，可并行探索应用改动而不影响线上版本",
+      "url": "https://aihot.news/items/v8ml9usyo7vicoqktyv5cdi0z",
+      "primary_url": "https://aihot.news/items/v8ml9usyo7vicoqktyv5cdi0z",
+      "source": "Lovable Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "00bc00a6b37adeddf452d5902a1cf2e3d6a32afb",
+          "title": "Lovable 推出 Drafts 功能，可并行探索应用改动而不影响线上版本",
+          "url": "https://aihot.news/items/v8ml9usyo7vicoqktyv5cdi0z",
+          "source": "Lovable Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-16T13:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lovable Blog"
+      ],
+      "items": [
+        {
+          "id": "00bc00a6b37adeddf452d5902a1cf2e3d6a32afb",
+          "title": "Lovable 推出 Drafts 功能，可并行探索应用改动而不影响线上版本",
+          "url": "https://aihot.news/items/v8ml9usyo7vicoqktyv5cdi0z",
+          "source": "Lovable Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-16T13:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7668,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T13:30:00Z",
+      "latest_at": "2026-11-16T13:30:00Z",
+      "primary_item": {
+        "id": "00bc00a6b37adeddf452d5902a1cf2e3d6a32afb",
+        "title": "Lovable 推出 Drafts 功能，可并行探索应用改动而不影响线上版本",
+        "url": "https://aihot.news/items/v8ml9usyo7vicoqktyv5cdi0z",
+        "source": "Lovable Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f7c8d69236c6",
+      "title": "英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%",
+      "url": "https://aihot.news/items/rk143d9qa0j9gp3fdti162fy7",
+      "primary_url": "https://aihot.news/items/rk143d9qa0j9gp3fdti162fy7",
+      "source": "The Verge：AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7cfb94b9a51881cb9f438e6f81c391c6e5e92cac",
+          "title": "英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%",
+          "url": "https://aihot.news/items/rk143d9qa0j9gp3fdti162fy7",
+          "source": "The Verge：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-16T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI"
+      ],
+      "items": [
+        {
+          "id": "7cfb94b9a51881cb9f438e6f81c391c6e5e92cac",
+          "title": "英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%",
+          "url": "https://aihot.news/items/rk143d9qa0j9gp3fdti162fy7",
+          "source": "The Verge：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-16T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7459,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T13:00:00Z",
+      "latest_at": "2026-11-16T13:00:00Z",
+      "primary_item": {
+        "id": "7cfb94b9a51881cb9f438e6f81c391c6e5e92cac",
+        "title": "英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%",
+        "url": "https://aihot.news/items/rk143d9qa0j9gp3fdti162fy7",
+        "source": "The Verge：AI",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_782a29558c12",
+      "title": "Google 发布 Gemini 4 Carbon 与 Hydrogen，并推出 Decisions API 和自托管 agent 沙箱",
+      "url": "https://aihot.news/items/n3qi466u1gbxj2i8q7g5snhr0",
+      "primary_url": "https://aihot.news/items/n3qi466u1gbxj2i8q7g5snhr0",
+      "source": "Philipp Schmid",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8247ab502704605a070234686decfc7aa448d4ed",
+          "title": "Google 发布 Gemini 4 Carbon 与 Hydrogen，并推出 Decisions API 和自托管 agent 沙箱",
+          "url": "https://aihot.news/items/n3qi466u1gbxj2i8q7g5snhr0",
+          "source": "Philipp Schmid",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-16T15:57:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Philipp Schmid"
+      ],
+      "items": [
+        {
+          "id": "8247ab502704605a070234686decfc7aa448d4ed",
+          "title": "Google 发布 Gemini 4 Carbon 与 Hydrogen，并推出 Decisions API 和自托管 agent 沙箱",
+          "url": "https://aihot.news/items/n3qi466u1gbxj2i8q7g5snhr0",
+          "source": "Philipp Schmid",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-16T15:57:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7859,
+      "importance": 0.7859,
+      "importance_score": 0.7859,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8694,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T15:57:52Z",
+      "latest_at": "2026-11-16T15:57:52Z",
+      "primary_item": {
+        "id": "8247ab502704605a070234686decfc7aa448d4ed",
+        "title": "Google 发布 Gemini 4 Carbon 与 Hydrogen，并推出 Decisions API 和自托管 agent 沙箱",
+        "url": "https://aihot.news/items/n3qi466u1gbxj2i8q7g5snhr0",
+        "source": "Philipp Schmid",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_82d1b96d00d7",
+      "title": "美国收紧 AI 芯片出口管制，限制中国企业远程获取算力",
+      "url": "https://aihot.news/items/x6msqkehvwzry0904un629cqg",
+      "primary_url": "https://aihot.news/items/x6msqkehvwzry0904un629cqg",
+      "source": "TechCrunch：AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a3d5de43a34920483941664b35e5b8ddab2b7dcf",
+          "title": "美国收紧 AI 芯片出口管制，限制中国企业远程获取算力",
+          "url": "https://aihot.news/items/x6msqkehvwzry0904un629cqg",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-16T15:02:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI"
+      ],
+      "items": [
+        {
+          "id": "a3d5de43a34920483941664b35e5b8ddab2b7dcf",
+          "title": "美国收紧 AI 芯片出口管制，限制中国企业远程获取算力",
+          "url": "https://aihot.news/items/x6msqkehvwzry0904un629cqg",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-16T15:02:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.831,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T15:02:34Z",
+      "latest_at": "2026-11-16T15:02:34Z",
+      "primary_item": {
+        "id": "a3d5de43a34920483941664b35e5b8ddab2b7dcf",
+        "title": "美国收紧 AI 芯片出口管制，限制中国企业远程获取算力",
+        "url": "https://aihot.news/items/x6msqkehvwzry0904un629cqg",
+        "source": "TechCrunch：AI",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_85208d388dda",
+      "title": "自媒体作者分享10条指挥Agent最常用的Prompt",
+      "url": "https://aihot.news/items/jqangh4mwcgcv6pwcv8ar7pga",
+      "primary_url": "https://aihot.news/items/jqangh4mwcgcv6pwcv8ar7pga",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1024c19a3c43a5e052e0787f272d4bcae2bb0ee7",
+          "title": "自媒体作者分享10条指挥Agent最常用的Prompt",
+          "url": "https://aihot.news/items/jqangh4mwcgcv6pwcv8ar7pga",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-16T10:05:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "1024c19a3c43a5e052e0787f272d4bcae2bb0ee7",
+          "title": "自媒体作者分享10条指挥Agent最常用的Prompt",
+          "url": "https://aihot.news/items/jqangh4mwcgcv6pwcv8ar7pga",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-16T10:05:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6251,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-16T10:05:59Z",
+      "latest_at": "2026-11-16T10:05:59Z",
+      "primary_item": {
+        "id": "1024c19a3c43a5e052e0787f272d4bcae2bb0ee7",
+        "title": "自媒体作者分享10条指挥Agent最常用的Prompt",
+        "url": "https://aihot.news/items/jqangh4mwcgcv6pwcv8ar7pga",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_839c7e13e36a",
+      "title": "IMF 总裁警告全球经济过度依赖 AI，循环融资规模超 1 万亿美元",
+      "url": "https://aihot.news/items/leb3cw7nrt06nvf0ew7rkiqf7",
+      "primary_url": "https://aihot.news/items/leb3cw7nrt06nvf0ew7rkiqf7",
+      "source": "IT之家·人工智能",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "77c2917aa98b9ec348988bf82e2b0997aacb498a",
+          "title": "IMF 总裁警告全球经济过度依赖 AI，循环融资规模超 1 万亿美元",
+          "url": "https://aihot.news/items/leb3cw7nrt06nvf0ew7rkiqf7",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-16T09:32:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家·人工智能"
+      ],
+      "items": [
+        {
+          "id": "77c2917aa98b9ec348988bf82e2b0997aacb498a",
+          "title": "IMF 总裁警告全球经济过度依赖 AI，循环融资规模超 1 万亿美元",
+          "url": "https://aihot.news/items/leb3cw7nrt06nvf0ew7rkiqf7",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-16T09:32:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7324,
+      "importance": 0.7324,
+      "importance_score": 0.7324,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6022,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-16T09:32:58Z",
+      "latest_at": "2026-11-16T09:32:58Z",
+      "primary_item": {
+        "id": "77c2917aa98b9ec348988bf82e2b0997aacb498a",
+        "title": "IMF 总裁警告全球经济过度依赖 AI，循环融资规模超 1 万亿美元",
+        "url": "https://aihot.news/items/leb3cw7nrt06nvf0ew7rkiqf7",
+        "source": "IT之家·人工智能",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_d164b284d766",
       "title": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
@@ -57,14 +978,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.5714,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -137,14 +1058,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.5714,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -217,14 +1138,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.5714,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -241,246 +1162,6 @@
         "url": "https://www.aibase.com/news/32335",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2c840ae20cb6",
-      "title": "腾讯混元发布 Hy4 flash：224B 总参数、1M 上下文的日常高性价比模型",
-      "url": "https://aihot.news/items/u36vxmxeopbsx4if4lap30899",
-      "primary_url": "https://aihot.news/items/u36vxmxeopbsx4if4lap30899",
-      "source": "腾讯混元：Research",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "323087e3235bfd2182782eb11065b933a6a81c32",
-          "title": "腾讯混元发布 Hy4 flash：224B 总参数、1M 上下文的日常高性价比模型",
-          "url": "https://aihot.news/items/u36vxmxeopbsx4if4lap30899",
-          "source": "腾讯混元：Research",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-16T04:29:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "腾讯混元：Research"
-      ],
-      "items": [
-        {
-          "id": "323087e3235bfd2182782eb11065b933a6a81c32",
-          "title": "腾讯混元发布 Hy4 flash：224B 总参数、1M 上下文的日常高性价比模型",
-          "url": "https://aihot.news/items/u36vxmxeopbsx4if4lap30899",
-          "source": "腾讯混元：Research",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-16T04:29:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.776,
-      "importance": 0.776,
-      "importance_score": 0.776,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8201,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T04:29:37Z",
-      "latest_at": "2026-11-16T04:29:37Z",
-      "primary_item": {
-        "id": "323087e3235bfd2182782eb11065b933a6a81c32",
-        "title": "腾讯混元发布 Hy4 flash：224B 总参数、1M 上下文的日常高性价比模型",
-        "url": "https://aihot.news/items/u36vxmxeopbsx4if4lap30899",
-        "source": "腾讯混元：Research",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9dde487d6116",
-      "title": "通义千问发布 Qwen4 Max，Intelligence Index 较 Qwen3.8 Max 高 9 分且成本更低",
-      "url": "https://aihot.news/items/r9e7azie93xzxxdf6yyd1jmqe",
-      "primary_url": "https://aihot.news/items/r9e7azie93xzxxdf6yyd1jmqe",
-      "source": "通义千问 / Qwen",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "07c062926909797093417636b55266642a52dfa8",
-          "title": "通义千问发布 Qwen4 Max，Intelligence Index 较 Qwen3.8 Max 高 9 分且成本更低",
-          "url": "https://aihot.news/items/r9e7azie93xzxxdf6yyd1jmqe",
-          "source": "通义千问 / Qwen",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-16T03:46:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "通义千问 / Qwen"
-      ],
-      "items": [
-        {
-          "id": "07c062926909797093417636b55266642a52dfa8",
-          "title": "通义千问发布 Qwen4 Max，Intelligence Index 较 Qwen3.8 Max 高 9 分且成本更低",
-          "url": "https://aihot.news/items/r9e7azie93xzxxdf6yyd1jmqe",
-          "source": "通义千问 / Qwen",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-16T03:46:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.77,
-      "importance": 0.77,
-      "importance_score": 0.77,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7902,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T03:46:34Z",
-      "latest_at": "2026-11-16T03:46:34Z",
-      "primary_item": {
-        "id": "07c062926909797093417636b55266642a52dfa8",
-        "title": "通义千问发布 Qwen4 Max，Intelligence Index 较 Qwen3.8 Max 高 9 分且成本更低",
-        "url": "https://aihot.news/items/r9e7azie93xzxxdf6yyd1jmqe",
-        "source": "通义千问 / Qwen",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4ca79b29c637",
-      "title": "Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14",
-      "url": "https://aihot.news/items/kzt8bjcin243qefkuiq49c2i6",
-      "primary_url": "https://aihot.news/items/kzt8bjcin243qefkuiq49c2i6",
-      "source": "Arena",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a08217070f3cad747f9348d743223f4df507ff47",
-          "title": "Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14",
-          "url": "https://aihot.news/items/kzt8bjcin243qefkuiq49c2i6",
-          "source": "Arena",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-16T02:21:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Arena"
-      ],
-      "items": [
-        {
-          "id": "a08217070f3cad747f9348d743223f4df507ff47",
-          "title": "Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14",
-          "url": "https://aihot.news/items/kzt8bjcin243qefkuiq49c2i6",
-          "source": "Arena",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-16T02:21:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7583,
-      "importance": 0.7583,
-      "importance_score": 0.7583,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7313,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T02:21:45Z",
-      "latest_at": "2026-11-16T02:21:45Z",
-      "primary_item": {
-        "id": "a08217070f3cad747f9348d743223f4df507ff47",
-        "title": "Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14",
-        "url": "https://aihot.news/items/kzt8bjcin243qefkuiq49c2i6",
-        "source": "Arena",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_54dc9c05451d",
-      "title": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
-      "url": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh",
-      "primary_url": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh",
-      "source": "Qwen：Blog Retrieval",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3b21c49912cb2f4a836027f84c0e87d446f4fca0",
-          "title": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
-          "url": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh",
-          "source": "Qwen：Blog Retrieval",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-16T02:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Qwen：Blog Retrieval"
-      ],
-      "items": [
-        {
-          "id": "3b21c49912cb2f4a836027f84c0e87d446f4fca0",
-          "title": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
-          "url": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh",
-          "source": "Qwen：Blog Retrieval",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-16T02:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7162,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T02:00:00Z",
-      "latest_at": "2026-11-16T02:00:00Z",
-      "primary_item": {
-        "id": "3b21c49912cb2f4a836027f84c0e87d446f4fca0",
-        "title": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
-        "url": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh",
-        "source": "Qwen：Blog Retrieval",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -537,14 +1218,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.5714,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -561,65 +1242,6 @@
         "url": "https://www.aibase.com/news/32338",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b0a085a47bec",
-      "title": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
-      "url": "https://aihot.news/items/izdx1kuppob6c65ghvmyeal38",
-      "primary_url": "https://aihot.news/items/izdx1kuppob6c65ghvmyeal38",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b37a26b176e0b97c5ed86aa1e5b082aa1284ffca",
-          "title": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
-          "url": "https://aihot.news/items/izdx1kuppob6c65ghvmyeal38",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-15T23:56:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "b37a26b176e0b97c5ed86aa1e5b082aa1284ffca",
-          "title": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
-          "url": "https://aihot.news/items/izdx1kuppob6c65ghvmyeal38",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-15T23:56:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6301,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-15T23:56:00Z",
-      "latest_at": "2026-11-15T23:56:00Z",
-      "primary_item": {
-        "id": "b37a26b176e0b97c5ed86aa1e5b082aa1284ffca",
-        "title": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
-        "url": "https://aihot.news/items/izdx1kuppob6c65ghvmyeal38",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -676,14 +1298,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.5714,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -700,679 +1322,6 @@
         "url": "https://www.aibase.com/news/32332",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ea55ed70aaac",
-      "title": "黄仁勋考虑重返英伟达CEO岗位，盟友筹建“作战室”游说董事会",
-      "url": "https://www.aibase.com/news/32341",
-      "primary_url": "https://www.aibase.com/news/32341",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "05cd5be11fec4c16abd92d6d0ea9931a48f92dd4",
-          "title": "黄仁勋考虑重返英伟达CEO岗位，盟友筹建“作战室”游说董事会",
-          "url": "https://www.aibase.com/news/32341",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T08:48:39.192313Z"
-        },
-        {
-          "id": "c62b2dad0bd74634b57c8900d0772cddb5a05d5a",
-          "title": "黄仁勋考虑重返英伟达 CEO 岗位，盟友筹建「作战室」游说董事会",
-          "url": "https://www.aibase.com/zh/news/32341",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "05cd5be11fec4c16abd92d6d0ea9931a48f92dd4",
-          "title": "黄仁勋考虑重返英伟达CEO岗位，盟友筹建“作战室”游说董事会",
-          "url": "https://www.aibase.com/news/32341",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T08:48:39.192313Z"
-        },
-        {
-          "id": "c62b2dad0bd74634b57c8900d0772cddb5a05d5a",
-          "title": "黄仁勋考虑重返英伟达 CEO 岗位，盟友筹建「作战室」游说董事会",
-          "url": "https://www.aibase.com/zh/news/32341",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T08:48:39.192313Z",
-      "latest_at": "2026-11-16T08:48:39.192313Z",
-      "primary_item": {
-        "id": "05cd5be11fec4c16abd92d6d0ea9931a48f92dd4",
-        "title": "黄仁勋考虑重返英伟达CEO岗位，盟友筹建“作战室”游说董事会",
-        "url": "https://www.aibase.com/news/32341",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_28dd897b33fa",
-      "title": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
-      "url": "https://www.aibase.com/news/32330",
-      "primary_url": "https://www.aibase.com/news/32330",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e4517aba9184a3f309f34a681337f83303dec23e",
-          "title": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
-          "url": "https://www.aibase.com/news/32330",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T08:48:39.192313Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e4517aba9184a3f309f34a681337f83303dec23e",
-          "title": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
-          "url": "https://www.aibase.com/news/32330",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T08:48:39.192313Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T08:48:39.192313Z",
-      "latest_at": "2026-11-16T08:48:39.192313Z",
-      "primary_item": {
-        "id": "e4517aba9184a3f309f34a681337f83303dec23e",
-        "title": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
-        "url": "https://www.aibase.com/news/32330",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4c64bf9de825",
-      "title": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
-      "url": "https://www.aibase.com/news/32337",
-      "primary_url": "https://www.aibase.com/news/32337",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ed0a1b7a4541eff5f8cf4cb52b9c44c19bf3c6cf",
-          "title": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
-          "url": "https://www.aibase.com/news/32337",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T08:48:39.192313Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ed0a1b7a4541eff5f8cf4cb52b9c44c19bf3c6cf",
-          "title": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
-          "url": "https://www.aibase.com/news/32337",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T08:48:39.192313Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T08:48:39.192313Z",
-      "latest_at": "2026-11-16T08:48:39.192313Z",
-      "primary_item": {
-        "id": "ed0a1b7a4541eff5f8cf4cb52b9c44c19bf3c6cf",
-        "title": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
-        "url": "https://www.aibase.com/news/32337",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_691f51357198",
-      "title": "出道30天吸粉40万，AI演员“方桃子”首条商单引发6.82万元罚单",
-      "url": "https://www.aibase.com/news/32339",
-      "primary_url": "https://www.aibase.com/news/32339",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "eb7184082b9b2b13fe539fe6c47c4aef9ba7c547",
-          "title": "出道30天吸粉40万，AI演员“方桃子”首条商单引发6.82万元罚单",
-          "url": "https://www.aibase.com/news/32339",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T08:48:39.192313Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "eb7184082b9b2b13fe539fe6c47c4aef9ba7c547",
-          "title": "出道30天吸粉40万，AI演员“方桃子”首条商单引发6.82万元罚单",
-          "url": "https://www.aibase.com/news/32339",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T08:48:39.192313Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T08:48:39.192313Z",
-      "latest_at": "2026-11-16T08:48:39.192313Z",
-      "primary_item": {
-        "id": "eb7184082b9b2b13fe539fe6c47c4aef9ba7c547",
-        "title": "出道30天吸粉40万，AI演员“方桃子”首条商单引发6.82万元罚单",
-        "url": "https://www.aibase.com/news/32339",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_40aad052123d",
-      "title": "千问 AI 平台首发 Qwen4-Max: 以 Token 用量减半、得分升近28% 切入开发者市场",
-      "url": "https://www.aibase.com/news/32334",
-      "primary_url": "https://www.aibase.com/news/32334",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f873d4dc1c7e6fa1c7065c769677bc2f38465431",
-          "title": "千问 AI 平台首发 Qwen4-Max: 以 Token 用量减半、得分升近28% 切入开发者市场",
-          "url": "https://www.aibase.com/news/32334",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T08:48:39.192313Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f873d4dc1c7e6fa1c7065c769677bc2f38465431",
-          "title": "千问 AI 平台首发 Qwen4-Max: 以 Token 用量减半、得分升近28% 切入开发者市场",
-          "url": "https://www.aibase.com/news/32334",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T08:48:39.192313Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T08:48:39.192313Z",
-      "latest_at": "2026-11-16T08:48:39.192313Z",
-      "primary_item": {
-        "id": "f873d4dc1c7e6fa1c7065c769677bc2f38465431",
-        "title": "千问 AI 平台首发 Qwen4-Max: 以 Token 用量减半、得分升近28% 切入开发者市场",
-        "url": "https://www.aibase.com/news/32334",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d19f02b22413",
-      "title": "因黄仁勋突然离任 英伟达机器人学习工程师戴士钦宣布离职",
-      "url": "https://www.aibase.com/news/32333",
-      "primary_url": "https://www.aibase.com/news/32333",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d895b6e0822b73de28b96b432887880f429b3800",
-          "title": "因黄仁勋突然离任 英伟达机器人学习工程师戴士钦宣布离职",
-          "url": "https://www.aibase.com/news/32333",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T08:48:39.192313Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d895b6e0822b73de28b96b432887880f429b3800",
-          "title": "因黄仁勋突然离任 英伟达机器人学习工程师戴士钦宣布离职",
-          "url": "https://www.aibase.com/news/32333",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T08:48:39.192313Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T08:48:39.192313Z",
-      "latest_at": "2026-11-16T08:48:39.192313Z",
-      "primary_item": {
-        "id": "d895b6e0822b73de28b96b432887880f429b3800",
-        "title": "因黄仁勋突然离任 英伟达机器人学习工程师戴士钦宣布离职",
-        "url": "https://www.aibase.com/news/32333",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7aa0e599a95c",
-      "title": "AI 悄悄改正了数学家的错误，为什么反而是坏消息？",
-      "url": "https://www.huxiu.com/article/4905775.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4905775.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "e97523fe70f6a971e1bc673ad7deee3c05861219",
-          "title": "AI 悄悄改正了数学家的错误，为什么反而是坏消息？",
-          "url": "https://www.huxiu.com/article/4905775.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f93a359fb011d107ef42f366ae5ccb8666fbcbef",
-          "title": "AI悄悄改正了数学家的错误，为什么反而是坏消息？",
-          "url": "https://www.huxiu.com/article/4905775.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-16T00:29:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "e97523fe70f6a971e1bc673ad7deee3c05861219",
-          "title": "AI 悄悄改正了数学家的错误，为什么反而是坏消息？",
-          "url": "https://www.huxiu.com/article/4905775.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f93a359fb011d107ef42f366ae5ccb8666fbcbef",
-          "title": "AI悄悄改正了数学家的错误，为什么反而是坏消息？",
-          "url": "https://www.huxiu.com/article/4905775.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-16T00:29:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4874,
-      "importance": 0.4874,
-      "importance_score": 0.4874,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6969,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-16T00:29:17Z",
-      "latest_at": "2026-11-16T01:32:11.535230Z",
-      "primary_item": {
-        "id": "e97523fe70f6a971e1bc673ad7deee3c05861219",
-        "title": "AI 悄悄改正了数学家的错误，为什么反而是坏消息？",
-        "url": "https://www.huxiu.com/article/4905775.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9af5a563566b",
-      "title": "豆包工作上线「工作台」:首批21款覆盖金融、医疗、教育等场景",
-      "url": "https://www.aibase.com/news/32336",
-      "primary_url": "https://www.aibase.com/news/32336",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "65a0ba5efbecffc65982ca703d33cd5a2c93cb6a",
-          "title": "豆包工作上线「工作台」:首批21款覆盖金融、医疗、教育等场景",
-          "url": "https://www.aibase.com/news/32336",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T08:48:39.192313Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "65a0ba5efbecffc65982ca703d33cd5a2c93cb6a",
-          "title": "豆包工作上线「工作台」:首批21款覆盖金融、医疗、教育等场景",
-          "url": "https://www.aibase.com/news/32336",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T08:48:39.192313Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T08:48:39.192313Z",
-      "latest_at": "2026-11-16T08:48:39.192313Z",
-      "primary_item": {
-        "id": "65a0ba5efbecffc65982ca703d33cd5a2c93cb6a",
-        "title": "豆包工作上线「工作台」:首批21款覆盖金融、医疗、教育等场景",
-        "url": "https://www.aibase.com/news/32336",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b99586870c44",
-      "title": "“鸟脑”这个说法并不准确。乌鸦做决定的速度比我们还快 / 'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-      "primary_url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "2ede826c21748366c2cd83ff6aed73d825e2f82d",
-          "title": "“鸟脑”这个说法并不准确。乌鸦做决定的速度比我们还快 / 'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-          "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-15T17:53:31Z"
-        },
-        {
-          "id": "d843d3fde395d467deb4e30ff1df2e9bbf4421e1",
-          "title": "“鸟脑”这个说法并不准确。乌鸦做决定的速度比我们还快 / Crows make decisions faster than we can",
-          "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-15T17:53:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "2ede826c21748366c2cd83ff6aed73d825e2f82d",
-          "title": "“鸟脑”这个说法并不准确。乌鸦做决定的速度比我们还快 / 'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-          "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-15T17:53:31Z"
-        },
-        {
-          "id": "d843d3fde395d467deb4e30ff1df2e9bbf4421e1",
-          "title": "“鸟脑”这个说法并不准确。乌鸦做决定的速度比我们还快 / Crows make decisions faster than we can",
-          "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-15T17:53:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4237,
-      "importance": 0.4237,
-      "importance_score": 0.4237,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3784,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-15T17:53:31Z",
-      "latest_at": "2026-11-15T17:53:31Z",
-      "primary_item": {
-        "id": "2ede826c21748366c2cd83ff6aed73d825e2f82d",
-        "title": "“鸟脑”这个说法并不准确。乌鸦做决定的速度比我们还快 / 'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-        "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_c6524b3bb676",
-      "title": "元素灵魂 / Claude-BugHunter / elementalsouls / Claude-BugHunter",
-      "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "primary_url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "ccc860b04fd7c8d958f0b0af51c38d11e485a48b",
-          "title": "元素灵魂 / Claude-BugHunter / elementalsouls / Claude-BugHunter",
-          "url": "https://github.com/elementalsouls/Claude-BugHunter",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e8e58f8acbc03fad3f5d9560145fa1e9c59f1349",
-          "title": "元素灵魂 / Claude-BugHunter / elementalsouls /      Claude-BugHunter",
-          "url": "https://github.com/elementalsouls/Claude-BugHunter",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-15T17:01:45.065000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "ccc860b04fd7c8d958f0b0af51c38d11e485a48b",
-          "title": "元素灵魂 / Claude-BugHunter / elementalsouls / Claude-BugHunter",
-          "url": "https://github.com/elementalsouls/Claude-BugHunter",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e8e58f8acbc03fad3f5d9560145fa1e9c59f1349",
-          "title": "元素灵魂 / Claude-BugHunter / elementalsouls /      Claude-BugHunter",
-          "url": "https://github.com/elementalsouls/Claude-BugHunter",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-15T17:01:45.065000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4188,
-      "importance": 0.4188,
-      "importance_score": 0.4188,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3539,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-15T17:01:45.065000Z",
-      "latest_at": "2026-11-15T17:18:14.223669Z",
-      "primary_item": {
-        "id": "ccc860b04fd7c8d958f0b0af51c38d11e485a48b",
-        "title": "元素灵魂 / Claude-BugHunter / elementalsouls / Claude-BugHunter",
-        "url": "https://github.com/elementalsouls/Claude-BugHunter",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
       }
     }
   ]
