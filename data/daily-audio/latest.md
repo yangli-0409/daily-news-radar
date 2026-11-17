@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年11月16日人工智能热点分享
-1、批量启动 AI 扫描存储库。
-2、三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军。
-3、OpenAI 为医疗推出 ChatGPT for Healthcare 新功能。
-4、FBI 警告开源 AI 渗透测试工具 Artex 被用于三小时内攻破企业网络。
-5、Microsoft Research 开源 TokenEconomizer 插件，让编码智能体从经验中省 token，说明 AI 编码能力正在嵌入协作和生产力工具。
-6、Databricks 推出 AI Index，重点是追踪企业级 AI 采用与 token 成本。
-7、OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预。
-8、Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型。
-9、Google 发布 Gemini 4 Carbon 与 Hydrogen，并推出 Decisions API 和自托管 agent 沙箱。
-10、美国收紧 AI 芯片出口管制，限制中国企业远程获取算力，属于 AI 基础设施和算力成本相关信号。
+2026年11月17日人工智能热点分享
+1、GitHub Copilot Fusion 更新，重点是更多可用性、基准测试和模型。
+2、GitHub Copilot 中的 MAI Code 2 和 MAI Code 2 Flash。
+3、OpenClaw 上线 OpenAI GPT-6.2 Astra 和 Sol 模型。
+4、Microsoft 在 Ignite 2026 发布 Copilot、Microsoft IQ、Agent 365 与 Cobalt 200 VMs 等全栈更新。
+5、Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，定价 $0.01 每分钟音频。
+6、Microsoft MAI 发布七款新模型，主打低价高性能。
+7、Microsoft AI 发布 MAI Code 2 与 Code 2 Flash 编码模型。
+8、OpenAI GPT-6.2 Astra 和 GPT-6.2 Sol 上线 OpenRouter。
+9、Replit 发布 Missions，用智能体集群按目标完成复杂工作并开源 DataCat。
+10、OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol。
 
 ## 原始链接
-1. 批量启动 AI 扫描存储库（GitHub 更新日志） - https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories
-2. 三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军（AIbase） - https://www.aibase.com/news/32343
-3. OpenAI 为医疗推出 ChatGPT for Healthcare 新功能（OpenAI News） - https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare
-4. FBI 警告开源 AI 渗透测试工具 Artex 被用于三小时内攻破企业网络（TechCrunch：AI） - https://aihot.news/items/zficxtnfx6piiwlefryulanmh
-5. Microsoft Research 开源 TokenEconomizer 插件，让编码智能体从经验中省 token（Microsoft Research 博客） - https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17
-6. Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本（Databricks：Blog） - https://aihot.news/items/ctdbuq2r9l6dakhxrm4pmd8ru
-7. OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预（OpenAI：官网动态） - https://aihot.news/items/cidgb5cgquwqxtiydrzykwc2p
-8. Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型（Philipp Schmid） - https://aihot.news/items/zo7ubny2zjk4qoqjdoiec91b8
-9. Google 发布 Gemini 4 Carbon 与 Hydrogen，并推出 Decisions API 和自托管 agent 沙箱（Philipp Schmid） - https://aihot.news/items/n3qi466u1gbxj2i8q7g5snhr0
-10. 美国收紧 AI 芯片出口管制，限制中国企业远程获取算力（TechCrunch：AI） - https://aihot.news/items/x6msqkehvwzry0904un629cqg
+1. GitHub Copilot Fusion 更新：更多可用性、基准测试和模型（GitHub 更新日志） - https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models
+2. GitHub Copilot 中的 MAI Code 2 和 MAI Code 2 Flash（GitHub 更新日志） - https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot
+3. OpenClaw 上线 OpenAI GPT-6.2 Astra 和 Sol 模型（OpenClaw） - https://aihot.news/items/e4x7s78pcoe8yhieqmns68q0g
+4. Microsoft 在 Ignite 2026 发布 Copilot、Microsoft IQ、Agent 365 与 Cobalt 200 VMs 等全栈更新（Microsoft：Official Blog） - https://aihot.news/items/jj0ftew61l69qvcrmww6gcxjt
+5. Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，定价 $0.01 每分钟音频（Microsoft AI：官方博客） - https://aihot.news/items/eewx1bbnzfmbj6r40v7b6s6nb
+6. Microsoft MAI 发布七款新模型，主打低价高性能（Microsoft AI：官方博客） - https://aihot.news/items/z9zhvfj8o8zp2yp433eizf3uk
+7. Microsoft AI 发布 MAI Code 2 与 Code 2 Flash 编码模型（Microsoft AI：官方博客） - https://aihot.news/items/c3qj65urfo345mc80xz5jdefb
+8. OpenAI GPT-6.2 Astra 和 GPT-6.2 Sol 上线 OpenRouter（OpenRouter） - https://aihot.news/items/tww8adkmqsbjxg8u6m16vuzta
+9. Replit 发布 Missions，用智能体集群按目标完成复杂工作并开源 DataCat（Replit：Blog） - https://aihot.news/items/io0nmdphe40k919fuw1h28kg3
+10. OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol（OpenAI：官网动态） - https://aihot.news/items/jr7fqw95e5ihuevr1rzib208l
