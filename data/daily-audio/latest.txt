@@ -1,11 +1,11 @@
-2026年11月18日人工智能热点分享
-1、精灵 4 现已推出。
-2、Google DeepMind 的 Genie 4 世界模型上线 Project Genie。
-3、Vals AI 评测，重点是Anthropic、OpenAI 和 Google 模型易将医护人员与投降士兵标记为自杀式无人机目标。
-4、Office 主客易位，重点是微软把 Word、Excel 塞进 Copilot，AI 当门面。
-5、员工疯狂烧钱买 Token，Salesforce“吃不消”了，重点是全面推行按岗位设定 AI 使用预算。
-6、腾讯把 Hy4 flash 开源了，重点是224B 大模型放进 GitHub，人人可下载。
-7、Anthropic IPO 估值最高或达 1.4 万亿美元，华尔街提前造势散户争抢。
-8、Anthropic 在 Claude 平台推出测试版关联账单功能，重点是打通生态闭环，为第三方应用开启 OAuth 计费测试。
-9、免费开源招来“斗米仇”？DeepSeek 仅因长文本限流竟遭极端差评与投诉，这条新闻关注相关变化背后的原因和影响。
-10、孙正义认错，重点是没投 Anthropic 是一大失误，“真希望当时投了”。
+2026年11月19日人工智能热点分享
+1、沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。
+2、满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜。
+3、特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾。
+4、Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型。
+5、“同样任务更便宜更好”，重点是微软公开叫板 Claude 和 ChatGPT。
+6、芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击，属于 AI 基础设施和算力成本相关信号。
+7、Perplexity Computer 的 Brain 智能体可自动编写和更新个人技能。
+8、Anthropic IPO 检验 AI 循环融资模式，Amazon 和 Google 持股市值约 3079 亿美元。
+9、Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视。
+10、AI 自己动手改电路：OpenAI 让模型优化芯片，AMD 旗舰 GPU 性效比最高提 14%，属于 AI 基础设施和算力成本相关信号。
