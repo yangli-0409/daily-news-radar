@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年11月19日人工智能热点分享
-1、沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。
-2、满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜。
-3、特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾。
-4、Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型。
-5、“同样任务更便宜更好”，重点是微软公开叫板 Claude 和 ChatGPT。
-6、芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击，属于 AI 基础设施和算力成本相关信号。
-7、Perplexity Computer 的 Brain 智能体可自动编写和更新个人技能。
-8、Anthropic IPO 检验 AI 循环融资模式，Amazon 和 Google 持股市值约 3079 亿美元。
-9、Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视。
-10、AI 自己动手改电路：OpenAI 让模型优化芯片，AMD 旗舰 GPU 性效比最高提 14%，属于 AI 基础设施和算力成本相关信号。
+2026年11月20日人工智能热点分享
+1、两个月新增 133 款备案，1245 款生成式 AI 服务在册。
+2、从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地。
+3、蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0，重点是MIT 协议开放表征能力。
+4、腾讯混元大模型全量开源，重点是Hy4 正式开放权重，支持百万上下文。
+5、70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”。
+6、AI短剧告别野蛮生长，重点是微信12月起强制要求提交AI生成全流程证明视频。
+7、ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据。
+8、从“问一次就走”到“接着上次聊”，重点是谷歌搜索挂上 AI 记录侧边栏。
+9、先办学后造车的李书福，重点是AI 时代将诞生一批新型大学。
+10、推出线束适配器，重点是使您最喜欢的型号适应您的线束，以提高性能和成本。
 
 ## 原始链接
-1. 沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。（Google AI Blog） - https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson
-2. 满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜（AIbase） - https://www.aibase.com/news/32417
-3. 特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾（AIbase） - https://www.aibase.com/news/32416
-4. Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型（Philipp Schmid） - https://aihot.news/items/n1nzpfmd3f6zc4abq3s8yxrde
-5. “同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT（AIbase） - https://www.aibase.com/news/32415
-6. 芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击（The Decoder：AI News） - https://aihot.news/items/h4bvsjw4ri6to1inm87srlf42
-7. Perplexity Computer 的 Brain 智能体可自动编写和更新个人技能（Aravind Srinivas） - https://aihot.news/items/cty34utgc5ppbdnayf7cnjqlv
-8. Anthropic IPO 检验 AI 循环融资模式，Amazon 和 Google 持股市值约 3079 亿美元（TechCrunch：AI） - https://aihot.news/items/a8d06cpj4vy2dkdzazgsqsrwx
-9. Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视（The Verge：AI） - https://aihot.news/items/zs46vfwtzhs7fzho1p17mfisf
-10. AI 自己动手改电路：OpenAI 让模型优化芯片，AMD 旗舰 GPU 性效比最高提 14%（AIbase） - https://www.aibase.com/news/32398
+1. 两个月新增 133 款备案，1245 款生成式 AI 服务在册（AIbase） - https://www.aibase.com/news/32448
+2. 从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地（AIbase） - https://www.aibase.com/news/32436
+3. 蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力（AIbase） - https://www.aibase.com/news/32449
+4. 腾讯混元大模型全量开源：Hy4 正式开放权重，支持百万上下文（AIbase） - https://www.aibase.com/news/32434
+5. 70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”（AIbase） - https://www.aibase.com/news/32446
+6. AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频（AIbase） - https://www.aibase.com/news/32437
+7. ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据（AIbase） - https://www.aibase.com/news/32443
+8. 从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏（AIbase） - https://www.aibase.com/news/32447
+9. 先办学后造车的李书福：AI 时代将诞生一批新型大学（AIbase） - https://www.aibase.com/news/32441
+10. 推出线束适配器：使您最喜欢的型号适应您的线束，以提高性能和成本（Hugging Face 博客） - https://huggingface.co/blog/harness-adapters-at-scale
