@@ -1,8 +1,248 @@
 {
-  "generated_at": "2026-11-20T05:01:50.984984Z",
+  "generated_at": "2026-11-20T14:13:17.666322Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_b0285c10c181",
+      "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
+      "url": "https://www.aibase.com/news/32448",
+      "primary_url": "https://www.aibase.com/news/32448",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "186652b8ef444bf90904e7d322cf7c5daa76d369",
+          "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
+          "url": "https://www.aibase.com/news/32448",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T14:13:17.666322Z"
+        },
+        {
+          "id": "6f1569e3f5a70bcce00683017269fabeabf6cc4c",
+          "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
+          "url": "https://www.aibase.com/zh/news/32448",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "186652b8ef444bf90904e7d322cf7c5daa76d369",
+          "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
+          "url": "https://www.aibase.com/news/32448",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T14:13:17.666322Z"
+        },
+        {
+          "id": "6f1569e3f5a70bcce00683017269fabeabf6cc4c",
+          "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
+          "url": "https://www.aibase.com/zh/news/32448",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T14:13:17.666322Z",
+      "latest_at": "2026-11-20T14:13:17.666322Z",
+      "primary_item": {
+        "id": "186652b8ef444bf90904e7d322cf7c5daa76d369",
+        "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
+        "url": "https://www.aibase.com/news/32448",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_bfbad6a95a4a",
+      "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
+      "url": "https://www.aibase.com/news/32436",
+      "primary_url": "https://www.aibase.com/news/32436",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
+          "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
+          "url": "https://www.aibase.com/news/32436",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T14:13:17.666322Z"
+        },
+        {
+          "id": "7c7b4a4629f88e85cdd7daa03c01d2e9ad00544c",
+          "title": "从单聊入口走向多模块协同，ChatGPT 移动端改版加速 AI 主动服务落地",
+          "url": "https://www.aibase.com/zh/news/32436",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
+          "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
+          "url": "https://www.aibase.com/news/32436",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T14:13:17.666322Z"
+        },
+        {
+          "id": "7c7b4a4629f88e85cdd7daa03c01d2e9ad00544c",
+          "title": "从单聊入口走向多模块协同，ChatGPT 移动端改版加速 AI 主动服务落地",
+          "url": "https://www.aibase.com/zh/news/32436",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T14:13:17.666322Z",
+      "latest_at": "2026-11-20T14:13:17.666322Z",
+      "primary_item": {
+        "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
+        "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
+        "url": "https://www.aibase.com/news/32436",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b19ae7a707d3",
+      "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+      "url": "https://www.aibase.com/news/32449",
+      "primary_url": "https://www.aibase.com/news/32449",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e8e3aab7c17bec1b60874de8eeaa8315105c0459",
+          "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "url": "https://www.aibase.com/news/32449",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T14:13:17.666322Z"
+        },
+        {
+          "id": "3f2fc04d0eb471e7ce46bea163af021c4430d7d9",
+          "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "url": "https://www.aibase.com/zh/news/32449",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e8e3aab7c17bec1b60874de8eeaa8315105c0459",
+          "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "url": "https://www.aibase.com/news/32449",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T14:13:17.666322Z"
+        },
+        {
+          "id": "3f2fc04d0eb471e7ce46bea163af021c4430d7d9",
+          "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "url": "https://www.aibase.com/zh/news/32449",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T14:13:17.666322Z",
+      "latest_at": "2026-11-20T14:13:17.666322Z",
+      "primary_item": {
+        "id": "e8e3aab7c17bec1b60874de8eeaa8315105c0459",
+        "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+        "url": "https://www.aibase.com/news/32449",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
     {
       "story_id": "story_91992ed9f82d",
       "title": "法典 CLI 0.171.0 / Codex CLI 0.171.0",
@@ -38,14 +278,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8521,
-      "importance": 0.8521,
-      "importance_score": 0.8521,
+      "score": 0.7755,
+      "importance": 0.7755,
+      "importance_score": 0.7755,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7904,
+        "recency": 0.4074,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,26 +305,146 @@
       }
     },
     {
-      "story_id": "story_dae824bb7880",
-      "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
-      "url": "https://www.aibase.com/news/32418",
-      "primary_url": "https://www.aibase.com/news/32418",
+      "story_id": "story_211fbe8009a4",
+      "title": "推出线束适配器：使您最喜欢的型号适应您的线束，以提高性能和成本 / Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "primary_url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "25cde7d66733c018c6413fe35d399536536197d4",
+          "title": "推出线束适配器：使您最喜欢的型号适应您的线束，以提高性能和成本 / Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "25cde7d66733c018c6413fe35d399536536197d4",
+          "title": "推出线束适配器：使您最喜欢的型号适应您的线束，以提高性能和成本 / Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7665,
+      "importance": 0.7665,
+      "importance_score": 0.7665,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.4074,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T00:00:00Z",
+      "latest_at": "2026-11-20T00:00:00Z",
+      "primary_item": {
+        "id": "25cde7d66733c018c6413fe35d399536536197d4",
+        "title": "推出线束适配器：使您最喜欢的型号适应您的线束，以提高性能和成本 / Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+        "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ad532e3f076b",
+      "title": "MiniMax 内部模型 MIM 实现多项密码分析实用攻击并开源验证轨迹",
+      "url": "https://aihot.news/items/sakj36g0tvzaeoianryyn6o6g",
+      "primary_url": "https://aihot.news/items/sakj36g0tvzaeoianryyn6o6g",
+      "source": "MiniMax：Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "41deab90c0b82502055ec818c06355dcf7abed97",
+          "title": "MiniMax 内部模型 MIM 实现多项密码分析实用攻击并开源验证轨迹",
+          "url": "https://aihot.news/items/sakj36g0tvzaeoianryyn6o6g",
+          "source": "MiniMax：Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-20T06:41:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MiniMax：Blog"
+      ],
+      "items": [
+        {
+          "id": "41deab90c0b82502055ec818c06355dcf7abed97",
+          "title": "MiniMax 内部模型 MIM 实现多项密码分析实用攻击并开源验证轨迹",
+          "url": "https://aihot.news/items/sakj36g0tvzaeoianryyn6o6g",
+          "source": "MiniMax：Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-20T06:41:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6864,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-20T06:41:45Z",
+      "latest_at": "2026-11-20T06:41:45Z",
+      "primary_item": {
+        "id": "41deab90c0b82502055ec818c06355dcf7abed97",
+        "title": "MiniMax 内部模型 MIM 实现多项密码分析实用攻击并开源验证轨迹",
+        "url": "https://aihot.news/items/sakj36g0tvzaeoianryyn6o6g",
+        "source": "MiniMax：Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c2fc19c25c2b",
+      "title": "腾讯混元大模型全量开源：Hy4 正式开放权重，支持百万上下文",
+      "url": "https://www.aibase.com/news/32434",
+      "primary_url": "https://www.aibase.com/news/32434",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7fbbb666388b426158218884787113a14cc30303",
-          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
-          "url": "https://www.aibase.com/news/32418",
+          "id": "c48153c5706b1e9a8da99c65d4d69ba06818ce4f",
+          "title": "腾讯混元大模型全量开源：Hy4 正式开放权重，支持百万上下文",
+          "url": "https://www.aibase.com/news/32434",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T05:01:50.984984Z"
+          "published_at": "2026-11-20T14:05:17.666322Z"
         },
         {
-          "id": "129109d1522d3338a23764235c5d496c8d5db3ae",
-          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
-          "url": "https://www.aibase.com/zh/news/32418",
+          "id": "2eaf41604b86eb8457118ea04c22a7c372e67cb2",
+          "title": "腾讯混元大模型全量开源：Hy4 正式开放权重，支持百万上下文",
+          "url": "https://www.aibase.com/zh/news/32434",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -98,18 +458,18 @@
       ],
       "items": [
         {
-          "id": "7fbbb666388b426158218884787113a14cc30303",
-          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
-          "url": "https://www.aibase.com/news/32418",
+          "id": "c48153c5706b1e9a8da99c65d4d69ba06818ce4f",
+          "title": "腾讯混元大模型全量开源：Hy4 正式开放权重，支持百万上下文",
+          "url": "https://www.aibase.com/news/32434",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T05:01:50.984984Z"
+          "published_at": "2026-11-20T14:05:17.666322Z"
         },
         {
-          "id": "129109d1522d3338a23764235c5d496c8d5db3ae",
-          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
-          "url": "https://www.aibase.com/zh/news/32418",
+          "id": "2eaf41604b86eb8457118ea04c22a7c372e67cb2",
+          "title": "腾讯混元大模型全量开源：Hy4 正式开放权重，支持百万上下文",
+          "url": "https://www.aibase.com/zh/news/32434",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -118,14 +478,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8359,
+      "importance": 0.8359,
+      "importance_score": 0.8359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9944,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -134,12 +494,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-20T05:01:50.984984Z",
-      "latest_at": "2026-11-20T05:01:50.984984Z",
+      "earliest_at": "2026-11-20T14:05:17.666322Z",
+      "latest_at": "2026-11-20T14:13:17.666322Z",
       "primary_item": {
-        "id": "7fbbb666388b426158218884787113a14cc30303",
-        "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
-        "url": "https://www.aibase.com/news/32418",
+        "id": "c48153c5706b1e9a8da99c65d4d69ba06818ce4f",
+        "title": "腾讯混元大模型全量开源：Hy4 正式开放权重，支持百万上下文",
+        "url": "https://www.aibase.com/news/32434",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -179,21 +539,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8194,
-      "importance": 0.8194,
-      "importance_score": 0.8194,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.792,
+        "recency": 0.4091,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-20T00:02:21Z",
       "latest_at": "2026-11-20T00:02:21Z",
@@ -203,86 +562,6 @@
         "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d6f16b3e65ae",
-      "title": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
-      "url": "https://www.aibase.com/news/32424",
-      "primary_url": "https://www.aibase.com/news/32424",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2ef8a3aa7518c97af98d779df07c6edfc195650f",
-          "title": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
-          "url": "https://www.aibase.com/news/32424",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T05:01:50.984984Z"
-        },
-        {
-          "id": "7cfd85a324c8098137d7dce5d93f03470101460c",
-          "title": "Google 开放 Genie4 世界模型 API，支持实时交互与原生音频生成",
-          "url": "https://www.aibase.com/zh/news/32424",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "2ef8a3aa7518c97af98d779df07c6edfc195650f",
-          "title": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
-          "url": "https://www.aibase.com/news/32424",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T05:01:50.984984Z"
-        },
-        {
-          "id": "7cfd85a324c8098137d7dce5d93f03470101460c",
-          "title": "Google 开放 Genie4 世界模型 API，支持实时交互与原生音频生成",
-          "url": "https://www.aibase.com/zh/news/32424",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T05:01:50.984984Z",
-      "latest_at": "2026-11-20T05:01:50.984984Z",
-      "primary_item": {
-        "id": "2ef8a3aa7518c97af98d779df07c6edfc195650f",
-        "title": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
-        "url": "https://www.aibase.com/news/32424",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -320,20 +599,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
+      "score": 0.7271,
+      "importance": 0.7271,
+      "importance_score": 0.7271,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9584,
+        "recency": 0.5755,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-20T04:01:57Z",
       "latest_at": "2026-11-20T04:01:57Z",
@@ -380,20 +658,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8024,
-      "importance": 0.8024,
-      "importance_score": 0.8024,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.952,
+        "recency": 0.569,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-20T03:52:40Z",
       "latest_at": "2026-11-20T03:52:40Z",
@@ -406,923 +683,693 @@
       }
     },
     {
-      "story_id": "story_b00f82b6db94",
-      "title": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "444177bedc11242e1974b553efabf05c74e3673c",
-          "title": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T18:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "444177bedc11242e1974b553efabf05c74e3673c",
-          "title": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T18:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7811,
-      "importance": 0.7811,
-      "importance_score": 0.7811,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.5404,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T18:00:00Z",
-      "latest_at": "2026-11-19T18:00:00Z",
-      "primary_item": {
-        "id": "444177bedc11242e1974b553efabf05c74e3673c",
-        "title": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_aa051abe9385",
-      "title": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
-      "url": "https://www.aibase.com/news/32423",
-      "primary_url": "https://www.aibase.com/news/32423",
+      "story_id": "story_778321fbd15b",
+      "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+      "url": "https://www.aibase.com/news/32446",
+      "primary_url": "https://www.aibase.com/news/32446",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d40763252c2ea48f70c8706ec4e5310c7cbce250",
-          "title": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
-          "url": "https://www.aibase.com/news/32423",
+          "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
+          "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "url": "https://www.aibase.com/news/32446",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T05:01:50.984984Z"
-        },
-        {
-          "id": "8bc034a6545408acccb0ca4155aa88817c4170a9",
-          "title": "微软 CEO 纳德拉警告：零售商若屏蔽 AI 购物代理，市场份额恐流向 Shopify 等开放平台",
-          "url": "https://www.aibase.com/zh/news/32423",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-20T14:13:17.666322Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "d40763252c2ea48f70c8706ec4e5310c7cbce250",
-          "title": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
-          "url": "https://www.aibase.com/news/32423",
+          "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
+          "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "url": "https://www.aibase.com/news/32446",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T05:01:50.984984Z"
-        },
-        {
-          "id": "8bc034a6545408acccb0ca4155aa88817c4170a9",
-          "title": "微软 CEO 纳德拉警告：零售商若屏蔽 AI 购物代理，市场份额恐流向 Shopify 等开放平台",
-          "url": "https://www.aibase.com/zh/news/32423",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-20T14:13:17.666322Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-20T05:01:50.984984Z",
-      "latest_at": "2026-11-20T05:01:50.984984Z",
+      "earliest_at": "2026-11-20T14:13:17.666322Z",
+      "latest_at": "2026-11-20T14:13:17.666322Z",
       "primary_item": {
-        "id": "d40763252c2ea48f70c8706ec4e5310c7cbce250",
-        "title": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
-        "url": "https://www.aibase.com/news/32423",
+        "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
+        "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+        "url": "https://www.aibase.com/news/32446",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_fa79b605e9a5",
-      "title": "Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%",
-      "url": "https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc",
-      "primary_url": "https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc",
-      "source": "The Verge：AI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "51992e90ad27f9fa969ec6fd5c83e87384ac687b",
-          "title": "Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%",
-          "url": "https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc",
-          "source": "The Verge：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T21:59:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI"
-      ],
-      "items": [
-        {
-          "id": "51992e90ad27f9fa969ec6fd5c83e87384ac687b",
-          "title": "Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%",
-          "url": "https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc",
-          "source": "The Verge：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T21:59:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7534,
-      "importance": 0.7534,
-      "importance_score": 0.7534,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7068,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T21:59:35Z",
-      "latest_at": "2026-11-19T21:59:35Z",
-      "primary_item": {
-        "id": "51992e90ad27f9fa969ec6fd5c83e87384ac687b",
-        "title": "Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%",
-        "url": "https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc",
-        "source": "The Verge：AI",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4a73a2c8b9c9",
-      "title": "Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务",
-      "url": "https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj",
-      "primary_url": "https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj",
-      "source": "Josh Woodward",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "715e63131bf528800a16dfb6972d526a383482c4",
-          "title": "Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务",
-          "url": "https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj",
-          "source": "Josh Woodward",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T21:52:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Josh Woodward"
-      ],
-      "items": [
-        {
-          "id": "715e63131bf528800a16dfb6972d526a383482c4",
-          "title": "Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务",
-          "url": "https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj",
-          "source": "Josh Woodward",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T21:52:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7017,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T21:52:19Z",
-      "latest_at": "2026-11-19T21:52:19Z",
-      "primary_item": {
-        "id": "715e63131bf528800a16dfb6972d526a383482c4",
-        "title": "Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务",
-        "url": "https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj",
-        "source": "Josh Woodward",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1abe7c08c455",
-      "title": "Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验",
-      "url": "https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6",
-      "primary_url": "https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6",
-      "source": "Arena",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e9dd1c271339478662a52c76740ce419571ceb35",
-          "title": "Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验",
-          "url": "https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6",
-          "source": "Arena",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T21:28:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Arena"
-      ],
-      "items": [
-        {
-          "id": "e9dd1c271339478662a52c76740ce419571ceb35",
-          "title": "Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验",
-          "url": "https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6",
-          "source": "Arena",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T21:28:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.685,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-19T21:28:16Z",
-      "latest_at": "2026-11-19T21:28:16Z",
-      "primary_item": {
-        "id": "e9dd1c271339478662a52c76740ce419571ceb35",
-        "title": "Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验",
-        "url": "https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6",
-        "source": "Arena",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5559e0b0829c",
-      "title": "改提示词不如改代码：谷歌让 AI 自改运行框架",
-      "url": "https://www.aibase.com/news/32426",
-      "primary_url": "https://www.aibase.com/news/32426",
+      "story_id": "story_e28be1686ff0",
+      "title": "AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频",
+      "url": "https://www.aibase.com/news/32437",
+      "primary_url": "https://www.aibase.com/news/32437",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "191b0555419966daf6771ec10acc60aaa67b431b",
-          "title": "改提示词不如改代码：谷歌让 AI 自改运行框架",
-          "url": "https://www.aibase.com/news/32426",
+          "id": "661597afe549d2646ca98e70987d163eb6e66d52",
+          "title": "AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频",
+          "url": "https://www.aibase.com/news/32437",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T05:01:50.984984Z"
-        },
-        {
-          "id": "ce417a32990cf49ac173d0805995c027e944537a",
-          "title": "改提示词不如改代码：谷歌让 AI 自改运行框架",
-          "url": "https://www.aibase.com/zh/news/32426",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-20T14:13:17.666322Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "191b0555419966daf6771ec10acc60aaa67b431b",
-          "title": "改提示词不如改代码：谷歌让 AI 自改运行框架",
-          "url": "https://www.aibase.com/news/32426",
+          "id": "661597afe549d2646ca98e70987d163eb6e66d52",
+          "title": "AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频",
+          "url": "https://www.aibase.com/news/32437",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T05:01:50.984984Z"
-        },
-        {
-          "id": "ce417a32990cf49ac173d0805995c027e944537a",
-          "title": "改提示词不如改代码：谷歌让 AI 自改运行框架",
-          "url": "https://www.aibase.com/zh/news/32426",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-20T14:13:17.666322Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-20T05:01:50.984984Z",
-      "latest_at": "2026-11-20T05:01:50.984984Z",
+      "earliest_at": "2026-11-20T14:13:17.666322Z",
+      "latest_at": "2026-11-20T14:13:17.666322Z",
       "primary_item": {
-        "id": "191b0555419966daf6771ec10acc60aaa67b431b",
-        "title": "改提示词不如改代码：谷歌让 AI 自改运行框架",
-        "url": "https://www.aibase.com/news/32426",
+        "id": "661597afe549d2646ca98e70987d163eb6e66d52",
+        "title": "AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频",
+        "url": "https://www.aibase.com/news/32437",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_4501efae01a1",
-      "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-      "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T18:50:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T18:50:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7762,
-      "importance": 0.7762,
-      "importance_score": 0.7762,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.5758,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T18:50:57Z",
-      "latest_at": "2026-11-19T18:50:57Z",
-      "primary_item": {
-        "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-        "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-        "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_0b7cd12ed0da",
-      "title": "Karina Nguyen 发文祝贺投资人 Sol 庆祝 Anthropic IPO",
-      "url": "https://aihot.news/items/lc38ozrwfur9ympu1l3meqcuq",
-      "primary_url": "https://aihot.news/items/lc38ozrwfur9ympu1l3meqcuq",
-      "source": "Karina Nguyen",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c875111ea9178629a5a9cb9300b9960d13e80ed7",
-          "title": "Karina Nguyen 发文祝贺投资人 Sol 庆祝 Anthropic IPO",
-          "url": "https://aihot.news/items/lc38ozrwfur9ympu1l3meqcuq",
-          "source": "Karina Nguyen",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T20:13:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Karina Nguyen"
-      ],
-      "items": [
-        {
-          "id": "c875111ea9178629a5a9cb9300b9960d13e80ed7",
-          "title": "Karina Nguyen 发文祝贺投资人 Sol 庆祝 Anthropic IPO",
-          "url": "https://aihot.news/items/lc38ozrwfur9ympu1l3meqcuq",
-          "source": "Karina Nguyen",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T20:13:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7386,
-      "importance": 0.7386,
-      "importance_score": 0.7386,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6329,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-19T20:13:16Z",
-      "latest_at": "2026-11-19T20:13:16Z",
-      "primary_item": {
-        "id": "c875111ea9178629a5a9cb9300b9960d13e80ed7",
-        "title": "Karina Nguyen 发文祝贺投资人 Sol 庆祝 Anthropic IPO",
-        "url": "https://aihot.news/items/lc38ozrwfur9ympu1l3meqcuq",
-        "source": "Karina Nguyen",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2adef6bfeca0",
-      "title": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 / Walter Isaacson on curiosity and creativity in the AI age.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
-          "title": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 / Walter Isaacson on curiosity and creativity in the AI age.",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
-          "title": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 / Walter Isaacson on curiosity and creativity in the AI age.",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.4987,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T17:00:00Z",
-      "latest_at": "2026-11-19T17:00:00Z",
-      "primary_item": {
-        "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
-        "title": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 / Walter Isaacson on curiosity and creativity in the AI age.",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c1a8344e668c",
-      "title": "Perplexity CEO Aravind Srinivas 祝贺 Anthropic IPO，称 Opus 5.5 仍是业界最佳模型",
-      "url": "https://aihot.news/items/w8zhbr5smu0072gyuzmmay1eo",
-      "primary_url": "https://aihot.news/items/w8zhbr5smu0072gyuzmmay1eo",
-      "source": "Aravind Srinivas",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "72e2f168d79088ec1597011f4823e1e181aaa66e",
-          "title": "Perplexity CEO Aravind Srinivas 祝贺 Anthropic IPO，称 Opus 5.5 仍是业界最佳模型",
-          "url": "https://aihot.news/items/w8zhbr5smu0072gyuzmmay1eo",
-          "source": "Aravind Srinivas",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T18:18:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Aravind Srinivas"
-      ],
-      "items": [
-        {
-          "id": "72e2f168d79088ec1597011f4823e1e181aaa66e",
-          "title": "Perplexity CEO Aravind Srinivas 祝贺 Anthropic IPO，称 Opus 5.5 仍是业界最佳模型",
-          "url": "https://aihot.news/items/w8zhbr5smu0072gyuzmmay1eo",
-          "source": "Aravind Srinivas",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T18:18:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7226,
-      "importance": 0.7226,
-      "importance_score": 0.7226,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.553,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-19T18:18:09Z",
-      "latest_at": "2026-11-19T18:18:09Z",
-      "primary_item": {
-        "id": "72e2f168d79088ec1597011f4823e1e181aaa66e",
-        "title": "Perplexity CEO Aravind Srinivas 祝贺 Anthropic IPO，称 Opus 5.5 仍是业界最佳模型",
-        "url": "https://aihot.news/items/w8zhbr5smu0072gyuzmmay1eo",
-        "source": "Aravind Srinivas",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_18b1435d0d24",
-      "title": "Google 在 Gemini API 推出 Tool Retrieval 预览",
-      "url": "https://aihot.news/items/n3npoqbr48wu58cke5p3ox18l",
-      "primary_url": "https://aihot.news/items/n3npoqbr48wu58cke5p3ox18l",
-      "source": "Google Blog：AI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "365438a736c34c069d45077589eddf1d24436b35",
-          "title": "Google 在 Gemini API 推出 Tool Retrieval 预览",
-          "url": "https://aihot.news/items/n3npoqbr48wu58cke5p3ox18l",
-          "source": "Google Blog：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T18:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Blog：AI"
-      ],
-      "items": [
-        {
-          "id": "365438a736c34c069d45077589eddf1d24436b35",
-          "title": "Google 在 Gemini API 推出 Tool Retrieval 预览",
-          "url": "https://aihot.news/items/n3npoqbr48wu58cke5p3ox18l",
-          "source": "Google Blog：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T18:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7201,
-      "importance": 0.7201,
-      "importance_score": 0.7201,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5404,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-19T18:00:00Z",
-      "latest_at": "2026-11-19T18:00:00Z",
-      "primary_item": {
-        "id": "365438a736c34c069d45077589eddf1d24436b35",
-        "title": "Google 在 Gemini API 推出 Tool Retrieval 预览",
-        "url": "https://aihot.news/items/n3npoqbr48wu58cke5p3ox18l",
-        "source": "Google Blog：AI",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_13aa9054c7de",
-      "title": "谷歌 Gemini 上线 Mac“电脑操控”功能：后台自动干活，支持修图与做 PPT",
-      "url": "https://www.aibase.com/news/32419",
-      "primary_url": "https://www.aibase.com/news/32419",
+      "story_id": "story_2e91e224bd66",
+      "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
+      "url": "https://www.aibase.com/news/32443",
+      "primary_url": "https://www.aibase.com/news/32443",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2ed46f4b6d95cc3a6033df1b02f2a87f209335ba",
-          "title": "谷歌 Gemini 上线 Mac“电脑操控”功能：后台自动干活，支持修图与做 PPT",
-          "url": "https://www.aibase.com/news/32419",
+          "id": "6ae8786bd12ccf08dd7540cce1fcab273fb3c76d",
+          "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
+          "url": "https://www.aibase.com/news/32443",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T05:01:50.984984Z"
-        },
-        {
-          "id": "ae3901bab645bf6af256ab3cb3c7f1939804ecd7",
-          "title": "谷歌 Gemini 上线 Mac「电脑操控」功能：后台自动干活，支持修图与做 PPT",
-          "url": "https://www.aibase.com/zh/news/32419",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-20T14:13:17.666322Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "2ed46f4b6d95cc3a6033df1b02f2a87f209335ba",
-          "title": "谷歌 Gemini 上线 Mac“电脑操控”功能：后台自动干活，支持修图与做 PPT",
-          "url": "https://www.aibase.com/news/32419",
+          "id": "6ae8786bd12ccf08dd7540cce1fcab273fb3c76d",
+          "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
+          "url": "https://www.aibase.com/news/32443",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T05:01:50.984984Z"
-        },
-        {
-          "id": "ae3901bab645bf6af256ab3cb3c7f1939804ecd7",
-          "title": "谷歌 Gemini 上线 Mac「电脑操控」功能：后台自动干活，支持修图与做 PPT",
-          "url": "https://www.aibase.com/zh/news/32419",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-20T14:13:17.666322Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-20T05:01:50.984984Z",
-      "latest_at": "2026-11-20T05:01:50.984984Z",
+      "earliest_at": "2026-11-20T14:13:17.666322Z",
+      "latest_at": "2026-11-20T14:13:17.666322Z",
       "primary_item": {
-        "id": "2ed46f4b6d95cc3a6033df1b02f2a87f209335ba",
-        "title": "谷歌 Gemini 上线 Mac“电脑操控”功能：后台自动干活，支持修图与做 PPT",
-        "url": "https://www.aibase.com/news/32419",
+        "id": "6ae8786bd12ccf08dd7540cce1fcab273fb3c76d",
+        "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
+        "url": "https://www.aibase.com/news/32443",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_c0849b8081a4",
-      "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
-      "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-          "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
-          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T18:48:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-          "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
-          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T18:48:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.5742,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T18:48:46Z",
-      "latest_at": "2026-11-19T18:48:46Z",
-      "primary_item": {
-        "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-        "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
-        "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_86210a2eb490",
-      "title": "谷歌主页新增AI搜索侧边栏，支持查看历史对话与连接Gemini笔记本",
-      "url": "https://www.aibase.com/news/32427",
-      "primary_url": "https://www.aibase.com/news/32427",
+      "story_id": "story_06c2e359ea0c",
+      "title": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+      "url": "https://www.aibase.com/news/32447",
+      "primary_url": "https://www.aibase.com/news/32447",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "250e92160f6250f418ec879fb737cf43d1e4c063",
-          "title": "谷歌主页新增AI搜索侧边栏，支持查看历史对话与连接Gemini笔记本",
-          "url": "https://www.aibase.com/news/32427",
+          "id": "8b97cac9214d330329d4f8bb590460453a819ca5",
+          "title": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+          "url": "https://www.aibase.com/news/32447",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T05:01:50.984984Z"
-        },
-        {
-          "id": "b03ba26bb5181445a618c372b43f870e75a31773",
-          "title": "谷歌主页新增 AI 搜索侧边栏，支持查看历史对话与连接 Gemini 笔记本",
-          "url": "https://www.aibase.com/zh/news/32427",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-20T14:13:17.666322Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "250e92160f6250f418ec879fb737cf43d1e4c063",
-          "title": "谷歌主页新增AI搜索侧边栏，支持查看历史对话与连接Gemini笔记本",
-          "url": "https://www.aibase.com/news/32427",
+          "id": "8b97cac9214d330329d4f8bb590460453a819ca5",
+          "title": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+          "url": "https://www.aibase.com/news/32447",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T05:01:50.984984Z"
-        },
-        {
-          "id": "b03ba26bb5181445a618c372b43f870e75a31773",
-          "title": "谷歌主页新增 AI 搜索侧边栏，支持查看历史对话与连接 Gemini 笔记本",
-          "url": "https://www.aibase.com/zh/news/32427",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-20T14:13:17.666322Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-20T05:01:50.984984Z",
-      "latest_at": "2026-11-20T05:01:50.984984Z",
+      "earliest_at": "2026-11-20T14:13:17.666322Z",
+      "latest_at": "2026-11-20T14:13:17.666322Z",
       "primary_item": {
-        "id": "250e92160f6250f418ec879fb737cf43d1e4c063",
-        "title": "谷歌主页新增AI搜索侧边栏，支持查看历史对话与连接Gemini笔记本",
-        "url": "https://www.aibase.com/news/32427",
+        "id": "8b97cac9214d330329d4f8bb590460453a819ca5",
+        "title": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+        "url": "https://www.aibase.com/news/32447",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f7f7ce1a180c",
+      "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+      "url": "https://www.aibase.com/news/32441",
+      "primary_url": "https://www.aibase.com/news/32441",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f6ded9b41c4621971ab0938ab3ffde331000d00c",
+          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+          "url": "https://www.aibase.com/news/32441",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T14:13:17.666322Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f6ded9b41c4621971ab0938ab3ffde331000d00c",
+          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+          "url": "https://www.aibase.com/news/32441",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T14:13:17.666322Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T14:13:17.666322Z",
+      "latest_at": "2026-11-20T14:13:17.666322Z",
+      "primary_item": {
+        "id": "f6ded9b41c4621971ab0938ab3ffde331000d00c",
+        "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+        "url": "https://www.aibase.com/news/32441",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_000028228240",
+      "title": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "primary_url": "https://architectlabs.com/blog/frostbite",
+      "source": "architectlabs.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0df2964d8aa24477f6817dc7086098434cb7df6e",
+          "title": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构",
+          "url": "https://architectlabs.com/blog/frostbite",
+          "source": "architectlabs.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T11:36:41.212000Z"
+        },
+        {
+          "id": "c22987eeb7620fb2f14403fdd8cc5fb2a97ea84b",
+          "title": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构 / Frostbite: A new CPU architecture discovered, designed and verified by AI",
+          "url": "https://architectlabs.com/blog/frostbite",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T10:01:41Z"
+        },
+        {
+          "id": "147309841e91e19cc39cfb528e705bf57ff45799",
+          "title": "Frostbite：由 AI 发现、设计和验证的新 CPU 架构 / Frostbite: A new CPU architecture discovered, designed and verified by AI",
+          "url": "https://news.ycombinator.com/item?id=50572503",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-20T10:01:41Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "architectlabs.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "0df2964d8aa24477f6817dc7086098434cb7df6e",
+          "title": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构",
+          "url": "https://architectlabs.com/blog/frostbite",
+          "source": "architectlabs.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T11:36:41.212000Z"
+        },
+        {
+          "id": "c22987eeb7620fb2f14403fdd8cc5fb2a97ea84b",
+          "title": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构 / Frostbite: A new CPU architecture discovered, designed and verified by AI",
+          "url": "https://architectlabs.com/blog/frostbite",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T10:01:41Z"
+        },
+        {
+          "id": "147309841e91e19cc39cfb528e705bf57ff45799",
+          "title": "Frostbite：由 AI 发现、设计和验证的新 CPU 架构 / Frostbite: A new CPU architecture discovered, designed and verified by AI",
+          "url": "https://news.ycombinator.com/item?id=50572503",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-20T10:01:41Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5512,
+      "importance": 0.5512,
+      "importance_score": 0.5512,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8912,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-20T10:01:41Z",
+      "latest_at": "2026-11-20T11:36:41.212000Z",
+      "primary_item": {
+        "id": "0df2964d8aa24477f6817dc7086098434cb7df6e",
+        "title": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构",
+        "url": "https://architectlabs.com/blog/frostbite",
+        "source": "architectlabs.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_f3bba61c80cc",
+      "title": "OpenAI电影《Artificial》的新海报以最“人性化”的方式指出了AI作品中的粗制滥造之处",
+      "url": "https://www.businessinsider.com/artificial-movie-poster-mimics-ai-slop-hand-drawn-sam-altman-2026-11",
+      "primary_url": "https://www.businessinsider.com/artificial-movie-poster-mimics-ai-slop-hand-drawn-sam-altman-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e84437b99817109c6d15e0dfc7a4aa6c898971ad",
+          "title": "OpenAI电影《Artificial》的新海报以最“人性化”的方式指出了AI作品中的粗制滥造之处",
+          "url": "https://www.businessinsider.com/artificial-movie-poster-mimics-ai-slop-hand-drawn-sam-altman-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T13:44:46.777000Z"
+        },
+        {
+          "id": "9194cca54c17dfde381432ec1b5a0afa1733c882",
+          "title": "OpenAI电影《Artificial》的新海报以最“人性化”的方式指出了AI作品中的粗制滥造之处 / A new poster for OpenAI movie 'Artificial' calls out AI slop in the most human way possible",
+          "url": "https://www.businessinsider.com/artificial-movie-poster-mimics-ai-slop-hand-drawn-sam-altman-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-20T13:10:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "e84437b99817109c6d15e0dfc7a4aa6c898971ad",
+          "title": "OpenAI电影《Artificial》的新海报以最“人性化”的方式指出了AI作品中的粗制滥造之处",
+          "url": "https://www.businessinsider.com/artificial-movie-poster-mimics-ai-slop-hand-drawn-sam-altman-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T13:44:46.777000Z"
+        },
+        {
+          "id": "9194cca54c17dfde381432ec1b5a0afa1733c882",
+          "title": "OpenAI电影《Artificial》的新海报以最“人性化”的方式指出了AI作品中的粗制滥造之处 / A new poster for OpenAI movie 'Artificial' calls out AI slop in the most human way possible",
+          "url": "https://www.businessinsider.com/artificial-movie-poster-mimics-ai-slop-hand-drawn-sam-altman-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-20T13:10:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.544,
+      "importance": 0.544,
+      "importance_score": 0.544,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9802,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-20T13:10:50Z",
+      "latest_at": "2026-11-20T13:44:46.777000Z",
+      "primary_item": {
+        "id": "e84437b99817109c6d15e0dfc7a4aa6c898971ad",
+        "title": "OpenAI电影《Artificial》的新海报以最“人性化”的方式指出了AI作品中的粗制滥造之处",
+        "url": "https://www.businessinsider.com/artificial-movie-poster-mimics-ai-slop-hand-drawn-sam-altman-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_55e0d07cc83c",
+      "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+      "url": "https://www.aibase.com/news/32439",
+      "primary_url": "https://www.aibase.com/news/32439",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8aeaa1f3f79a3d134e9f955dfcd696afde349479",
+          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+          "url": "https://www.aibase.com/news/32439",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T14:13:17.666322Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8aeaa1f3f79a3d134e9f955dfcd696afde349479",
+          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+          "url": "https://www.aibase.com/news/32439",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T14:13:17.666322Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T14:13:17.666322Z",
+      "latest_at": "2026-11-20T14:13:17.666322Z",
+      "primary_item": {
+        "id": "8aeaa1f3f79a3d134e9f955dfcd696afde349479",
+        "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+        "url": "https://www.aibase.com/news/32439",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b67320280110",
+      "title": "Anthropic在创纪录的IPO后股价下跌，全球AI板块承压",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5895327b0bf7699662ec56bec11556eab1072d4e",
+          "title": "Anthropic在创纪录的IPO后股价下跌，全球AI板块承压",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T12:57:03.054000Z"
+        },
+        {
+          "id": "85c375891c109ed8793b2c7dd47d0a37eaa9cb78",
+          "title": "随着对人工智能的担忧加剧，亚洲股市的抛售潮演变为恐慌性抛售",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T04:25:51.613000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "5895327b0bf7699662ec56bec11556eab1072d4e",
+          "title": "Anthropic在创纪录的IPO后股价下跌，全球AI板块承压",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T12:57:03.054000Z"
+        },
+        {
+          "id": "85c375891c109ed8793b2c7dd47d0a37eaa9cb78",
+          "title": "随着对人工智能的担忧加剧，亚洲股市的抛售潮演变为恐慌性抛售",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T04:25:51.613000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5374,
+      "importance": 0.5374,
+      "importance_score": 0.5374,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9471,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-20T04:25:51.613000Z",
+      "latest_at": "2026-11-20T12:57:03.054000Z",
+      "primary_item": {
+        "id": "5895327b0bf7699662ec56bec11556eab1072d4e",
+        "title": "Anthropic在创纪录的IPO后股价下跌，全球AI板块承压",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_14b67dddb807",
+      "title": "Epic Games 转向虚幻引擎的人工智能编码 / Epic Games Turns to AI Coding for the Unreal Engine",
+      "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+      "primary_url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "2895bfac27b2380d8ab82e093612e015cc2acf34",
+          "title": "Epic Games 转向虚幻引擎的人工智能编码 / Epic Games Turns to AI Coding for the Unreal Engine",
+          "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T12:16:36Z"
+        },
+        {
+          "id": "0dc3d868e1715f8023a2d19685620f3a8af8fbad",
+          "title": "Epic Games 转向虚幻引擎的人工智能编码 / Epic Games Turns to AI Coding for the Unreal Engine",
+          "url": "https://news.ycombinator.com/item?id=50573681",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-20T12:16:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "2895bfac27b2380d8ab82e093612e015cc2acf34",
+          "title": "Epic Games 转向虚幻引擎的人工智能编码 / Epic Games Turns to AI Coding for the Unreal Engine",
+          "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T12:16:36Z"
+        },
+        {
+          "id": "0dc3d868e1715f8023a2d19685620f3a8af8fbad",
+          "title": "Epic Games 转向虚幻引擎的人工智能编码 / Epic Games Turns to AI Coding for the Unreal Engine",
+          "url": "https://news.ycombinator.com/item?id=50573681",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-20T12:16:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5318,
+      "importance": 0.5318,
+      "importance_score": 0.5318,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.919,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-20T12:16:36Z",
+      "latest_at": "2026-11-20T12:16:36Z",
+      "primary_item": {
+        "id": "2895bfac27b2380d8ab82e093612e015cc2acf34",
+        "title": "Epic Games 转向虚幻引擎的人工智能编码 / Epic Games Turns to AI Coding for the Unreal Engine",
+        "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     }
   ]
