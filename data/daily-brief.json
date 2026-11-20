@@ -1,8 +1,410 @@
 {
-  "generated_at": "2026-11-19T23:43:25.583041Z",
+  "generated_at": "2026-11-20T05:01:50.984984Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.171.0 / Codex CLI 0.171.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "76878f2544fbf81719114d7b092f324572f3c7c3",
+          "title": "法典 CLI 0.171.0 / Codex CLI 0.171.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "76878f2544fbf81719114d7b092f324572f3c7c3",
+          "title": "法典 CLI 0.171.0 / Codex CLI 0.171.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8521,
+      "importance": 0.8521,
+      "importance_score": 0.8521,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7904,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T00:00:00Z",
+      "latest_at": "2026-11-20T00:00:00Z",
+      "primary_item": {
+        "id": "76878f2544fbf81719114d7b092f324572f3c7c3",
+        "title": "法典 CLI 0.171.0 / Codex CLI 0.171.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_dae824bb7880",
+      "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+      "url": "https://www.aibase.com/news/32418",
+      "primary_url": "https://www.aibase.com/news/32418",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7fbbb666388b426158218884787113a14cc30303",
+          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+          "url": "https://www.aibase.com/news/32418",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T05:01:50.984984Z"
+        },
+        {
+          "id": "129109d1522d3338a23764235c5d496c8d5db3ae",
+          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+          "url": "https://www.aibase.com/zh/news/32418",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "7fbbb666388b426158218884787113a14cc30303",
+          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+          "url": "https://www.aibase.com/news/32418",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T05:01:50.984984Z"
+        },
+        {
+          "id": "129109d1522d3338a23764235c5d496c8d5db3ae",
+          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+          "url": "https://www.aibase.com/zh/news/32418",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T05:01:50.984984Z",
+      "latest_at": "2026-11-20T05:01:50.984984Z",
+      "primary_item": {
+        "id": "7fbbb666388b426158218884787113a14cc30303",
+        "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+        "url": "https://www.aibase.com/news/32418",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_9855c1875dd4",
+      "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:02:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:02:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8194,
+      "importance": 0.8194,
+      "importance_score": 0.8194,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.792,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T00:02:21Z",
+      "latest_at": "2026-11-20T00:02:21Z",
+      "primary_item": {
+        "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+        "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+        "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d6f16b3e65ae",
+      "title": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
+      "url": "https://www.aibase.com/news/32424",
+      "primary_url": "https://www.aibase.com/news/32424",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2ef8a3aa7518c97af98d779df07c6edfc195650f",
+          "title": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
+          "url": "https://www.aibase.com/news/32424",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T05:01:50.984984Z"
+        },
+        {
+          "id": "7cfd85a324c8098137d7dce5d93f03470101460c",
+          "title": "Google 开放 Genie4 世界模型 API，支持实时交互与原生音频生成",
+          "url": "https://www.aibase.com/zh/news/32424",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "2ef8a3aa7518c97af98d779df07c6edfc195650f",
+          "title": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
+          "url": "https://www.aibase.com/news/32424",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T05:01:50.984984Z"
+        },
+        {
+          "id": "7cfd85a324c8098137d7dce5d93f03470101460c",
+          "title": "Google 开放 Genie4 世界模型 API，支持实时交互与原生音频生成",
+          "url": "https://www.aibase.com/zh/news/32424",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T05:01:50.984984Z",
+      "latest_at": "2026-11-20T05:01:50.984984Z",
+      "primary_item": {
+        "id": "2ef8a3aa7518c97af98d779df07c6edfc195650f",
+        "title": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
+        "url": "https://www.aibase.com/news/32424",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1a56501b4719",
+      "title": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
+      "url": "https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc",
+      "primary_url": "https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc",
+      "source": "卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a2a724ad104fb370f9b0db81eabac0eb9f491adc",
+          "title": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
+          "url": "https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc",
+          "source": "卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-20T04:01:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "卡兹克"
+      ],
+      "items": [
+        {
+          "id": "a2a724ad104fb370f9b0db81eabac0eb9f491adc",
+          "title": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
+          "url": "https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc",
+          "source": "卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-20T04:01:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9584,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T04:01:57Z",
+      "latest_at": "2026-11-20T04:01:57Z",
+      "primary_item": {
+        "id": "a2a724ad104fb370f9b0db81eabac0eb9f491adc",
+        "title": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
+        "url": "https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc",
+        "source": "卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e2f2bbcbc0dd",
+      "title": "腾讯混元开放 Hy4 权重",
+      "url": "https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx",
+      "primary_url": "https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx",
+      "source": "腾讯混元",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fa3a44013d7b28c620cfc50dbc0eec2edeb0ca66",
+          "title": "腾讯混元开放 Hy4 权重",
+          "url": "https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx",
+          "source": "腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-20T03:52:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "腾讯混元"
+      ],
+      "items": [
+        {
+          "id": "fa3a44013d7b28c620cfc50dbc0eec2edeb0ca66",
+          "title": "腾讯混元开放 Hy4 权重",
+          "url": "https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx",
+          "source": "腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-20T03:52:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8024,
+      "importance": 0.8024,
+      "importance_score": 0.8024,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.952,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T03:52:40Z",
+      "latest_at": "2026-11-20T03:52:40Z",
+      "primary_item": {
+        "id": "fa3a44013d7b28c620cfc50dbc0eec2edeb0ca66",
+        "title": "腾讯混元开放 Hy4 权重",
+        "url": "https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx",
+        "source": "腾讯混元",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_b00f82b6db94",
       "title": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
@@ -38,14 +440,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8253,
-      "importance": 0.8253,
-      "importance_score": 0.8253,
+      "score": 0.7811,
+      "importance": 0.7811,
+      "importance_score": 0.7811,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7615,
+        "recency": 0.5404,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,64 +467,83 @@
       }
     },
     {
-      "story_id": "story_4501efae01a1",
-      "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-      "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_aa051abe9385",
+      "title": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
+      "url": "https://www.aibase.com/news/32423",
+      "primary_url": "https://www.aibase.com/news/32423",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T18:50:57Z"
+          "id": "d40763252c2ea48f70c8706ec4e5310c7cbce250",
+          "title": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
+          "url": "https://www.aibase.com/news/32423",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T05:01:50.984984Z"
+        },
+        {
+          "id": "8bc034a6545408acccb0ca4155aa88817c4170a9",
+          "title": "微软 CEO 纳德拉警告：零售商若屏蔽 AI 购物代理，市场份额恐流向 Shopify 等开放平台",
+          "url": "https://www.aibase.com/zh/news/32423",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T18:50:57Z"
+          "id": "d40763252c2ea48f70c8706ec4e5310c7cbce250",
+          "title": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
+          "url": "https://www.aibase.com/news/32423",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T05:01:50.984984Z"
+        },
+        {
+          "id": "8bc034a6545408acccb0ca4155aa88817c4170a9",
+          "title": "微软 CEO 纳德拉警告：零售商若屏蔽 AI 购物代理，市场份额恐流向 Shopify 等开放平台",
+          "url": "https://www.aibase.com/zh/news/32423",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8204,
-      "importance": 0.8204,
-      "importance_score": 0.8204,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7969,
-        "story_heat": 0.0
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T18:50:57Z",
-      "latest_at": "2026-11-19T18:50:57Z",
+      "earliest_at": "2026-11-20T05:01:50.984984Z",
+      "latest_at": "2026-11-20T05:01:50.984984Z",
       "primary_item": {
-        "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-        "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-        "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "d40763252c2ea48f70c8706ec4e5310c7cbce250",
+        "title": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
+        "url": "https://www.aibase.com/news/32423",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -160,14 +581,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7976,
-      "importance": 0.7976,
-      "importance_score": 0.7976,
+      "score": 0.7534,
+      "importance": 0.7534,
+      "importance_score": 0.7534,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9279,
+        "recency": 0.7068,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -220,14 +641,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7966,
-      "importance": 0.7966,
-      "importance_score": 0.7966,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9228,
+        "recency": 0.7017,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -280,20 +701,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7932,
-      "importance": 0.7932,
-      "importance_score": 0.7932,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9061,
+        "recency": 0.685,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-19T21:28:16Z",
       "latest_at": "2026-11-19T21:28:16Z",
@@ -306,21 +726,101 @@
       }
     },
     {
-      "story_id": "story_c0849b8081a4",
-      "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
-      "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+      "story_id": "story_5559e0b0829c",
+      "title": "改提示词不如改代码：谷歌让 AI 自改运行框架",
+      "url": "https://www.aibase.com/news/32426",
+      "primary_url": "https://www.aibase.com/news/32426",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "191b0555419966daf6771ec10acc60aaa67b431b",
+          "title": "改提示词不如改代码：谷歌让 AI 自改运行框架",
+          "url": "https://www.aibase.com/news/32426",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T05:01:50.984984Z"
+        },
+        {
+          "id": "ce417a32990cf49ac173d0805995c027e944537a",
+          "title": "改提示词不如改代码：谷歌让 AI 自改运行框架",
+          "url": "https://www.aibase.com/zh/news/32426",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "191b0555419966daf6771ec10acc60aaa67b431b",
+          "title": "改提示词不如改代码：谷歌让 AI 自改运行框架",
+          "url": "https://www.aibase.com/news/32426",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T05:01:50.984984Z"
+        },
+        {
+          "id": "ce417a32990cf49ac173d0805995c027e944537a",
+          "title": "改提示词不如改代码：谷歌让 AI 自改运行框架",
+          "url": "https://www.aibase.com/zh/news/32426",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T05:01:50.984984Z",
+      "latest_at": "2026-11-20T05:01:50.984984Z",
+      "primary_item": {
+        "id": "191b0555419966daf6771ec10acc60aaa67b431b",
+        "title": "改提示词不如改代码：谷歌让 AI 自改运行框架",
+        "url": "https://www.aibase.com/news/32426",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4501efae01a1",
+      "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
+      "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-          "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
-          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
+          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
+          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T18:48:46Z"
+          "published_at": "2026-11-19T18:50:57Z"
         }
       ],
       "source_count": 1,
@@ -329,25 +829,25 @@
       ],
       "items": [
         {
-          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-          "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
-          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
+          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
+          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T18:48:46Z"
+          "published_at": "2026-11-19T18:50:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
+      "score": 0.7762,
+      "importance": 0.7762,
+      "importance_score": 0.7762,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7954,
+        "recency": 0.5758,
         "story_heat": 0.0
       },
       "category": "official",
@@ -356,12 +856,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T18:48:46Z",
-      "latest_at": "2026-11-19T18:48:46Z",
+      "earliest_at": "2026-11-19T18:50:57Z",
+      "latest_at": "2026-11-19T18:50:57Z",
       "primary_item": {
-        "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-        "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
-        "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+        "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
+        "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
+        "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -401,20 +901,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7828,
-      "importance": 0.7828,
-      "importance_score": 0.7828,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8541,
+        "recency": 0.6329,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-19T20:13:16Z",
       "latest_at": "2026-11-19T20:13:16Z",
@@ -461,14 +960,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.805,
-      "importance": 0.805,
-      "importance_score": 0.805,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7198,
+        "recency": 0.4987,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,20 +1021,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7668,
-      "importance": 0.7668,
-      "importance_score": 0.7668,
+      "score": 0.7226,
+      "importance": 0.7226,
+      "importance_score": 0.7226,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7741,
+        "recency": 0.553,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-19T18:18:09Z",
       "latest_at": "2026-11-19T18:18:09Z",
@@ -582,20 +1080,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.7201,
+      "importance": 0.7201,
+      "importance_score": 0.7201,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7615,
+        "recency": 0.5404,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-19T18:00:00Z",
       "latest_at": "2026-11-19T18:00:00Z",
@@ -608,599 +1105,222 @@
       }
     },
     {
-      "story_id": "story_b8b1bcd9e21d",
-      "title": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-      "url": "https://www.aibase.com/news/32417",
-      "primary_url": "https://www.aibase.com/news/32417",
+      "story_id": "story_13aa9054c7de",
+      "title": "谷歌 Gemini 上线 Mac“电脑操控”功能：后台自动干活，支持修图与做 PPT",
+      "url": "https://www.aibase.com/news/32419",
+      "primary_url": "https://www.aibase.com/news/32419",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "182094156891e7ed75e9d42fcfe4d19c00efcab6",
-          "title": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-          "url": "https://www.aibase.com/news/32417",
+          "id": "2ed46f4b6d95cc3a6033df1b02f2a87f209335ba",
+          "title": "谷歌 Gemini 上线 Mac“电脑操控”功能：后台自动干活，支持修图与做 PPT",
+          "url": "https://www.aibase.com/news/32419",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T17:29:47.176247Z"
+          "published_at": "2026-11-20T05:01:50.984984Z"
+        },
+        {
+          "id": "ae3901bab645bf6af256ab3cb3c7f1939804ecd7",
+          "title": "谷歌 Gemini 上线 Mac「电脑操控」功能：后台自动干活，支持修图与做 PPT",
+          "url": "https://www.aibase.com/zh/news/32419",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "182094156891e7ed75e9d42fcfe4d19c00efcab6",
-          "title": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-          "url": "https://www.aibase.com/news/32417",
+          "id": "2ed46f4b6d95cc3a6033df1b02f2a87f209335ba",
+          "title": "谷歌 Gemini 上线 Mac“电脑操控”功能：后台自动干活，支持修图与做 PPT",
+          "url": "https://www.aibase.com/news/32419",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T17:29:47.176247Z"
+          "published_at": "2026-11-20T05:01:50.984984Z"
+        },
+        {
+          "id": "ae3901bab645bf6af256ab3cb3c7f1939804ecd7",
+          "title": "谷歌 Gemini 上线 Mac「电脑操控」功能：后台自动干活，支持修图与做 PPT",
+          "url": "https://www.aibase.com/zh/news/32419",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7405,
-        "story_heat": 0.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T17:29:47.176247Z",
-      "latest_at": "2026-11-19T17:29:47.176247Z",
+      "earliest_at": "2026-11-20T05:01:50.984984Z",
+      "latest_at": "2026-11-20T05:01:50.984984Z",
       "primary_item": {
-        "id": "182094156891e7ed75e9d42fcfe4d19c00efcab6",
-        "title": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-        "url": "https://www.aibase.com/news/32417",
+        "id": "2ed46f4b6d95cc3a6033df1b02f2a87f209335ba",
+        "title": "谷歌 Gemini 上线 Mac“电脑操控”功能：后台自动干活，支持修图与做 PPT",
+        "url": "https://www.aibase.com/news/32419",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_07aff0ef0904",
-      "title": "Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型",
-      "url": "https://aihot.news/items/n1nzpfmd3f6zc4abq3s8yxrde",
-      "primary_url": "https://aihot.news/items/n1nzpfmd3f6zc4abq3s8yxrde",
-      "source": "Philipp Schmid",
-      "source_name": "AI HOT",
+      "story_id": "story_c0849b8081a4",
+      "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
+      "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2cf89127e32b7c04bff01a68c78ecf7f355fdeaa",
-          "title": "Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型",
-          "url": "https://aihot.news/items/n1nzpfmd3f6zc4abq3s8yxrde",
-          "source": "Philipp Schmid",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T17:17:39Z"
+          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
+          "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
+          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-19T18:48:46Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Philipp Schmid"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "2cf89127e32b7c04bff01a68c78ecf7f355fdeaa",
-          "title": "Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型",
-          "url": "https://aihot.news/items/n1nzpfmd3f6zc4abq3s8yxrde",
-          "source": "Philipp Schmid",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T17:17:39Z"
+          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
+          "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
+          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-19T18:48:46Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7584,
-      "importance": 0.7584,
-      "importance_score": 0.7584,
-      "importance_label": "行业动态",
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7321,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.5742,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T17:17:39Z",
-      "latest_at": "2026-11-19T17:17:39Z",
+      "earliest_at": "2026-11-19T18:48:46Z",
+      "latest_at": "2026-11-19T18:48:46Z",
       "primary_item": {
-        "id": "2cf89127e32b7c04bff01a68c78ecf7f355fdeaa",
-        "title": "Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型",
-        "url": "https://aihot.news/items/n1nzpfmd3f6zc4abq3s8yxrde",
-        "source": "Philipp Schmid",
-        "source_name": "AI HOT"
+        "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
+        "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
+        "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_b21a5972c4be",
-      "title": "indigo 转发 Dario Amodei 为 Anthropic IPO 在 Nasdaq 敲钟",
-      "url": "https://aihot.news/items/gp3hccimt42ak2uh82nrpty65",
-      "primary_url": "https://aihot.news/items/gp3hccimt42ak2uh82nrpty65",
-      "source": "indigo",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "00764627514aee49dffd75a7783fe056f6cdd58c",
-          "title": "indigo 转发 Dario Amodei 为 Anthropic IPO 在 Nasdaq 敲钟",
-          "url": "https://aihot.news/items/gp3hccimt42ak2uh82nrpty65",
-          "source": "indigo",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T17:14:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "indigo"
-      ],
-      "items": [
-        {
-          "id": "00764627514aee49dffd75a7783fe056f6cdd58c",
-          "title": "indigo 转发 Dario Amodei 为 Anthropic IPO 在 Nasdaq 敲钟",
-          "url": "https://aihot.news/items/gp3hccimt42ak2uh82nrpty65",
-          "source": "indigo",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T17:14:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7297,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T17:14:14Z",
-      "latest_at": "2026-11-19T17:14:14Z",
-      "primary_item": {
-        "id": "00764627514aee49dffd75a7783fe056f6cdd58c",
-        "title": "indigo 转发 Dario Amodei 为 Anthropic IPO 在 Nasdaq 敲钟",
-        "url": "https://aihot.news/items/gp3hccimt42ak2uh82nrpty65",
-        "source": "indigo",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b47fc5487776",
-      "title": "芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击",
-      "url": "https://aihot.news/items/h4bvsjw4ri6to1inm87srlf42",
-      "primary_url": "https://aihot.news/items/h4bvsjw4ri6to1inm87srlf42",
-      "source": "The Decoder：AI News",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b888f8b1d2758e9637df729246b9eda1bb75dbc8",
-          "title": "芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击",
-          "url": "https://aihot.news/items/h4bvsjw4ri6to1inm87srlf42",
-          "source": "The Decoder：AI News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T17:02:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News"
-      ],
-      "items": [
-        {
-          "id": "b888f8b1d2758e9637df729246b9eda1bb75dbc8",
-          "title": "芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击",
-          "url": "https://aihot.news/items/h4bvsjw4ri6to1inm87srlf42",
-          "source": "The Decoder：AI News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T17:02:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7217,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T17:02:41Z",
-      "latest_at": "2026-11-19T17:02:41Z",
-      "primary_item": {
-        "id": "b888f8b1d2758e9637df729246b9eda1bb75dbc8",
-        "title": "芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击",
-        "url": "https://aihot.news/items/h4bvsjw4ri6to1inm87srlf42",
-        "source": "The Decoder：AI News",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ef0e66200851",
-      "title": "Anthropic CEO Dario Amodei 就公司 IPO 发表声明",
-      "url": "https://aihot.news/items/bj8r4lnrbcoi5cl1asnyn6qt5",
-      "primary_url": "https://aihot.news/items/bj8r4lnrbcoi5cl1asnyn6qt5",
-      "source": "Anthropic",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "64c7724bbe2e3bcfdce8acfd30fd118af22a78d2",
-          "title": "Anthropic CEO Dario Amodei 就公司 IPO 发表声明",
-          "url": "https://aihot.news/items/bj8r4lnrbcoi5cl1asnyn6qt5",
-          "source": "Anthropic",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T17:01:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic"
-      ],
-      "items": [
-        {
-          "id": "64c7724bbe2e3bcfdce8acfd30fd118af22a78d2",
-          "title": "Anthropic CEO Dario Amodei 就公司 IPO 发表声明",
-          "url": "https://aihot.news/items/bj8r4lnrbcoi5cl1asnyn6qt5",
-          "source": "Anthropic",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T17:01:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7208,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T17:01:26Z",
-      "latest_at": "2026-11-19T17:01:26Z",
-      "primary_item": {
-        "id": "64c7724bbe2e3bcfdce8acfd30fd118af22a78d2",
-        "title": "Anthropic CEO Dario Amodei 就公司 IPO 发表声明",
-        "url": "https://aihot.news/items/bj8r4lnrbcoi5cl1asnyn6qt5",
-        "source": "Anthropic",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0955981bdc07",
-      "title": "Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%",
-      "url": "https://aihot.news/items/gklqioeodqeuqgz3lttg83ztv",
-      "primary_url": "https://aihot.news/items/gklqioeodqeuqgz3lttg83ztv",
-      "source": "TechCrunch：AI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "768184f2be2bb4b3ba6634cd6461a2ec4a383412",
-          "title": "Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%",
-          "url": "https://aihot.news/items/gklqioeodqeuqgz3lttg83ztv",
-          "source": "TechCrunch：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T16:59:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI"
-      ],
-      "items": [
-        {
-          "id": "768184f2be2bb4b3ba6634cd6461a2ec4a383412",
-          "title": "Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%",
-          "url": "https://aihot.news/items/gklqioeodqeuqgz3lttg83ztv",
-          "source": "TechCrunch：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T16:59:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7559,
-      "importance": 0.7559,
-      "importance_score": 0.7559,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7194,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T16:59:23Z",
-      "latest_at": "2026-11-19T16:59:23Z",
-      "primary_item": {
-        "id": "768184f2be2bb4b3ba6634cd6461a2ec4a383412",
-        "title": "Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%",
-        "url": "https://aihot.news/items/gklqioeodqeuqgz3lttg83ztv",
-        "source": "TechCrunch：AI",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fe7c08445036",
-      "title": "Anthropic 股票上市首日开盘 111.50 美元，较 83 美元发行价涨约 34%",
-      "url": "https://aihot.news/items/hzlbq0fxcls8sxek76qoq63v8",
-      "primary_url": "https://aihot.news/items/hzlbq0fxcls8sxek76qoq63v8",
-      "source": "Kate Clark",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "71e18d11b27c98069332eaa7b2dcc6bcbcaa675a",
-          "title": "Anthropic 股票上市首日开盘 111.50 美元，较 83 美元发行价涨约 34%",
-          "url": "https://aihot.news/items/hzlbq0fxcls8sxek76qoq63v8",
-          "source": "Kate Clark",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T16:51:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Kate Clark"
-      ],
-      "items": [
-        {
-          "id": "71e18d11b27c98069332eaa7b2dcc6bcbcaa675a",
-          "title": "Anthropic 股票上市首日开盘 111.50 美元，较 83 美元发行价涨约 34%",
-          "url": "https://aihot.news/items/hzlbq0fxcls8sxek76qoq63v8",
-          "source": "Kate Clark",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T16:51:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.714,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T16:51:39Z",
-      "latest_at": "2026-11-19T16:51:39Z",
-      "primary_item": {
-        "id": "71e18d11b27c98069332eaa7b2dcc6bcbcaa675a",
-        "title": "Anthropic 股票上市首日开盘 111.50 美元，较 83 美元发行价涨约 34%",
-        "url": "https://aihot.news/items/hzlbq0fxcls8sxek76qoq63v8",
-        "source": "Kate Clark",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2a7f5522db6b",
-      "title": "Anthropic CEO Dario Amodei 与联合创始人 Daniela Amodei 参与 Nasdaq 开市敲钟",
-      "url": "https://aihot.news/items/wy4i94u2e6f4gl8p0fapqxcbg",
-      "primary_url": "https://aihot.news/items/wy4i94u2e6f4gl8p0fapqxcbg",
-      "source": "Rohan Paul",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ca1b90449bb01d140854fdbd5fe70bbea82b7615",
-          "title": "Anthropic CEO Dario Amodei 与联合创始人 Daniela Amodei 参与 Nasdaq 开市敲钟",
-          "url": "https://aihot.news/items/wy4i94u2e6f4gl8p0fapqxcbg",
-          "source": "Rohan Paul",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T15:42:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Rohan Paul"
-      ],
-      "items": [
-        {
-          "id": "ca1b90449bb01d140854fdbd5fe70bbea82b7615",
-          "title": "Anthropic CEO Dario Amodei 与联合创始人 Daniela Amodei 参与 Nasdaq 开市敲钟",
-          "url": "https://aihot.news/items/wy4i94u2e6f4gl8p0fapqxcbg",
-          "source": "Rohan Paul",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T15:42:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6658,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-19T15:42:12Z",
-      "latest_at": "2026-11-19T15:42:12Z",
-      "primary_item": {
-        "id": "ca1b90449bb01d140854fdbd5fe70bbea82b7615",
-        "title": "Anthropic CEO Dario Amodei 与联合创始人 Daniela Amodei 参与 Nasdaq 开市敲钟",
-        "url": "https://aihot.news/items/wy4i94u2e6f4gl8p0fapqxcbg",
-        "source": "Rohan Paul",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f60153855de9",
-      "title": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
-      "url": "https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav",
-      "primary_url": "https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav",
-      "source": "MIT News",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "60fe139c9f58d1858031413fcf7c1cae16682335",
-          "title": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
-          "url": "https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav",
-          "source": "MIT News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T14:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MIT News"
-      ],
-      "items": [
-        {
-          "id": "60fe139c9f58d1858031413fcf7c1cae16682335",
-          "title": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
-          "url": "https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav",
-          "source": "MIT News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-19T14:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5948,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-19T14:00:00Z",
-      "latest_at": "2026-11-19T14:00:00Z",
-      "primary_item": {
-        "id": "60fe139c9f58d1858031413fcf7c1cae16682335",
-        "title": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
-        "url": "https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav",
-        "source": "MIT News",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8206a0dcb336",
-      "title": "特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾",
-      "url": "https://www.aibase.com/news/32416",
-      "primary_url": "https://www.aibase.com/news/32416",
+      "story_id": "story_86210a2eb490",
+      "title": "谷歌主页新增AI搜索侧边栏，支持查看历史对话与连接Gemini笔记本",
+      "url": "https://www.aibase.com/news/32427",
+      "primary_url": "https://www.aibase.com/news/32427",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a6083013fa9ac447eaccd1064be380647bbc3081",
-          "title": "特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾",
-          "url": "https://www.aibase.com/news/32416",
+          "id": "250e92160f6250f418ec879fb737cf43d1e4c063",
+          "title": "谷歌主页新增AI搜索侧边栏，支持查看历史对话与连接Gemini笔记本",
+          "url": "https://www.aibase.com/news/32427",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T17:25:47.176247Z"
+          "published_at": "2026-11-20T05:01:50.984984Z"
+        },
+        {
+          "id": "b03ba26bb5181445a618c372b43f870e75a31773",
+          "title": "谷歌主页新增 AI 搜索侧边栏，支持查看历史对话与连接 Gemini 笔记本",
+          "url": "https://www.aibase.com/zh/news/32427",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "a6083013fa9ac447eaccd1064be380647bbc3081",
-          "title": "特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾",
-          "url": "https://www.aibase.com/news/32416",
+          "id": "250e92160f6250f418ec879fb737cf43d1e4c063",
+          "title": "谷歌主页新增AI搜索侧边栏，支持查看历史对话与连接Gemini笔记本",
+          "url": "https://www.aibase.com/news/32427",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T17:25:47.176247Z"
+          "published_at": "2026-11-20T05:01:50.984984Z"
+        },
+        {
+          "id": "b03ba26bb5181445a618c372b43f870e75a31773",
+          "title": "谷歌主页新增 AI 搜索侧边栏，支持查看历史对话与连接 Gemini 笔记本",
+          "url": "https://www.aibase.com/zh/news/32427",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7377,
-        "story_heat": 0.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T17:25:47.176247Z",
-      "latest_at": "2026-11-19T17:25:47.176247Z",
+      "earliest_at": "2026-11-20T05:01:50.984984Z",
+      "latest_at": "2026-11-20T05:01:50.984984Z",
       "primary_item": {
-        "id": "a6083013fa9ac447eaccd1064be380647bbc3081",
-        "title": "特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾",
-        "url": "https://www.aibase.com/news/32416",
+        "id": "250e92160f6250f418ec879fb737cf43d1e4c063",
+        "title": "谷歌主页新增AI搜索侧边栏，支持查看历史对话与连接Gemini笔记本",
+        "url": "https://www.aibase.com/news/32427",
         "source": "AIbase",
         "source_name": "AIbase"
       }
