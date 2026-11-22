@@ -1,8 +1,68 @@
 {
-  "generated_at": "2026-11-22T10:33:07.473319Z",
+  "generated_at": "2026-11-22T18:09:43.651782Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 13,
   "items": [
+    {
+      "story_id": "story_07283d4899e6",
+      "title": "Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确",
+      "url": "https://aihot.news/items/ikpixx0j7414se1f6lww2csek",
+      "primary_url": "https://aihot.news/items/ikpixx0j7414se1f6lww2csek",
+      "source": "The Decoder：AI News",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ad1d369b277f90b7088b79fd6d80a0266a26658c",
+          "title": "Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确",
+          "url": "https://aihot.news/items/ikpixx0j7414se1f6lww2csek",
+          "source": "The Decoder：AI News",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-22T11:08:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News"
+      ],
+      "items": [
+        {
+          "id": "ad1d369b277f90b7088b79fd6d80a0266a26658c",
+          "title": "Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确",
+          "url": "https://aihot.news/items/ikpixx0j7414se1f6lww2csek",
+          "source": "The Decoder：AI News",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-22T11:08:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7075,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-22T11:08:31Z",
+      "latest_at": "2026-11-22T11:08:31Z",
+      "primary_item": {
+        "id": "ad1d369b277f90b7088b79fd6d80a0266a26658c",
+        "title": "Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确",
+        "url": "https://aihot.news/items/ikpixx0j7414se1f6lww2csek",
+        "source": "The Decoder：AI News",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_a86e4a65ff64",
       "title": "菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可",
@@ -38,20 +98,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8041,
-      "importance": 0.8041,
-      "importance_score": 0.8041,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9603,
+        "recency": 0.6432,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-22T09:35:58Z",
       "latest_at": "2026-11-22T09:35:58Z",
@@ -61,6 +120,490 @@
         "url": "https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt",
         "source": "IT之家·人工智能",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒）",
+      "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+      "primary_url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+      "source": "www.youtube.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2066052d1d469948e676457e24fd3f814149a22e",
+          "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒）",
+          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T16:44:44.430000Z"
+        },
+        {
+          "id": "732b2bf8d151051cc25ada064b114bebab0b6fb1",
+          "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒） / We asked [mathematicans about an incomprehensible AI proof of GRH] before it happened (13min38s)",
+          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T16:37:37Z"
+        },
+        {
+          "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
+          "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒） / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T03:06:35Z"
+        },
+        {
+          "id": "bc1cee2e291ec5c9d16351a097d86ae4e4289328",
+          "title": "Show HN: 人工智能能否用90%的Rust语言重写OpenCode？",
+          "url": "https://www.youtube.com/watch?v=SwX4OoxMaKM",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-21T22:26:53.368000Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)",
+        "www.youtube.com"
+      ],
+      "items": [
+        {
+          "id": "2066052d1d469948e676457e24fd3f814149a22e",
+          "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒）",
+          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T16:44:44.430000Z"
+        },
+        {
+          "id": "732b2bf8d151051cc25ada064b114bebab0b6fb1",
+          "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒） / We asked [mathematicans about an incomprehensible AI proof of GRH] before it happened (13min38s)",
+          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T16:37:37Z"
+        },
+        {
+          "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
+          "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒） / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T03:06:35Z"
+        },
+        {
+          "id": "bc1cee2e291ec5c9d16351a097d86ae4e4289328",
+          "title": "Show HN: 人工智能能否用90%的Rust语言重写OpenCode？",
+          "url": "https://www.youtube.com/watch?v=SwX4OoxMaKM",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-21T22:26:53.368000Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5862,
+      "importance": 0.5862,
+      "importance_score": 0.5862,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.941,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T22:26:53.368000Z",
+      "latest_at": "2026-11-22T16:44:44.430000Z",
+      "primary_item": {
+        "id": "2066052d1d469948e676457e24fd3f814149a22e",
+        "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒）",
+        "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+        "source": "www.youtube.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_3c4f4993adca",
+      "title": "Show HN: 我开发了一款游戏，在游戏中你将扮演一个大型语言模型（LLM）的子代理",
+      "url": "https://github.com/gulivan/worker755",
+      "primary_url": "https://github.com/gulivan/worker755",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d7e893a8dc949ded68f3bd6afc73342e2867f4e3",
+          "title": "Show HN: 我开发了一款游戏，在游戏中你将扮演一个大型语言模型（LLM）的子代理",
+          "url": "https://github.com/gulivan/worker755",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T16:44:44.053000Z"
+        },
+        {
+          "id": "a2530ddd696e29649b9fa80440b5d99bf7adb95e",
+          "title": "Show HN: 我开发了一款游戏，在游戏中你将扮演一个大型语言模型（LLM）的子代理 / Show HN: I built a game where you are an LLM's subagent",
+          "url": "https://github.com/gulivan/worker755",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T13:56:58Z"
+        },
+        {
+          "id": "8c3bc796b289248b54b735a557d908b83cc879d3",
+          "title": "Show HN：我制作了一个游戏，你是法学硕士的子代理人 / Show HN: I built a game where you are an LLM's subagent",
+          "url": "https://news.ycombinator.com/item?id=50599762",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T13:56:58Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d7e893a8dc949ded68f3bd6afc73342e2867f4e3",
+          "title": "Show HN: 我开发了一款游戏，在游戏中你将扮演一个大型语言模型（LLM）的子代理",
+          "url": "https://github.com/gulivan/worker755",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T16:44:44.053000Z"
+        },
+        {
+          "id": "a2530ddd696e29649b9fa80440b5d99bf7adb95e",
+          "title": "Show HN: 我开发了一款游戏，在游戏中你将扮演一个大型语言模型（LLM）的子代理 / Show HN: I built a game where you are an LLM's subagent",
+          "url": "https://github.com/gulivan/worker755",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T13:56:58Z"
+        },
+        {
+          "id": "8c3bc796b289248b54b735a557d908b83cc879d3",
+          "title": "Show HN：我制作了一个游戏，你是法学硕士的子代理人 / Show HN: I built a game where you are an LLM's subagent",
+          "url": "https://news.ycombinator.com/item?id=50599762",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T13:56:58Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5612,
+      "importance": 0.5612,
+      "importance_score": 0.5612,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.941,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T13:56:58Z",
+      "latest_at": "2026-11-22T16:44:44.053000Z",
+      "primary_item": {
+        "id": "d7e893a8dc949ded68f3bd6afc73342e2867f4e3",
+        "title": "Show HN: 我开发了一款游戏，在游戏中你将扮演一个大型语言模型（LLM）的子代理",
+        "url": "https://github.com/gulivan/worker755",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_cfea722a5658",
+      "title": "Pandex——基于MCP的欧洲人工智能代理官方法律",
+      "url": "https://www.pandex.io",
+      "primary_url": "https://www.pandex.io",
+      "source": "www.pandex.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "59b149feeab690ac8ac4ccdbe384ed2afacb416b",
+          "title": "Pandex——基于MCP的欧洲人工智能代理官方法律",
+          "url": "https://www.pandex.io",
+          "source": "www.pandex.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T11:41:51.743000Z"
+        },
+        {
+          "id": "909d7442088e87203136232133bfd76c1ddde102",
+          "title": "Pandex——基于MCP的欧洲人工智能代理官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+          "url": "https://www.pandex.io",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T20:47:41Z"
+        },
+        {
+          "id": "368ac638dc0ce02c1d0bde0fa3e0a39bfd660edd",
+          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+          "url": "https://news.ycombinator.com/item?id=50593481",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-21T20:47:41Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.pandex.io"
+      ],
+      "items": [
+        {
+          "id": "59b149feeab690ac8ac4ccdbe384ed2afacb416b",
+          "title": "Pandex——基于MCP的欧洲人工智能代理官方法律",
+          "url": "https://www.pandex.io",
+          "source": "www.pandex.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T11:41:51.743000Z"
+        },
+        {
+          "id": "909d7442088e87203136232133bfd76c1ddde102",
+          "title": "Pandex——基于MCP的欧洲人工智能代理官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+          "url": "https://www.pandex.io",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T20:47:41Z"
+        },
+        {
+          "id": "368ac638dc0ce02c1d0bde0fa3e0a39bfd660edd",
+          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+          "url": "https://news.ycombinator.com/item?id=50593481",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-21T20:47:41Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5191,
+      "importance": 0.5191,
+      "importance_score": 0.5191,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7306,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T20:47:41Z",
+      "latest_at": "2026-11-22T11:41:51.743000Z",
+      "primary_item": {
+        "id": "59b149feeab690ac8ac4ccdbe384ed2afacb416b",
+        "title": "Pandex——基于MCP的欧洲人工智能代理官方法律",
+        "url": "https://www.pandex.io",
+        "source": "www.pandex.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_67786b63779f",
+      "title": "“有意识的人工智能”的神话",
+      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
+      "primary_url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
+      "source": "www.noemamag.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4f159ebdf780dd282f59f9b8edf905d9ee7dcd90",
+          "title": "“有意识的人工智能”的神话",
+          "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
+          "source": "www.noemamag.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T14:37:43.104000Z"
+        },
+        {
+          "id": "546e45e4a6486469baf26202c7d82191cb577e84",
+          "title": "“有意识的人工智能”的神话 / The Mythology of Conscious AI",
+          "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T02:10:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.noemamag.com"
+      ],
+      "items": [
+        {
+          "id": "4f159ebdf780dd282f59f9b8edf905d9ee7dcd90",
+          "title": "“有意识的人工智能”的神话",
+          "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
+          "source": "www.noemamag.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T14:37:43.104000Z"
+        },
+        {
+          "id": "546e45e4a6486469baf26202c7d82191cb577e84",
+          "title": "“有意识的人工智能”的神话 / The Mythology of Conscious AI",
+          "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T02:10:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5186,
+      "importance": 0.5186,
+      "importance_score": 0.5186,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8528,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T02:10:02Z",
+      "latest_at": "2026-11-22T14:37:43.104000Z",
+      "primary_item": {
+        "id": "4f159ebdf780dd282f59f9b8edf905d9ee7dcd90",
+        "title": "“有意识的人工智能”的神话",
+        "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
+        "source": "www.noemamag.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_38c61351fe0d",
+      "title": "到2028年，Anthropic的电力将有87%来自天然气，11%来自煤炭",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power",
+      "primary_url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power",
+      "source": "betterdatacenterproject.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "eba4176cfa9532ef11beaae68938aad4a33f2ab4",
+          "title": "到2028年，Anthropic的电力将有87%来自天然气，11%来自煤炭",
+          "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power",
+          "source": "betterdatacenterproject.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T10:53:50.621000Z"
+        },
+        {
+          "id": "d4d0833c8d03246ce99691f22e92ef702b83b90b",
+          "title": "到2028年，Anthropic的电力将有87%来自天然气，11%来自煤炭 / 87% of the Anthropic power will come from gas and 11% from coal in 2028",
+          "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T08:57:34Z"
+        },
+        {
+          "id": "ae69c0fc1cb23a12c95f6da4aed8f7f318070814",
+          "title": "2028 年，87% 的人类电力将来自天然气，11% 来自煤炭 / 87% of the Anthropic power will come from gas and 11% from coal in 2028",
+          "url": "https://news.ycombinator.com/item?id=50597612",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T08:57:34Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "betterdatacenterproject.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "eba4176cfa9532ef11beaae68938aad4a33f2ab4",
+          "title": "到2028年，Anthropic的电力将有87%来自天然气，11%来自煤炭",
+          "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power",
+          "source": "betterdatacenterproject.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T10:53:50.621000Z"
+        },
+        {
+          "id": "d4d0833c8d03246ce99691f22e92ef702b83b90b",
+          "title": "到2028年，Anthropic的电力将有87%来自天然气，11%来自煤炭 / 87% of the Anthropic power will come from gas and 11% from coal in 2028",
+          "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T08:57:34Z"
+        },
+        {
+          "id": "ae69c0fc1cb23a12c95f6da4aed8f7f318070814",
+          "title": "2028 年，87% 的人类电力将来自天然气，11% 来自煤炭 / 87% of the Anthropic power will come from gas and 11% from coal in 2028",
+          "url": "https://news.ycombinator.com/item?id=50597612",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T08:57:34Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5125,
+      "importance": 0.5125,
+      "importance_score": 0.5125,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6973,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T08:57:34Z",
+      "latest_at": "2026-11-22T10:53:50.621000Z",
+      "primary_item": {
+        "id": "eba4176cfa9532ef11beaae68938aad4a33f2ab4",
+        "title": "到2028年，Anthropic的电力将有87%来自天然气，11%来自煤炭",
+        "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power",
+        "source": "betterdatacenterproject.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -135,14 +678,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5473,
-      "importance": 0.5473,
-      "importance_score": 0.5473,
+      "score": 0.4839,
+      "importance": 0.4839,
+      "importance_score": 0.4839,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8715,
+        "recency": 0.5544,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -160,30 +703,30 @@
       }
     },
     {
-      "story_id": "story_38c61351fe0d",
-      "title": "2028 年，87% 的人类电力将来自天然气，11% 来自煤炭 / 87% of the Anthropic power will come from gas and 11% from coal in 2028",
-      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power",
-      "primary_url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power",
+      "story_id": "story_21bd1d482ae2",
+      "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+      "url": "https://simonwillison.net/2026/Nov/21/muru",
+      "primary_url": "https://simonwillison.net/2026/Nov/21/muru",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "d4d0833c8d03246ce99691f22e92ef702b83b90b",
-          "title": "2028 年，87% 的人类电力将来自天然气，11% 来自煤炭 / 87% of the Anthropic power will come from gas and 11% from coal in 2028",
-          "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power",
+          "id": "404e91cd39915f51d0fc1c6987f819e1c9b490ca",
+          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "url": "https://simonwillison.net/2026/Nov/21/muru",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-22T08:57:34Z"
+          "published_at": "2026-11-22T09:57:01Z"
         },
         {
-          "id": "ae69c0fc1cb23a12c95f6da4aed8f7f318070814",
-          "title": "2028 年，87% 的人类电力将来自天然气，11% 来自煤炭 / 87% of the Anthropic power will come from gas and 11% from coal in 2028",
-          "url": "https://news.ycombinator.com/item?id=50597612",
+          "id": "a03bf09fdead4f6ee6535e29895af01eced67dff",
+          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "url": "https://news.ycombinator.com/item?id=50597959",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-22T08:57:34Z"
+          "published_at": "2026-11-22T09:57:01Z"
         }
       ],
       "source_count": 2,
@@ -193,46 +736,46 @@
       ],
       "items": [
         {
-          "id": "d4d0833c8d03246ce99691f22e92ef702b83b90b",
-          "title": "2028 年，87% 的人类电力将来自天然气，11% 来自煤炭 / 87% of the Anthropic power will come from gas and 11% from coal in 2028",
-          "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power",
+          "id": "404e91cd39915f51d0fc1c6987f819e1c9b490ca",
+          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "url": "https://simonwillison.net/2026/Nov/21/muru",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-22T08:57:34Z"
+          "published_at": "2026-11-22T09:57:01Z"
         },
         {
-          "id": "ae69c0fc1cb23a12c95f6da4aed8f7f318070814",
-          "title": "2028 年，87% 的人类电力将来自天然气，11% 来自煤炭 / 87% of the Anthropic power will come from gas and 11% from coal in 2028",
-          "url": "https://news.ycombinator.com/item?id=50597612",
+          "id": "a03bf09fdead4f6ee6535e29895af01eced67dff",
+          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "url": "https://news.ycombinator.com/item?id=50597959",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-22T08:57:34Z"
+          "published_at": "2026-11-22T09:57:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
+      "score": 0.4796,
+      "importance": 0.4796,
+      "importance_score": 0.4796,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9336,
+        "recency": 0.6578,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-22T08:57:34Z",
-      "latest_at": "2026-11-22T08:57:34Z",
+      "earliest_at": "2026-11-22T09:57:01Z",
+      "latest_at": "2026-11-22T09:57:01Z",
       "primary_item": {
-        "id": "d4d0833c8d03246ce99691f22e92ef702b83b90b",
-        "title": "2028 年，87% 的人类电力将来自天然气，11% 来自煤炭 / 87% of the Anthropic power will come from gas and 11% from coal in 2028",
-        "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power",
+        "id": "404e91cd39915f51d0fc1c6987f819e1c9b490ca",
+        "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+        "url": "https://simonwillison.net/2026/Nov/21/muru",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
@@ -291,14 +834,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4781,
-      "importance": 0.4781,
-      "importance_score": 0.4781,
+      "score": 0.4147,
+      "importance": 0.4147,
+      "importance_score": 0.4147,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6504,
+        "recency": 0.3333,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -313,84 +856,6 @@
         "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
         "source": "arstechnica.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5cc0b3bf0f56",
-      "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀” / AI Supply Chain Security: What Canary Tokens Found",
-      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-      "primary_url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "dcea4c807595531e0c5bdfa875f1dcefb87ecde8",
-          "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀” / AI Supply Chain Security: What Canary Tokens Found",
-          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-22T05:11:43Z"
-        },
-        {
-          "id": "48501ff3ac61877d2f5bcd3032a7b107008fc56b",
-          "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀”",
-          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-          "source": "www.dragos.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T16:03:55.721000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.dragos.com"
-      ],
-      "items": [
-        {
-          "id": "dcea4c807595531e0c5bdfa875f1dcefb87ecde8",
-          "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀” / AI Supply Chain Security: What Canary Tokens Found",
-          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-22T05:11:43Z"
-        },
-        {
-          "id": "48501ff3ac61877d2f5bcd3032a7b107008fc56b",
-          "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀”",
-          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-          "source": "www.dragos.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T16:03:55.721000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5034,
-      "importance": 0.5034,
-      "importance_score": 0.5034,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7768,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-21T16:03:55.721000Z",
-      "latest_at": "2026-11-22T05:11:43Z",
-      "primary_item": {
-        "id": "dcea4c807595531e0c5bdfa875f1dcefb87ecde8",
-        "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀” / AI Supply Chain Security: What Canary Tokens Found",
-        "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -447,14 +912,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4694,
-      "importance": 0.4694,
-      "importance_score": 0.4694,
+      "score": 0.4059,
+      "importance": 0.4059,
+      "importance_score": 0.4059,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6068,
+        "recency": 0.2897,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -525,14 +990,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4649,
-      "importance": 0.4649,
-      "importance_score": 0.4649,
+      "score": 0.4015,
+      "importance": 0.4015,
+      "importance_score": 0.4015,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5845,
+        "recency": 0.2674,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -603,14 +1068,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4487,
-      "importance": 0.4487,
-      "importance_score": 0.4487,
+      "score": 0.3853,
+      "importance": 0.3853,
+      "importance_score": 0.3853,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5034,
+        "recency": 0.1863,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -625,550 +1090,6 @@
         "url": "https://www.techradar.com/pro/nearly-all-software-teams-admit-to-shipping-ai-generated-code-as-study-finds-verification-has-not-kept-pace-with-that-shift",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_cfea722a5658",
-      "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-      "url": "https://www.pandex.io",
-      "primary_url": "https://www.pandex.io",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "909d7442088e87203136232133bfd76c1ddde102",
-          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-          "url": "https://www.pandex.io",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-21T20:47:41Z"
-        },
-        {
-          "id": "368ac638dc0ce02c1d0bde0fa3e0a39bfd660edd",
-          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-          "url": "https://news.ycombinator.com/item?id=50593481",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-21T20:47:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "909d7442088e87203136232133bfd76c1ddde102",
-          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-          "url": "https://www.pandex.io",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-21T20:47:41Z"
-        },
-        {
-          "id": "368ac638dc0ce02c1d0bde0fa3e0a39bfd660edd",
-          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-          "url": "https://news.ycombinator.com/item?id=50593481",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-21T20:47:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4334,
-      "importance": 0.4334,
-      "importance_score": 0.4334,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4268,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-21T20:47:41Z",
-      "latest_at": "2026-11-21T20:47:41Z",
-      "primary_item": {
-        "id": "909d7442088e87203136232133bfd76c1ddde102",
-        "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-        "url": "https://www.pandex.io",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-      "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-      "primary_url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
-          "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-22T03:06:35Z"
-        },
-        {
-          "id": "bc1cee2e291ec5c9d16351a097d86ae4e4289328",
-          "title": "Show HN: 人工智能能否用90%的Rust语言重写OpenCode？",
-          "url": "https://www.youtube.com/watch?v=SwX4OoxMaKM",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T22:26:53.368000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.youtube.com"
-      ],
-      "items": [
-        {
-          "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
-          "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-22T03:06:35Z"
-        },
-        {
-          "id": "bc1cee2e291ec5c9d16351a097d86ae4e4289328",
-          "title": "Show HN: 人工智能能否用90%的Rust语言重写OpenCode？",
-          "url": "https://www.youtube.com/watch?v=SwX4OoxMaKM",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T22:26:53.368000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.486,
-      "importance": 0.486,
-      "importance_score": 0.486,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6899,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-21T22:26:53.368000Z",
-      "latest_at": "2026-11-22T03:06:35Z",
-      "primary_item": {
-        "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
-        "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-        "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_4e6153d6e334",
-      "title": "[Apple] 体验多天，发现国行苹果 ai 一点都不好用！",
-      "url": "https://www.v2ex.com/t/1258824",
-      "primary_url": "https://www.v2ex.com/t/1258824",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "25cd4b98bc945869dc775656ef3e63e5f05d6ee5",
-          "title": "[Apple] 体验多天，发现国行苹果 ai 一点都不好用！",
-          "url": "https://www.v2ex.com/t/1258824",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-21T16:00:44Z"
-        },
-        {
-          "id": "72ef525dc5e6c3b80940b191ca4611c15e8ffab6",
-          "title": "[分享发现] 体验多天，发现国行苹果 ai 一点都不好用！",
-          "url": "https://www.v2ex.com/t/1258824",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-21T16:00:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "25cd4b98bc945869dc775656ef3e63e5f05d6ee5",
-          "title": "[Apple] 体验多天，发现国行苹果 ai 一点都不好用！",
-          "url": "https://www.v2ex.com/t/1258824",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-21T16:00:44Z"
-        },
-        {
-          "id": "72ef525dc5e6c3b80940b191ca4611c15e8ffab6",
-          "title": "[分享发现] 体验多天，发现国行苹果 ai 一点都不好用！",
-          "url": "https://www.v2ex.com/t/1258824",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-21T16:00:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3935,
-      "importance": 0.3935,
-      "importance_score": 0.3935,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2275,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-21T16:00:44Z",
-      "latest_at": "2026-11-21T16:00:44Z",
-      "primary_item": {
-        "id": "25cd4b98bc945869dc775656ef3e63e5f05d6ee5",
-        "title": "[Apple] 体验多天，发现国行苹果 ai 一点都不好用！",
-        "url": "https://www.v2ex.com/t/1258824",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_cccd77559de7",
-      "title": "OpenAI 声称人工智能代理现在可以独立完成近一半的两到四个小时的研究任务，但表示人类仍然是人工智能开发的核心 / OpenAI claims AI agents now complete nearly half of two-to-four-hour research tasks on their own — but says humans are still central to AI development",
-      "url": "https://www.techradar.com/pro/openai-claims-ai-agents-now-complete-nearly-half-of-two-to-four-hour-research-tasks-on-their-own-but-says-humans-are-still-central-to-ai-development",
-      "primary_url": "https://www.techradar.com/pro/openai-claims-ai-agents-now-complete-nearly-half-of-two-to-four-hour-research-tasks-on-their-own-but-says-humans-are-still-central-to-ai-development",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "3ccc286627031354e7bba69e1c4ab94df9cd1a10",
-          "title": "OpenAI 声称人工智能代理现在可以独立完成近一半的两到四个小时的研究任务，但表示人类仍然是人工智能开发的核心 / OpenAI claims AI agents now complete nearly half of two-to-four-hour research tasks on their own — but says humans are still central to AI development",
-          "url": "https://www.techradar.com/pro/openai-claims-ai-agents-now-complete-nearly-half-of-two-to-four-hour-research-tasks-on-their-own-but-says-humans-are-still-central-to-ai-development",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "5e3f3e041bb9dd72160dc5a7628cc97875ce5e0d",
-          "title": "OpenAI 声称人工智能代理现在可以独立完成近一半的两到四个小时的研究任务，但表示“人类仍然是人工智能开发的核心” / OpenAI claims AI agents now complete nearly half of two-to-four-hour research tasks on their own — but says 'humans are still central to AI development'",
-          "url": "https://www.techradar.com/pro/openai-claims-ai-agents-now-complete-nearly-half-of-two-to-four-hour-research-tasks-on-their-own-but-says-humans-are-still-central-to-ai-development",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-21T14:15:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "TechRadar"
-      ],
-      "items": [
-        {
-          "id": "3ccc286627031354e7bba69e1c4ab94df9cd1a10",
-          "title": "OpenAI 声称人工智能代理现在可以独立完成近一半的两到四个小时的研究任务，但表示人类仍然是人工智能开发的核心 / OpenAI claims AI agents now complete nearly half of two-to-four-hour research tasks on their own — but says humans are still central to AI development",
-          "url": "https://www.techradar.com/pro/openai-claims-ai-agents-now-complete-nearly-half-of-two-to-four-hour-research-tasks-on-their-own-but-says-humans-are-still-central-to-ai-development",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "5e3f3e041bb9dd72160dc5a7628cc97875ce5e0d",
-          "title": "OpenAI 声称人工智能代理现在可以独立完成近一半的两到四个小时的研究任务，但表示“人类仍然是人工智能开发的核心” / OpenAI claims AI agents now complete nearly half of two-to-four-hour research tasks on their own — but says 'humans are still central to AI development'",
-          "url": "https://www.techradar.com/pro/openai-claims-ai-agents-now-complete-nearly-half-of-two-to-four-hour-research-tasks-on-their-own-but-says-humans-are-still-central-to-ai-development",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-21T14:15:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4087,
-      "importance": 0.4087,
-      "importance_score": 0.4087,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3037,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-21T14:15:00Z",
-      "latest_at": "2026-11-21T17:50:24.524115Z",
-      "primary_item": {
-        "id": "3ccc286627031354e7bba69e1c4ab94df9cd1a10",
-        "title": "OpenAI 声称人工智能代理现在可以独立完成近一半的两到四个小时的研究任务，但表示人类仍然是人工智能开发的核心 / OpenAI claims AI agents now complete nearly half of two-to-four-hour research tasks on their own — but says humans are still central to AI development",
-        "url": "https://www.techradar.com/pro/openai-claims-ai-agents-now-complete-nearly-half-of-two-to-four-hour-research-tasks-on-their-own-but-says-humans-are-still-central-to-ai-development",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_5c37313386c9",
-      "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
-      "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
-      "primary_url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6981da4332466228aed88ed59dbbc1b3f520b525",
-          "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
-          "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T17:07:38.909000Z"
-        },
-        {
-          "id": "60e13d14c3255fef6b716904d927be881f583c07",
-          "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿” / Scale AI cofounder says she passed on an Anthropic investment to support her ex's lifestyle: 'Lost a billion'",
-          "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-21T12:00:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "6981da4332466228aed88ed59dbbc1b3f520b525",
-          "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
-          "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T17:07:38.909000Z"
-        },
-        {
-          "id": "60e13d14c3255fef6b716904d927be881f583c07",
-          "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿” / Scale AI cofounder says she passed on an Anthropic investment to support her ex's lifestyle: 'Lost a billion'",
-          "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-21T12:00:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4028,
-      "importance": 0.4028,
-      "importance_score": 0.4028,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.274,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-21T12:00:02Z",
-      "latest_at": "2026-11-21T17:07:38.909000Z",
-      "primary_item": {
-        "id": "6981da4332466228aed88ed59dbbc1b3f520b525",
-        "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
-        "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4326f3d1f6ec",
-      "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式",
-      "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
-      "primary_url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b1fcefeda1e64b383bca865df36e58c1359d9b48",
-          "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式",
-          "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T14:27:55.376000Z"
-        },
-        {
-          "id": "6585d5a2332b59871b35931ee30c7540b4b21039",
-          "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式 / I'm a real estate developer selling a $30 million mansion, and here’s why I’d accept Anthropic shares instead of cash",
-          "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-21T14:00:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "b1fcefeda1e64b383bca865df36e58c1359d9b48",
-          "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式",
-          "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T14:27:55.376000Z"
-        },
-        {
-          "id": "6585d5a2332b59871b35931ee30c7540b4b21039",
-          "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式 / I'm a real estate developer selling a $30 million mansion, and here’s why I’d accept Anthropic shares instead of cash",
-          "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-21T14:00:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3806,
-      "importance": 0.3806,
-      "importance_score": 0.3806,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1631,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-21T14:00:01Z",
-      "latest_at": "2026-11-21T14:27:55.376000Z",
-      "primary_item": {
-        "id": "b1fcefeda1e64b383bca865df36e58c1359d9b48",
-        "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式",
-        "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_fd986dd95e42",
-      "title": "Show HN: Zero C#，无需垃圾回收（GC）的 C# 强大功能 / Show HN: Zero C# – C# without a runtime or GC",
-      "url": "https://onurgumus.github.io/zero-csharp/index.html",
-      "primary_url": "https://onurgumus.github.io/zero-csharp/index.html",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "2c9b78f58fa09e945423ded8989505207205857d",
-          "title": "Show HN: Zero C#，无需垃圾回收（GC）的 C# 强大功能 / Show HN: Zero C# – C# without a runtime or GC",
-          "url": "https://onurgumus.github.io/zero-csharp/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-21T15:39:09Z"
-        },
-        {
-          "id": "b9f13d2bade101b35a0a5dba97669b24f39f6765",
-          "title": "Show HN: Zero C#，无需垃圾回收（GC）的 C# 强大功能 / Show HN: Zero C#, Power of C# without any GC",
-          "url": "https://onurgumus.github.io/zero-csharp/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-21T15:39:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "2c9b78f58fa09e945423ded8989505207205857d",
-          "title": "Show HN: Zero C#，无需垃圾回收（GC）的 C# 强大功能 / Show HN: Zero C# – C# without a runtime or GC",
-          "url": "https://onurgumus.github.io/zero-csharp/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-21T15:39:09Z"
-        },
-        {
-          "id": "b9f13d2bade101b35a0a5dba97669b24f39f6765",
-          "title": "Show HN: Zero C#，无需垃圾回收（GC）的 C# 强大功能 / Show HN: Zero C#, Power of C# without any GC",
-          "url": "https://onurgumus.github.io/zero-csharp/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-21T15:39:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3905,
-      "importance": 0.3905,
-      "importance_score": 0.3905,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2125,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-21T15:39:09Z",
-      "latest_at": "2026-11-21T15:39:09Z",
-      "primary_item": {
-        "id": "2c9b78f58fa09e945423ded8989505207205857d",
-        "title": "Show HN: Zero C#，无需垃圾回收（GC）的 C# 强大功能 / Show HN: Zero C# – C# without a runtime or GC",
-        "url": "https://onurgumus.github.io/zero-csharp/index.html",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
