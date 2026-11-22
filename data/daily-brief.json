@@ -1,239 +1,257 @@
 {
-  "generated_at": "2026-11-22T18:09:43.651782Z",
+  "generated_at": "2026-11-22T23:42:37.017649Z",
   "window_hours": 24,
   "total_items": 13,
   "items": [
     {
-      "story_id": "story_07283d4899e6",
-      "title": "Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确",
-      "url": "https://aihot.news/items/ikpixx0j7414se1f6lww2csek",
-      "primary_url": "https://aihot.news/items/ikpixx0j7414se1f6lww2csek",
-      "source": "The Decoder：AI News",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ad1d369b277f90b7088b79fd6d80a0266a26658c",
-          "title": "Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确",
-          "url": "https://aihot.news/items/ikpixx0j7414se1f6lww2csek",
-          "source": "The Decoder：AI News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-22T11:08:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News"
-      ],
-      "items": [
-        {
-          "id": "ad1d369b277f90b7088b79fd6d80a0266a26658c",
-          "title": "Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确",
-          "url": "https://aihot.news/items/ikpixx0j7414se1f6lww2csek",
-          "source": "The Decoder：AI News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-22T11:08:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7075,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-22T11:08:31Z",
-      "latest_at": "2026-11-22T11:08:31Z",
-      "primary_item": {
-        "id": "ad1d369b277f90b7088b79fd6d80a0266a26658c",
-        "title": "Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确",
-        "url": "https://aihot.news/items/ikpixx0j7414se1f6lww2csek",
-        "source": "The Decoder：AI News",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a86e4a65ff64",
-      "title": "菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可",
-      "url": "https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt",
-      "primary_url": "https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d4513dbf4313fa7f1d3230bd50015c902ef66097",
-          "title": "菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可",
-          "url": "https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-22T09:35:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家·人工智能"
-      ],
-      "items": [
-        {
-          "id": "d4513dbf4313fa7f1d3230bd50015c902ef66097",
-          "title": "菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可",
-          "url": "https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-22T09:35:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7406,
-      "importance": 0.7406,
-      "importance_score": 0.7406,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6432,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-22T09:35:58Z",
-      "latest_at": "2026-11-22T09:35:58Z",
-      "primary_item": {
-        "id": "d4513dbf4313fa7f1d3230bd50015c902ef66097",
-        "title": "菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可",
-        "url": "https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt",
-        "source": "IT之家·人工智能",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒）",
-      "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-      "primary_url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-      "source": "www.youtube.com",
+      "story_id": "story_4f0ed76760ef",
+      "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "primary_url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "source": "www.gpupartner.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "2066052d1d469948e676457e24fd3f814149a22e",
-          "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒）",
-          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-          "source": "www.youtube.com",
+          "id": "fa621fcc18a3efeb20d42fb6c68e68aed3083f68",
+          "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "source": "www.gpupartner.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-22T16:44:44.430000Z"
+          "published_at": "2026-11-22T23:23:39.823000Z"
         },
         {
-          "id": "732b2bf8d151051cc25ada064b114bebab0b6fb1",
-          "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒） / We asked [mathematicans about an incomprehensible AI proof of GRH] before it happened (13min38s)",
-          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T16:37:37Z"
-        },
-        {
-          "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
-          "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒） / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+          "id": "d522d53677a5e15bc5c9810a46ae118daa7aaa11",
+          "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-22T03:06:35Z"
+          "published_at": "2026-11-22T21:01:16Z"
         },
         {
-          "id": "bc1cee2e291ec5c9d16351a097d86ae4e4289328",
-          "title": "Show HN: 人工智能能否用90%的Rust语言重写OpenCode？",
-          "url": "https://www.youtube.com/watch?v=SwX4OoxMaKM",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T22:26:53.368000Z"
+          "id": "470658f75013398f7988c00dd38a56b32a2a48a3",
+          "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "url": "https://news.ycombinator.com/item?id=50603845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T21:01:16Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
         "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "www.youtube.com"
+        "hackernews",
+        "www.gpupartner.com"
       ],
       "items": [
         {
-          "id": "2066052d1d469948e676457e24fd3f814149a22e",
-          "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒）",
-          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-          "source": "www.youtube.com",
+          "id": "fa621fcc18a3efeb20d42fb6c68e68aed3083f68",
+          "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "source": "www.gpupartner.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-22T16:44:44.430000Z"
+          "published_at": "2026-11-22T23:23:39.823000Z"
         },
         {
-          "id": "732b2bf8d151051cc25ada064b114bebab0b6fb1",
-          "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒） / We asked [mathematicans about an incomprehensible AI proof of GRH] before it happened (13min38s)",
-          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T16:37:37Z"
-        },
-        {
-          "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
-          "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒） / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+          "id": "d522d53677a5e15bc5c9810a46ae118daa7aaa11",
+          "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-22T03:06:35Z"
+          "published_at": "2026-11-22T21:01:16Z"
         },
         {
-          "id": "bc1cee2e291ec5c9d16351a097d86ae4e4289328",
-          "title": "Show HN: 人工智能能否用90%的Rust语言重写OpenCode？",
-          "url": "https://www.youtube.com/watch?v=SwX4OoxMaKM",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T22:26:53.368000Z"
+          "id": "470658f75013398f7988c00dd38a56b32a2a48a3",
+          "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "url": "https://news.ycombinator.com/item?id=50603845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T21:01:16Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5862,
-      "importance": 0.5862,
-      "importance_score": 0.5862,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5704,
+      "importance": 0.5704,
+      "importance_score": 0.5704,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.941,
-        "story_heat": 0.75
+        "recency": 0.9868,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-21T22:26:53.368000Z",
-      "latest_at": "2026-11-22T16:44:44.430000Z",
+      "earliest_at": "2026-11-22T21:01:16Z",
+      "latest_at": "2026-11-22T23:23:39.823000Z",
       "primary_item": {
-        "id": "2066052d1d469948e676457e24fd3f814149a22e",
-        "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒）",
-        "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-        "source": "www.youtube.com",
+        "id": "fa621fcc18a3efeb20d42fb6c68e68aed3083f68",
+        "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+        "source": "www.gpupartner.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_de5cd1a6d51d",
+      "title": "困惑与智慧 / Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "primary_url": "https://openai.com/index/perplexity-and-intelligence",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "2bb57385d8ab1d6984ff059cfcca3d5a048622ee",
+          "title": "困惑与智慧 / Perplexity and Intelligence",
+          "url": "https://openai.com/index/perplexity-and-intelligence",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "046ffa6d7042c1b304663f7bc261065e2c31ac6c",
+          "title": "困惑与智慧",
+          "url": "https://openai.com/index/perplexity-and-intelligence",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T18:20:52.884000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "2bb57385d8ab1d6984ff059cfcca3d5a048622ee",
+          "title": "困惑与智慧 / Perplexity and Intelligence",
+          "url": "https://openai.com/index/perplexity-and-intelligence",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "046ffa6d7042c1b304663f7bc261065e2c31ac6c",
+          "title": "困惑与智慧",
+          "url": "https://openai.com/index/perplexity-and-intelligence",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T18:20:52.884000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T18:20:52.884000Z",
+      "latest_at": "2026-11-22T23:42:37.017649Z",
+      "primary_item": {
+        "id": "2bb57385d8ab1d6984ff059cfcca3d5a048622ee",
+        "title": "困惑与智慧 / Perplexity and Intelligence",
+        "url": "https://openai.com/index/perplexity-and-intelligence",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_bdb0e6adc141",
+      "title": "埃隆·马斯克旗下的SpaceX公司正向人工智能数据中心投入740亿美元。得克萨斯州和亚利桑那州则想知道电费由谁来承担。 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM05QOFZiN25OdG11Vm5IQXJzRjlfbWMtQ214bmlYdzVlblh2eE5uSllzcUp6XzdjVXg5ZncxMS0yN1RVODZFQ2FuSnZmZkRheWFWMFFHX0F6SjdRV3I0TGdoMWdwSmRrSDAtYWE4OC01NEs0N3hsRk05bGpTcFlLTmEtaFNaWUFyZjcyaGptWkpBY0dvV2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM05QOFZiN25OdG11Vm5IQXJzRjlfbWMtQ214bmlYdzVlblh2eE5uSllzcUp6XzdjVXg5ZncxMS0yN1RVODZFQ2FuSnZmZkRheWFWMFFHX0F6SjdRV3I0TGdoMWdwSmRrSDAtYWE4OC01NEs0N3hsRk05bGpTcFlLTmEtaFNaWUFyZjcyaGptWkpBY0dvV2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "206e1928c8f1cd9e09bf50306b4a01f0981ec02c",
+          "title": "埃隆·马斯克旗下的SpaceX公司正向人工智能数据中心投入740亿美元。得克萨斯州和亚利桑那州则想知道电费由谁来承担。 - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM05QOFZiN25OdG11Vm5IQXJzRjlfbWMtQ214bmlYdzVlblh2eE5uSllzcUp6XzdjVXg5ZncxMS0yN1RVODZFQ2FuSnZmZkRheWFWMFFHX0F6SjdRV3I0TGdoMWdwSmRrSDAtYWE4OC01NEs0N3hsRk05bGpTcFlLTmEtaFNaWUFyZjcyaGptWkpBY0dvV2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T21:32:52.969000Z"
+        },
+        {
+          "id": "3247426c44586eb94c0a45fdc3bd23106befbdf3",
+          "title": "埃隆·马斯克旗下的SpaceX公司正向人工智能数据中心投入740亿美元。得克萨斯州和亚利桑那州则想知道，电费该由谁来承担。 - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdloySTJONWxBb2FZbXlwLVJaLU1ocUV6dzZjWU1pV2NUZEFaOEJBVFB6cjhxZWhvbE9jUi1XMWRNYXd2T0MwLTJMam1zUlJTZjZ6aU01bGpfVG9lZVlHRE1mNlNfWmdweHZMb2FyVUt5OERDd2xweW5kWkRUUWt1dzI5bnZ6VHVkTGx0d0ZlVlFQUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T16:12:47.831000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "206e1928c8f1cd9e09bf50306b4a01f0981ec02c",
+          "title": "埃隆·马斯克旗下的SpaceX公司正向人工智能数据中心投入740亿美元。得克萨斯州和亚利桑那州则想知道电费由谁来承担。 - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM05QOFZiN25OdG11Vm5IQXJzRjlfbWMtQ214bmlYdzVlblh2eE5uSllzcUp6XzdjVXg5ZncxMS0yN1RVODZFQ2FuSnZmZkRheWFWMFFHX0F6SjdRV3I0TGdoMWdwSmRrSDAtYWE4OC01NEs0N3hsRk05bGpTcFlLTmEtaFNaWUFyZjcyaGptWkpBY0dvV2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T21:32:52.969000Z"
+        },
+        {
+          "id": "3247426c44586eb94c0a45fdc3bd23106befbdf3",
+          "title": "埃隆·马斯克旗下的SpaceX公司正向人工智能数据中心投入740亿美元。得克萨斯州和亚利桑那州则想知道，电费该由谁来承担。 - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdloySTJONWxBb2FZbXlwLVJaLU1ocUV6dzZjWU1pV2NUZEFaOEJBVFB6cjhxZWhvbE9jUi1XMWRNYXd2T0MwLTJMam1zUlJTZjZ6aU01bGpfVG9lZVlHRE1mNlNfWmdweHZMb2FyVUt5OERDd2xweW5kWkRUUWt1dzI5bnZ6VHVkTGx0d0ZlVlFQUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T16:12:47.831000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.53,
+      "importance": 0.53,
+      "importance_score": 0.53,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9099,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T16:12:47.831000Z",
+      "latest_at": "2026-11-22T21:32:52.969000Z",
+      "primary_item": {
+        "id": "206e1928c8f1cd9e09bf50306b4a01f0981ec02c",
+        "title": "埃隆·马斯克旗下的SpaceX公司正向人工智能数据中心投入740亿美元。得克萨斯州和亚利桑那州则想知道电费由谁来承担。 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM05QOFZiN25OdG11Vm5IQXJzRjlfbWMtQ214bmlYdzVlblh2eE5uSllzcUp6XzdjVXg5ZncxMS0yN1RVODZFQ2FuSnZmZkRheWFWMFFHX0F6SjdRV3I0TGdoMWdwSmRrSDAtYWE4OC01NEs0N3hsRk05bGpTcFlLTmEtaFNaWUFyZjcyaGptWkpBY0dvV2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
         "source_name": "Buzzing"
       }
     },
@@ -310,14 +328,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5612,
-      "importance": 0.5612,
-      "importance_score": 0.5612,
+      "score": 0.515,
+      "importance": 0.515,
+      "importance_score": 0.515,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.941,
+        "recency": 0.7098,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -335,100 +353,256 @@
       }
     },
     {
-      "story_id": "story_cfea722a5658",
-      "title": "Pandex——基于MCP的欧洲人工智能代理官方法律",
-      "url": "https://www.pandex.io",
-      "primary_url": "https://www.pandex.io",
-      "source": "www.pandex.io",
+      "story_id": "story_774f7412d1a3",
+      "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒）",
+      "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+      "primary_url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+      "source": "www.youtube.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "59b149feeab690ac8ac4ccdbe384ed2afacb416b",
-          "title": "Pandex——基于MCP的欧洲人工智能代理官方法律",
-          "url": "https://www.pandex.io",
-          "source": "www.pandex.io",
+          "id": "2066052d1d469948e676457e24fd3f814149a22e",
+          "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒）",
+          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+          "source": "www.youtube.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-22T11:41:51.743000Z"
+          "published_at": "2026-11-22T16:44:44.430000Z"
         },
         {
-          "id": "909d7442088e87203136232133bfd76c1ddde102",
-          "title": "Pandex——基于MCP的欧洲人工智能代理官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-          "url": "https://www.pandex.io",
-          "source": "Hacker News (黑客新闻)",
+          "id": "732b2bf8d151051cc25ada064b114bebab0b6fb1",
+          "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒） / We asked [mathematicans about an incomprehensible AI proof of GRH] before it happened (13min38s)",
+          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+          "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-21T20:47:41Z"
+          "published_at": "2026-11-22T16:37:37Z"
         },
         {
-          "id": "368ac638dc0ce02c1d0bde0fa3e0a39bfd660edd",
-          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-          "url": "https://news.ycombinator.com/item?id=50593481",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-21T20:47:41Z"
+          "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
+          "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒） / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T03:06:35Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.pandex.io"
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)",
+        "www.youtube.com"
       ],
       "items": [
         {
-          "id": "59b149feeab690ac8ac4ccdbe384ed2afacb416b",
-          "title": "Pandex——基于MCP的欧洲人工智能代理官方法律",
-          "url": "https://www.pandex.io",
-          "source": "www.pandex.io",
+          "id": "2066052d1d469948e676457e24fd3f814149a22e",
+          "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒）",
+          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+          "source": "www.youtube.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-22T11:41:51.743000Z"
+          "published_at": "2026-11-22T16:44:44.430000Z"
         },
         {
-          "id": "909d7442088e87203136232133bfd76c1ddde102",
-          "title": "Pandex——基于MCP的欧洲人工智能代理官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-          "url": "https://www.pandex.io",
-          "source": "Hacker News (黑客新闻)",
+          "id": "732b2bf8d151051cc25ada064b114bebab0b6fb1",
+          "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒） / We asked [mathematicans about an incomprehensible AI proof of GRH] before it happened (13min38s)",
+          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+          "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-21T20:47:41Z"
+          "published_at": "2026-11-22T16:37:37Z"
         },
         {
-          "id": "368ac638dc0ce02c1d0bde0fa3e0a39bfd660edd",
-          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-          "url": "https://news.ycombinator.com/item?id=50593481",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-21T20:47:41Z"
+          "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
+          "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒） / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T03:06:35Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5191,
-      "importance": 0.5191,
-      "importance_score": 0.5191,
+      "score": 0.515,
+      "importance": 0.515,
+      "importance_score": 0.515,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7306,
+        "recency": 0.7098,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-21T20:47:41Z",
-      "latest_at": "2026-11-22T11:41:51.743000Z",
+      "earliest_at": "2026-11-22T03:06:35Z",
+      "latest_at": "2026-11-22T16:44:44.430000Z",
       "primary_item": {
-        "id": "59b149feeab690ac8ac4ccdbe384ed2afacb416b",
-        "title": "Pandex——基于MCP的欧洲人工智能代理官方法律",
-        "url": "https://www.pandex.io",
-        "source": "www.pandex.io",
+        "id": "2066052d1d469948e676457e24fd3f814149a22e",
+        "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒）",
+        "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+        "source": "www.youtube.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d7b30de1ebec",
+      "title": "埃隆·马斯克警告称，数据中心建设延误可能导致人工智能公司资金短缺：“情况会变得一团糟”",
+      "url": "https://www.businessinsider.com/elon-musk-warning-ai-compute-data-centers-cash-spacex-tesla-2026-11",
+      "primary_url": "https://www.businessinsider.com/elon-musk-warning-ai-compute-data-centers-cash-spacex-tesla-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f3fe456f317e6440f8a20f679844a4b86eb8d407",
+          "title": "埃隆·马斯克警告称，数据中心建设延误可能导致人工智能公司资金短缺：“情况会变得一团糟”",
+          "url": "https://www.businessinsider.com/elon-musk-warning-ai-compute-data-centers-cash-spacex-tesla-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T18:04:46.664000Z"
+        },
+        {
+          "id": "4c3731f27c73ea659267db2621d12586cf519a58",
+          "title": "埃隆·马斯克警告称，数据中心建设延误可能导致人工智能公司资金短缺：“情况会变得一团糟” / Elon Musk warns data center delays could leave AI companies short on cash: 'Going to be nuts'",
+          "url": "https://www.businessinsider.com/elon-musk-warning-ai-compute-data-centers-cash-spacex-tesla-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-22T17:49:56Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "f3fe456f317e6440f8a20f679844a4b86eb8d407",
+          "title": "埃隆·马斯克警告称，数据中心建设延误可能导致人工智能公司资金短缺：“情况会变得一团糟”",
+          "url": "https://www.businessinsider.com/elon-musk-warning-ai-compute-data-centers-cash-spacex-tesla-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T18:04:46.664000Z"
+        },
+        {
+          "id": "4c3731f27c73ea659267db2621d12586cf519a58",
+          "title": "埃隆·马斯克警告称，数据中心建设延误可能导致人工智能公司资金短缺：“情况会变得一团糟” / Elon Musk warns data center delays could leave AI companies short on cash: 'Going to be nuts'",
+          "url": "https://www.businessinsider.com/elon-musk-warning-ai-compute-data-centers-cash-spacex-tesla-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-22T17:49:56Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5011,
+      "importance": 0.5011,
+      "importance_score": 0.5011,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7654,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T17:49:56Z",
+      "latest_at": "2026-11-22T18:04:46.664000Z",
+      "primary_item": {
+        "id": "f3fe456f317e6440f8a20f679844a4b86eb8d407",
+        "title": "埃隆·马斯克警告称，数据中心建设延误可能导致人工智能公司资金短缺：“情况会变得一团糟”",
+        "url": "https://www.businessinsider.com/elon-musk-warning-ai-compute-data-centers-cash-spacex-tesla-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_770a34dc0c64",
+      "title": "哈佛 CS 2881R 人工智能安全 / Harvard CS 2881R AI Safety",
+      "url": "https://boazbk.github.io/mltheoryseminar",
+      "primary_url": "https://boazbk.github.io/mltheoryseminar",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "6302d22be93375696cac8f7c7b4a874864703d1c",
+          "title": "哈佛 CS 2881R 人工智能安全 / Harvard CS 2881R AI Safety",
+          "url": "https://boazbk.github.io/mltheoryseminar",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T18:01:54Z"
+        },
+        {
+          "id": "3c11102991823caa91a2d5be985a51c471f19b5a",
+          "title": "哈佛 CS 2881R 人工智能安全 / Harvard CS 2881R AI Safety",
+          "url": "https://news.ycombinator.com/item?id=50602153",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T18:01:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6302d22be93375696cac8f7c7b4a874864703d1c",
+          "title": "哈佛 CS 2881R 人工智能安全 / Harvard CS 2881R AI Safety",
+          "url": "https://boazbk.github.io/mltheoryseminar",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T18:01:54Z"
+        },
+        {
+          "id": "3c11102991823caa91a2d5be985a51c471f19b5a",
+          "title": "哈佛 CS 2881R 人工智能安全 / Harvard CS 2881R AI Safety",
+          "url": "https://news.ycombinator.com/item?id=50602153",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T18:01:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5007,
+      "importance": 0.5007,
+      "importance_score": 0.5007,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7634,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T18:01:54Z",
+      "latest_at": "2026-11-22T18:01:54Z",
+      "primary_item": {
+        "id": "6302d22be93375696cac8f7c7b4a874864703d1c",
+        "title": "哈佛 CS 2881R 人工智能安全 / Harvard CS 2881R AI Safety",
+        "url": "https://boazbk.github.io/mltheoryseminar",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -485,14 +659,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5186,
-      "importance": 0.5186,
-      "importance_score": 0.5186,
+      "score": 0.4723,
+      "importance": 0.4723,
+      "importance_score": 0.4723,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8528,
+        "recency": 0.6216,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -582,14 +756,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5125,
-      "importance": 0.5125,
-      "importance_score": 0.5125,
+      "score": 0.4662,
+      "importance": 0.4662,
+      "importance_score": 0.4662,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6973,
+        "recency": 0.4661,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -678,14 +852,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4839,
-      "importance": 0.4839,
-      "importance_score": 0.4839,
+      "score": 0.4376,
+      "importance": 0.4376,
+      "importance_score": 0.4376,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5544,
+        "recency": 0.3232,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -756,14 +930,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4796,
-      "importance": 0.4796,
-      "importance_score": 0.4796,
+      "score": 0.4333,
+      "importance": 0.4333,
+      "importance_score": 0.4333,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6578,
+        "recency": 0.4267,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -834,14 +1008,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4147,
-      "importance": 0.4147,
-      "importance_score": 0.4147,
+      "score": 0.3684,
+      "importance": 0.3684,
+      "importance_score": 0.3684,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3333,
+        "recency": 0.1022,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -912,14 +1086,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4059,
-      "importance": 0.4059,
-      "importance_score": 0.4059,
+      "score": 0.3597,
+      "importance": 0.3597,
+      "importance_score": 0.3597,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2897,
+        "recency": 0.0585,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -934,162 +1108,6 @@
         "url": "https://pwn.ai/upload2shell/research.html",
         "source": "pwn.ai",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_9f7e68615129",
-      "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场",
-      "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
-      "primary_url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e4601128db993e279115809c55cca0773d118007",
-          "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场",
-          "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T00:34:50.197000Z"
-        },
-        {
-          "id": "a947ad56cc613ca0679afafb1feab4c3bff50099",
-          "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场 / The AI sell-off now has Taiwan taking emergency steps to calm its chip-heavy market",
-          "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-21T22:02:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "e4601128db993e279115809c55cca0773d118007",
-          "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场",
-          "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T00:34:50.197000Z"
-        },
-        {
-          "id": "a947ad56cc613ca0679afafb1feab4c3bff50099",
-          "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场 / The AI sell-off now has Taiwan taking emergency steps to calm its chip-heavy market",
-          "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-21T22:02:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4015,
-      "importance": 0.4015,
-      "importance_score": 0.4015,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2674,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-21T22:02:52Z",
-      "latest_at": "2026-11-22T00:34:50.197000Z",
-      "primary_item": {
-        "id": "e4601128db993e279115809c55cca0773d118007",
-        "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场",
-        "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_73c363bedcb2",
-      "title": "几乎所有软件团队都承认交付人工智能生成的代码，因为研究发现验证没有跟上这种转变的步伐 / Nearly all software teams admit to shipping AI-generated code as study finds verification has not kept pace with that shift",
-      "url": "https://www.techradar.com/pro/nearly-all-software-teams-admit-to-shipping-ai-generated-code-as-study-finds-verification-has-not-kept-pace-with-that-shift",
-      "primary_url": "https://www.techradar.com/pro/nearly-all-software-teams-admit-to-shipping-ai-generated-code-as-study-finds-verification-has-not-kept-pace-with-that-shift",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "4868b662e22a07c6fd743751fb97180ca8a516d2",
-          "title": "几乎所有软件团队都承认交付人工智能生成的代码，因为研究发现验证没有跟上这种转变的步伐 / Nearly all software teams admit to shipping AI-generated code as study finds verification has not kept pace with that shift",
-          "url": "https://www.techradar.com/pro/nearly-all-software-teams-admit-to-shipping-ai-generated-code-as-study-finds-verification-has-not-kept-pace-with-that-shift",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "3465bb0122026533e3694bba9d2c0c1530e316e1",
-          "title": "几乎所有软件团队都承认交付人工智能生成的代码，因为研究发现验证“没有跟上这种转变的步伐” / Nearly all software teams admit to shipping AI-generated code as study finds verification 'has not kept pace with that shift'",
-          "url": "https://www.techradar.com/pro/nearly-all-software-teams-admit-to-shipping-ai-generated-code-as-study-finds-verification-has-not-kept-pace-with-that-shift",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-21T20:05:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "TechRadar"
-      ],
-      "items": [
-        {
-          "id": "4868b662e22a07c6fd743751fb97180ca8a516d2",
-          "title": "几乎所有软件团队都承认交付人工智能生成的代码，因为研究发现验证没有跟上这种转变的步伐 / Nearly all software teams admit to shipping AI-generated code as study finds verification has not kept pace with that shift",
-          "url": "https://www.techradar.com/pro/nearly-all-software-teams-admit-to-shipping-ai-generated-code-as-study-finds-verification-has-not-kept-pace-with-that-shift",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "3465bb0122026533e3694bba9d2c0c1530e316e1",
-          "title": "几乎所有软件团队都承认交付人工智能生成的代码，因为研究发现验证“没有跟上这种转变的步伐” / Nearly all software teams admit to shipping AI-generated code as study finds verification 'has not kept pace with that shift'",
-          "url": "https://www.techradar.com/pro/nearly-all-software-teams-admit-to-shipping-ai-generated-code-as-study-finds-verification-has-not-kept-pace-with-that-shift",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-21T20:05:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3853,
-      "importance": 0.3853,
-      "importance_score": 0.3853,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1863,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-21T20:05:00Z",
-      "latest_at": "2026-11-21T22:38:00.950494Z",
-      "primary_item": {
-        "id": "4868b662e22a07c6fd743751fb97180ca8a516d2",
-        "title": "几乎所有软件团队都承认交付人工智能生成的代码，因为研究发现验证没有跟上这种转变的步伐 / Nearly all software teams admit to shipping AI-generated code as study finds verification has not kept pace with that shift",
-        "url": "https://www.techradar.com/pro/nearly-all-software-teams-admit-to-shipping-ai-generated-code-as-study-finds-verification-has-not-kept-pace-with-that-shift",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
