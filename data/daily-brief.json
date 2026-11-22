@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-21T22:38:00.950494Z",
+  "generated_at": "2026-11-22T02:45:25.701268Z",
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 13,
   "items": [
     {
       "story_id": "story_4ba691da3f40",
@@ -38,20 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.78,
-      "importance": 0.78,
-      "importance_score": 0.78,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8399,
+        "recency": 0.6681,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-21T18:47:26Z",
       "latest_at": "2026-11-21T18:47:26Z",
@@ -61,6 +60,240 @@
         "url": "https://aihot.news/items/d32df9vzpliz9m348fug74inq",
         "source": "Rohan Paul",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6e086317ffb3",
+      "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+      "primary_url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ae3ff2ce5100b7ea684e46948be6d432169d797f",
+          "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T02:09:43.926000Z"
+        },
+        {
+          "id": "871d89b9a892a2fb67bb3e10489af50755d208da",
+          "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面 / Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T02:03:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "ae3ff2ce5100b7ea684e46948be6d432169d797f",
+          "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T02:09:43.926000Z"
+        },
+        {
+          "id": "871d89b9a892a2fb67bb3e10489af50755d208da",
+          "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面 / Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T02:03:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.543,
+      "importance": 0.543,
+      "importance_score": 0.543,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9752,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T02:03:46Z",
+      "latest_at": "2026-11-22T02:09:43.926000Z",
+      "primary_item": {
+        "id": "ae3ff2ce5100b7ea684e46948be6d432169d797f",
+        "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面",
+        "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5d87055f8941",
+      "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
+      "url": "https://pwn.ai/upload2shell/research.html",
+      "primary_url": "https://pwn.ai/upload2shell/research.html",
+      "source": "pwn.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d67ccf48968ab5f78d77ef5d4d1db416677a7a57",
+          "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
+          "url": "https://pwn.ai/upload2shell/research.html",
+          "source": "pwn.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T01:06:51.065000Z"
+        },
+        {
+          "id": "83128c355d63644f2a316b3cbc290df88b69c668",
+          "title": "GhostScript CVE 2026-125396: \"Upload2Shell\"",
+          "url": "https://pwn.ai/upload2shell/research.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T00:52:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "pwn.ai"
+      ],
+      "items": [
+        {
+          "id": "d67ccf48968ab5f78d77ef5d4d1db416677a7a57",
+          "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
+          "url": "https://pwn.ai/upload2shell/research.html",
+          "source": "pwn.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T01:06:51.065000Z"
+        },
+        {
+          "id": "83128c355d63644f2a316b3cbc290df88b69c668",
+          "title": "GhostScript CVE 2026-125396: \"Upload2Shell\"",
+          "url": "https://pwn.ai/upload2shell/research.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T00:52:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9315,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T00:52:23Z",
+      "latest_at": "2026-11-22T01:06:51.065000Z",
+      "primary_item": {
+        "id": "d67ccf48968ab5f78d77ef5d4d1db416677a7a57",
+        "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
+        "url": "https://pwn.ai/upload2shell/research.html",
+        "source": "pwn.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9f7e68615129",
+      "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场",
+      "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+      "primary_url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e4601128db993e279115809c55cca0773d118007",
+          "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场",
+          "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T00:34:50.197000Z"
+        },
+        {
+          "id": "a947ad56cc613ca0679afafb1feab4c3bff50099",
+          "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场 / The AI sell-off now has Taiwan taking emergency steps to calm its chip-heavy market",
+          "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-21T22:02:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "e4601128db993e279115809c55cca0773d118007",
+          "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场",
+          "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T00:34:50.197000Z"
+        },
+        {
+          "id": "a947ad56cc613ca0679afafb1feab4c3bff50099",
+          "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场 / The AI sell-off now has Taiwan taking emergency steps to calm its chip-heavy market",
+          "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-21T22:02:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5299,
+      "importance": 0.5299,
+      "importance_score": 0.5299,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9093,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T22:02:52Z",
+      "latest_at": "2026-11-22T00:34:50.197000Z",
+      "primary_item": {
+        "id": "e4601128db993e279115809c55cca0773d118007",
+        "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场",
+        "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -117,14 +350,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5136,
+      "importance": 0.5136,
+      "importance_score": 0.5136,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8282,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -142,81 +375,81 @@
       }
     },
     {
-      "story_id": "story_5c37313386c9",
-      "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
-      "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
-      "primary_url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_cfea722a5658",
+      "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+      "url": "https://www.pandex.io",
+      "primary_url": "https://www.pandex.io",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "6981da4332466228aed88ed59dbbc1b3f520b525",
-          "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
-          "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T17:07:38.909000Z"
+          "id": "909d7442088e87203136232133bfd76c1ddde102",
+          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+          "url": "https://www.pandex.io",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T20:47:41Z"
         },
         {
-          "id": "60e13d14c3255fef6b716904d927be881f583c07",
-          "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿” / Scale AI cofounder says she passed on an Anthropic investment to support her ex's lifestyle: 'Lost a billion'",
-          "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-21T12:00:02Z"
+          "id": "368ac638dc0ce02c1d0bde0fa3e0a39bfd660edd",
+          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+          "url": "https://news.ycombinator.com/item?id=50593481",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-21T20:47:41Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "6981da4332466228aed88ed59dbbc1b3f520b525",
-          "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
-          "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T17:07:38.909000Z"
+          "id": "909d7442088e87203136232133bfd76c1ddde102",
+          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+          "url": "https://www.pandex.io",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T20:47:41Z"
         },
         {
-          "id": "60e13d14c3255fef6b716904d927be881f583c07",
-          "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿” / Scale AI cofounder says she passed on an Anthropic investment to support her ex's lifestyle: 'Lost a billion'",
-          "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-21T12:00:02Z"
+          "id": "368ac638dc0ce02c1d0bde0fa3e0a39bfd660edd",
+          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+          "url": "https://news.ycombinator.com/item?id=50593481",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-21T20:47:41Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5021,
-      "importance": 0.5021,
-      "importance_score": 0.5021,
+      "score": 0.4983,
+      "importance": 0.4983,
+      "importance_score": 0.4983,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7706,
+        "recency": 0.7516,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-21T12:00:02Z",
-      "latest_at": "2026-11-21T17:07:38.909000Z",
+      "earliest_at": "2026-11-21T20:47:41Z",
+      "latest_at": "2026-11-21T20:47:41Z",
       "primary_item": {
-        "id": "6981da4332466228aed88ed59dbbc1b3f520b525",
-        "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
-        "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "909d7442088e87203136232133bfd76c1ddde102",
+        "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+        "url": "https://www.pandex.io",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -292,14 +525,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4938,
-      "importance": 0.4938,
-      "importance_score": 0.4938,
+      "score": 0.4595,
+      "importance": 0.4595,
+      "importance_score": 0.4595,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6041,
+        "recency": 0.4323,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -314,6 +547,83 @@
         "url": "http://ricapar.net/ClawDOS",
         "source": "ricapar.net",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4e6153d6e334",
+      "title": "[Apple] 体验多天，发现国行苹果 ai 一点都不好用！",
+      "url": "https://www.v2ex.com/t/1258824",
+      "primary_url": "https://www.v2ex.com/t/1258824",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "25cd4b98bc945869dc775656ef3e63e5f05d6ee5",
+          "title": "[Apple] 体验多天，发现国行苹果 ai 一点都不好用！",
+          "url": "https://www.v2ex.com/t/1258824",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T16:00:44Z"
+        },
+        {
+          "id": "72ef525dc5e6c3b80940b191ca4611c15e8ffab6",
+          "title": "[分享发现] 体验多天，发现国行苹果 ai 一点都不好用！",
+          "url": "https://www.v2ex.com/t/1258824",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T16:00:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "25cd4b98bc945869dc775656ef3e63e5f05d6ee5",
+          "title": "[Apple] 体验多天，发现国行苹果 ai 一点都不好用！",
+          "url": "https://www.v2ex.com/t/1258824",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T16:00:44Z"
+        },
+        {
+          "id": "72ef525dc5e6c3b80940b191ca4611c15e8ffab6",
+          "title": "[分享发现] 体验多天，发现国行苹果 ai 一点都不好用！",
+          "url": "https://www.v2ex.com/t/1258824",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T16:00:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4585,
+      "importance": 0.4585,
+      "importance_score": 0.4585,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5523,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T16:00:44Z",
+      "latest_at": "2026-11-21T16:00:44Z",
+      "primary_item": {
+        "id": "25cd4b98bc945869dc775656ef3e63e5f05d6ee5",
+        "title": "[Apple] 体验多天，发现国行苹果 ai 一点都不好用！",
+        "url": "https://www.v2ex.com/t/1258824",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -369,14 +679,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4898,
-      "importance": 0.4898,
-      "importance_score": 0.4898,
+      "score": 0.4555,
+      "importance": 0.4555,
+      "importance_score": 0.4555,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7091,
+        "recency": 0.5373,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -447,14 +757,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5081,
-      "importance": 0.5081,
-      "importance_score": 0.5081,
+      "score": 0.4737,
+      "importance": 0.4737,
+      "importance_score": 0.4737,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8003,
+        "recency": 0.6285,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -469,6 +779,84 @@
         "url": "https://www.techradar.com/pro/openai-claims-ai-agents-now-complete-nearly-half-of-two-to-four-hour-research-tasks-on-their-own-but-says-humans-are-still-central-to-ai-development",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_5c37313386c9",
+      "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
+      "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
+      "primary_url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6981da4332466228aed88ed59dbbc1b3f520b525",
+          "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
+          "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-21T17:07:38.909000Z"
+        },
+        {
+          "id": "60e13d14c3255fef6b716904d927be881f583c07",
+          "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿” / Scale AI cofounder says she passed on an Anthropic investment to support her ex's lifestyle: 'Lost a billion'",
+          "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-21T12:00:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "6981da4332466228aed88ed59dbbc1b3f520b525",
+          "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
+          "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-21T17:07:38.909000Z"
+        },
+        {
+          "id": "60e13d14c3255fef6b716904d927be881f583c07",
+          "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿” / Scale AI cofounder says she passed on an Anthropic investment to support her ex's lifestyle: 'Lost a billion'",
+          "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-21T12:00:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4678,
+      "importance": 0.4678,
+      "importance_score": 0.4678,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5988,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T12:00:02Z",
+      "latest_at": "2026-11-21T17:07:38.909000Z",
+      "primary_item": {
+        "id": "6981da4332466228aed88ed59dbbc1b3f520b525",
+        "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
+        "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -525,14 +913,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4799,
-      "importance": 0.4799,
-      "importance_score": 0.4799,
+      "score": 0.4456,
+      "importance": 0.4456,
+      "importance_score": 0.4456,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6597,
+        "recency": 0.4878,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -603,14 +991,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4472,
-      "importance": 0.4472,
-      "importance_score": 0.4472,
+      "score": 0.4128,
+      "importance": 0.4128,
+      "importance_score": 0.4128,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4958,
+        "recency": 0.324,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -623,258 +1011,6 @@
         "id": "ff68d093d8056577d7c2879d10d5fb6d17507b0c",
         "title": "美参议员痛批苹果、谷歌：放任 AI 脱衣应用「野蛮生长」",
         "url": "https://www.ithome.com/1/030/421.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_5d3c25a64fe3",
-      "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的",
-      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1fc419ff42c1c4edd3725db1bebdf4876f9d58fb",
-          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T23:34:58.378000Z"
-        },
-        {
-          "id": "f8d1dee40cf5b1409a6b7fcd35604131716d928c",
-          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的 / In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T23:08:57Z"
-        },
-        {
-          "id": "89a2e924edeb8aa73ea6bf1fe1b11b782d33843e",
-          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的 / In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T23:08:57Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "BBC News (世界新闻)",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "1fc419ff42c1c4edd3725db1bebdf4876f9d58fb",
-          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T23:34:58.378000Z"
-        },
-        {
-          "id": "f8d1dee40cf5b1409a6b7fcd35604131716d928c",
-          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的 / In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T23:08:57Z"
-        },
-        {
-          "id": "89a2e924edeb8aa73ea6bf1fe1b11b782d33843e",
-          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的 / In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T23:08:57Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.3809,
-      "importance": 0.3809,
-      "importance_score": 0.3809,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0396,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T23:08:57Z",
-      "latest_at": "2026-11-20T23:34:58.378000Z",
-      "primary_item": {
-        "id": "1fc419ff42c1c4edd3725db1bebdf4876f9d58fb",
-        "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的",
-        "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d8f37fc4bf48",
-      "title": "这场旨在证明数学界最著名难题的竞赛，如今已演变成一场人类与人工智能的对决",
-      "url": "https://www.businessinsider.com/riemann-hypothesis-math-human-ai-dueling-solution-alpoge-masullo-2026-11",
-      "primary_url": "https://www.businessinsider.com/riemann-hypothesis-math-human-ai-dueling-solution-alpoge-masullo-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cec0ae5a1fc8713104fa0762acf7123cc9e23554",
-          "title": "这场旨在证明数学界最著名难题的竞赛，如今已演变成一场人类与人工智能的对决",
-          "url": "https://www.businessinsider.com/riemann-hypothesis-math-human-ai-dueling-solution-alpoge-masullo-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T00:06:54.148000Z"
-        },
-        {
-          "id": "09703ff004c4ab2a36508b893d259a6fd5c50762",
-          "title": "这场旨在证明数学界最著名难题的竞赛，如今已演变成一场人类与人工智能的对决 / The race to prove the Riemann Hypothesis just became a human-versus-AI showdown",
-          "url": "https://www.businessinsider.com/riemann-hypothesis-math-human-ai-dueling-solution-alpoge-masullo-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-20T23:33:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "cec0ae5a1fc8713104fa0762acf7123cc9e23554",
-          "title": "这场旨在证明数学界最著名难题的竞赛，如今已演变成一场人类与人工智能的对决",
-          "url": "https://www.businessinsider.com/riemann-hypothesis-math-human-ai-dueling-solution-alpoge-masullo-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T00:06:54.148000Z"
-        },
-        {
-          "id": "09703ff004c4ab2a36508b893d259a6fd5c50762",
-          "title": "这场旨在证明数学界最著名难题的竞赛，如今已演变成一场人类与人工智能的对决 / The race to prove the Riemann Hypothesis just became a human-versus-AI showdown",
-          "url": "https://www.businessinsider.com/riemann-hypothesis-math-human-ai-dueling-solution-alpoge-masullo-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-20T23:33:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3603,
-      "importance": 0.3603,
-      "importance_score": 0.3603,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0617,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T23:33:11Z",
-      "latest_at": "2026-11-21T00:06:54.148000Z",
-      "primary_item": {
-        "id": "cec0ae5a1fc8713104fa0762acf7123cc9e23554",
-        "title": "这场旨在证明数学界最著名难题的竞赛，如今已演变成一场人类与人工智能的对决",
-        "url": "https://www.businessinsider.com/riemann-hypothesis-math-human-ai-dueling-solution-alpoge-masullo-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_54ae3b6f147c",
-      "title": "近 200 万条请求揭开 AI 隐私漏洞：「零数据保留」也会泄密",
-      "url": "https://www.ithome.com/1/030/322.htm",
-      "primary_url": "https://www.ithome.com/1/030/322.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "e1cac2695e79c0661e06639aeaf9d5444c4a7fbf",
-          "title": "近 200 万条请求揭开 AI 隐私漏洞：「零数据保留」也会泄密",
-          "url": "https://www.ithome.com/1/030/322.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "756f826e5fc05006f50f802145ca8a4ef351c5f4",
-          "title": "近 200 万条请求揭开 AI 隐私漏洞：“零数据保留”也会泄密",
-          "url": "https://www.ithome.com/1/030/322.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-21T02:03:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e1cac2695e79c0661e06639aeaf9d5444c4a7fbf",
-          "title": "近 200 万条请求揭开 AI 隐私漏洞：「零数据保留」也会泄密",
-          "url": "https://www.ithome.com/1/030/322.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "756f826e5fc05006f50f802145ca8a4ef351c5f4",
-          "title": "近 200 万条请求揭开 AI 隐私漏洞：“零数据保留”也会泄密",
-          "url": "https://www.ithome.com/1/030/322.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-21T02:03:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3838,
-      "importance": 0.3838,
-      "importance_score": 0.3838,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1792,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-21T02:03:24Z",
-      "latest_at": "2026-11-21T02:56:00.916538Z",
-      "primary_item": {
-        "id": "e1cac2695e79c0661e06639aeaf9d5444c4a7fbf",
-        "title": "近 200 万条请求揭开 AI 隐私漏洞：「零数据保留」也会泄密",
-        "url": "https://www.ithome.com/1/030/322.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
