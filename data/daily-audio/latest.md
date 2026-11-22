@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年11月21日人工智能热点分享
-1、Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿。
-2、OpenAI 声称人工智能代理现在可以独立完成近一半的两到四个小时的研究任务，但表示人类仍然是人工智能开发的核心。
-3、Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫，重点是“损失了10亿”。
-4、ClawDOS——一款适用于DOS的人工智能编程代理。
-5、美参议员痛批苹果、谷歌：放任 AI 脱衣应用「野蛮生长」，美国参议员罗恩 · 怀登、埃德 · 马基和本 · 卢汉指出，苹果和谷歌未能有效识别或下架用于生成未经当事人同意的裸照或色情图像的应用。
-6、存在漏洞的人工智能供应链正以令人震惊的速度泄露用户的机密数据。
-7、近 200 万条请求揭开 AI 隐私漏洞：「零数据保留」也会泄密，科技媒体 Ars Technica 今天（11 月 21 日）发布博文，报道称安全公司 Dragos 首席研究官 HD Moore 向多家 AI 服务商发送近 200 万条带有可追踪“诱饵”的请求，发现 AI 服务链存在黑客窃取提示词、转售商泄露数据及未遵守隐私设置等问题。
-8、在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的。
-9、谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮。
-10、这场旨在证明数学界最著名难题的竞赛，如今已演变成一场人类与人工智能的对决。
+2026年11月22日人工智能热点分享
+1、Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确。
+2、菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想，重点是相信证明正确，但需被理解才可能获认可。
+3、在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒）。
+4、Show HN，重点是我开发了一款游戏，在游戏中你将扮演一个大型语言模型（LLM）的子代理。
+5、Pandex——基于MCP的欧洲人工智能代理官方法律。
+6、“有意识的人工智能”的神话。
+7、推理提供商上的数据处理事件。
+8、Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器，属于 AI 基础设施和算力成本相关信号。
+9、一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面。
+10、GhostScript CVE 2026-125396，重点是“Upload2Shell”。
 
 ## 原始链接
-1. Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿（The Decoder：AI News） - https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq
-2. OpenAI 声称人工智能代理现在可以独立完成近一半的两到四个小时的研究任务，但表示人类仍然是人工智能开发的核心（Readhub · AI） - https://www.techradar.com/pro/openai-claims-ai-agents-now-complete-nearly-half-of-two-to-four-hour-research-tasks-on-their-own-but-says-humans-are-still-central-to-ai-development
-3. Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”（www.businessinsider.com） - https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11
-4. ClawDOS——一款适用于DOS的人工智能编程代理（ricapar.net） - http://ricapar.net/ClawDOS
-5. 美参议员痛批苹果、谷歌：放任 AI 脱衣应用「野蛮生长」（Readhub · AI） - https://www.ithome.com/1/030/421.htm
-6. 存在漏洞的人工智能供应链正以令人震惊的速度泄露用户的机密数据（Hacker News · 24h最热） - https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate
-7. 近 200 万条请求揭开 AI 隐私漏洞：「零数据保留」也会泄密（Readhub · AI） - https://www.ithome.com/1/030/322.htm
-8. 在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的（www.bbc.co.uk） - https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss
-9. 谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮（arstechnica.com） - https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar
-10. 这场旨在证明数学界最著名难题的竞赛，如今已演变成一场人类与人工智能的对决（www.businessinsider.com） - https://www.businessinsider.com/riemann-hypothesis-math-human-ai-dueling-solution-alpoge-masullo-2026-11
+1. Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确（The Decoder：AI News） - https://aihot.news/items/ikpixx0j7414se1f6lww2csek
+2. 菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可（IT之家·人工智能） - https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt
+3. 在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒）（www.youtube.com） - https://www.youtube.com/watch?v=zqzk43bSdDI
+4. Show HN: 我开发了一款游戏，在游戏中你将扮演一个大型语言模型（LLM）的子代理（github.com） - https://github.com/gulivan/worker755
+5. Pandex——基于MCP的欧洲人工智能代理官方法律（www.pandex.io） - https://www.pandex.io
+6. “有意识的人工智能”的神话（www.noemamag.com） - https://www.noemamag.com/the-mythology-of-conscious-ai
+7. 推理提供商上的数据处理事件（openrouter.ai） - https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers
+8. Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器（Hacker News · 24h最热） - https://simonwillison.net/2026/Nov/21/muru
+9. 一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面（arstechnica.com） - https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate
+10. GhostScript CVE 2026-125396：“Upload2Shell”（pwn.ai） - https://pwn.ai/upload2shell/research.html
