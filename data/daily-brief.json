@@ -1,29 +1,90 @@
 {
-  "generated_at": "2026-11-23T04:56:58.346866Z",
+  "generated_at": "2026-11-23T15:39:15.269289Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_fe55858ab505",
-      "title": "38 万参数的 Transformer 塞进一张软盘：三十年前的 486 老电脑，如今也能“跑 AI”",
-      "url": "https://www.aibase.com/news/32459",
-      "primary_url": "https://www.aibase.com/news/32459",
+      "story_id": "story_cbd75850d76c",
+      "title": "代码覆盖率上传现在标记无效的报告格式 / Code coverage uploads now flag invalid report formats",
+      "url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
+      "primary_url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ca75ffb7174862783c75d0de59920d7122035dd0",
+          "title": "代码覆盖率上传现在标记无效的报告格式 / Code coverage uploads now flag invalid report formats",
+          "url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-23T15:28:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ca75ffb7174862783c75d0de59920d7122035dd0",
+          "title": "代码覆盖率上传现在标记无效的报告格式 / Code coverage uploads now flag invalid report formats",
+          "url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-23T15:28:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8595,
+      "importance": 0.8595,
+      "importance_score": 0.8595,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9926,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T15:28:36Z",
+      "latest_at": "2026-11-23T15:28:36Z",
+      "primary_item": {
+        "id": "ca75ffb7174862783c75d0de59920d7122035dd0",
+        "title": "代码覆盖率上传现在标记无效的报告格式 / Code coverage uploads now flag invalid report formats",
+        "url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_184a7b460cf3",
+      "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
+      "url": "https://www.aibase.com/news/32479",
+      "primary_url": "https://www.aibase.com/news/32479",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "675900e7b729069b4326d2b3c6546d91bf2f1717",
-          "title": "38 万参数的 Transformer 塞进一张软盘：三十年前的 486 老电脑，如今也能“跑 AI”",
-          "url": "https://www.aibase.com/news/32459",
+          "id": "0c9e0bd8de412913b9c97850bde42f78e4005db7",
+          "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
+          "url": "https://www.aibase.com/news/32479",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-23T04:56:58.346866Z"
+          "published_at": "2026-11-23T15:39:15.269289Z"
         },
         {
-          "id": "51215a0d220e0d4511aadde459ca7ebc4d3f7011",
-          "title": "38 万参数的 Transformer 塞进一张软盘：三十年前的 486 老电脑，如今也能「跑 AI」",
-          "url": "https://www.aibase.com/zh/news/32459",
+          "id": "1d0c4595a26368dbf9c0846169436917175d7f66",
+          "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
+          "url": "https://www.aibase.com/zh/news/32479",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -37,18 +98,18 @@
       ],
       "items": [
         {
-          "id": "675900e7b729069b4326d2b3c6546d91bf2f1717",
-          "title": "38 万参数的 Transformer 塞进一张软盘：三十年前的 486 老电脑，如今也能“跑 AI”",
-          "url": "https://www.aibase.com/news/32459",
+          "id": "0c9e0bd8de412913b9c97850bde42f78e4005db7",
+          "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
+          "url": "https://www.aibase.com/news/32479",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-23T04:56:58.346866Z"
+          "published_at": "2026-11-23T15:39:15.269289Z"
         },
         {
-          "id": "51215a0d220e0d4511aadde459ca7ebc4d3f7011",
-          "title": "38 万参数的 Transformer 塞进一张软盘：三十年前的 486 老电脑，如今也能「跑 AI」",
-          "url": "https://www.aibase.com/zh/news/32459",
+          "id": "1d0c4595a26368dbf9c0846169436917175d7f66",
+          "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
+          "url": "https://www.aibase.com/zh/news/32479",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -73,112 +134,92 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-23T04:56:58.346866Z",
-      "latest_at": "2026-11-23T04:56:58.346866Z",
+      "earliest_at": "2026-11-23T15:39:15.269289Z",
+      "latest_at": "2026-11-23T15:39:15.269289Z",
       "primary_item": {
-        "id": "675900e7b729069b4326d2b3c6546d91bf2f1717",
-        "title": "38 万参数的 Transformer 塞进一张软盘：三十年前的 486 老电脑，如今也能“跑 AI”",
-        "url": "https://www.aibase.com/news/32459",
+        "id": "0c9e0bd8de412913b9c97850bde42f78e4005db7",
+        "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
+        "url": "https://www.aibase.com/news/32479",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_0930ea794642",
-      "title": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
-      "url": "https://www.aibase.com/news/32450",
-      "primary_url": "https://www.aibase.com/news/32450",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_e71dbcb4a2a8",
+      "title": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
+      "url": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
+      "primary_url": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
+      "source": "a16z：News",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5dcbf08f502b27fee9570185201dcddd8df64ec7",
-          "title": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
-          "url": "https://www.aibase.com/news/32450",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T04:56:58.346866Z"
-        },
-        {
-          "id": "6e5b662fbcd9fd442c93cd03d37a0b34c46aed39",
-          "title": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
-          "url": "https://www.aibase.com/zh/news/32450",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "53831b9f3ad4638d07c08844b031d724c1c518d0",
+          "title": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
+          "url": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
+          "source": "a16z：News",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-23T15:04:27Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "a16z：News"
       ],
       "items": [
         {
-          "id": "5dcbf08f502b27fee9570185201dcddd8df64ec7",
-          "title": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
-          "url": "https://www.aibase.com/news/32450",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T04:56:58.346866Z"
-        },
-        {
-          "id": "6e5b662fbcd9fd442c93cd03d37a0b34c46aed39",
-          "title": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
-          "url": "https://www.aibase.com/zh/news/32450",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "53831b9f3ad4638d07c08844b031d724c1c518d0",
+          "title": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
+          "url": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
+          "source": "a16z：News",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-23T15:04:27Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8072,
+      "importance": 0.8072,
+      "importance_score": 0.8072,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "recency": 0.9758,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-23T04:56:58.346866Z",
-      "latest_at": "2026-11-23T04:56:58.346866Z",
+      "earliest_at": "2026-11-23T15:04:27Z",
+      "latest_at": "2026-11-23T15:04:27Z",
       "primary_item": {
-        "id": "5dcbf08f502b27fee9570185201dcddd8df64ec7",
-        "title": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
-        "url": "https://www.aibase.com/news/32450",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "53831b9f3ad4638d07c08844b031d724c1c518d0",
+        "title": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
+        "url": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
+        "source": "a16z：News",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_ee9326b90328",
-      "title": "Anthropic IPO 前三家机构如何重注押注",
-      "url": "https://aihot.news/items/dus34samsjrld1qopq65v54uq",
-      "primary_url": "https://aihot.news/items/dus34samsjrld1qopq65v54uq",
+      "story_id": "story_d2e5cf3b777e",
+      "title": "特朗普支持黄仁勋重返英伟达CEO岗位，称美方无不当行为证据",
+      "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
+      "primary_url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
       "source": "TechCrunch：AI",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "8ddd31eb5e090ea54723b4b92f4a39870d4a0545",
-          "title": "Anthropic IPO 前三家机构如何重注押注",
-          "url": "https://aihot.news/items/dus34samsjrld1qopq65v54uq",
+          "id": "98a7afc27ec3273e81f07ed684ce7454d1a7bd31",
+          "title": "特朗普支持黄仁勋重返英伟达CEO岗位，称美方无不当行为证据",
+          "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
           "source": "TechCrunch：AI",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-11-23T01:25:53Z"
+          "published_at": "2026-11-23T15:04:01Z"
         }
       ],
       "source_count": 1,
@@ -187,25 +228,25 @@
       ],
       "items": [
         {
-          "id": "8ddd31eb5e090ea54723b4b92f4a39870d4a0545",
-          "title": "Anthropic IPO 前三家机构如何重注押注",
-          "url": "https://aihot.news/items/dus34samsjrld1qopq65v54uq",
+          "id": "98a7afc27ec3273e81f07ed684ce7454d1a7bd31",
+          "title": "特朗普支持黄仁勋重返英伟达CEO岗位，称美方无不当行为证据",
+          "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
           "source": "TechCrunch：AI",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-11-23T01:25:53Z"
+          "published_at": "2026-11-23T15:04:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7827,
-      "importance": 0.7827,
-      "importance_score": 0.7827,
+      "score": 0.8071,
+      "importance": 0.8071,
+      "importance_score": 0.8071,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8534,
+        "recency": 0.9755,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -213,37 +254,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-23T01:25:53Z",
-      "latest_at": "2026-11-23T01:25:53Z",
+      "earliest_at": "2026-11-23T15:04:01Z",
+      "latest_at": "2026-11-23T15:04:01Z",
       "primary_item": {
-        "id": "8ddd31eb5e090ea54723b4b92f4a39870d4a0545",
-        "title": "Anthropic IPO 前三家机构如何重注押注",
-        "url": "https://aihot.news/items/dus34samsjrld1qopq65v54uq",
+        "id": "98a7afc27ec3273e81f07ed684ce7454d1a7bd31",
+        "title": "特朗普支持黄仁勋重返英伟达CEO岗位，称美方无不当行为证据",
+        "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
         "source": "TechCrunch：AI",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_5af0e956f75b",
-      "title": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
-      "url": "https://www.aibase.com/news/32463",
-      "primary_url": "https://www.aibase.com/news/32463",
+      "story_id": "story_6c5ee2fa83da",
+      "title": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
+      "url": "https://www.aibase.com/news/32477",
+      "primary_url": "https://www.aibase.com/news/32477",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1d4030270c6b38ec291b10fbbc6a7cf42fa259d1",
-          "title": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
-          "url": "https://www.aibase.com/news/32463",
+          "id": "c24ae4325f31c09636c53104e259e9ded470d681",
+          "title": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
+          "url": "https://www.aibase.com/news/32477",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-23T04:56:58.346866Z"
+          "published_at": "2026-11-23T15:39:15.269289Z"
         },
         {
-          "id": "a6536d250f1c21d25347d8f3f217214c166f29d0",
-          "title": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
-          "url": "https://www.aibase.com/zh/news/32463",
+          "id": "d3da0595c59eb445a24870cc44e3a62b7fcbb0a9",
+          "title": "一台被黑客「晒」上网的攻击工具，暴露了 AI 作案的全过程",
+          "url": "https://www.aibase.com/zh/news/32477",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -257,18 +298,18 @@
       ],
       "items": [
         {
-          "id": "1d4030270c6b38ec291b10fbbc6a7cf42fa259d1",
-          "title": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
-          "url": "https://www.aibase.com/news/32463",
+          "id": "c24ae4325f31c09636c53104e259e9ded470d681",
+          "title": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
+          "url": "https://www.aibase.com/news/32477",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-23T04:56:58.346866Z"
+          "published_at": "2026-11-23T15:39:15.269289Z"
         },
         {
-          "id": "a6536d250f1c21d25347d8f3f217214c166f29d0",
-          "title": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
-          "url": "https://www.aibase.com/zh/news/32463",
+          "id": "d3da0595c59eb445a24870cc44e3a62b7fcbb0a9",
+          "title": "一台被黑客「晒」上网的攻击工具，暴露了 AI 作案的全过程",
+          "url": "https://www.aibase.com/zh/news/32477",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -293,59 +334,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-23T04:56:58.346866Z",
-      "latest_at": "2026-11-23T04:56:58.346866Z",
+      "earliest_at": "2026-11-23T15:39:15.269289Z",
+      "latest_at": "2026-11-23T15:39:15.269289Z",
       "primary_item": {
-        "id": "1d4030270c6b38ec291b10fbbc6a7cf42fa259d1",
-        "title": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
-        "url": "https://www.aibase.com/news/32463",
+        "id": "c24ae4325f31c09636c53104e259e9ded470d681",
+        "title": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
+        "url": "https://www.aibase.com/news/32477",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_620d46d57591",
-      "title": "卡兹克分享 Claude、GPT、Gemini 三模型协同调度方法",
-      "url": "https://aihot.news/items/hz782dpcwhurj6584rtd13eaf",
-      "primary_url": "https://aihot.news/items/hz782dpcwhurj6584rtd13eaf",
-      "source": "公众号：数字生命卡兹克",
+      "story_id": "story_39ed40028fff",
+      "title": "Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例",
+      "url": "https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff",
+      "primary_url": "https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff",
+      "source": "Wiz：Research",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c556b6026a0739f6ed8f408adacc1cdc5f50b899",
-          "title": "卡兹克分享 Claude、GPT、Gemini 三模型协同调度方法",
-          "url": "https://aihot.news/items/hz782dpcwhurj6584rtd13eaf",
-          "source": "公众号：数字生命卡兹克",
+          "id": "08a121c876882a54b92d0c342a341b218d8f281e",
+          "title": "Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例",
+          "url": "https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff",
+          "source": "Wiz：Research",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-11-22T23:56:00Z"
+          "published_at": "2026-11-23T14:46:19Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：数字生命卡兹克"
+        "Wiz：Research"
       ],
       "items": [
         {
-          "id": "c556b6026a0739f6ed8f408adacc1cdc5f50b899",
-          "title": "卡兹克分享 Claude、GPT、Gemini 三模型协同调度方法",
-          "url": "https://aihot.news/items/hz782dpcwhurj6584rtd13eaf",
-          "source": "公众号：数字生命卡兹克",
+          "id": "08a121c876882a54b92d0c342a341b218d8f281e",
+          "title": "Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例",
+          "url": "https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff",
+          "source": "Wiz：Research",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-11-22T23:56:00Z"
+          "published_at": "2026-11-23T14:46:19Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7702,
-      "importance": 0.7702,
-      "importance_score": 0.7702,
+      "score": 0.8046,
+      "importance": 0.8046,
+      "importance_score": 0.8046,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.791,
+        "recency": 0.9632,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -353,272 +394,212 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-22T23:56:00Z",
-      "latest_at": "2026-11-22T23:56:00Z",
+      "earliest_at": "2026-11-23T14:46:19Z",
+      "latest_at": "2026-11-23T14:46:19Z",
       "primary_item": {
-        "id": "c556b6026a0739f6ed8f408adacc1cdc5f50b899",
-        "title": "卡兹克分享 Claude、GPT、Gemini 三模型协同调度方法",
-        "url": "https://aihot.news/items/hz782dpcwhurj6584rtd13eaf",
-        "source": "公众号：数字生命卡兹克",
+        "id": "08a121c876882a54b92d0c342a341b218d8f281e",
+        "title": "Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例",
+        "url": "https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff",
+        "source": "Wiz：Research",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_7bc3395f3a44",
-      "title": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
-      "url": "https://www.aibase.com/news/32464",
-      "primary_url": "https://www.aibase.com/news/32464",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_2b75da57f749",
+      "title": "ARTEX 开源 AI 黑客框架遭滥用，FBI 发出警告但代码已广泛扩散",
+      "url": "https://aihot.news/items/zb8hu8pp2ogojk5081g7z4en7",
+      "primary_url": "https://aihot.news/items/zb8hu8pp2ogojk5081g7z4en7",
+      "source": "404 Media",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c1f9cc5a43cdd607360e44a65b65459b9b59ac77",
-          "title": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
-          "url": "https://www.aibase.com/news/32464",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T04:56:58.346866Z"
-        },
-        {
-          "id": "72ebd96b844a1c9c1aca005596e1865aa4ddb1ac",
-          "title": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
-          "url": "https://www.aibase.com/zh/news/32464",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "53d68ffa5752bb2eba1cf873a5a1ab29dd9875da",
+          "title": "ARTEX 开源 AI 黑客框架遭滥用，FBI 发出警告但代码已广泛扩散",
+          "url": "https://aihot.news/items/zb8hu8pp2ogojk5081g7z4en7",
+          "source": "404 Media",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-23T14:16:47Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "404 Media"
       ],
       "items": [
         {
-          "id": "c1f9cc5a43cdd607360e44a65b65459b9b59ac77",
-          "title": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
-          "url": "https://www.aibase.com/news/32464",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T04:56:58.346866Z"
-        },
-        {
-          "id": "72ebd96b844a1c9c1aca005596e1865aa4ddb1ac",
-          "title": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
-          "url": "https://www.aibase.com/zh/news/32464",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "53d68ffa5752bb2eba1cf873a5a1ab29dd9875da",
+          "title": "ARTEX 开源 AI 黑客框架遭滥用，FBI 发出警告但代码已广泛扩散",
+          "url": "https://aihot.news/items/zb8hu8pp2ogojk5081g7z4en7",
+          "source": "404 Media",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-23T14:16:47Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8005,
+      "importance": 0.8005,
+      "importance_score": 0.8005,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "recency": 0.9427,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-23T04:56:58.346866Z",
-      "latest_at": "2026-11-23T04:56:58.346866Z",
+      "earliest_at": "2026-11-23T14:16:47Z",
+      "latest_at": "2026-11-23T14:16:47Z",
       "primary_item": {
-        "id": "c1f9cc5a43cdd607360e44a65b65459b9b59ac77",
-        "title": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
-        "url": "https://www.aibase.com/news/32464",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "53d68ffa5752bb2eba1cf873a5a1ab29dd9875da",
+        "title": "ARTEX 开源 AI 黑客框架遭滥用，FBI 发出警告但代码已广泛扩散",
+        "url": "https://aihot.news/items/zb8hu8pp2ogojk5081g7z4en7",
+        "source": "404 Media",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_5897a11a0b55",
-      "title": "给 AI 发展划一条“困惑度”红线：OpenAI 首席科学家提议设行业门槛",
-      "url": "https://www.aibase.com/news/32455",
-      "primary_url": "https://www.aibase.com/news/32455",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_c2e380958bab",
+      "title": "NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会",
+      "url": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l",
+      "primary_url": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l",
+      "source": "X.PIN",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "06356fb0147e9c8d8bd8b7b5b8a436c7f0e4c55b",
-          "title": "给 AI 发展划一条“困惑度”红线：OpenAI 首席科学家提议设行业门槛",
-          "url": "https://www.aibase.com/news/32455",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T04:56:58.346866Z"
-        },
-        {
-          "id": "ae6c313c2e74c03056edc2d152f090a9f474463e",
-          "title": "给 AI 发展划一条「困惑度」红线：OpenAI 首席科学家提议设行业门槛",
-          "url": "https://www.aibase.com/zh/news/32455",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "a028674243288942d5995f0d2eaaf5801b912541",
+          "title": "NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会",
+          "url": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l",
+          "source": "X.PIN",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-23T14:04:30Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "X.PIN"
       ],
       "items": [
         {
-          "id": "06356fb0147e9c8d8bd8b7b5b8a436c7f0e4c55b",
-          "title": "给 AI 发展划一条“困惑度”红线：OpenAI 首席科学家提议设行业门槛",
-          "url": "https://www.aibase.com/news/32455",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T04:56:58.346866Z"
-        },
-        {
-          "id": "ae6c313c2e74c03056edc2d152f090a9f474463e",
-          "title": "给 AI 发展划一条「困惑度」红线：OpenAI 首席科学家提议设行业门槛",
-          "url": "https://www.aibase.com/zh/news/32455",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "a028674243288942d5995f0d2eaaf5801b912541",
+          "title": "NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会",
+          "url": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l",
+          "source": "X.PIN",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-23T14:04:30Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7988,
+      "importance": 0.7988,
+      "importance_score": 0.7988,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "recency": 0.9342,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-23T04:56:58.346866Z",
-      "latest_at": "2026-11-23T04:56:58.346866Z",
+      "earliest_at": "2026-11-23T14:04:30Z",
+      "latest_at": "2026-11-23T14:04:30Z",
       "primary_item": {
-        "id": "06356fb0147e9c8d8bd8b7b5b8a436c7f0e4c55b",
-        "title": "给 AI 发展划一条“困惑度”红线：OpenAI 首席科学家提议设行业门槛",
-        "url": "https://www.aibase.com/news/32455",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "a028674243288942d5995f0d2eaaf5801b912541",
+        "title": "NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会",
+        "url": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l",
+        "source": "X.PIN",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_7c46a71d2671",
-      "title": "腾讯混元团队 Reddit 答问 120 分钟：不刻意刷榜，下一代模型规模将“显著扩大”",
-      "url": "https://www.aibase.com/news/32460",
-      "primary_url": "https://www.aibase.com/news/32460",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_fcedcd712b1d",
+      "title": "智谱发布GLM-5.4：首个Loop Transformer架构旗舰模型开启泛Coding",
+      "url": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
+      "primary_url": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
+      "source": "公众号：智谱",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "eced9e506e406426a89574d47a1f60d61bba4eab",
-          "title": "腾讯混元团队 Reddit 答问 120 分钟：不刻意刷榜，下一代模型规模将“显著扩大”",
-          "url": "https://www.aibase.com/news/32460",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T04:56:58.346866Z"
-        },
-        {
-          "id": "ae1e8743c4c9193668d4d14c2ab485e72ebb2c0d",
-          "title": "腾讯混元团队 Reddit 答问 120 分钟：不刻意刷榜，下一代模型规模将「显著扩大」",
-          "url": "https://www.aibase.com/zh/news/32460",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "1a8d63281cdce1b873887074674c09312e875415",
+          "title": "智谱发布GLM-5.4：首个Loop Transformer架构旗舰模型开启泛Coding",
+          "url": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
+          "source": "公众号：智谱",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-23T09:42:11Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "公众号：智谱"
       ],
       "items": [
         {
-          "id": "eced9e506e406426a89574d47a1f60d61bba4eab",
-          "title": "腾讯混元团队 Reddit 答问 120 分钟：不刻意刷榜，下一代模型规模将“显著扩大”",
-          "url": "https://www.aibase.com/news/32460",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T04:56:58.346866Z"
-        },
-        {
-          "id": "ae1e8743c4c9193668d4d14c2ab485e72ebb2c0d",
-          "title": "腾讯混元团队 Reddit 答问 120 分钟：不刻意刷榜，下一代模型规模将「显著扩大」",
-          "url": "https://www.aibase.com/zh/news/32460",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "1a8d63281cdce1b873887074674c09312e875415",
+          "title": "智谱发布GLM-5.4：首个Loop Transformer架构旗舰模型开启泛Coding",
+          "url": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
+          "source": "公众号：智谱",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-23T09:42:11Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "recency": 0.752,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-23T04:56:58.346866Z",
-      "latest_at": "2026-11-23T04:56:58.346866Z",
+      "earliest_at": "2026-11-23T09:42:11Z",
+      "latest_at": "2026-11-23T09:42:11Z",
       "primary_item": {
-        "id": "eced9e506e406426a89574d47a1f60d61bba4eab",
-        "title": "腾讯混元团队 Reddit 答问 120 分钟：不刻意刷榜，下一代模型规模将“显著扩大”",
-        "url": "https://www.aibase.com/news/32460",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "1a8d63281cdce1b873887074674c09312e875415",
+        "title": "智谱发布GLM-5.4：首个Loop Transformer架构旗舰模型开启泛Coding",
+        "url": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
+        "source": "公众号：智谱",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_dffded7b2fe2",
-      "title": "AI 账号互相捧场刷屏评论区：B 站发问卷，给“大肥鱼”们立规矩",
-      "url": "https://www.aibase.com/news/32462",
-      "primary_url": "https://www.aibase.com/news/32462",
+      "story_id": "story_caeab290c29d",
+      "title": "GLM-5.4 悄然上线 Coding Plan：补齐视觉能力，额度还涨了 1.5 倍",
+      "url": "https://www.aibase.com/news/32472",
+      "primary_url": "https://www.aibase.com/news/32472",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ad6441bc94e7d48a9517e6b8e567e41d56b7d775",
-          "title": "AI 账号互相捧场刷屏评论区：B 站发问卷，给“大肥鱼”们立规矩",
-          "url": "https://www.aibase.com/news/32462",
+          "id": "fdfb4a0a88a73f99f30d9ad66400f17823205728",
+          "title": "GLM-5.4 悄然上线 Coding Plan：补齐视觉能力，额度还涨了 1.5 倍",
+          "url": "https://www.aibase.com/news/32472",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-23T04:56:58.346866Z"
+          "published_at": "2026-11-23T15:39:15.269289Z"
         }
       ],
       "source_count": 1,
@@ -627,13 +608,13 @@
       ],
       "items": [
         {
-          "id": "ad6441bc94e7d48a9517e6b8e567e41d56b7d775",
-          "title": "AI 账号互相捧场刷屏评论区：B 站发问卷，给“大肥鱼”们立规矩",
-          "url": "https://www.aibase.com/news/32462",
+          "id": "fdfb4a0a88a73f99f30d9ad66400f17823205728",
+          "title": "GLM-5.4 悄然上线 Coding Plan：补齐视觉能力，额度还涨了 1.5 倍",
+          "url": "https://www.aibase.com/news/32472",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-23T04:56:58.346866Z"
+          "published_at": "2026-11-23T15:39:15.269289Z"
         }
       ],
       "item_count": 1,
@@ -653,32 +634,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-23T04:56:58.346866Z",
-      "latest_at": "2026-11-23T04:56:58.346866Z",
+      "earliest_at": "2026-11-23T15:39:15.269289Z",
+      "latest_at": "2026-11-23T15:39:15.269289Z",
       "primary_item": {
-        "id": "ad6441bc94e7d48a9517e6b8e567e41d56b7d775",
-        "title": "AI 账号互相捧场刷屏评论区：B 站发问卷，给“大肥鱼”们立规矩",
-        "url": "https://www.aibase.com/news/32462",
+        "id": "fdfb4a0a88a73f99f30d9ad66400f17823205728",
+        "title": "GLM-5.4 悄然上线 Coding Plan：补齐视觉能力，额度还涨了 1.5 倍",
+        "url": "https://www.aibase.com/news/32472",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_5bd51a6826c2",
-      "title": "MiniMax 拿内部模型开刀密码学：把纸面攻击变成秒级实战，NIST 竞赛算法首次被真攻破",
-      "url": "https://www.aibase.com/news/32456",
-      "primary_url": "https://www.aibase.com/news/32456",
+      "story_id": "story_674371d2f58b",
+      "title": "Mira Murati 团队把模型“想三遍再说话”开源了：26.4B 循环 Transformer 登顶 Hugging Face，笔记本就能跑",
+      "url": "https://www.aibase.com/news/32475",
+      "primary_url": "https://www.aibase.com/news/32475",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3d6b05123bcb49c86dc729ba735c0b68c628a141",
-          "title": "MiniMax 拿内部模型开刀密码学：把纸面攻击变成秒级实战，NIST 竞赛算法首次被真攻破",
-          "url": "https://www.aibase.com/news/32456",
+          "id": "3bad28831d325f4df9604d9b4aef585f4012eebc",
+          "title": "Mira Murati 团队把模型“想三遍再说话”开源了：26.4B 循环 Transformer 登顶 Hugging Face，笔记本就能跑",
+          "url": "https://www.aibase.com/news/32475",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-23T04:56:58.346866Z"
+          "published_at": "2026-11-23T15:39:15.269289Z"
         }
       ],
       "source_count": 1,
@@ -687,13 +668,13 @@
       ],
       "items": [
         {
-          "id": "3d6b05123bcb49c86dc729ba735c0b68c628a141",
-          "title": "MiniMax 拿内部模型开刀密码学：把纸面攻击变成秒级实战，NIST 竞赛算法首次被真攻破",
-          "url": "https://www.aibase.com/news/32456",
+          "id": "3bad28831d325f4df9604d9b4aef585f4012eebc",
+          "title": "Mira Murati 团队把模型“想三遍再说话”开源了：26.4B 循环 Transformer 登顶 Hugging Face，笔记本就能跑",
+          "url": "https://www.aibase.com/news/32475",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-23T04:56:58.346866Z"
+          "published_at": "2026-11-23T15:39:15.269289Z"
         }
       ],
       "item_count": 1,
@@ -713,32 +694,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-23T04:56:58.346866Z",
-      "latest_at": "2026-11-23T04:56:58.346866Z",
+      "earliest_at": "2026-11-23T15:39:15.269289Z",
+      "latest_at": "2026-11-23T15:39:15.269289Z",
       "primary_item": {
-        "id": "3d6b05123bcb49c86dc729ba735c0b68c628a141",
-        "title": "MiniMax 拿内部模型开刀密码学：把纸面攻击变成秒级实战，NIST 竞赛算法首次被真攻破",
-        "url": "https://www.aibase.com/news/32456",
+        "id": "3bad28831d325f4df9604d9b4aef585f4012eebc",
+        "title": "Mira Murati 团队把模型“想三遍再说话”开源了：26.4B 循环 Transformer 登顶 Hugging Face，笔记本就能跑",
+        "url": "https://www.aibase.com/news/32475",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_bccde251662c",
-      "title": "OpenAI 首席科学家提议给全行业模型开发“画线”：能力涨到哪儿算停，先得看人类能不能看住它",
-      "url": "https://www.aibase.com/news/32454",
-      "primary_url": "https://www.aibase.com/news/32454",
+      "story_id": "story_0bfcb9b77510",
+      "title": "“欧洲版 OpenAI”落子新加坡：Mistral AI 设亚太总部，替亚洲政府造“主权 AI”",
+      "url": "https://www.aibase.com/news/32471",
+      "primary_url": "https://www.aibase.com/news/32471",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b9d7568104fd12fce686137331a89509fbf9df14",
-          "title": "OpenAI 首席科学家提议给全行业模型开发“画线”：能力涨到哪儿算停，先得看人类能不能看住它",
-          "url": "https://www.aibase.com/news/32454",
+          "id": "28725864c661645c9a36a80b6a7d44093531c2d1",
+          "title": "“欧洲版 OpenAI”落子新加坡：Mistral AI 设亚太总部，替亚洲政府造“主权 AI”",
+          "url": "https://www.aibase.com/news/32471",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-23T04:56:58.346866Z"
+          "published_at": "2026-11-23T15:39:15.269289Z"
         }
       ],
       "source_count": 1,
@@ -747,13 +728,13 @@
       ],
       "items": [
         {
-          "id": "b9d7568104fd12fce686137331a89509fbf9df14",
-          "title": "OpenAI 首席科学家提议给全行业模型开发“画线”：能力涨到哪儿算停，先得看人类能不能看住它",
-          "url": "https://www.aibase.com/news/32454",
+          "id": "28725864c661645c9a36a80b6a7d44093531c2d1",
+          "title": "“欧洲版 OpenAI”落子新加坡：Mistral AI 设亚太总部，替亚洲政府造“主权 AI”",
+          "url": "https://www.aibase.com/news/32471",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-23T04:56:58.346866Z"
+          "published_at": "2026-11-23T15:39:15.269289Z"
         }
       ],
       "item_count": 1,
@@ -773,32 +754,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-23T04:56:58.346866Z",
-      "latest_at": "2026-11-23T04:56:58.346866Z",
+      "earliest_at": "2026-11-23T15:39:15.269289Z",
+      "latest_at": "2026-11-23T15:39:15.269289Z",
       "primary_item": {
-        "id": "b9d7568104fd12fce686137331a89509fbf9df14",
-        "title": "OpenAI 首席科学家提议给全行业模型开发“画线”：能力涨到哪儿算停，先得看人类能不能看住它",
-        "url": "https://www.aibase.com/news/32454",
+        "id": "28725864c661645c9a36a80b6a7d44093531c2d1",
+        "title": "“欧洲版 OpenAI”落子新加坡：Mistral AI 设亚太总部，替亚洲政府造“主权 AI”",
+        "url": "https://www.aibase.com/news/32471",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_a7bdab54130a",
-      "title": "为 OpenAI 的巨额订单备好钱：甲骨文称融资已就位",
-      "url": "https://www.aibase.com/news/32457",
-      "primary_url": "https://www.aibase.com/news/32457",
+      "story_id": "story_01c913814b78",
+      "title": "万亿市值换不来投资级：Anthropic 发债大概率是垃圾级",
+      "url": "https://www.aibase.com/news/32470",
+      "primary_url": "https://www.aibase.com/news/32470",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "307895355a9369c61fa665bfbac24f8179f3edf4",
-          "title": "为 OpenAI 的巨额订单备好钱：甲骨文称融资已就位",
-          "url": "https://www.aibase.com/news/32457",
+          "id": "2d5ed639c089590b4d61c163e8f80a84e18d7abd",
+          "title": "万亿市值换不来投资级：Anthropic 发债大概率是垃圾级",
+          "url": "https://www.aibase.com/news/32470",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-23T04:56:58.346866Z"
+          "published_at": "2026-11-23T15:39:15.269289Z"
         }
       ],
       "source_count": 1,
@@ -807,13 +788,13 @@
       ],
       "items": [
         {
-          "id": "307895355a9369c61fa665bfbac24f8179f3edf4",
-          "title": "为 OpenAI 的巨额订单备好钱：甲骨文称融资已就位",
-          "url": "https://www.aibase.com/news/32457",
+          "id": "2d5ed639c089590b4d61c163e8f80a84e18d7abd",
+          "title": "万亿市值换不来投资级：Anthropic 发债大概率是垃圾级",
+          "url": "https://www.aibase.com/news/32470",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-23T04:56:58.346866Z"
+          "published_at": "2026-11-23T15:39:15.269289Z"
         }
       ],
       "item_count": 1,
@@ -833,639 +814,506 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-23T04:56:58.346866Z",
-      "latest_at": "2026-11-23T04:56:58.346866Z",
+      "earliest_at": "2026-11-23T15:39:15.269289Z",
+      "latest_at": "2026-11-23T15:39:15.269289Z",
       "primary_item": {
-        "id": "307895355a9369c61fa665bfbac24f8179f3edf4",
-        "title": "为 OpenAI 的巨额订单备好钱：甲骨文称融资已就位",
-        "url": "https://www.aibase.com/news/32457",
+        "id": "2d5ed639c089590b4d61c163e8f80a84e18d7abd",
+        "title": "万亿市值换不来投资级：Anthropic 发债大概率是垃圾级",
+        "url": "https://www.aibase.com/news/32470",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_626e59734f22",
-      "title": "旧金山正迎来人工智能热潮，但人们对市场崩盘的担忧也在加剧",
-      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
+      "story_id": "story_e91a66ff451e",
+      "title": "把“增长优先”告上法庭：加州总检察长起诉 OpenAI",
+      "url": "https://www.aibase.com/news/32474",
+      "primary_url": "https://www.aibase.com/news/32474",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "688fda63ca75e211ee6f9ad3916c928e425d91e1",
+          "title": "把“增长优先”告上法庭：加州总检察长起诉 OpenAI",
+          "url": "https://www.aibase.com/news/32474",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T15:39:15.269289Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "688fda63ca75e211ee6f9ad3916c928e425d91e1",
+          "title": "把“增长优先”告上法庭：加州总检察长起诉 OpenAI",
+          "url": "https://www.aibase.com/news/32474",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T15:39:15.269289Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T15:39:15.269289Z",
+      "latest_at": "2026-11-23T15:39:15.269289Z",
+      "primary_item": {
+        "id": "688fda63ca75e211ee6f9ad3916c928e425d91e1",
+        "title": "把“增长优先”告上法庭：加州总检察长起诉 OpenAI",
+        "url": "https://www.aibase.com/news/32474",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_7758e9b44180",
+      "title": "把主权 AI 做成生意：Mistral AI 把亚太总部落在新加坡",
+      "url": "https://www.aibase.com/news/32468",
+      "primary_url": "https://www.aibase.com/news/32468",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e9c159da8cd45ccaf466bbefbdb99d1303f828ad",
+          "title": "把主权 AI 做成生意：Mistral AI 把亚太总部落在新加坡",
+          "url": "https://www.aibase.com/news/32468",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T15:39:15.269289Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e9c159da8cd45ccaf466bbefbdb99d1303f828ad",
+          "title": "把主权 AI 做成生意：Mistral AI 把亚太总部落在新加坡",
+          "url": "https://www.aibase.com/news/32468",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T15:39:15.269289Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T15:39:15.269289Z",
+      "latest_at": "2026-11-23T15:39:15.269289Z",
+      "primary_item": {
+        "id": "e9c159da8cd45ccaf466bbefbdb99d1303f828ad",
+        "title": "把主权 AI 做成生意：Mistral AI 把亚太总部落在新加坡",
+        "url": "https://www.aibase.com/news/32468",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_60b564592090",
+      "title": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
+      "url": "https://www.aibase.com/news/32480",
+      "primary_url": "https://www.aibase.com/news/32480",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0bb0f050d03466962346bf62d1c1151fd5156d25",
+          "title": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
+          "url": "https://www.aibase.com/news/32480",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T15:39:15.269289Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "0bb0f050d03466962346bf62d1c1151fd5156d25",
+          "title": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
+          "url": "https://www.aibase.com/news/32480",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T15:39:15.269289Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T15:39:15.269289Z",
+      "latest_at": "2026-11-23T15:39:15.269289Z",
+      "primary_item": {
+        "id": "0bb0f050d03466962346bf62d1c1151fd5156d25",
+        "title": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
+        "url": "https://www.aibase.com/news/32480",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_dcb111e83b42",
+      "title": "蚂蚁百灵医疗健康大模型家族全面开源：四款模型各守一关，从看懂体检报告到拦住医疗风险",
+      "url": "https://www.aibase.com/news/32469",
+      "primary_url": "https://www.aibase.com/news/32469",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a8ee0fe37169846c4eac2bacd09581660447b0e3",
+          "title": "蚂蚁百灵医疗健康大模型家族全面开源：四款模型各守一关，从看懂体检报告到拦住医疗风险",
+          "url": "https://www.aibase.com/news/32469",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T15:39:15.269289Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a8ee0fe37169846c4eac2bacd09581660447b0e3",
+          "title": "蚂蚁百灵医疗健康大模型家族全面开源：四款模型各守一关，从看懂体检报告到拦住医疗风险",
+          "url": "https://www.aibase.com/news/32469",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T15:39:15.269289Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T15:39:15.269289Z",
+      "latest_at": "2026-11-23T15:39:15.269289Z",
+      "primary_item": {
+        "id": "a8ee0fe37169846c4eac2bacd09581660447b0e3",
+        "title": "蚂蚁百灵医疗健康大模型家族全面开源：四款模型各守一关，从看懂体检报告到拦住医疗风险",
+        "url": "https://www.aibase.com/news/32469",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_dbda121af27e",
+      "title": "黄仁勋重返英伟达提振AI投资信心，股市大涨：市场综述",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
+      "source": "www.bloomberg.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "4567bb048d4cef7a006c08ad3c569b14e4b2f013",
-          "title": "旧金山正迎来人工智能热潮，但人们对市场崩盘的担忧也在加剧",
-          "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
+          "id": "395521aa514be7a070b17e749b0e7274dddebbce",
+          "title": "黄仁勋重返英伟达提振AI投资信心，股市大涨：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
+          "source": "www.bloomberg.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-23T03:23:40.220000Z"
+          "published_at": "2026-11-23T14:51:44.659000Z"
         },
         {
-          "id": "d49df55f296334bb99a003b350e27f5b033f0523",
-          "title": "旧金山正迎来人工智能热潮，但人们对市场崩盘的担忧也在加剧 / San Francisco is enjoying an AI boom, but worries about a crash are growing",
-          "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-23T00:08:00Z"
+          "id": "074858d3791b14458de4c354c61a04696e2066e8",
+          "title": "AI股暴跌后美股期货反弹，避险资产下跌：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-23T04:11:55.711000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "BBC News",
-        "www.bbc.co.uk"
+        "www.bloomberg.com"
       ],
       "items": [
         {
-          "id": "4567bb048d4cef7a006c08ad3c569b14e4b2f013",
-          "title": "旧金山正迎来人工智能热潮，但人们对市场崩盘的担忧也在加剧",
-          "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
+          "id": "395521aa514be7a070b17e749b0e7274dddebbce",
+          "title": "黄仁勋重返英伟达提振AI投资信心，股市大涨：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
+          "source": "www.bloomberg.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-23T03:23:40.220000Z"
+          "published_at": "2026-11-23T14:51:44.659000Z"
         },
         {
-          "id": "d49df55f296334bb99a003b350e27f5b033f0523",
-          "title": "旧金山正迎来人工智能热潮，但人们对市场崩盘的担忧也在加剧 / San Francisco is enjoying an AI boom, but worries about a crash are growing",
-          "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-23T00:08:00Z"
+          "id": "074858d3791b14458de4c354c61a04696e2066e8",
+          "title": "AI股暴跌后美股期货反弹，避险资产下跌：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-23T04:11:55.711000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
+      "score": 0.5414,
+      "importance": 0.5414,
+      "importance_score": 0.5414,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9352,
+        "recency": 0.967,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-23T00:08:00Z",
-      "latest_at": "2026-11-23T03:23:40.220000Z",
+      "earliest_at": "2026-11-23T04:11:55.711000Z",
+      "latest_at": "2026-11-23T14:51:44.659000Z",
       "primary_item": {
-        "id": "4567bb048d4cef7a006c08ad3c569b14e4b2f013",
-        "title": "旧金山正迎来人工智能热潮，但人们对市场崩盘的担忧也在加剧",
-        "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
+        "id": "395521aa514be7a070b17e749b0e7274dddebbce",
+        "title": "黄仁勋重返英伟达提振AI投资信心，股市大涨：市场综述",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
+        "source": "www.bloomberg.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_4f0ed76760ef",
-      "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "primary_url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "source": "www.gpupartner.com",
+      "story_id": "story_5094532b4e2e",
+      "title": "GLM-5.4：借助首个循环变换器迈向泛化编码",
+      "url": "https://z.ai/blog/glm-5.4",
+      "primary_url": "https://z.ai/blog/glm-5.4",
+      "source": "z.ai",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "fa621fcc18a3efeb20d42fb6c68e68aed3083f68",
-          "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
-          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-          "source": "www.gpupartner.com",
+          "id": "32c894c1224f34c2c28d1de543eccc940aab0eca",
+          "title": "GLM-5.4：借助首个循环变换器迈向泛化编码",
+          "url": "https://z.ai/blog/glm-5.4",
+          "source": "z.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-22T23:23:39.823000Z"
+          "published_at": "2026-11-23T11:39:43.058000Z"
         },
         {
-          "id": "d522d53677a5e15bc5c9810a46ae118daa7aaa11",
-          "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-22T21:01:16Z"
+          "id": "d7f1c3b2fdc2ab869ad89daa05a21d95e83f3eb4",
+          "title": "GLM-5.4：借助首个循环变换器迈向泛化编码 / GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+          "url": "https://z.ai/blog/glm-5.4",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-23T10:06:43Z"
         },
         {
-          "id": "470658f75013398f7988c00dd38a56b32a2a48a3",
-          "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-          "url": "https://news.ycombinator.com/item?id=50603845",
+          "id": "ecba850940e09bd7ce1e0b5c069e671cdd72dbb1",
+          "title": "GLM-5.4：使用我们的第一个循环变压器实现广义编码 / GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+          "url": "https://news.ycombinator.com/item?id=50609685",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-22T21:01:16Z"
+          "published_at": "2026-11-23T10:06:43Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)",
         "hackernews",
-        "www.gpupartner.com"
+        "z.ai"
       ],
       "items": [
         {
-          "id": "fa621fcc18a3efeb20d42fb6c68e68aed3083f68",
-          "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
-          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-          "source": "www.gpupartner.com",
+          "id": "32c894c1224f34c2c28d1de543eccc940aab0eca",
+          "title": "GLM-5.4：借助首个循环变换器迈向泛化编码",
+          "url": "https://z.ai/blog/glm-5.4",
+          "source": "z.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-22T23:23:39.823000Z"
+          "published_at": "2026-11-23T11:39:43.058000Z"
         },
         {
-          "id": "d522d53677a5e15bc5c9810a46ae118daa7aaa11",
-          "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-22T21:01:16Z"
+          "id": "d7f1c3b2fdc2ab869ad89daa05a21d95e83f3eb4",
+          "title": "GLM-5.4：借助首个循环变换器迈向泛化编码 / GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+          "url": "https://z.ai/blog/glm-5.4",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-23T10:06:43Z"
         },
         {
-          "id": "470658f75013398f7988c00dd38a56b32a2a48a3",
-          "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-          "url": "https://news.ycombinator.com/item?id=50603845",
+          "id": "ecba850940e09bd7ce1e0b5c069e671cdd72dbb1",
+          "title": "GLM-5.4：使用我们的第一个循环变压器实现广义编码 / GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+          "url": "https://news.ycombinator.com/item?id=50609685",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-22T21:01:16Z"
+          "published_at": "2026-11-23T10:06:43Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5267,
-      "importance": 0.5267,
-      "importance_score": 0.5267,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7685,
+        "recency": 0.8337,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-22T21:01:16Z",
-      "latest_at": "2026-11-22T23:23:39.823000Z",
+      "earliest_at": "2026-11-23T10:06:43Z",
+      "latest_at": "2026-11-23T11:39:43.058000Z",
       "primary_item": {
-        "id": "fa621fcc18a3efeb20d42fb6c68e68aed3083f68",
-        "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
-        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-        "source": "www.gpupartner.com",
+        "id": "32c894c1224f34c2c28d1de543eccc940aab0eca",
+        "title": "GLM-5.4：借助首个循环变换器迈向泛化编码",
+        "url": "https://z.ai/blog/glm-5.4",
+        "source": "z.ai",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_5cc0b3bf0f56",
-      "title": "AI 供应链安全：Canary Tokens 的发现",
-      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-      "primary_url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-      "source": "www.dragos.com",
+      "story_id": "story_3f8d23a600e9",
+      "title": "弗吉尼亚州和俄勒冈州就性主题深度伪造视频一事起诉马斯克的AI公司 - Politico",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3BDN2l0TEF0R2NnTGd1Ym9nek9tdWgxY0I4bmJ4OFhoYnlNVjZUdGRUakxMbndHNE5Pd2d3RXVUeW9RYl9QYThoN1pIWGhkd0s4MmQ5NE1aWDR2OHpNZTRuX2FtYW80cC0tNkdqNDE2OGdhQmxmRE5jaHh5Y3F1cHBkYlQycnNiLVlFUFBocHhucVd4R21RcHJXdWNONjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3BDN2l0TEF0R2NnTGd1Ym9nek9tdWgxY0I4bmJ4OFhoYnlNVjZUdGRUakxMbndHNE5Pd2d3RXVUeW9RYl9QYThoN1pIWGhkd0s4MmQ5NE1aWDR2OHpNZTRuX2FtYW80cC0tNkdqNDE2OGdhQmxmRE5jaHh5Y3F1cHBkYlQycnNiLVlFUFBocHhucVd4R21RcHJXdWNONjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "3d4118265351b98a8d265b80afda1768d3d8efca",
-          "title": "AI 供应链安全：Canary Tokens 的发现",
-          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-          "source": "www.dragos.com",
+          "id": "ce106fdd530e99058f3505f7e576fee58348a509",
+          "title": "弗吉尼亚州和俄勒冈州就性主题深度伪造视频一事起诉马斯克的AI公司 - Politico",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3BDN2l0TEF0R2NnTGd1Ym9nek9tdWgxY0I4bmJ4OFhoYnlNVjZUdGRUakxMbndHNE5Pd2d3RXVUeW9RYl9QYThoN1pIWGhkd0s4MmQ5NE1aWDR2OHpNZTRuX2FtYW80cC0tNkdqNDE2OGdhQmxmRE5jaHh5Y3F1cHBkYlQycnNiLVlFUFBocHhucVd4R21RcHJXdWNONjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-23T01:16:11.338000Z"
+          "published_at": "2026-11-23T14:03:56.467000Z"
         },
         {
-          "id": "dcea4c807595531e0c5bdfa875f1dcefb87ecde8",
-          "title": "AI 供应链安全：Canary Tokens 的发现 / AI Supply Chain Security: What Canary Tokens Found",
-          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-22T05:11:43Z"
+          "id": "ac98cded4138ebb5bda6702ee2f50aeaf6916108",
+          "title": "弗吉尼亚州和俄勒冈州就性主题深度伪造视频起诉马斯克的AI公司politi.co/48CqKPT",
+          "url": "https://www.politico.com/news/2026/11/23/virginia-oregon-lawsuit-musk-ai-sexual-deepfakes-01180139",
+          "source": "www.politico.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-23T12:27:47.103000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "www.dragos.com"
+        "news.google.com",
+        "www.politico.com"
       ],
       "items": [
         {
-          "id": "3d4118265351b98a8d265b80afda1768d3d8efca",
-          "title": "AI 供应链安全：Canary Tokens 的发现",
-          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-          "source": "www.dragos.com",
+          "id": "ce106fdd530e99058f3505f7e576fee58348a509",
+          "title": "弗吉尼亚州和俄勒冈州就性主题深度伪造视频一事起诉马斯克的AI公司 - Politico",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3BDN2l0TEF0R2NnTGd1Ym9nek9tdWgxY0I4bmJ4OFhoYnlNVjZUdGRUakxMbndHNE5Pd2d3RXVUeW9RYl9QYThoN1pIWGhkd0s4MmQ5NE1aWDR2OHpNZTRuX2FtYW80cC0tNkdqNDE2OGdhQmxmRE5jaHh5Y3F1cHBkYlQycnNiLVlFUFBocHhucVd4R21RcHJXdWNONjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-23T01:16:11.338000Z"
+          "published_at": "2026-11-23T14:03:56.467000Z"
         },
         {
-          "id": "dcea4c807595531e0c5bdfa875f1dcefb87ecde8",
-          "title": "AI 供应链安全：Canary Tokens 的发现 / AI Supply Chain Security: What Canary Tokens Found",
-          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-22T05:11:43Z"
+          "id": "ac98cded4138ebb5bda6702ee2f50aeaf6916108",
+          "title": "弗吉尼亚州和俄勒冈州就性主题深度伪造视频起诉马斯克的AI公司politi.co/48CqKPT",
+          "url": "https://www.politico.com/news/2026/11/23/virginia-oregon-lawsuit-musk-ai-sexual-deepfakes-01180139",
+          "source": "www.politico.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-23T12:27:47.103000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5173,
-      "importance": 0.5173,
-      "importance_score": 0.5173,
+      "score": 0.5348,
+      "importance": 0.5348,
+      "importance_score": 0.5348,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8467,
+        "recency": 0.9338,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-22T05:11:43Z",
-      "latest_at": "2026-11-23T01:16:11.338000Z",
+      "earliest_at": "2026-11-23T12:27:47.103000Z",
+      "latest_at": "2026-11-23T14:03:56.467000Z",
       "primary_item": {
-        "id": "3d4118265351b98a8d265b80afda1768d3d8efca",
-        "title": "AI 供应链安全：Canary Tokens 的发现",
-        "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-        "source": "www.dragos.com",
+        "id": "ce106fdd530e99058f3505f7e576fee58348a509",
+        "title": "弗吉尼亚州和俄勒冈州就性主题深度伪造视频一事起诉马斯克的AI公司 - Politico",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3BDN2l0TEF0R2NnTGd1Ym9nek9tdWgxY0I4bmJ4OFhoYnlNVjZUdGRUakxMbndHNE5Pd2d3RXVUeW9RYl9QYThoN1pIWGhkd0s4MmQ5NE1aWDR2OHpNZTRuX2FtYW80cC0tNkdqNDE2OGdhQmxmRE5jaHh5Y3F1cHBkYlQycnNiLVlFUFBocHhucVd4R21RcHJXdWNONjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ba93566b3baf",
-      "title": "人工智能正成为气候的一场灾难",
-      "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
-      "primary_url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
-      "source": "www.bloodinthemachine.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3f5ee8ed7c77d2ce70d17cbf92183b39f9f78de0",
-          "title": "人工智能正成为气候的一场灾难",
-          "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
-          "source": "www.bloodinthemachine.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-23T01:16:11.341000Z"
-        },
-        {
-          "id": "bb80e73808e1a81e6c20289c1c54675d940b1041",
-          "title": "人工智能正成为气候的一场灾难 / AI is becoming a disaster for the climate",
-          "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-22T12:19:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.bloodinthemachine.com"
-      ],
-      "items": [
-        {
-          "id": "3f5ee8ed7c77d2ce70d17cbf92183b39f9f78de0",
-          "title": "人工智能正成为气候的一场灾难",
-          "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
-          "source": "www.bloodinthemachine.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-23T01:16:11.341000Z"
-        },
-        {
-          "id": "bb80e73808e1a81e6c20289c1c54675d940b1041",
-          "title": "人工智能正成为气候的一场灾难 / AI is becoming a disaster for the climate",
-          "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-22T12:19:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5173,
-      "importance": 0.5173,
-      "importance_score": 0.5173,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8467,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-22T12:19:46Z",
-      "latest_at": "2026-11-23T01:16:11.341000Z",
-      "primary_item": {
-        "id": "3f5ee8ed7c77d2ce70d17cbf92183b39f9f78de0",
-        "title": "人工智能正成为气候的一场灾难",
-        "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
-        "source": "www.bloodinthemachine.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ae6e6a35191d",
-      "title": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图",
-      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-      "primary_url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-      "source": "claude.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "411ad76cfe1cbef26fe1e76778c8f80f4bc2b50c",
-          "title": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图",
-          "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-          "source": "claude.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-23T00:43:51.380000Z"
-        },
-        {
-          "id": "c0e5a1511ae9386f6b2e0b0d64bd3629bf17095d",
-          "title": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图 / Progress map for the Lean formalization of Alessandro Masullo's manuscript",
-          "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-22T23:12:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "claude.ai"
-      ],
-      "items": [
-        {
-          "id": "411ad76cfe1cbef26fe1e76778c8f80f4bc2b50c",
-          "title": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图",
-          "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-          "source": "claude.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-23T00:43:51.380000Z"
-        },
-        {
-          "id": "c0e5a1511ae9386f6b2e0b0d64bd3629bf17095d",
-          "title": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图 / Progress map for the Lean formalization of Alessandro Masullo's manuscript",
-          "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-22T23:12:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5128,
-      "importance": 0.5128,
-      "importance_score": 0.5128,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8242,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-22T23:12:10Z",
-      "latest_at": "2026-11-23T00:43:51.380000Z",
-      "primary_item": {
-        "id": "411ad76cfe1cbef26fe1e76778c8f80f4bc2b50c",
-        "title": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图",
-        "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-        "source": "claude.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_beba89f56b45",
-      "title": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
-      "url": "https://www.aibase.com/news/32451",
-      "primary_url": "https://www.aibase.com/news/32451",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "17b6cc5b5bc32ff22df528457556775f97f94ff3",
-          "title": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
-          "url": "https://www.aibase.com/news/32451",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T04:56:58.346866Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "17b6cc5b5bc32ff22df528457556775f97f94ff3",
-          "title": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
-          "url": "https://www.aibase.com/news/32451",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T04:56:58.346866Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T04:56:58.346866Z",
-      "latest_at": "2026-11-23T04:56:58.346866Z",
-      "primary_item": {
-        "id": "17b6cc5b5bc32ff22df528457556775f97f94ff3",
-        "title": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
-        "url": "https://www.aibase.com/news/32451",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4886ca7677fc",
-      "title": "0rwx – 受 Unix 权限启发的 AI 使用的简单模型 / 0rwx – A simple model of AI usage, inspired by Unix permissions",
-      "url": "https://0rwx.com",
-      "primary_url": "https://0rwx.com",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "f6e6b6f3c2bd97de3a83325bb24e6c64b0456a0a",
-          "title": "0rwx – 受 Unix 权限启发的 AI 使用的简单模型 / 0rwx – A simple model of AI usage, inspired by Unix permissions",
-          "url": "https://0rwx.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T23:53:00Z"
-        },
-        {
-          "id": "336fc0d0f244b7632b96722d1fcec619c5abc3fa",
-          "title": "0rwx – 受 Unix 权限启发的 AI 使用的简单模型 / 0rwx – A simple model of AI usage, inspired by Unix permissions",
-          "url": "https://news.ycombinator.com/item?id=50605445",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-22T23:53:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f6e6b6f3c2bd97de3a83325bb24e6c64b0456a0a",
-          "title": "0rwx – 受 Unix 权限启发的 AI 使用的简单模型 / 0rwx – A simple model of AI usage, inspired by Unix permissions",
-          "url": "https://0rwx.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T23:53:00Z"
-        },
-        {
-          "id": "336fc0d0f244b7632b96722d1fcec619c5abc3fa",
-          "title": "0rwx – 受 Unix 权限启发的 AI 使用的简单模型 / 0rwx – A simple model of AI usage, inspired by Unix permissions",
-          "url": "https://news.ycombinator.com/item?id=50605445",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-22T23:53:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5058,
-      "importance": 0.5058,
-      "importance_score": 0.5058,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7889,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-22T23:53:00Z",
-      "latest_at": "2026-11-22T23:53:00Z",
-      "primary_item": {
-        "id": "f6e6b6f3c2bd97de3a83325bb24e6c64b0456a0a",
-        "title": "0rwx – 受 Unix 权限启发的 AI 使用的简单模型 / 0rwx – A simple model of AI usage, inspired by Unix permissions",
-        "url": "https://0rwx.com",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_de5cd1a6d51d",
-      "title": "困惑与智慧 / Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence",
-      "primary_url": "https://openai.com/index/perplexity-and-intelligence",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "2bb57385d8ab1d6984ff059cfcca3d5a048622ee",
-          "title": "困惑与智慧 / Perplexity and Intelligence",
-          "url": "https://openai.com/index/perplexity-and-intelligence",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "046ffa6d7042c1b304663f7bc261065e2c31ac6c",
-          "title": "困惑与智慧",
-          "url": "https://openai.com/index/perplexity-and-intelligence",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T18:20:52.884000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "2bb57385d8ab1d6984ff059cfcca3d5a048622ee",
-          "title": "困惑与智慧 / Perplexity and Intelligence",
-          "url": "https://openai.com/index/perplexity-and-intelligence",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "046ffa6d7042c1b304663f7bc261065e2c31ac6c",
-          "title": "困惑与智慧",
-          "url": "https://openai.com/index/perplexity-and-intelligence",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T18:20:52.884000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5043,
-      "importance": 0.5043,
-      "importance_score": 0.5043,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7817,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-22T18:20:52.884000Z",
-      "latest_at": "2026-11-22T23:42:37.017649Z",
-      "primary_item": {
-        "id": "2bb57385d8ab1d6984ff059cfcca3d5a048622ee",
-        "title": "困惑与智慧 / Perplexity and Intelligence",
-        "url": "https://openai.com/index/perplexity-and-intelligence",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
