@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年11月23日人工智能热点分享
-1、90 分钟全 AI 造出的故事片上线三家卫视，重点是深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机。
-2、一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程。
-3、GLM-5.4 悄然上线 Coding Plan，重点是补齐视觉能力，额度还涨了 1.5 倍。
-4、Mira Murati 团队把模型“想三遍再说话”开源了，重点是26.4B 循环 Transformer 登顶 Hugging Face，笔记本就能跑。
-5、“欧洲版 OpenAI”落子新加坡，重点是Mistral AI 设亚太总部，替亚洲政府造“主权 AI”。
-6、万亿市值换不来投资级，重点是Anthropic 发债大概率是垃圾级。
-7、把“增长优先”告上法庭，重点是加州总检察长起诉 OpenAI。
-8、把主权 AI 做成生意，重点是Mistral AI 把亚太总部落在新加坡。
-9、新款深蓝 L07 定档广州车展，重点是800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱。
-10、蚂蚁百灵医疗健康大模型家族全面开源，重点是四款模型各守一关，从看懂体检报告到拦住医疗风险。
+2026年11月24日人工智能热点分享
+1、AI 画错了自己改，重点是商汤开源 U1.6，多模态模型学会“回头看”。
+2、“25 万页”是玩笑，重点是Claude 黎曼猜想证明争议，被数学家自己拆了台。
+3、从“问答”到“办事”，重点是豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑。
+4、修补提速也是一种风险，重点是微软总裁警告“完美风暴”还会再来。
+5、告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力。
+6、探索“原创IP+AI漫剧”新业态，重点是书旗中文网2027年再投3亿元强化生态协同。
+7、百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆。
+8、腾讯混元发布并开源Hy MT3。
+9、蚂蚁OceanBase发布经营数据，重点是AI与全球化成为新增长点，海外营收同比增长超100%。
+10、Demo 刚公开就被抄上小程序，重点是一款用AI开发独游靠中国玩家扳回两局。
 
 ## 原始链接
-1. 90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机（AIbase） - https://www.aibase.com/news/32479
-2. 一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程（AIbase） - https://www.aibase.com/news/32477
-3. GLM-5.4 悄然上线 Coding Plan：补齐视觉能力，额度还涨了 1.5 倍（AIbase） - https://www.aibase.com/news/32472
-4. Mira Murati 团队把模型“想三遍再说话”开源了：26.4B 循环 Transformer 登顶 Hugging Face，笔记本就能跑（AIbase） - https://www.aibase.com/news/32475
-5. “欧洲版 OpenAI”落子新加坡：Mistral AI 设亚太总部，替亚洲政府造“主权 AI”（AIbase） - https://www.aibase.com/news/32471
-6. 万亿市值换不来投资级：Anthropic 发债大概率是垃圾级（AIbase） - https://www.aibase.com/news/32470
-7. 把“增长优先”告上法庭：加州总检察长起诉 OpenAI（AIbase） - https://www.aibase.com/news/32474
-8. 把主权 AI 做成生意：Mistral AI 把亚太总部落在新加坡（AIbase） - https://www.aibase.com/news/32468
-9. 新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱（AIbase） - https://www.aibase.com/news/32480
-10. 蚂蚁百灵医疗健康大模型家族全面开源：四款模型各守一关，从看懂体检报告到拦住医疗风险（AIbase） - https://www.aibase.com/news/32469
+1. AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”（AIbase） - https://www.aibase.com/news/32500
+2. “25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台（AIbase） - https://www.aibase.com/news/32498
+3. 从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑（AIbase） - https://www.aibase.com/news/32494
+4. 修补提速也是一种风险：微软总裁警告“完美风暴”还会再来（AIbase） - https://www.aibase.com/news/32497
+5. 告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力（AIbase） - https://www.aibase.com/news/32496
+6. 探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同（AIbase） - https://www.aibase.com/news/32499
+7. 百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆（AIbase） - https://www.aibase.com/news/32502
+8. 腾讯混元发布并开源Hy MT3（AIbase） - https://www.aibase.com/news/32503
+9. 蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%（AIbase） - https://www.aibase.com/news/32495
+10. Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局（AIbase） - https://www.aibase.com/news/32491
