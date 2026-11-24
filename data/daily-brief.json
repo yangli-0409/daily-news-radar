@@ -1,8 +1,369 @@
 {
-  "generated_at": "2026-11-24T13:07:46.699822Z",
+  "generated_at": "2026-11-24T23:09:41.111776Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_7a13ff91f5e0",
+      "title": "GitHub.com 上的通知更可预测 / More predictable notifications on GitHub.com",
+      "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+      "primary_url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c4f740cb2a4db423f2d61779bde5801181638687",
+          "title": "GitHub.com 上的通知更可预测 / More predictable notifications on GitHub.com",
+          "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-24T16:40:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c4f740cb2a4db423f2d61779bde5801181638687",
+          "title": "GitHub.com 上的通知更可预测 / More predictable notifications on GitHub.com",
+          "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-24T16:40:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.807,
+      "importance": 0.807,
+      "importance_score": 0.807,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7301,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T16:40:59Z",
+      "latest_at": "2026-11-24T16:40:59Z",
+      "primary_item": {
+        "id": "c4f740cb2a4db423f2d61779bde5801181638687",
+        "title": "GitHub.com 上的通知更可预测 / More predictable notifications on GitHub.com",
+        "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_94e986bff750",
+      "title": "Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问",
+      "url": "https://aihot.news/items/gat7lwf755dyryyd45gvlesxz",
+      "primary_url": "https://aihot.news/items/gat7lwf755dyryyd45gvlesxz",
+      "source": "Anthropic",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e668666b33294b12d346eadb4addbfec6c779264",
+          "title": "Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问",
+          "url": "https://aihot.news/items/gat7lwf755dyryyd45gvlesxz",
+          "source": "Anthropic",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T21:32:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic"
+      ],
+      "items": [
+        {
+          "id": "e668666b33294b12d346eadb4addbfec6c779264",
+          "title": "Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问",
+          "url": "https://aihot.news/items/gat7lwf755dyryyd45gvlesxz",
+          "source": "Anthropic",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T21:32:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7986,
+      "importance": 0.7986,
+      "importance_score": 0.7986,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9328,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T21:32:51Z",
+      "latest_at": "2026-11-24T21:32:51Z",
+      "primary_item": {
+        "id": "e668666b33294b12d346eadb4addbfec6c779264",
+        "title": "Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问",
+        "url": "https://aihot.news/items/gat7lwf755dyryyd45gvlesxz",
+        "source": "Anthropic",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9618ca6a3260",
+      "title": "OpenAI 发布 preprint：湿实验验证 GPT-6 系列模型具备内在蛋白质设计能力",
+      "url": "https://aihot.news/items/vld1kqsp7wkz3o3qo1ubc9sg9",
+      "primary_url": "https://aihot.news/items/vld1kqsp7wkz3o3qo1ubc9sg9",
+      "source": "OpenAI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a69c54e422fa0cbd8f72d46c71d5e28dea65c975",
+          "title": "OpenAI 发布 preprint：湿实验验证 GPT-6 系列模型具备内在蛋白质设计能力",
+          "url": "https://aihot.news/items/vld1kqsp7wkz3o3qo1ubc9sg9",
+          "source": "OpenAI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T21:02:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI"
+      ],
+      "items": [
+        {
+          "id": "a69c54e422fa0cbd8f72d46c71d5e28dea65c975",
+          "title": "OpenAI 发布 preprint：湿实验验证 GPT-6 系列模型具备内在蛋白质设计能力",
+          "url": "https://aihot.news/items/vld1kqsp7wkz3o3qo1ubc9sg9",
+          "source": "OpenAI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T21:02:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7944,
+      "importance": 0.7944,
+      "importance_score": 0.7944,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.912,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T21:02:58Z",
+      "latest_at": "2026-11-24T21:02:58Z",
+      "primary_item": {
+        "id": "a69c54e422fa0cbd8f72d46c71d5e28dea65c975",
+        "title": "OpenAI 发布 preprint：湿实验验证 GPT-6 系列模型具备内在蛋白质设计能力",
+        "url": "https://aihot.news/items/vld1kqsp7wkz3o3qo1ubc9sg9",
+        "source": "OpenAI",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_10c18e18a354",
+      "title": "GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜",
+      "url": "https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st",
+      "primary_url": "https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st",
+      "source": "Greg Brockman",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e612d0f5510c82b4322eebc4476212d9587a014f",
+          "title": "GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜",
+          "url": "https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st",
+          "source": "Greg Brockman",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T19:06:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Greg Brockman"
+      ],
+      "items": [
+        {
+          "id": "e612d0f5510c82b4322eebc4476212d9587a014f",
+          "title": "GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜",
+          "url": "https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st",
+          "source": "Greg Brockman",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T19:06:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8314,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T19:06:54Z",
+      "latest_at": "2026-11-24T19:06:54Z",
+      "primary_item": {
+        "id": "e612d0f5510c82b4322eebc4476212d9587a014f",
+        "title": "GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜",
+        "url": "https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st",
+        "source": "Greg Brockman",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cb2ed3bbf2b3",
+      "title": "Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通",
+      "url": "https://aihot.news/items/nm8mi41auemid3iivue4tel3d",
+      "primary_url": "https://aihot.news/items/nm8mi41auemid3iivue4tel3d",
+      "source": "Philipp Schmid",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7c91020dae83159fe3e9a3e4ef5726dc93b88b2a",
+          "title": "Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通",
+          "url": "https://aihot.news/items/nm8mi41auemid3iivue4tel3d",
+          "source": "Philipp Schmid",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T18:32:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Philipp Schmid"
+      ],
+      "items": [
+        {
+          "id": "7c91020dae83159fe3e9a3e4ef5726dc93b88b2a",
+          "title": "Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通",
+          "url": "https://aihot.news/items/nm8mi41auemid3iivue4tel3d",
+          "source": "Philipp Schmid",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T18:32:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7735,
+      "importance": 0.7735,
+      "importance_score": 0.7735,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8073,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T18:32:13Z",
+      "latest_at": "2026-11-24T18:32:13Z",
+      "primary_item": {
+        "id": "7c91020dae83159fe3e9a3e4ef5726dc93b88b2a",
+        "title": "Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通",
+        "url": "https://aihot.news/items/nm8mi41auemid3iivue4tel3d",
+        "source": "Philipp Schmid",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_370aacae2199",
+      "title": "Anthropic 股价跌破 83 美元 IPO 发行价，上市不到一周最低跌至 76 美元",
+      "url": "https://aihot.news/items/jurm0kx9gczvzp4o14g0o35xo",
+      "primary_url": "https://aihot.news/items/jurm0kx9gczvzp4o14g0o35xo",
+      "source": "TechCrunch：AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "150f9746253ab973bf108e0ce1b39bbc044a42a4",
+          "title": "Anthropic 股价跌破 83 美元 IPO 发行价，上市不到一周最低跌至 76 美元",
+          "url": "https://aihot.news/items/jurm0kx9gczvzp4o14g0o35xo",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T18:30:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI"
+      ],
+      "items": [
+        {
+          "id": "150f9746253ab973bf108e0ce1b39bbc044a42a4",
+          "title": "Anthropic 股价跌破 83 美元 IPO 发行价，上市不到一周最低跌至 76 美元",
+          "url": "https://aihot.news/items/jurm0kx9gczvzp4o14g0o35xo",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T18:30:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7733,
+      "importance": 0.7733,
+      "importance_score": 0.7733,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8063,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T18:30:42Z",
+      "latest_at": "2026-11-24T18:30:42Z",
+      "primary_item": {
+        "id": "150f9746253ab973bf108e0ce1b39bbc044a42a4",
+        "title": "Anthropic 股价跌破 83 美元 IPO 发行价，上市不到一周最低跌至 76 美元",
+        "url": "https://aihot.news/items/jurm0kx9gczvzp4o14g0o35xo",
+        "source": "TechCrunch：AI",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_be508b15c818",
       "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
@@ -57,14 +418,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7534,
+      "importance": 0.7534,
+      "importance_score": 0.7534,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.582,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -84,64 +445,62 @@
       }
     },
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "法典 CLI 0.172.0 / Codex CLI 0.172.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_ce21e725116a",
+      "title": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
+      "url": "https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x",
+      "primary_url": "https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x",
+      "source": "Ars Technica：AI",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a86ce16aa6bbfbe39d95e707d790bdd9e72a0561",
-          "title": "法典 CLI 0.172.0 / Codex CLI 0.172.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-24T00:00:00Z"
+          "id": "652bf4c338a71ac9ad9d5d966cabc30935eb164a",
+          "title": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
+          "url": "https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x",
+          "source": "Ars Technica：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T12:30:05Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "Ars Technica：AI"
       ],
       "items": [
         {
-          "id": "a86ce16aa6bbfbe39d95e707d790bdd9e72a0561",
-          "title": "法典 CLI 0.172.0 / Codex CLI 0.172.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-24T00:00:00Z"
+          "id": "652bf4c338a71ac9ad9d5d966cabc30935eb164a",
+          "title": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
+          "url": "https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x",
+          "source": "Ars Technica：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T12:30:05Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7846,
-      "importance": 0.7846,
-      "importance_score": 0.7846,
-      "importance_label": "官方更新",
+      "score": 0.7232,
+      "importance": 0.7232,
+      "importance_score": 0.7232,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.4529,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5558,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-24T00:00:00Z",
-      "latest_at": "2026-11-24T00:00:00Z",
+      "earliest_at": "2026-11-24T12:30:05Z",
+      "latest_at": "2026-11-24T12:30:05Z",
       "primary_item": {
-        "id": "a86ce16aa6bbfbe39d95e707d790bdd9e72a0561",
-        "title": "法典 CLI 0.172.0 / Codex CLI 0.172.0",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
+        "id": "652bf4c338a71ac9ad9d5d966cabc30935eb164a",
+        "title": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
+        "url": "https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x",
+        "source": "Ars Technica：AI",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -179,20 +538,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.582,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-24T13:07:46.699822Z",
       "latest_at": "2026-11-24T13:07:46.699822Z",
@@ -202,126 +560,6 @@
         "url": "https://www.aibase.com/news/32498",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ee15ce0519b3",
-      "title": "OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 Agent 无停机防御系统",
-      "url": "https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h",
-      "primary_url": "https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h",
-      "source": "Tibo",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f2847a63845c9183f5601cf182e9cdc1685854a4",
-          "title": "OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 Agent 无停机防御系统",
-          "url": "https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h",
-          "source": "Tibo",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-24T08:15:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Tibo"
-      ],
-      "items": [
-        {
-          "id": "f2847a63845c9183f5601cf182e9cdc1685854a4",
-          "title": "OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 Agent 无停机防御系统",
-          "url": "https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h",
-          "source": "Tibo",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-24T08:15:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7714,
-      "importance": 0.7714,
-      "importance_score": 0.7714,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7972,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T08:15:44Z",
-      "latest_at": "2026-11-24T08:15:44Z",
-      "primary_item": {
-        "id": "f2847a63845c9183f5601cf182e9cdc1685854a4",
-        "title": "OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 Agent 无停机防御系统",
-        "url": "https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h",
-        "source": "Tibo",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_96ca73b6fb66",
-      "title": "卡兹克分享两个优化用户体验和产品动效的 Prompt",
-      "url": "https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0",
-      "primary_url": "https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0",
-      "source": "卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c101d502c25af27b3a72e882b5d08e8f5dd42c67",
-          "title": "卡兹克分享两个优化用户体验和产品动效的 Prompt",
-          "url": "https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0",
-          "source": "卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-24T06:12:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "卡兹克"
-      ],
-      "items": [
-        {
-          "id": "c101d502c25af27b3a72e882b5d08e8f5dd42c67",
-          "title": "卡兹克分享两个优化用户体验和产品动效的 Prompt",
-          "url": "https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0",
-          "source": "卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-24T06:12:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7114,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T06:12:14Z",
-      "latest_at": "2026-11-24T06:12:14Z",
-      "primary_item": {
-        "id": "c101d502c25af27b3a72e882b5d08e8f5dd42c67",
-        "title": "卡兹克分享两个优化用户体验和产品动效的 Prompt",
-        "url": "https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0",
-        "source": "卡兹克",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -359,20 +597,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.582,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-24T13:07:46.699822Z",
       "latest_at": "2026-11-24T13:07:46.699822Z",
@@ -437,17 +674,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7417,
-      "importance": 0.7417,
-      "importance_score": 0.7417,
-      "importance_label": "行业动态",
+      "score": 0.6581,
+      "importance": 0.6581,
+      "importance_score": 0.6581,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5234,
+        "recency": 0.1054,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -460,66 +697,6 @@
         "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
         "source": "ChinaTalk",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_541e4e5d4292",
-      "title": "问题状态和存储库板处于公共预览状态 / Issue statuses and repository boards are in public preview",
-      "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "12ede07f3f701aadaf7c8c928c0f2f8fa887d17f",
-          "title": "问题状态和存储库板处于公共预览状态 / Issue statuses and repository boards are in public preview",
-          "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T20:37:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "12ede07f3f701aadaf7c8c928c0f2f8fa887d17f",
-          "title": "问题状态和存储库板处于公共预览状态 / Issue statuses and repository boards are in public preview",
-          "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T20:37:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7234,
-      "importance": 0.7234,
-      "importance_score": 0.7234,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3121,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-23T20:37:11Z",
-      "latest_at": "2026-11-23T20:37:11Z",
-      "primary_item": {
-        "id": "12ede07f3f701aadaf7c8c928c0f2f8fa887d17f",
-        "title": "问题状态和存储库板处于公共预览状态 / Issue statuses and repository boards are in public preview",
-        "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -557,20 +734,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.582,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-24T13:07:46.699822Z",
       "latest_at": "2026-11-24T13:07:46.699822Z",
@@ -580,65 +756,6 @@
         "url": "https://www.aibase.com/news/32497",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2b0d26496083",
-      "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
-      "url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
-      "primary_url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
-      "source": "公众号：MiniMax",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5fedca57db7cbec626bec133d83e1bb55f3c5a58",
-          "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
-          "url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
-          "source": "公众号：MiniMax",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-24T02:11:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：MiniMax"
-      ],
-      "items": [
-        {
-          "id": "5fedca57db7cbec626bec133d83e1bb55f3c5a58",
-          "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
-          "url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
-          "source": "公众号：MiniMax",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-24T02:11:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7209,
-      "importance": 0.7209,
-      "importance_score": 0.7209,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5443,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-24T02:11:36Z",
-      "latest_at": "2026-11-24T02:11:36Z",
-      "primary_item": {
-        "id": "5fedca57db7cbec626bec133d83e1bb55f3c5a58",
-        "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
-        "url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
-        "source": "公众号：MiniMax",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -676,20 +793,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.582,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-24T13:07:46.699822Z",
       "latest_at": "2026-11-24T13:07:46.699822Z",
@@ -699,6 +815,84 @@
         "url": "https://www.aibase.com/news/32496",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f796e127a00b",
+      "title": "GPT-6.2 Astra 自主破解 1808 年匿名素描本作者之谜 / GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
+      "primary_url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
+      "source": "Simon Willison",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "6c33fdfb556308eb2eb976575ca200c4211c9813",
+          "title": "GPT-6.2 Astra 自主破解 1808 年匿名素描本作者之谜 / GPT 6.2 Astra Solves a Historical Mystery",
+          "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-24T16:53:59Z"
+        },
+        {
+          "id": "c8495f14e898478fe8dc6cb034b57f1dddf910ce",
+          "title": "GPT-6.2 Astra 自主破解 1808 年匿名素描本作者之谜",
+          "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "Simon Willison"
+      ],
+      "items": [
+        {
+          "id": "6c33fdfb556308eb2eb976575ca200c4211c9813",
+          "title": "GPT-6.2 Astra 自主破解 1808 年匿名素描本作者之谜 / GPT 6.2 Astra Solves a Historical Mystery",
+          "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-24T16:53:59Z"
+        },
+        {
+          "id": "c8495f14e898478fe8dc6cb034b57f1dddf910ce",
+          "title": "GPT-6.2 Astra 自主破解 1808 年匿名素描本作者之谜",
+          "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5858,
+      "importance": 0.5858,
+      "importance_score": 0.5858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.7391,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-24T16:53:59Z",
+      "latest_at": "2026-11-24T23:09:41.111776Z",
+      "primary_item": {
+        "id": "6c33fdfb556308eb2eb976575ca200c4211c9813",
+        "title": "GPT-6.2 Astra 自主破解 1808 年匿名素描本作者之谜 / GPT 6.2 Astra Solves a Historical Mystery",
+        "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
+        "source": "Simon Willison",
+        "source_name": "OPML RSS"
       }
     },
     {
@@ -736,20 +930,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.582,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-24T13:07:46.699822Z",
       "latest_at": "2026-11-24T13:07:46.699822Z",
@@ -759,84 +952,6 @@
         "url": "https://www.aibase.com/news/32499",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d2e5cf3b777e",
-      "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
-      "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
-      "primary_url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
-      "source": "TechCrunch：AI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7b2b28d61e8965714d400beb4605a5a38ed70f68",
-          "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
-          "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
-          "source": "TechCrunch：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T15:04:01Z"
-        },
-        {
-          "id": "98a7afc27ec3273e81f07ed684ce7454d1a7bd31",
-          "title": "特朗普支持黄仁勋重返英伟达CEO岗位，称美方无不当行为证据",
-          "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
-          "source": "TechCrunch：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T15:04:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch：AI"
-      ],
-      "items": [
-        {
-          "id": "7b2b28d61e8965714d400beb4605a5a38ed70f68",
-          "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
-          "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
-          "source": "TechCrunch：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T15:04:01Z"
-        },
-        {
-          "id": "98a7afc27ec3273e81f07ed684ce7454d1a7bd31",
-          "title": "特朗普支持黄仁勋重返英伟达CEO岗位，称美方无不当行为证据",
-          "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
-          "source": "TechCrunch：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T15:04:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6531,
-      "importance": 0.6531,
-      "importance_score": 0.6531,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0807,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-23T15:04:01Z",
-      "latest_at": "2026-11-23T15:04:01Z",
-      "primary_item": {
-        "id": "7b2b28d61e8965714d400beb4605a5a38ed70f68",
-        "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
-        "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
-        "source": "TechCrunch：AI",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -874,20 +989,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.582,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-24T13:07:46.699822Z",
       "latest_at": "2026-11-24T13:07:46.699822Z",
@@ -897,6 +1011,240 @@
         "url": "https://www.aibase.com/news/32502",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d6abf7ddb0f3",
+      "title": "GPT-6 模型展示了内在的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "primary_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "d7ad6311162a5b83805137c6cad0e7135bf56aa3",
+          "title": "GPT-6 模型展示了内在的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6382c28d435863f7b3493e9f7f114283e62872f0",
+          "title": "GPT-6 模型展示了内在的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "url": "https://news.ycombinator.com/item?id=50634658",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T21:02:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d7ad6311162a5b83805137c6cad0e7135bf56aa3",
+          "title": "GPT-6 模型展示了内在的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6382c28d435863f7b3493e9f7f114283e62872f0",
+          "title": "GPT-6 模型展示了内在的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "url": "https://news.ycombinator.com/item?id=50634658",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T21:02:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-24T21:02:22Z",
+      "latest_at": "2026-11-24T23:09:41.111776Z",
+      "primary_item": {
+        "id": "d7ad6311162a5b83805137c6cad0e7135bf56aa3",
+        "title": "GPT-6 模型展示了内在的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_1951d3d0aee3",
+      "title": "Declare 是一款专为您和您的 AI 设计的 UI 语言",
+      "url": "https://davidtemkin.github.io/declarelang",
+      "primary_url": "https://davidtemkin.github.io/declarelang",
+      "source": "davidtemkin.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "cfbfe9d48cfbe0877040431e2f4ebd1df0157648",
+          "title": "Declare 是一款专为您和您的 AI 设计的 UI 语言",
+          "url": "https://davidtemkin.github.io/declarelang",
+          "source": "davidtemkin.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T20:20:41.782000Z"
+        },
+        {
+          "id": "87955d17fa53c0e7d71a30917d387703ade3b5f7",
+          "title": "Declare 是一款专为您和您的 AI 设计的 UI 语言 / Declare is a UI language for you and your AI",
+          "url": "https://davidtemkin.github.io/declarelang",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-24T02:36:56Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "davidtemkin.github.io"
+      ],
+      "items": [
+        {
+          "id": "cfbfe9d48cfbe0877040431e2f4ebd1df0157648",
+          "title": "Declare 是一款专为您和您的 AI 设计的 UI 语言",
+          "url": "https://davidtemkin.github.io/declarelang",
+          "source": "davidtemkin.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T20:20:41.782000Z"
+        },
+        {
+          "id": "87955d17fa53c0e7d71a30917d387703ade3b5f7",
+          "title": "Declare 是一款专为您和您的 AI 设计的 UI 语言 / Declare is a UI language for you and your AI",
+          "url": "https://davidtemkin.github.io/declarelang",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-24T02:36:56Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5245,
+      "importance": 0.5245,
+      "importance_score": 0.5245,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8826,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-24T02:36:56Z",
+      "latest_at": "2026-11-24T20:20:41.782000Z",
+      "primary_item": {
+        "id": "cfbfe9d48cfbe0877040431e2f4ebd1df0157648",
+        "title": "Declare 是一款专为您和您的 AI 设计的 UI 语言",
+        "url": "https://davidtemkin.github.io/declarelang",
+        "source": "davidtemkin.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_88d7ae9c702e",
+      "title": "被指控在OpenAI安装窃听设备的沙特工程师有望以100万美元保释金获释",
+      "url": "https://www.businessinsider.com/openai-engineer-abdulrahman-alfozan-1-million-bond-2026-11",
+      "primary_url": "https://www.businessinsider.com/openai-engineer-abdulrahman-alfozan-1-million-bond-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fc00c73a38da196bcc7853861a776d0148be025f",
+          "title": "被指控在OpenAI安装窃听设备的沙特工程师有望以100万美元保释金获释",
+          "url": "https://www.businessinsider.com/openai-engineer-abdulrahman-alfozan-1-million-bond-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T20:20:41.910000Z"
+        },
+        {
+          "id": "ab9a61998e8e6ecf967e329fea002b77644688d4",
+          "title": "被指控在OpenAI安装窃听设备的沙特工程师有望以100万美元保释金获释 / The Saudi engineer accused of bugging OpenAI is set to be released on a $1 million bond",
+          "url": "https://www.businessinsider.com/openai-engineer-abdulrahman-alfozan-1-million-bond-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-24T20:15:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "fc00c73a38da196bcc7853861a776d0148be025f",
+          "title": "被指控在OpenAI安装窃听设备的沙特工程师有望以100万美元保释金获释",
+          "url": "https://www.businessinsider.com/openai-engineer-abdulrahman-alfozan-1-million-bond-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T20:20:41.910000Z"
+        },
+        {
+          "id": "ab9a61998e8e6ecf967e329fea002b77644688d4",
+          "title": "被指控在OpenAI安装窃听设备的沙特工程师有望以100万美元保释金获释 / The Saudi engineer accused of bugging OpenAI is set to be released on a $1 million bond",
+          "url": "https://www.businessinsider.com/openai-engineer-abdulrahman-alfozan-1-million-bond-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-24T20:15:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5245,
+      "importance": 0.5245,
+      "importance_score": 0.5245,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8826,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-24T20:15:38Z",
+      "latest_at": "2026-11-24T20:20:41.910000Z",
+      "primary_item": {
+        "id": "fc00c73a38da196bcc7853861a776d0148be025f",
+        "title": "被指控在OpenAI安装窃听设备的沙特工程师有望以100万美元保释金获释",
+        "url": "https://www.businessinsider.com/openai-engineer-abdulrahman-alfozan-1-million-bond-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -934,20 +1282,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.582,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-24T13:07:46.699822Z",
       "latest_at": "2026-11-24T13:07:46.699822Z",
@@ -957,360 +1304,6 @@
         "url": "https://www.aibase.com/news/32503",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5f934bd9abd0",
-      "title": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
-      "url": "https://www.aibase.com/news/32495",
-      "primary_url": "https://www.aibase.com/news/32495",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2e622b92a9240c24fb6dbafebe9372c2023ac501",
-          "title": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
-          "url": "https://www.aibase.com/news/32495",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-24T13:07:46.699822Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2e622b92a9240c24fb6dbafebe9372c2023ac501",
-          "title": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
-          "url": "https://www.aibase.com/news/32495",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-24T13:07:46.699822Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T13:07:46.699822Z",
-      "latest_at": "2026-11-24T13:07:46.699822Z",
-      "primary_item": {
-        "id": "2e622b92a9240c24fb6dbafebe9372c2023ac501",
-        "title": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
-        "url": "https://www.aibase.com/news/32495",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_fb7a1ad02384",
-      "title": "亚马逊表示，黑客的AI代理在几乎无需人工干预的情况下发现了该零日漏洞并加以利用",
-      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
-      "primary_url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5e089dc62f56f332a40c45b5a81c0ba8090e32e0",
-          "title": "亚马逊表示，黑客的AI代理在几乎无需人工干预的情况下发现了该零日漏洞并加以利用",
-          "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-24T12:36:42.946000Z"
-        },
-        {
-          "id": "6a3b11e3db906b4cadcce8ad658903c2e7baa34e",
-          "title": "亚马逊表示，黑客的AI代理在几乎无需人工干预的情况下发现了该零日漏洞并加以利用 / Amazon says hackers' AI agents found and exploited 0-day with little human input",
-          "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-24T12:30:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica (科技媒体)",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "5e089dc62f56f332a40c45b5a81c0ba8090e32e0",
-          "title": "亚马逊表示，黑客的AI代理在几乎无需人工干预的情况下发现了该零日漏洞并加以利用",
-          "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-24T12:36:42.946000Z"
-        },
-        {
-          "id": "6a3b11e3db906b4cadcce8ad658903c2e7baa34e",
-          "title": "亚马逊表示，黑客的AI代理在几乎无需人工干预的情况下发现了该零日漏洞并加以利用 / Amazon says hackers' AI agents found and exploited 0-day with little human input",
-          "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-24T12:30:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5437,
-      "importance": 0.5437,
-      "importance_score": 0.5437,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9784,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-24T12:30:05Z",
-      "latest_at": "2026-11-24T12:36:42.946000Z",
-      "primary_item": {
-        "id": "5e089dc62f56f332a40c45b5a81c0ba8090e32e0",
-        "title": "亚马逊表示，黑客的AI代理在几乎无需人工干预的情况下发现了该零日漏洞并加以利用",
-        "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_9ee40c728107",
-      "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
-      "url": "https://www.aibase.com/news/32491",
-      "primary_url": "https://www.aibase.com/news/32491",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "666f6bffb407ff15ac15703be62d6ea18439ba20",
-          "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
-          "url": "https://www.aibase.com/news/32491",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-24T12:07:46.699822Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "666f6bffb407ff15ac15703be62d6ea18439ba20",
-          "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
-          "url": "https://www.aibase.com/news/32491",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-24T12:07:46.699822Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9583,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T12:07:46.699822Z",
-      "latest_at": "2026-11-24T12:07:46.699822Z",
-      "primary_item": {
-        "id": "666f6bffb407ff15ac15703be62d6ea18439ba20",
-        "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
-        "url": "https://www.aibase.com/news/32491",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a2374702c60b",
-      "title": "人工智能本应势不可挡。黄仁勋短暂的“流放”却表明，这场热潮远非如此。",
-      "url": "https://www.businessinsider.com/jensen-huang-nvidia-exile-ai-boom-weakness-2026-11",
-      "primary_url": "https://www.businessinsider.com/jensen-huang-nvidia-exile-ai-boom-weakness-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a620b80f408d76965e98bc3e01b30ab74af562bc",
-          "title": "人工智能本应势不可挡。黄仁勋短暂的“流放”却表明，这场热潮远非如此。",
-          "url": "https://www.businessinsider.com/jensen-huang-nvidia-exile-ai-boom-weakness-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-24T10:29:45.127000Z"
-        },
-        {
-          "id": "b5cf0b057cda51f450c7f3118f1eac595e496c94",
-          "title": "人工智能本应势不可挡。黄仁勋短暂的“流放”却表明，这场热潮远非如此。 / If AI is inevitable how come it all hinges on one guy?",
-          "url": "https://www.businessinsider.com/jensen-huang-nvidia-exile-ai-boom-weakness-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-24T10:18:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "a620b80f408d76965e98bc3e01b30ab74af562bc",
-          "title": "人工智能本应势不可挡。黄仁勋短暂的“流放”却表明，这场热潮远非如此。",
-          "url": "https://www.businessinsider.com/jensen-huang-nvidia-exile-ai-boom-weakness-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-24T10:29:45.127000Z"
-        },
-        {
-          "id": "b5cf0b057cda51f450c7f3118f1eac595e496c94",
-          "title": "人工智能本应势不可挡。黄仁勋短暂的“流放”却表明，这场热潮远非如此。 / If AI is inevitable how come it all hinges on one guy?",
-          "url": "https://www.businessinsider.com/jensen-huang-nvidia-exile-ai-boom-weakness-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-24T10:18:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5261,
-      "importance": 0.5261,
-      "importance_score": 0.5261,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8903,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-24T10:18:01Z",
-      "latest_at": "2026-11-24T10:29:45.127000Z",
-      "primary_item": {
-        "id": "a620b80f408d76965e98bc3e01b30ab74af562bc",
-        "title": "人工智能本应势不可挡。黄仁勋短暂的“流放”却表明，这场热潮远非如此。",
-        "url": "https://www.businessinsider.com/jensen-huang-nvidia-exile-ai-boom-weakness-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e0ad3efb80c2",
-      "title": "人工智能中的杰文斯悖论：更便宜的代币无法支付资本支出 / Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
-      "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex",
-      "primary_url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "887f336137c84dfeaff5096ecdccef19dd061d87",
-          "title": "人工智能中的杰文斯悖论：更便宜的代币无法支付资本支出 / Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
-          "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-24T09:39:50Z"
-        },
-        {
-          "id": "bccc2e0e0eaaf4e3813033e3f98bd490fa1cc34b",
-          "title": "人工智能中的杰文斯悖论：更便宜的代币无法支付资本支出 / Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
-          "url": "https://news.ycombinator.com/item?id=50625888",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-24T09:39:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "887f336137c84dfeaff5096ecdccef19dd061d87",
-          "title": "人工智能中的杰文斯悖论：更便宜的代币无法支付资本支出 / Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
-          "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-24T09:39:50Z"
-        },
-        {
-          "id": "bccc2e0e0eaaf4e3813033e3f98bd490fa1cc34b",
-          "title": "人工智能中的杰文斯悖论：更便宜的代币无法支付资本支出 / Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
-          "url": "https://news.ycombinator.com/item?id=50625888",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-24T09:39:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5191,
-      "importance": 0.5191,
-      "importance_score": 0.5191,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8556,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-24T09:39:50Z",
-      "latest_at": "2026-11-24T09:39:50Z",
-      "primary_item": {
-        "id": "887f336137c84dfeaff5096ecdccef19dd061d87",
-        "title": "人工智能中的杰文斯悖论：更便宜的代币无法支付资本支出 / Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
-        "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     }
   ]
