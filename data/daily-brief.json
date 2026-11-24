@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-11-24T02:41:47.427755Z",
+  "generated_at": "2026-11-24T13:07:46.699822Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_be508b15c818",
+      "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
+      "url": "https://www.aibase.com/news/32500",
+      "primary_url": "https://www.aibase.com/news/32500",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0777b16ef8a83cf0a816d8739ec609de73c58d9f",
+          "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
+          "url": "https://www.aibase.com/news/32500",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T13:07:46.699822Z"
+        },
+        {
+          "id": "9d17f12831db889bf4dec8392971d5b95c23383a",
+          "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会「回头看」",
+          "url": "https://www.aibase.com/zh/news/32500",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0777b16ef8a83cf0a816d8739ec609de73c58d9f",
+          "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
+          "url": "https://www.aibase.com/news/32500",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T13:07:46.699822Z"
+        },
+        {
+          "id": "9d17f12831db889bf4dec8392971d5b95c23383a",
+          "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会「回头看」",
+          "url": "https://www.aibase.com/zh/news/32500",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T13:07:46.699822Z",
+      "latest_at": "2026-11-24T13:07:46.699822Z",
+      "primary_item": {
+        "id": "0777b16ef8a83cf0a816d8739ec609de73c58d9f",
+        "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
+        "url": "https://www.aibase.com/news/32500",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
     {
       "story_id": "story_91992ed9f82d",
       "title": "法典 CLI 0.172.0 / Codex CLI 0.172.0",
@@ -38,14 +118,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8715,
-      "importance": 0.8715,
-      "importance_score": 0.8715,
+      "score": 0.7846,
+      "importance": 0.7846,
+      "importance_score": 0.7846,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8876,
+        "recency": 0.4529,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,83 +145,321 @@
       }
     },
     {
-      "story_id": "story_b55c17ab3d42",
-      "title": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
-      "url": "https://www.aibase.com/news/32484",
-      "primary_url": "https://www.aibase.com/news/32484",
+      "story_id": "story_a4b244609cc7",
+      "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+      "url": "https://www.aibase.com/news/32498",
+      "primary_url": "https://www.aibase.com/news/32498",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "99151631d278e7c2f783d6c0584352d6f714dbbd",
-          "title": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
-          "url": "https://www.aibase.com/news/32484",
+          "id": "6928b217a172943345aa47855e8cfd6f8d3433bb",
+          "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+          "url": "https://www.aibase.com/news/32498",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T02:41:47.427755Z"
-        },
-        {
-          "id": "eee4650d6728b18a110120c181f8e741369d04fb",
-          "title": "一句提示词造一个「灾情」：公安部网安局公布 10 起 AI 造谣典型案",
-          "url": "https://www.aibase.com/zh/news/32484",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-24T13:07:46.699822Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "99151631d278e7c2f783d6c0584352d6f714dbbd",
-          "title": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
-          "url": "https://www.aibase.com/news/32484",
+          "id": "6928b217a172943345aa47855e8cfd6f8d3433bb",
+          "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+          "url": "https://www.aibase.com/news/32498",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T02:41:47.427755Z"
-        },
-        {
-          "id": "eee4650d6728b18a110120c181f8e741369d04fb",
-          "title": "一句提示词造一个「灾情」：公安部网安局公布 10 起 AI 造谣典型案",
-          "url": "https://www.aibase.com/zh/news/32484",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-24T13:07:46.699822Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T13:07:46.699822Z",
+      "latest_at": "2026-11-24T13:07:46.699822Z",
+      "primary_item": {
+        "id": "6928b217a172943345aa47855e8cfd6f8d3433bb",
+        "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+        "url": "https://www.aibase.com/news/32498",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ee15ce0519b3",
+      "title": "OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 Agent 无停机防御系统",
+      "url": "https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h",
+      "primary_url": "https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h",
+      "source": "Tibo",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f2847a63845c9183f5601cf182e9cdc1685854a4",
+          "title": "OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 Agent 无停机防御系统",
+          "url": "https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h",
+          "source": "Tibo",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T08:15:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Tibo"
+      ],
+      "items": [
+        {
+          "id": "f2847a63845c9183f5601cf182e9cdc1685854a4",
+          "title": "OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 Agent 无停机防御系统",
+          "url": "https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h",
+          "source": "Tibo",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T08:15:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7714,
+      "importance": 0.7714,
+      "importance_score": 0.7714,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7972,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T08:15:44Z",
+      "latest_at": "2026-11-24T08:15:44Z",
+      "primary_item": {
+        "id": "f2847a63845c9183f5601cf182e9cdc1685854a4",
+        "title": "OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 Agent 无停机防御系统",
+        "url": "https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h",
+        "source": "Tibo",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_96ca73b6fb66",
+      "title": "卡兹克分享两个优化用户体验和产品动效的 Prompt",
+      "url": "https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0",
+      "primary_url": "https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0",
+      "source": "卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c101d502c25af27b3a72e882b5d08e8f5dd42c67",
+          "title": "卡兹克分享两个优化用户体验和产品动效的 Prompt",
+          "url": "https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0",
+          "source": "卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T06:12:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "卡兹克"
+      ],
+      "items": [
+        {
+          "id": "c101d502c25af27b3a72e882b5d08e8f5dd42c67",
+          "title": "卡兹克分享两个优化用户体验和产品动效的 Prompt",
+          "url": "https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0",
+          "source": "卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T06:12:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7114,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T06:12:14Z",
+      "latest_at": "2026-11-24T06:12:14Z",
+      "primary_item": {
+        "id": "c101d502c25af27b3a72e882b5d08e8f5dd42c67",
+        "title": "卡兹克分享两个优化用户体验和产品动效的 Prompt",
+        "url": "https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0",
+        "source": "卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_40bec5aa6efa",
+      "title": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
+      "url": "https://www.aibase.com/news/32494",
+      "primary_url": "https://www.aibase.com/news/32494",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4be391a939460f17e30b60f0468d6e9b1503e7d2",
+          "title": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
+          "url": "https://www.aibase.com/news/32494",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T13:07:46.699822Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4be391a939460f17e30b60f0468d6e9b1503e7d2",
+          "title": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
+          "url": "https://www.aibase.com/news/32494",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T13:07:46.699822Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T13:07:46.699822Z",
+      "latest_at": "2026-11-24T13:07:46.699822Z",
+      "primary_item": {
+        "id": "4be391a939460f17e30b60f0468d6e9b1503e7d2",
+        "title": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
+        "url": "https://www.aibase.com/news/32494",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_674ac2d96267",
+      "title": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
+      "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
+      "primary_url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
+      "source": "ChinaTalk",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b91e28e62d90a1962519b4ee38167faf771e196c",
+          "title": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
+          "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
+          "source": "ChinaTalk",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T01:41:25Z"
+        },
+        {
+          "id": "763a8e60afeb209842e28ed26dcfb3ca21fbd61e",
+          "title": "ChinaTalk播客：Nvidia董事会恢复黄仁勋CEO职务，Megaspeed被列入实体清单",
+          "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
+          "source": "ChinaTalk",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T01:41:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "ChinaTalk"
+      ],
+      "items": [
+        {
+          "id": "b91e28e62d90a1962519b4ee38167faf771e196c",
+          "title": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
+          "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
+          "source": "ChinaTalk",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T01:41:25Z"
+        },
+        {
+          "id": "763a8e60afeb209842e28ed26dcfb3ca21fbd61e",
+          "title": "ChinaTalk播客：Nvidia董事会恢复黄仁勋CEO职务，Megaspeed被列入实体清单",
+          "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
+          "source": "ChinaTalk",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T01:41:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5234,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-24T02:41:47.427755Z",
-      "latest_at": "2026-11-24T02:41:47.427755Z",
+      "earliest_at": "2026-11-24T01:41:25Z",
+      "latest_at": "2026-11-24T01:41:25Z",
       "primary_item": {
-        "id": "99151631d278e7c2f783d6c0584352d6f714dbbd",
-        "title": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
-        "url": "https://www.aibase.com/news/32484",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "b91e28e62d90a1962519b4ee38167faf771e196c",
+        "title": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
+        "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
+        "source": "ChinaTalk",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -179,21 +497,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8104,
-      "importance": 0.8104,
-      "importance_score": 0.8104,
+      "score": 0.7234,
+      "importance": 0.7234,
+      "importance_score": 0.7234,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7468,
+        "recency": 0.3121,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-23T20:37:11Z",
       "latest_at": "2026-11-23T20:37:11Z",
@@ -203,6 +520,66 @@
         "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_3d7f87193900",
+      "title": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
+      "url": "https://www.aibase.com/news/32497",
+      "primary_url": "https://www.aibase.com/news/32497",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bb0484b469db26a7774030905a1acd57dd9683f5",
+          "title": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
+          "url": "https://www.aibase.com/news/32497",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T13:07:46.699822Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "bb0484b469db26a7774030905a1acd57dd9683f5",
+          "title": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
+          "url": "https://www.aibase.com/news/32497",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T13:07:46.699822Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T13:07:46.699822Z",
+      "latest_at": "2026-11-24T13:07:46.699822Z",
+      "primary_item": {
+        "id": "bb0484b469db26a7774030905a1acd57dd9683f5",
+        "title": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
+        "url": "https://www.aibase.com/news/32497",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -240,20 +617,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8078,
-      "importance": 0.8078,
-      "importance_score": 0.8078,
+      "score": 0.7209,
+      "importance": 0.7209,
+      "importance_score": 0.7209,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.979,
+        "recency": 0.5443,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-24T02:11:36Z",
       "latest_at": "2026-11-24T02:11:36Z",
@@ -266,402 +642,21 @@
       }
     },
     {
-      "story_id": "story_16b3c248110d",
-      "title": "谷歌让 Gemini 4 智能体“开会”改造量子算法：最高提速 290 倍，还附带数学正确性证明",
-      "url": "https://www.aibase.com/news/32481",
-      "primary_url": "https://www.aibase.com/news/32481",
+      "story_id": "story_2fce111c8cb6",
+      "title": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
+      "url": "https://www.aibase.com/news/32496",
+      "primary_url": "https://www.aibase.com/news/32496",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2768257bfbae3e6d3f5772db07279c754c26c0bb",
-          "title": "谷歌让 Gemini 4 智能体“开会”改造量子算法：最高提速 290 倍，还附带数学正确性证明",
-          "url": "https://www.aibase.com/news/32481",
+          "id": "6982391f613a612fdf6d58b07f999ce00cff42fc",
+          "title": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
+          "url": "https://www.aibase.com/news/32496",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T02:41:47.427755Z"
-        },
-        {
-          "id": "d014d34fb369fe09880321a630f74ed33cdaa43b",
-          "title": "谷歌让 Gemini 4 智能体「开会」改造量子算法：最高提速 290 倍，还附带数学正确性证明",
-          "url": "https://www.aibase.com/zh/news/32481",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "2768257bfbae3e6d3f5772db07279c754c26c0bb",
-          "title": "谷歌让 Gemini 4 智能体“开会”改造量子算法：最高提速 290 倍，还附带数学正确性证明",
-          "url": "https://www.aibase.com/news/32481",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-24T02:41:47.427755Z"
-        },
-        {
-          "id": "d014d34fb369fe09880321a630f74ed33cdaa43b",
-          "title": "谷歌让 Gemini 4 智能体「开会」改造量子算法：最高提速 290 倍，还附带数学正确性证明",
-          "url": "https://www.aibase.com/zh/news/32481",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T02:41:47.427755Z",
-      "latest_at": "2026-11-24T02:41:47.427755Z",
-      "primary_item": {
-        "id": "2768257bfbae3e6d3f5772db07279c754c26c0bb",
-        "title": "谷歌让 Gemini 4 智能体“开会”改造量子算法：最高提速 290 倍，还附带数学正确性证明",
-        "url": "https://www.aibase.com/news/32481",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_674ac2d96267",
-      "title": "ChinaTalk播客：Nvidia董事会恢复黄仁勋CEO职务，Megaspeed被列入实体清单",
-      "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
-      "primary_url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
-      "source": "ChinaTalk",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "763a8e60afeb209842e28ed26dcfb3ca21fbd61e",
-          "title": "ChinaTalk播客：Nvidia董事会恢复黄仁勋CEO职务，Megaspeed被列入实体清单",
-          "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
-          "source": "ChinaTalk",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-24T01:41:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "ChinaTalk"
-      ],
-      "items": [
-        {
-          "id": "763a8e60afeb209842e28ed26dcfb3ca21fbd61e",
-          "title": "ChinaTalk播客：Nvidia董事会恢复黄仁勋CEO职务，Megaspeed被列入实体清单",
-          "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
-          "source": "ChinaTalk",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-24T01:41:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8036,
-      "importance": 0.8036,
-      "importance_score": 0.8036,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9581,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T01:41:25Z",
-      "latest_at": "2026-11-24T01:41:25Z",
-      "primary_item": {
-        "id": "763a8e60afeb209842e28ed26dcfb3ca21fbd61e",
-        "title": "ChinaTalk播客：Nvidia董事会恢复黄仁勋CEO职务，Megaspeed被列入实体清单",
-        "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
-        "source": "ChinaTalk",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6797a54782ed",
-      "title": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
-      "url": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk",
-      "primary_url": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk",
-      "source": "Tibo",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4070253bf79d488bd7746589c2cc31e071dabafe",
-          "title": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
-          "url": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk",
-          "source": "Tibo",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T22:48:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Tibo"
-      ],
-      "items": [
-        {
-          "id": "4070253bf79d488bd7746589c2cc31e071dabafe",
-          "title": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
-          "url": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk",
-          "source": "Tibo",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T22:48:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7796,
-      "importance": 0.7796,
-      "importance_score": 0.7796,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.838,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T22:48:30Z",
-      "latest_at": "2026-11-23T22:48:30Z",
-      "primary_item": {
-        "id": "4070253bf79d488bd7746589c2cc31e071dabafe",
-        "title": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
-        "url": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk",
-        "source": "Tibo",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8570d9720911",
-      "title": "Claude 推出插件，统一连接器与技能的接入方式",
-      "url": "https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2",
-      "primary_url": "https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2",
-      "source": "Claude",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cb27c5d9857e0d89ecc85f6ea5f3c9160207d1d2",
-          "title": "Claude 推出插件，统一连接器与技能的接入方式",
-          "url": "https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2",
-          "source": "Claude",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T20:56:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude"
-      ],
-      "items": [
-        {
-          "id": "cb27c5d9857e0d89ecc85f6ea5f3c9160207d1d2",
-          "title": "Claude 推出插件，统一连接器与技能的接入方式",
-          "url": "https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2",
-          "source": "Claude",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T20:56:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.764,
-      "importance": 0.764,
-      "importance_score": 0.764,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.76,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T20:56:12Z",
-      "latest_at": "2026-11-23T20:56:12Z",
-      "primary_item": {
-        "id": "cb27c5d9857e0d89ecc85f6ea5f3c9160207d1d2",
-        "title": "Claude 推出插件，统一连接器与技能的接入方式",
-        "url": "https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2",
-        "source": "Claude",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_091729ff4a7e",
-      "title": "Figma agent 正式开放至 FigJam 和 Figma Slides",
-      "url": "https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s",
-      "primary_url": "https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s",
-      "source": "Figma AI / Agent / Make",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2b2a1e96a1a12d5ae8d1a5d0cff2b293e515f476",
-          "title": "Figma agent 正式开放至 FigJam 和 Figma Slides",
-          "url": "https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s",
-          "source": "Figma AI / Agent / Make",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T20:54:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Figma AI / Agent / Make"
-      ],
-      "items": [
-        {
-          "id": "2b2a1e96a1a12d5ae8d1a5d0cff2b293e515f476",
-          "title": "Figma agent 正式开放至 FigJam 和 Figma Slides",
-          "url": "https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s",
-          "source": "Figma AI / Agent / Make",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T20:54:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7585,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T20:54:00Z",
-      "latest_at": "2026-11-23T20:54:00Z",
-      "primary_item": {
-        "id": "2b2a1e96a1a12d5ae8d1a5d0cff2b293e515f476",
-        "title": "Figma agent 正式开放至 FigJam 和 Figma Slides",
-        "url": "https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s",
-        "source": "Figma AI / Agent / Make",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b3c4595342c9",
-      "title": "秘密扫描减少了 Slack 的误报 / Secret scanning reduces false positives for Slack",
-      "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
-      "primary_url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "75d1d6e4a5034193847eea858e77575e3ae2594d",
-          "title": "秘密扫描减少了 Slack 的误报 / Secret scanning reduces false positives for Slack",
-          "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T18:32:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "75d1d6e4a5034193847eea858e77575e3ae2594d",
-          "title": "秘密扫描减少了 Slack 的误报 / Secret scanning reduces false positives for Slack",
-          "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T18:32:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7931,
-      "importance": 0.7931,
-      "importance_score": 0.7931,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.6606,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T18:32:59Z",
-      "latest_at": "2026-11-23T18:32:59Z",
-      "primary_item": {
-        "id": "75d1d6e4a5034193847eea858e77575e3ae2594d",
-        "title": "秘密扫描减少了 Slack 的误报 / Secret scanning reduces false positives for Slack",
-        "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_30298b570f5f",
-      "title": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
-      "url": "https://www.aibase.com/news/32485",
-      "primary_url": "https://www.aibase.com/news/32485",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f2a654957d263a3d367e3b6a7b11eb63616913d0",
-          "title": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
-          "url": "https://www.aibase.com/news/32485",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-24T02:41:47.427755Z"
+          "published_at": "2026-11-24T13:07:46.699822Z"
         }
       ],
       "source_count": 1,
@@ -670,13 +665,13 @@
       ],
       "items": [
         {
-          "id": "f2a654957d263a3d367e3b6a7b11eb63616913d0",
-          "title": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
-          "url": "https://www.aibase.com/news/32485",
+          "id": "6982391f613a612fdf6d58b07f999ce00cff42fc",
+          "title": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
+          "url": "https://www.aibase.com/news/32496",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T02:41:47.427755Z"
+          "published_at": "2026-11-24T13:07:46.699822Z"
         }
       ],
       "item_count": 1,
@@ -696,73 +691,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T02:41:47.427755Z",
-      "latest_at": "2026-11-24T02:41:47.427755Z",
+      "earliest_at": "2026-11-24T13:07:46.699822Z",
+      "latest_at": "2026-11-24T13:07:46.699822Z",
       "primary_item": {
-        "id": "f2a654957d263a3d367e3b6a7b11eb63616913d0",
-        "title": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
-        "url": "https://www.aibase.com/news/32485",
+        "id": "6982391f613a612fdf6d58b07f999ce00cff42fc",
+        "title": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
+        "url": "https://www.aibase.com/news/32496",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_91d1dbd15518",
-      "title": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
-      "url": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte",
-      "primary_url": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte",
-      "source": "The Verge：AI",
-      "source_name": "AI HOT",
+      "story_id": "story_96ac3c9ddd8a",
+      "title": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
+      "url": "https://www.aibase.com/news/32499",
+      "primary_url": "https://www.aibase.com/news/32499",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "d45a51b15646f72dfb77165f9f2cfa7174133818",
-          "title": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
-          "url": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte",
-          "source": "The Verge：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T18:26:47Z"
+          "id": "19602b17dc337cbaf2329bd59915b8a279a78603",
+          "title": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
+          "url": "https://www.aibase.com/news/32499",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T13:07:46.699822Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Verge：AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "d45a51b15646f72dfb77165f9f2cfa7174133818",
-          "title": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
-          "url": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte",
-          "source": "The Verge：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T18:26:47Z"
+          "id": "19602b17dc337cbaf2329bd59915b8a279a78603",
+          "title": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
+          "url": "https://www.aibase.com/news/32499",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T13:07:46.699822Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6562,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-23T18:26:47Z",
-      "latest_at": "2026-11-23T18:26:47Z",
+      "earliest_at": "2026-11-24T13:07:46.699822Z",
+      "latest_at": "2026-11-24T13:07:46.699822Z",
       "primary_item": {
-        "id": "d45a51b15646f72dfb77165f9f2cfa7174133818",
-        "title": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
-        "url": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte",
-        "source": "The Verge：AI",
-        "source_name": "AI HOT"
+        "id": "19602b17dc337cbaf2329bd59915b8a279a78603",
+        "title": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
+        "url": "https://www.aibase.com/news/32499",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -818,17 +814,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
-      "importance_label": "行业动态",
+      "score": 0.6531,
+      "importance": 0.6531,
+      "importance_score": 0.6531,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5154,
+        "recency": 0.0807,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -844,139 +840,21 @@
       }
     },
     {
-      "story_id": "story_657086c384f7",
-      "title": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
-      "url": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2",
-      "primary_url": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2",
-      "source": "Google Blog：AI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1f3221cd21c41734197caec6558e40df0d24f1c0",
-          "title": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
-          "url": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2",
-          "source": "Google Blog：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Blog：AI"
-      ],
-      "items": [
-        {
-          "id": "1f3221cd21c41734197caec6558e40df0d24f1c0",
-          "title": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
-          "url": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2",
-          "source": "Google Blog：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7312,
-      "importance": 0.7312,
-      "importance_score": 0.7312,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.596,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-23T17:00:00Z",
-      "latest_at": "2026-11-23T17:00:00Z",
-      "primary_item": {
-        "id": "1f3221cd21c41734197caec6558e40df0d24f1c0",
-        "title": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
-        "url": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2",
-        "source": "Google Blog：AI",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_64b55d474206",
-      "title": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
-      "url": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n",
-      "primary_url": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n",
-      "source": "Google DeepMind：Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4ea8910cd1a2077c485be3249464d1c7d1ae30df",
-          "title": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
-          "url": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n",
-          "source": "Google DeepMind：Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T16:59:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind：Blog"
-      ],
-      "items": [
-        {
-          "id": "4ea8910cd1a2077c485be3249464d1c7d1ae30df",
-          "title": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
-          "url": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n",
-          "source": "Google DeepMind：Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T16:59:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7311,
-      "importance": 0.7311,
-      "importance_score": 0.7311,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5957,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-23T16:59:40Z",
-      "latest_at": "2026-11-23T16:59:40Z",
-      "primary_item": {
-        "id": "4ea8910cd1a2077c485be3249464d1c7d1ae30df",
-        "title": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
-        "url": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n",
-        "source": "Google DeepMind：Blog",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9f0a66dbf059",
-      "title": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
-      "url": "https://www.aibase.com/news/32483",
-      "primary_url": "https://www.aibase.com/news/32483",
+      "story_id": "story_8d147fd1ffb0",
+      "title": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
+      "url": "https://www.aibase.com/news/32502",
+      "primary_url": "https://www.aibase.com/news/32502",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3b316e653b3276f62cf0c470cdb13939e997800f",
-          "title": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
-          "url": "https://www.aibase.com/news/32483",
+          "id": "4263428678abdc5e8e3021f4ab3d10da72cbeac0",
+          "title": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
+          "url": "https://www.aibase.com/news/32502",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T02:41:47.427755Z"
+          "published_at": "2026-11-24T13:07:46.699822Z"
         }
       ],
       "source_count": 1,
@@ -985,13 +863,13 @@
       ],
       "items": [
         {
-          "id": "3b316e653b3276f62cf0c470cdb13939e997800f",
-          "title": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
-          "url": "https://www.aibase.com/news/32483",
+          "id": "4263428678abdc5e8e3021f4ab3d10da72cbeac0",
+          "title": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
+          "url": "https://www.aibase.com/news/32502",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T02:41:47.427755Z"
+          "published_at": "2026-11-24T13:07:46.699822Z"
         }
       ],
       "item_count": 1,
@@ -1011,93 +889,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T02:41:47.427755Z",
-      "latest_at": "2026-11-24T02:41:47.427755Z",
+      "earliest_at": "2026-11-24T13:07:46.699822Z",
+      "latest_at": "2026-11-24T13:07:46.699822Z",
       "primary_item": {
-        "id": "3b316e653b3276f62cf0c470cdb13939e997800f",
-        "title": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
-        "url": "https://www.aibase.com/news/32483",
+        "id": "4263428678abdc5e8e3021f4ab3d10da72cbeac0",
+        "title": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
+        "url": "https://www.aibase.com/news/32502",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_cbd75850d76c",
-      "title": "代码覆盖率上传现在标记无效的报告格式 / Code coverage uploads now flag invalid report formats",
-      "url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
-      "primary_url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ca75ffb7174862783c75d0de59920d7122035dd0",
-          "title": "代码覆盖率上传现在标记无效的报告格式 / Code coverage uploads now flag invalid report formats",
-          "url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T15:28:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ca75ffb7174862783c75d0de59920d7122035dd0",
-          "title": "代码覆盖率上传现在标记无效的报告格式 / Code coverage uploads now flag invalid report formats",
-          "url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T15:28:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.5325,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T15:28:36Z",
-      "latest_at": "2026-11-23T15:28:36Z",
-      "primary_item": {
-        "id": "ca75ffb7174862783c75d0de59920d7122035dd0",
-        "title": "代码覆盖率上传现在标记无效的报告格式 / Code coverage uploads now flag invalid report formats",
-        "url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e6ae38ed37d9",
-      "title": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
-      "url": "https://www.aibase.com/news/32482",
-      "primary_url": "https://www.aibase.com/news/32482",
+      "story_id": "story_fe3ce53458b8",
+      "title": "腾讯混元发布并开源Hy MT3",
+      "url": "https://www.aibase.com/news/32503",
+      "primary_url": "https://www.aibase.com/news/32503",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "859b25e77f61497cea86cd3642089506835cd7cf",
-          "title": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
-          "url": "https://www.aibase.com/news/32482",
+          "id": "d6920df5f14a9302a98b5be40c3ca4ce86826efb",
+          "title": "腾讯混元发布并开源Hy MT3",
+          "url": "https://www.aibase.com/news/32503",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T02:41:47.427755Z"
+          "published_at": "2026-11-24T13:07:46.699822Z"
         }
       ],
       "source_count": 1,
@@ -1106,13 +923,13 @@
       ],
       "items": [
         {
-          "id": "859b25e77f61497cea86cd3642089506835cd7cf",
-          "title": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
-          "url": "https://www.aibase.com/news/32482",
+          "id": "d6920df5f14a9302a98b5be40c3ca4ce86826efb",
+          "title": "腾讯混元发布并开源Hy MT3",
+          "url": "https://www.aibase.com/news/32503",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T02:41:47.427755Z"
+          "published_at": "2026-11-24T13:07:46.699822Z"
         }
       ],
       "item_count": 1,
@@ -1132,32 +949,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T02:41:47.427755Z",
-      "latest_at": "2026-11-24T02:41:47.427755Z",
+      "earliest_at": "2026-11-24T13:07:46.699822Z",
+      "latest_at": "2026-11-24T13:07:46.699822Z",
       "primary_item": {
-        "id": "859b25e77f61497cea86cd3642089506835cd7cf",
-        "title": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
-        "url": "https://www.aibase.com/news/32482",
+        "id": "d6920df5f14a9302a98b5be40c3ca4ce86826efb",
+        "title": "腾讯混元发布并开源Hy MT3",
+        "url": "https://www.aibase.com/news/32503",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_9e3a24d7d033",
-      "title": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
-      "url": "https://www.aibase.com/news/32486",
-      "primary_url": "https://www.aibase.com/news/32486",
+      "story_id": "story_5f934bd9abd0",
+      "title": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
+      "url": "https://www.aibase.com/news/32495",
+      "primary_url": "https://www.aibase.com/news/32495",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f055cfbca4507f37b88fae876663f44f60adfacd",
-          "title": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
-          "url": "https://www.aibase.com/news/32486",
+          "id": "2e622b92a9240c24fb6dbafebe9372c2023ac501",
+          "title": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
+          "url": "https://www.aibase.com/news/32495",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T02:41:47.427755Z"
+          "published_at": "2026-11-24T13:07:46.699822Z"
         }
       ],
       "source_count": 1,
@@ -1166,13 +983,13 @@
       ],
       "items": [
         {
-          "id": "f055cfbca4507f37b88fae876663f44f60adfacd",
-          "title": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
-          "url": "https://www.aibase.com/news/32486",
+          "id": "2e622b92a9240c24fb6dbafebe9372c2023ac501",
+          "title": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
+          "url": "https://www.aibase.com/news/32495",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T02:41:47.427755Z"
+          "published_at": "2026-11-24T13:07:46.699822Z"
         }
       ],
       "item_count": 1,
@@ -1192,74 +1009,308 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T02:41:47.427755Z",
-      "latest_at": "2026-11-24T02:41:47.427755Z",
+      "earliest_at": "2026-11-24T13:07:46.699822Z",
+      "latest_at": "2026-11-24T13:07:46.699822Z",
       "primary_item": {
-        "id": "f055cfbca4507f37b88fae876663f44f60adfacd",
-        "title": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
-        "url": "https://www.aibase.com/news/32486",
+        "id": "2e622b92a9240c24fb6dbafebe9372c2023ac501",
+        "title": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
+        "url": "https://www.aibase.com/news/32495",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_ebcacbb197f5",
-      "title": "从 12 月 1 日开始，使用情况报告将包含用户 ID 列 / Usage reports will include a user ID column starting December 1",
-      "url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
-      "primary_url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_fb7a1ad02384",
+      "title": "亚马逊表示，黑客的AI代理在几乎无需人工干预的情况下发现了该零日漏洞并加以利用",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
+      "primary_url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "506b940c695586dbdce4440d3cd52f4980b58671",
-          "title": "从 12 月 1 日开始，使用情况报告将包含用户 ID 列 / Usage reports will include a user ID column starting December 1",
-          "url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T10:29:36Z"
+          "id": "5e089dc62f56f332a40c45b5a81c0ba8090e32e0",
+          "title": "亚马逊表示，黑客的AI代理在几乎无需人工干预的情况下发现了该零日漏洞并加以利用",
+          "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T12:36:42.946000Z"
+        },
+        {
+          "id": "6a3b11e3db906b4cadcce8ad658903c2e7baa34e",
+          "title": "亚马逊表示，黑客的AI代理在几乎无需人工干预的情况下发现了该零日漏洞并加以利用 / Amazon says hackers' AI agents found and exploited 0-day with little human input",
+          "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-24T12:30:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica (科技媒体)",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "5e089dc62f56f332a40c45b5a81c0ba8090e32e0",
+          "title": "亚马逊表示，黑客的AI代理在几乎无需人工干预的情况下发现了该零日漏洞并加以利用",
+          "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T12:36:42.946000Z"
+        },
+        {
+          "id": "6a3b11e3db906b4cadcce8ad658903c2e7baa34e",
+          "title": "亚马逊表示，黑客的AI代理在几乎无需人工干预的情况下发现了该零日漏洞并加以利用 / Amazon says hackers' AI agents found and exploited 0-day with little human input",
+          "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-24T12:30:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5437,
+      "importance": 0.5437,
+      "importance_score": 0.5437,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9784,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-24T12:30:05Z",
+      "latest_at": "2026-11-24T12:36:42.946000Z",
+      "primary_item": {
+        "id": "5e089dc62f56f332a40c45b5a81c0ba8090e32e0",
+        "title": "亚马逊表示，黑客的AI代理在几乎无需人工干预的情况下发现了该零日漏洞并加以利用",
+        "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9ee40c728107",
+      "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+      "url": "https://www.aibase.com/news/32491",
+      "primary_url": "https://www.aibase.com/news/32491",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "666f6bffb407ff15ac15703be62d6ea18439ba20",
+          "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+          "url": "https://www.aibase.com/news/32491",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T12:07:46.699822Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "506b940c695586dbdce4440d3cd52f4980b58671",
-          "title": "从 12 月 1 日开始，使用情况报告将包含用户 ID 列 / Usage reports will include a user ID column starting December 1",
-          "url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T10:29:36Z"
+          "id": "666f6bffb407ff15ac15703be62d6ea18439ba20",
+          "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+          "url": "https://www.aibase.com/news/32491",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T12:07:46.699822Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.726,
-      "importance": 0.726,
-      "importance_score": 0.726,
-      "importance_label": "官方更新",
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3249,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9583,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-23T10:29:36Z",
-      "latest_at": "2026-11-23T10:29:36Z",
+      "earliest_at": "2026-11-24T12:07:46.699822Z",
+      "latest_at": "2026-11-24T12:07:46.699822Z",
       "primary_item": {
-        "id": "506b940c695586dbdce4440d3cd52f4980b58671",
-        "title": "从 12 月 1 日开始，使用情况报告将包含用户 ID 列 / Usage reports will include a user ID column starting December 1",
-        "url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "666f6bffb407ff15ac15703be62d6ea18439ba20",
+        "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+        "url": "https://www.aibase.com/news/32491",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a2374702c60b",
+      "title": "人工智能本应势不可挡。黄仁勋短暂的“流放”却表明，这场热潮远非如此。",
+      "url": "https://www.businessinsider.com/jensen-huang-nvidia-exile-ai-boom-weakness-2026-11",
+      "primary_url": "https://www.businessinsider.com/jensen-huang-nvidia-exile-ai-boom-weakness-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a620b80f408d76965e98bc3e01b30ab74af562bc",
+          "title": "人工智能本应势不可挡。黄仁勋短暂的“流放”却表明，这场热潮远非如此。",
+          "url": "https://www.businessinsider.com/jensen-huang-nvidia-exile-ai-boom-weakness-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T10:29:45.127000Z"
+        },
+        {
+          "id": "b5cf0b057cda51f450c7f3118f1eac595e496c94",
+          "title": "人工智能本应势不可挡。黄仁勋短暂的“流放”却表明，这场热潮远非如此。 / If AI is inevitable how come it all hinges on one guy?",
+          "url": "https://www.businessinsider.com/jensen-huang-nvidia-exile-ai-boom-weakness-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-24T10:18:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "a620b80f408d76965e98bc3e01b30ab74af562bc",
+          "title": "人工智能本应势不可挡。黄仁勋短暂的“流放”却表明，这场热潮远非如此。",
+          "url": "https://www.businessinsider.com/jensen-huang-nvidia-exile-ai-boom-weakness-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T10:29:45.127000Z"
+        },
+        {
+          "id": "b5cf0b057cda51f450c7f3118f1eac595e496c94",
+          "title": "人工智能本应势不可挡。黄仁勋短暂的“流放”却表明，这场热潮远非如此。 / If AI is inevitable how come it all hinges on one guy?",
+          "url": "https://www.businessinsider.com/jensen-huang-nvidia-exile-ai-boom-weakness-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-24T10:18:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5261,
+      "importance": 0.5261,
+      "importance_score": 0.5261,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8903,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-24T10:18:01Z",
+      "latest_at": "2026-11-24T10:29:45.127000Z",
+      "primary_item": {
+        "id": "a620b80f408d76965e98bc3e01b30ab74af562bc",
+        "title": "人工智能本应势不可挡。黄仁勋短暂的“流放”却表明，这场热潮远非如此。",
+        "url": "https://www.businessinsider.com/jensen-huang-nvidia-exile-ai-boom-weakness-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e0ad3efb80c2",
+      "title": "人工智能中的杰文斯悖论：更便宜的代币无法支付资本支出 / Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+      "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex",
+      "primary_url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "887f336137c84dfeaff5096ecdccef19dd061d87",
+          "title": "人工智能中的杰文斯悖论：更便宜的代币无法支付资本支出 / Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+          "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-24T09:39:50Z"
+        },
+        {
+          "id": "bccc2e0e0eaaf4e3813033e3f98bd490fa1cc34b",
+          "title": "人工智能中的杰文斯悖论：更便宜的代币无法支付资本支出 / Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+          "url": "https://news.ycombinator.com/item?id=50625888",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T09:39:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "887f336137c84dfeaff5096ecdccef19dd061d87",
+          "title": "人工智能中的杰文斯悖论：更便宜的代币无法支付资本支出 / Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+          "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-24T09:39:50Z"
+        },
+        {
+          "id": "bccc2e0e0eaaf4e3813033e3f98bd490fa1cc34b",
+          "title": "人工智能中的杰文斯悖论：更便宜的代币无法支付资本支出 / Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+          "url": "https://news.ycombinator.com/item?id=50625888",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T09:39:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5191,
+      "importance": 0.5191,
+      "importance_score": 0.5191,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8556,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-24T09:39:50Z",
+      "latest_at": "2026-11-24T09:39:50Z",
+      "primary_item": {
+        "id": "887f336137c84dfeaff5096ecdccef19dd061d87",
+        "title": "人工智能中的杰文斯悖论：更便宜的代币无法支付资本支出 / Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+        "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     }
   ]
