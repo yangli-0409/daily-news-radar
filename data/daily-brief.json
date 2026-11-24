@@ -1,8 +1,1026 @@
 {
-  "generated_at": "2026-11-23T15:39:15.269289Z",
+  "generated_at": "2026-11-24T02:41:47.427755Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.172.0 / Codex CLI 0.172.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a86ce16aa6bbfbe39d95e707d790bdd9e72a0561",
+          "title": "法典 CLI 0.172.0 / Codex CLI 0.172.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-24T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "a86ce16aa6bbfbe39d95e707d790bdd9e72a0561",
+          "title": "法典 CLI 0.172.0 / Codex CLI 0.172.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-24T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8715,
+      "importance": 0.8715,
+      "importance_score": 0.8715,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8876,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T00:00:00Z",
+      "latest_at": "2026-11-24T00:00:00Z",
+      "primary_item": {
+        "id": "a86ce16aa6bbfbe39d95e707d790bdd9e72a0561",
+        "title": "法典 CLI 0.172.0 / Codex CLI 0.172.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b55c17ab3d42",
+      "title": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
+      "url": "https://www.aibase.com/news/32484",
+      "primary_url": "https://www.aibase.com/news/32484",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "99151631d278e7c2f783d6c0584352d6f714dbbd",
+          "title": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
+          "url": "https://www.aibase.com/news/32484",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T02:41:47.427755Z"
+        },
+        {
+          "id": "eee4650d6728b18a110120c181f8e741369d04fb",
+          "title": "一句提示词造一个「灾情」：公安部网安局公布 10 起 AI 造谣典型案",
+          "url": "https://www.aibase.com/zh/news/32484",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "99151631d278e7c2f783d6c0584352d6f714dbbd",
+          "title": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
+          "url": "https://www.aibase.com/news/32484",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T02:41:47.427755Z"
+        },
+        {
+          "id": "eee4650d6728b18a110120c181f8e741369d04fb",
+          "title": "一句提示词造一个「灾情」：公安部网安局公布 10 起 AI 造谣典型案",
+          "url": "https://www.aibase.com/zh/news/32484",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T02:41:47.427755Z",
+      "latest_at": "2026-11-24T02:41:47.427755Z",
+      "primary_item": {
+        "id": "99151631d278e7c2f783d6c0584352d6f714dbbd",
+        "title": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
+        "url": "https://www.aibase.com/news/32484",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_541e4e5d4292",
+      "title": "问题状态和存储库板处于公共预览状态 / Issue statuses and repository boards are in public preview",
+      "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "12ede07f3f701aadaf7c8c928c0f2f8fa887d17f",
+          "title": "问题状态和存储库板处于公共预览状态 / Issue statuses and repository boards are in public preview",
+          "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-23T20:37:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "12ede07f3f701aadaf7c8c928c0f2f8fa887d17f",
+          "title": "问题状态和存储库板处于公共预览状态 / Issue statuses and repository boards are in public preview",
+          "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-23T20:37:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7468,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T20:37:11Z",
+      "latest_at": "2026-11-23T20:37:11Z",
+      "primary_item": {
+        "id": "12ede07f3f701aadaf7c8c928c0f2f8fa887d17f",
+        "title": "问题状态和存储库板处于公共预览状态 / Issue statuses and repository boards are in public preview",
+        "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2b0d26496083",
+      "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
+      "url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
+      "primary_url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
+      "source": "公众号：MiniMax",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5fedca57db7cbec626bec133d83e1bb55f3c5a58",
+          "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
+          "url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
+          "source": "公众号：MiniMax",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T02:11:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：MiniMax"
+      ],
+      "items": [
+        {
+          "id": "5fedca57db7cbec626bec133d83e1bb55f3c5a58",
+          "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
+          "url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
+          "source": "公众号：MiniMax",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T02:11:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.979,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T02:11:36Z",
+      "latest_at": "2026-11-24T02:11:36Z",
+      "primary_item": {
+        "id": "5fedca57db7cbec626bec133d83e1bb55f3c5a58",
+        "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
+        "url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
+        "source": "公众号：MiniMax",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_16b3c248110d",
+      "title": "谷歌让 Gemini 4 智能体“开会”改造量子算法：最高提速 290 倍，还附带数学正确性证明",
+      "url": "https://www.aibase.com/news/32481",
+      "primary_url": "https://www.aibase.com/news/32481",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2768257bfbae3e6d3f5772db07279c754c26c0bb",
+          "title": "谷歌让 Gemini 4 智能体“开会”改造量子算法：最高提速 290 倍，还附带数学正确性证明",
+          "url": "https://www.aibase.com/news/32481",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T02:41:47.427755Z"
+        },
+        {
+          "id": "d014d34fb369fe09880321a630f74ed33cdaa43b",
+          "title": "谷歌让 Gemini 4 智能体「开会」改造量子算法：最高提速 290 倍，还附带数学正确性证明",
+          "url": "https://www.aibase.com/zh/news/32481",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "2768257bfbae3e6d3f5772db07279c754c26c0bb",
+          "title": "谷歌让 Gemini 4 智能体“开会”改造量子算法：最高提速 290 倍，还附带数学正确性证明",
+          "url": "https://www.aibase.com/news/32481",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T02:41:47.427755Z"
+        },
+        {
+          "id": "d014d34fb369fe09880321a630f74ed33cdaa43b",
+          "title": "谷歌让 Gemini 4 智能体「开会」改造量子算法：最高提速 290 倍，还附带数学正确性证明",
+          "url": "https://www.aibase.com/zh/news/32481",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T02:41:47.427755Z",
+      "latest_at": "2026-11-24T02:41:47.427755Z",
+      "primary_item": {
+        "id": "2768257bfbae3e6d3f5772db07279c754c26c0bb",
+        "title": "谷歌让 Gemini 4 智能体“开会”改造量子算法：最高提速 290 倍，还附带数学正确性证明",
+        "url": "https://www.aibase.com/news/32481",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_674ac2d96267",
+      "title": "ChinaTalk播客：Nvidia董事会恢复黄仁勋CEO职务，Megaspeed被列入实体清单",
+      "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
+      "primary_url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
+      "source": "ChinaTalk",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "763a8e60afeb209842e28ed26dcfb3ca21fbd61e",
+          "title": "ChinaTalk播客：Nvidia董事会恢复黄仁勋CEO职务，Megaspeed被列入实体清单",
+          "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
+          "source": "ChinaTalk",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T01:41:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "ChinaTalk"
+      ],
+      "items": [
+        {
+          "id": "763a8e60afeb209842e28ed26dcfb3ca21fbd61e",
+          "title": "ChinaTalk播客：Nvidia董事会恢复黄仁勋CEO职务，Megaspeed被列入实体清单",
+          "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
+          "source": "ChinaTalk",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T01:41:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9581,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T01:41:25Z",
+      "latest_at": "2026-11-24T01:41:25Z",
+      "primary_item": {
+        "id": "763a8e60afeb209842e28ed26dcfb3ca21fbd61e",
+        "title": "ChinaTalk播客：Nvidia董事会恢复黄仁勋CEO职务，Megaspeed被列入实体清单",
+        "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
+        "source": "ChinaTalk",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6797a54782ed",
+      "title": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
+      "url": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk",
+      "primary_url": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk",
+      "source": "Tibo",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4070253bf79d488bd7746589c2cc31e071dabafe",
+          "title": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
+          "url": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk",
+          "source": "Tibo",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-23T22:48:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Tibo"
+      ],
+      "items": [
+        {
+          "id": "4070253bf79d488bd7746589c2cc31e071dabafe",
+          "title": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
+          "url": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk",
+          "source": "Tibo",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-23T22:48:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7796,
+      "importance": 0.7796,
+      "importance_score": 0.7796,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.838,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T22:48:30Z",
+      "latest_at": "2026-11-23T22:48:30Z",
+      "primary_item": {
+        "id": "4070253bf79d488bd7746589c2cc31e071dabafe",
+        "title": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
+        "url": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk",
+        "source": "Tibo",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8570d9720911",
+      "title": "Claude 推出插件，统一连接器与技能的接入方式",
+      "url": "https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2",
+      "primary_url": "https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2",
+      "source": "Claude",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cb27c5d9857e0d89ecc85f6ea5f3c9160207d1d2",
+          "title": "Claude 推出插件，统一连接器与技能的接入方式",
+          "url": "https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2",
+          "source": "Claude",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-23T20:56:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude"
+      ],
+      "items": [
+        {
+          "id": "cb27c5d9857e0d89ecc85f6ea5f3c9160207d1d2",
+          "title": "Claude 推出插件，统一连接器与技能的接入方式",
+          "url": "https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2",
+          "source": "Claude",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-23T20:56:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.76,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T20:56:12Z",
+      "latest_at": "2026-11-23T20:56:12Z",
+      "primary_item": {
+        "id": "cb27c5d9857e0d89ecc85f6ea5f3c9160207d1d2",
+        "title": "Claude 推出插件，统一连接器与技能的接入方式",
+        "url": "https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2",
+        "source": "Claude",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_091729ff4a7e",
+      "title": "Figma agent 正式开放至 FigJam 和 Figma Slides",
+      "url": "https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s",
+      "primary_url": "https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s",
+      "source": "Figma AI / Agent / Make",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2b2a1e96a1a12d5ae8d1a5d0cff2b293e515f476",
+          "title": "Figma agent 正式开放至 FigJam 和 Figma Slides",
+          "url": "https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s",
+          "source": "Figma AI / Agent / Make",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-23T20:54:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Figma AI / Agent / Make"
+      ],
+      "items": [
+        {
+          "id": "2b2a1e96a1a12d5ae8d1a5d0cff2b293e515f476",
+          "title": "Figma agent 正式开放至 FigJam 和 Figma Slides",
+          "url": "https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s",
+          "source": "Figma AI / Agent / Make",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-23T20:54:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7585,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T20:54:00Z",
+      "latest_at": "2026-11-23T20:54:00Z",
+      "primary_item": {
+        "id": "2b2a1e96a1a12d5ae8d1a5d0cff2b293e515f476",
+        "title": "Figma agent 正式开放至 FigJam 和 Figma Slides",
+        "url": "https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s",
+        "source": "Figma AI / Agent / Make",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b3c4595342c9",
+      "title": "秘密扫描减少了 Slack 的误报 / Secret scanning reduces false positives for Slack",
+      "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
+      "primary_url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "75d1d6e4a5034193847eea858e77575e3ae2594d",
+          "title": "秘密扫描减少了 Slack 的误报 / Secret scanning reduces false positives for Slack",
+          "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-23T18:32:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "75d1d6e4a5034193847eea858e77575e3ae2594d",
+          "title": "秘密扫描减少了 Slack 的误报 / Secret scanning reduces false positives for Slack",
+          "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-23T18:32:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7931,
+      "importance": 0.7931,
+      "importance_score": 0.7931,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.6606,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T18:32:59Z",
+      "latest_at": "2026-11-23T18:32:59Z",
+      "primary_item": {
+        "id": "75d1d6e4a5034193847eea858e77575e3ae2594d",
+        "title": "秘密扫描减少了 Slack 的误报 / Secret scanning reduces false positives for Slack",
+        "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_30298b570f5f",
+      "title": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
+      "url": "https://www.aibase.com/news/32485",
+      "primary_url": "https://www.aibase.com/news/32485",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f2a654957d263a3d367e3b6a7b11eb63616913d0",
+          "title": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
+          "url": "https://www.aibase.com/news/32485",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T02:41:47.427755Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f2a654957d263a3d367e3b6a7b11eb63616913d0",
+          "title": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
+          "url": "https://www.aibase.com/news/32485",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T02:41:47.427755Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T02:41:47.427755Z",
+      "latest_at": "2026-11-24T02:41:47.427755Z",
+      "primary_item": {
+        "id": "f2a654957d263a3d367e3b6a7b11eb63616913d0",
+        "title": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
+        "url": "https://www.aibase.com/news/32485",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_91d1dbd15518",
+      "title": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
+      "url": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte",
+      "primary_url": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte",
+      "source": "The Verge：AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d45a51b15646f72dfb77165f9f2cfa7174133818",
+          "title": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
+          "url": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte",
+          "source": "The Verge：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-23T18:26:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI"
+      ],
+      "items": [
+        {
+          "id": "d45a51b15646f72dfb77165f9f2cfa7174133818",
+          "title": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
+          "url": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte",
+          "source": "The Verge：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-23T18:26:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6562,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-23T18:26:47Z",
+      "latest_at": "2026-11-23T18:26:47Z",
+      "primary_item": {
+        "id": "d45a51b15646f72dfb77165f9f2cfa7174133818",
+        "title": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
+        "url": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte",
+        "source": "The Verge：AI",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d2e5cf3b777e",
+      "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
+      "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
+      "primary_url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
+      "source": "TechCrunch：AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7b2b28d61e8965714d400beb4605a5a38ed70f68",
+          "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
+          "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-23T15:04:01Z"
+        },
+        {
+          "id": "98a7afc27ec3273e81f07ed684ce7454d1a7bd31",
+          "title": "特朗普支持黄仁勋重返英伟达CEO岗位，称美方无不当行为证据",
+          "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-23T15:04:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch：AI"
+      ],
+      "items": [
+        {
+          "id": "7b2b28d61e8965714d400beb4605a5a38ed70f68",
+          "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
+          "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-23T15:04:01Z"
+        },
+        {
+          "id": "98a7afc27ec3273e81f07ed684ce7454d1a7bd31",
+          "title": "特朗普支持黄仁勋重返英伟达CEO岗位，称美方无不当行为证据",
+          "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-23T15:04:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5154,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-23T15:04:01Z",
+      "latest_at": "2026-11-23T15:04:01Z",
+      "primary_item": {
+        "id": "7b2b28d61e8965714d400beb4605a5a38ed70f68",
+        "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
+        "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
+        "source": "TechCrunch：AI",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_657086c384f7",
+      "title": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
+      "url": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2",
+      "primary_url": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2",
+      "source": "Google Blog：AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1f3221cd21c41734197caec6558e40df0d24f1c0",
+          "title": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
+          "url": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2",
+          "source": "Google Blog：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-23T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Blog：AI"
+      ],
+      "items": [
+        {
+          "id": "1f3221cd21c41734197caec6558e40df0d24f1c0",
+          "title": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
+          "url": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2",
+          "source": "Google Blog：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-23T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.596,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-23T17:00:00Z",
+      "latest_at": "2026-11-23T17:00:00Z",
+      "primary_item": {
+        "id": "1f3221cd21c41734197caec6558e40df0d24f1c0",
+        "title": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
+        "url": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2",
+        "source": "Google Blog：AI",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_64b55d474206",
+      "title": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
+      "url": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n",
+      "primary_url": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n",
+      "source": "Google DeepMind：Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4ea8910cd1a2077c485be3249464d1c7d1ae30df",
+          "title": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
+          "url": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n",
+          "source": "Google DeepMind：Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-23T16:59:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind：Blog"
+      ],
+      "items": [
+        {
+          "id": "4ea8910cd1a2077c485be3249464d1c7d1ae30df",
+          "title": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
+          "url": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n",
+          "source": "Google DeepMind：Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-23T16:59:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7311,
+      "importance": 0.7311,
+      "importance_score": 0.7311,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5957,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-23T16:59:40Z",
+      "latest_at": "2026-11-23T16:59:40Z",
+      "primary_item": {
+        "id": "4ea8910cd1a2077c485be3249464d1c7d1ae30df",
+        "title": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
+        "url": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n",
+        "source": "Google DeepMind：Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9f0a66dbf059",
+      "title": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
+      "url": "https://www.aibase.com/news/32483",
+      "primary_url": "https://www.aibase.com/news/32483",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3b316e653b3276f62cf0c470cdb13939e997800f",
+          "title": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
+          "url": "https://www.aibase.com/news/32483",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T02:41:47.427755Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3b316e653b3276f62cf0c470cdb13939e997800f",
+          "title": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
+          "url": "https://www.aibase.com/news/32483",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T02:41:47.427755Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T02:41:47.427755Z",
+      "latest_at": "2026-11-24T02:41:47.427755Z",
+      "primary_item": {
+        "id": "3b316e653b3276f62cf0c470cdb13939e997800f",
+        "title": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
+        "url": "https://www.aibase.com/news/32483",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
     {
       "story_id": "story_cbd75850d76c",
       "title": "代码覆盖率上传现在标记无效的报告格式 / Code coverage uploads now flag invalid report formats",
@@ -38,14 +1056,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8595,
-      "importance": 0.8595,
-      "importance_score": 0.8595,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9926,
+        "recency": 0.5325,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,541 +1083,21 @@
       }
     },
     {
-      "story_id": "story_184a7b460cf3",
-      "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-      "url": "https://www.aibase.com/news/32479",
-      "primary_url": "https://www.aibase.com/news/32479",
+      "story_id": "story_e6ae38ed37d9",
+      "title": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
+      "url": "https://www.aibase.com/news/32482",
+      "primary_url": "https://www.aibase.com/news/32482",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0c9e0bd8de412913b9c97850bde42f78e4005db7",
-          "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-          "url": "https://www.aibase.com/news/32479",
+          "id": "859b25e77f61497cea86cd3642089506835cd7cf",
+          "title": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
+          "url": "https://www.aibase.com/news/32482",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-23T15:39:15.269289Z"
-        },
-        {
-          "id": "1d0c4595a26368dbf9c0846169436917175d7f66",
-          "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-          "url": "https://www.aibase.com/zh/news/32479",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0c9e0bd8de412913b9c97850bde42f78e4005db7",
-          "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-          "url": "https://www.aibase.com/news/32479",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T15:39:15.269289Z"
-        },
-        {
-          "id": "1d0c4595a26368dbf9c0846169436917175d7f66",
-          "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-          "url": "https://www.aibase.com/zh/news/32479",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T15:39:15.269289Z",
-      "latest_at": "2026-11-23T15:39:15.269289Z",
-      "primary_item": {
-        "id": "0c9e0bd8de412913b9c97850bde42f78e4005db7",
-        "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-        "url": "https://www.aibase.com/news/32479",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e71dbcb4a2a8",
-      "title": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
-      "url": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
-      "primary_url": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
-      "source": "a16z：News",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "53831b9f3ad4638d07c08844b031d724c1c518d0",
-          "title": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
-          "url": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
-          "source": "a16z：News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T15:04:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "a16z：News"
-      ],
-      "items": [
-        {
-          "id": "53831b9f3ad4638d07c08844b031d724c1c518d0",
-          "title": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
-          "url": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
-          "source": "a16z：News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T15:04:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8072,
-      "importance": 0.8072,
-      "importance_score": 0.8072,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9758,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T15:04:27Z",
-      "latest_at": "2026-11-23T15:04:27Z",
-      "primary_item": {
-        "id": "53831b9f3ad4638d07c08844b031d724c1c518d0",
-        "title": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
-        "url": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
-        "source": "a16z：News",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d2e5cf3b777e",
-      "title": "特朗普支持黄仁勋重返英伟达CEO岗位，称美方无不当行为证据",
-      "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
-      "primary_url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
-      "source": "TechCrunch：AI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "98a7afc27ec3273e81f07ed684ce7454d1a7bd31",
-          "title": "特朗普支持黄仁勋重返英伟达CEO岗位，称美方无不当行为证据",
-          "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
-          "source": "TechCrunch：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T15:04:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI"
-      ],
-      "items": [
-        {
-          "id": "98a7afc27ec3273e81f07ed684ce7454d1a7bd31",
-          "title": "特朗普支持黄仁勋重返英伟达CEO岗位，称美方无不当行为证据",
-          "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
-          "source": "TechCrunch：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T15:04:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8071,
-      "importance": 0.8071,
-      "importance_score": 0.8071,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9755,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T15:04:01Z",
-      "latest_at": "2026-11-23T15:04:01Z",
-      "primary_item": {
-        "id": "98a7afc27ec3273e81f07ed684ce7454d1a7bd31",
-        "title": "特朗普支持黄仁勋重返英伟达CEO岗位，称美方无不当行为证据",
-        "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
-        "source": "TechCrunch：AI",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6c5ee2fa83da",
-      "title": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
-      "url": "https://www.aibase.com/news/32477",
-      "primary_url": "https://www.aibase.com/news/32477",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c24ae4325f31c09636c53104e259e9ded470d681",
-          "title": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
-          "url": "https://www.aibase.com/news/32477",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T15:39:15.269289Z"
-        },
-        {
-          "id": "d3da0595c59eb445a24870cc44e3a62b7fcbb0a9",
-          "title": "一台被黑客「晒」上网的攻击工具，暴露了 AI 作案的全过程",
-          "url": "https://www.aibase.com/zh/news/32477",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c24ae4325f31c09636c53104e259e9ded470d681",
-          "title": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
-          "url": "https://www.aibase.com/news/32477",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T15:39:15.269289Z"
-        },
-        {
-          "id": "d3da0595c59eb445a24870cc44e3a62b7fcbb0a9",
-          "title": "一台被黑客「晒」上网的攻击工具，暴露了 AI 作案的全过程",
-          "url": "https://www.aibase.com/zh/news/32477",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T15:39:15.269289Z",
-      "latest_at": "2026-11-23T15:39:15.269289Z",
-      "primary_item": {
-        "id": "c24ae4325f31c09636c53104e259e9ded470d681",
-        "title": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
-        "url": "https://www.aibase.com/news/32477",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_39ed40028fff",
-      "title": "Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例",
-      "url": "https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff",
-      "primary_url": "https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff",
-      "source": "Wiz：Research",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "08a121c876882a54b92d0c342a341b218d8f281e",
-          "title": "Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例",
-          "url": "https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff",
-          "source": "Wiz：Research",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T14:46:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Wiz：Research"
-      ],
-      "items": [
-        {
-          "id": "08a121c876882a54b92d0c342a341b218d8f281e",
-          "title": "Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例",
-          "url": "https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff",
-          "source": "Wiz：Research",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T14:46:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8046,
-      "importance": 0.8046,
-      "importance_score": 0.8046,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9632,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T14:46:19Z",
-      "latest_at": "2026-11-23T14:46:19Z",
-      "primary_item": {
-        "id": "08a121c876882a54b92d0c342a341b218d8f281e",
-        "title": "Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例",
-        "url": "https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff",
-        "source": "Wiz：Research",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2b75da57f749",
-      "title": "ARTEX 开源 AI 黑客框架遭滥用，FBI 发出警告但代码已广泛扩散",
-      "url": "https://aihot.news/items/zb8hu8pp2ogojk5081g7z4en7",
-      "primary_url": "https://aihot.news/items/zb8hu8pp2ogojk5081g7z4en7",
-      "source": "404 Media",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "53d68ffa5752bb2eba1cf873a5a1ab29dd9875da",
-          "title": "ARTEX 开源 AI 黑客框架遭滥用，FBI 发出警告但代码已广泛扩散",
-          "url": "https://aihot.news/items/zb8hu8pp2ogojk5081g7z4en7",
-          "source": "404 Media",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T14:16:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "404 Media"
-      ],
-      "items": [
-        {
-          "id": "53d68ffa5752bb2eba1cf873a5a1ab29dd9875da",
-          "title": "ARTEX 开源 AI 黑客框架遭滥用，FBI 发出警告但代码已广泛扩散",
-          "url": "https://aihot.news/items/zb8hu8pp2ogojk5081g7z4en7",
-          "source": "404 Media",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T14:16:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9427,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T14:16:47Z",
-      "latest_at": "2026-11-23T14:16:47Z",
-      "primary_item": {
-        "id": "53d68ffa5752bb2eba1cf873a5a1ab29dd9875da",
-        "title": "ARTEX 开源 AI 黑客框架遭滥用，FBI 发出警告但代码已广泛扩散",
-        "url": "https://aihot.news/items/zb8hu8pp2ogojk5081g7z4en7",
-        "source": "404 Media",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c2e380958bab",
-      "title": "NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会",
-      "url": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l",
-      "primary_url": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l",
-      "source": "X.PIN",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a028674243288942d5995f0d2eaaf5801b912541",
-          "title": "NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会",
-          "url": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l",
-          "source": "X.PIN",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T14:04:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X.PIN"
-      ],
-      "items": [
-        {
-          "id": "a028674243288942d5995f0d2eaaf5801b912541",
-          "title": "NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会",
-          "url": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l",
-          "source": "X.PIN",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T14:04:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7988,
-      "importance": 0.7988,
-      "importance_score": 0.7988,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9342,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T14:04:30Z",
-      "latest_at": "2026-11-23T14:04:30Z",
-      "primary_item": {
-        "id": "a028674243288942d5995f0d2eaaf5801b912541",
-        "title": "NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会",
-        "url": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l",
-        "source": "X.PIN",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fcedcd712b1d",
-      "title": "智谱发布GLM-5.4：首个Loop Transformer架构旗舰模型开启泛Coding",
-      "url": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
-      "primary_url": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
-      "source": "公众号：智谱",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1a8d63281cdce1b873887074674c09312e875415",
-          "title": "智谱发布GLM-5.4：首个Loop Transformer架构旗舰模型开启泛Coding",
-          "url": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
-          "source": "公众号：智谱",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T09:42:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：智谱"
-      ],
-      "items": [
-        {
-          "id": "1a8d63281cdce1b873887074674c09312e875415",
-          "title": "智谱发布GLM-5.4：首个Loop Transformer架构旗舰模型开启泛Coding",
-          "url": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
-          "source": "公众号：智谱",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-23T09:42:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.752,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T09:42:11Z",
-      "latest_at": "2026-11-23T09:42:11Z",
-      "primary_item": {
-        "id": "1a8d63281cdce1b873887074674c09312e875415",
-        "title": "智谱发布GLM-5.4：首个Loop Transformer架构旗舰模型开启泛Coding",
-        "url": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
-        "source": "公众号：智谱",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_caeab290c29d",
-      "title": "GLM-5.4 悄然上线 Coding Plan：补齐视觉能力，额度还涨了 1.5 倍",
-      "url": "https://www.aibase.com/news/32472",
-      "primary_url": "https://www.aibase.com/news/32472",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fdfb4a0a88a73f99f30d9ad66400f17823205728",
-          "title": "GLM-5.4 悄然上线 Coding Plan：补齐视觉能力，额度还涨了 1.5 倍",
-          "url": "https://www.aibase.com/news/32472",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T15:39:15.269289Z"
+          "published_at": "2026-11-24T02:41:47.427755Z"
         }
       ],
       "source_count": 1,
@@ -608,13 +1106,13 @@
       ],
       "items": [
         {
-          "id": "fdfb4a0a88a73f99f30d9ad66400f17823205728",
-          "title": "GLM-5.4 悄然上线 Coding Plan：补齐视觉能力，额度还涨了 1.5 倍",
-          "url": "https://www.aibase.com/news/32472",
+          "id": "859b25e77f61497cea86cd3642089506835cd7cf",
+          "title": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
+          "url": "https://www.aibase.com/news/32482",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-23T15:39:15.269289Z"
+          "published_at": "2026-11-24T02:41:47.427755Z"
         }
       ],
       "item_count": 1,
@@ -634,32 +1132,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-23T15:39:15.269289Z",
-      "latest_at": "2026-11-23T15:39:15.269289Z",
+      "earliest_at": "2026-11-24T02:41:47.427755Z",
+      "latest_at": "2026-11-24T02:41:47.427755Z",
       "primary_item": {
-        "id": "fdfb4a0a88a73f99f30d9ad66400f17823205728",
-        "title": "GLM-5.4 悄然上线 Coding Plan：补齐视觉能力，额度还涨了 1.5 倍",
-        "url": "https://www.aibase.com/news/32472",
+        "id": "859b25e77f61497cea86cd3642089506835cd7cf",
+        "title": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
+        "url": "https://www.aibase.com/news/32482",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_674371d2f58b",
-      "title": "Mira Murati 团队把模型“想三遍再说话”开源了：26.4B 循环 Transformer 登顶 Hugging Face，笔记本就能跑",
-      "url": "https://www.aibase.com/news/32475",
-      "primary_url": "https://www.aibase.com/news/32475",
+      "story_id": "story_9e3a24d7d033",
+      "title": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
+      "url": "https://www.aibase.com/news/32486",
+      "primary_url": "https://www.aibase.com/news/32486",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3bad28831d325f4df9604d9b4aef585f4012eebc",
-          "title": "Mira Murati 团队把模型“想三遍再说话”开源了：26.4B 循环 Transformer 登顶 Hugging Face，笔记本就能跑",
-          "url": "https://www.aibase.com/news/32475",
+          "id": "f055cfbca4507f37b88fae876663f44f60adfacd",
+          "title": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
+          "url": "https://www.aibase.com/news/32486",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-23T15:39:15.269289Z"
+          "published_at": "2026-11-24T02:41:47.427755Z"
         }
       ],
       "source_count": 1,
@@ -668,13 +1166,13 @@
       ],
       "items": [
         {
-          "id": "3bad28831d325f4df9604d9b4aef585f4012eebc",
-          "title": "Mira Murati 团队把模型“想三遍再说话”开源了：26.4B 循环 Transformer 登顶 Hugging Face，笔记本就能跑",
-          "url": "https://www.aibase.com/news/32475",
+          "id": "f055cfbca4507f37b88fae876663f44f60adfacd",
+          "title": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
+          "url": "https://www.aibase.com/news/32486",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-23T15:39:15.269289Z"
+          "published_at": "2026-11-24T02:41:47.427755Z"
         }
       ],
       "item_count": 1,
@@ -694,626 +1192,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-23T15:39:15.269289Z",
-      "latest_at": "2026-11-23T15:39:15.269289Z",
+      "earliest_at": "2026-11-24T02:41:47.427755Z",
+      "latest_at": "2026-11-24T02:41:47.427755Z",
       "primary_item": {
-        "id": "3bad28831d325f4df9604d9b4aef585f4012eebc",
-        "title": "Mira Murati 团队把模型“想三遍再说话”开源了：26.4B 循环 Transformer 登顶 Hugging Face，笔记本就能跑",
-        "url": "https://www.aibase.com/news/32475",
+        "id": "f055cfbca4507f37b88fae876663f44f60adfacd",
+        "title": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
+        "url": "https://www.aibase.com/news/32486",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_0bfcb9b77510",
-      "title": "“欧洲版 OpenAI”落子新加坡：Mistral AI 设亚太总部，替亚洲政府造“主权 AI”",
-      "url": "https://www.aibase.com/news/32471",
-      "primary_url": "https://www.aibase.com/news/32471",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_ebcacbb197f5",
+      "title": "从 12 月 1 日开始，使用情况报告将包含用户 ID 列 / Usage reports will include a user ID column starting December 1",
+      "url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
+      "primary_url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "28725864c661645c9a36a80b6a7d44093531c2d1",
-          "title": "“欧洲版 OpenAI”落子新加坡：Mistral AI 设亚太总部，替亚洲政府造“主权 AI”",
-          "url": "https://www.aibase.com/news/32471",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T15:39:15.269289Z"
+          "id": "506b940c695586dbdce4440d3cd52f4980b58671",
+          "title": "从 12 月 1 日开始，使用情况报告将包含用户 ID 列 / Usage reports will include a user ID column starting December 1",
+          "url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-23T10:29:36Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "28725864c661645c9a36a80b6a7d44093531c2d1",
-          "title": "“欧洲版 OpenAI”落子新加坡：Mistral AI 设亚太总部，替亚洲政府造“主权 AI”",
-          "url": "https://www.aibase.com/news/32471",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T15:39:15.269289Z"
+          "id": "506b940c695586dbdce4440d3cd52f4980b58671",
+          "title": "从 12 月 1 日开始，使用情况报告将包含用户 ID 列 / Usage reports will include a user ID column starting December 1",
+          "url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-23T10:29:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
+      "score": 0.726,
+      "importance": 0.726,
+      "importance_score": 0.726,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.3249,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "official_source",
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-23T15:39:15.269289Z",
-      "latest_at": "2026-11-23T15:39:15.269289Z",
+      "earliest_at": "2026-11-23T10:29:36Z",
+      "latest_at": "2026-11-23T10:29:36Z",
       "primary_item": {
-        "id": "28725864c661645c9a36a80b6a7d44093531c2d1",
-        "title": "“欧洲版 OpenAI”落子新加坡：Mistral AI 设亚太总部，替亚洲政府造“主权 AI”",
-        "url": "https://www.aibase.com/news/32471",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_01c913814b78",
-      "title": "万亿市值换不来投资级：Anthropic 发债大概率是垃圾级",
-      "url": "https://www.aibase.com/news/32470",
-      "primary_url": "https://www.aibase.com/news/32470",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2d5ed639c089590b4d61c163e8f80a84e18d7abd",
-          "title": "万亿市值换不来投资级：Anthropic 发债大概率是垃圾级",
-          "url": "https://www.aibase.com/news/32470",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T15:39:15.269289Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2d5ed639c089590b4d61c163e8f80a84e18d7abd",
-          "title": "万亿市值换不来投资级：Anthropic 发债大概率是垃圾级",
-          "url": "https://www.aibase.com/news/32470",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T15:39:15.269289Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T15:39:15.269289Z",
-      "latest_at": "2026-11-23T15:39:15.269289Z",
-      "primary_item": {
-        "id": "2d5ed639c089590b4d61c163e8f80a84e18d7abd",
-        "title": "万亿市值换不来投资级：Anthropic 发债大概率是垃圾级",
-        "url": "https://www.aibase.com/news/32470",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e91a66ff451e",
-      "title": "把“增长优先”告上法庭：加州总检察长起诉 OpenAI",
-      "url": "https://www.aibase.com/news/32474",
-      "primary_url": "https://www.aibase.com/news/32474",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "688fda63ca75e211ee6f9ad3916c928e425d91e1",
-          "title": "把“增长优先”告上法庭：加州总检察长起诉 OpenAI",
-          "url": "https://www.aibase.com/news/32474",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T15:39:15.269289Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "688fda63ca75e211ee6f9ad3916c928e425d91e1",
-          "title": "把“增长优先”告上法庭：加州总检察长起诉 OpenAI",
-          "url": "https://www.aibase.com/news/32474",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T15:39:15.269289Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T15:39:15.269289Z",
-      "latest_at": "2026-11-23T15:39:15.269289Z",
-      "primary_item": {
-        "id": "688fda63ca75e211ee6f9ad3916c928e425d91e1",
-        "title": "把“增长优先”告上法庭：加州总检察长起诉 OpenAI",
-        "url": "https://www.aibase.com/news/32474",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7758e9b44180",
-      "title": "把主权 AI 做成生意：Mistral AI 把亚太总部落在新加坡",
-      "url": "https://www.aibase.com/news/32468",
-      "primary_url": "https://www.aibase.com/news/32468",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e9c159da8cd45ccaf466bbefbdb99d1303f828ad",
-          "title": "把主权 AI 做成生意：Mistral AI 把亚太总部落在新加坡",
-          "url": "https://www.aibase.com/news/32468",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T15:39:15.269289Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e9c159da8cd45ccaf466bbefbdb99d1303f828ad",
-          "title": "把主权 AI 做成生意：Mistral AI 把亚太总部落在新加坡",
-          "url": "https://www.aibase.com/news/32468",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T15:39:15.269289Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T15:39:15.269289Z",
-      "latest_at": "2026-11-23T15:39:15.269289Z",
-      "primary_item": {
-        "id": "e9c159da8cd45ccaf466bbefbdb99d1303f828ad",
-        "title": "把主权 AI 做成生意：Mistral AI 把亚太总部落在新加坡",
-        "url": "https://www.aibase.com/news/32468",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_60b564592090",
-      "title": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
-      "url": "https://www.aibase.com/news/32480",
-      "primary_url": "https://www.aibase.com/news/32480",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0bb0f050d03466962346bf62d1c1151fd5156d25",
-          "title": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
-          "url": "https://www.aibase.com/news/32480",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T15:39:15.269289Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0bb0f050d03466962346bf62d1c1151fd5156d25",
-          "title": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
-          "url": "https://www.aibase.com/news/32480",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T15:39:15.269289Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T15:39:15.269289Z",
-      "latest_at": "2026-11-23T15:39:15.269289Z",
-      "primary_item": {
-        "id": "0bb0f050d03466962346bf62d1c1151fd5156d25",
-        "title": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
-        "url": "https://www.aibase.com/news/32480",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_dcb111e83b42",
-      "title": "蚂蚁百灵医疗健康大模型家族全面开源：四款模型各守一关，从看懂体检报告到拦住医疗风险",
-      "url": "https://www.aibase.com/news/32469",
-      "primary_url": "https://www.aibase.com/news/32469",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a8ee0fe37169846c4eac2bacd09581660447b0e3",
-          "title": "蚂蚁百灵医疗健康大模型家族全面开源：四款模型各守一关，从看懂体检报告到拦住医疗风险",
-          "url": "https://www.aibase.com/news/32469",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T15:39:15.269289Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a8ee0fe37169846c4eac2bacd09581660447b0e3",
-          "title": "蚂蚁百灵医疗健康大模型家族全面开源：四款模型各守一关，从看懂体检报告到拦住医疗风险",
-          "url": "https://www.aibase.com/news/32469",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T15:39:15.269289Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T15:39:15.269289Z",
-      "latest_at": "2026-11-23T15:39:15.269289Z",
-      "primary_item": {
-        "id": "a8ee0fe37169846c4eac2bacd09581660447b0e3",
-        "title": "蚂蚁百灵医疗健康大模型家族全面开源：四款模型各守一关，从看懂体检报告到拦住医疗风险",
-        "url": "https://www.aibase.com/news/32469",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_dbda121af27e",
-      "title": "黄仁勋重返英伟达提振AI投资信心，股市大涨：市场综述",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "395521aa514be7a070b17e749b0e7274dddebbce",
-          "title": "黄仁勋重返英伟达提振AI投资信心，股市大涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-23T14:51:44.659000Z"
-        },
-        {
-          "id": "074858d3791b14458de4c354c61a04696e2066e8",
-          "title": "AI股暴跌后美股期货反弹，避险资产下跌：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-23T04:11:55.711000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "395521aa514be7a070b17e749b0e7274dddebbce",
-          "title": "黄仁勋重返英伟达提振AI投资信心，股市大涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-23T14:51:44.659000Z"
-        },
-        {
-          "id": "074858d3791b14458de4c354c61a04696e2066e8",
-          "title": "AI股暴跌后美股期货反弹，避险资产下跌：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-23T04:11:55.711000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5414,
-      "importance": 0.5414,
-      "importance_score": 0.5414,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.967,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-23T04:11:55.711000Z",
-      "latest_at": "2026-11-23T14:51:44.659000Z",
-      "primary_item": {
-        "id": "395521aa514be7a070b17e749b0e7274dddebbce",
-        "title": "黄仁勋重返英伟达提振AI投资信心，股市大涨：市场综述",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5094532b4e2e",
-      "title": "GLM-5.4：借助首个循环变换器迈向泛化编码",
-      "url": "https://z.ai/blog/glm-5.4",
-      "primary_url": "https://z.ai/blog/glm-5.4",
-      "source": "z.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "32c894c1224f34c2c28d1de543eccc940aab0eca",
-          "title": "GLM-5.4：借助首个循环变换器迈向泛化编码",
-          "url": "https://z.ai/blog/glm-5.4",
-          "source": "z.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-23T11:39:43.058000Z"
-        },
-        {
-          "id": "d7f1c3b2fdc2ab869ad89daa05a21d95e83f3eb4",
-          "title": "GLM-5.4：借助首个循环变换器迈向泛化编码 / GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-          "url": "https://z.ai/blog/glm-5.4",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-23T10:06:43Z"
-        },
-        {
-          "id": "ecba850940e09bd7ce1e0b5c069e671cdd72dbb1",
-          "title": "GLM-5.4：使用我们的第一个循环变压器实现广义编码 / GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-          "url": "https://news.ycombinator.com/item?id=50609685",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-23T10:06:43Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "z.ai"
-      ],
-      "items": [
-        {
-          "id": "32c894c1224f34c2c28d1de543eccc940aab0eca",
-          "title": "GLM-5.4：借助首个循环变换器迈向泛化编码",
-          "url": "https://z.ai/blog/glm-5.4",
-          "source": "z.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-23T11:39:43.058000Z"
-        },
-        {
-          "id": "d7f1c3b2fdc2ab869ad89daa05a21d95e83f3eb4",
-          "title": "GLM-5.4：借助首个循环变换器迈向泛化编码 / GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-          "url": "https://z.ai/blog/glm-5.4",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-23T10:06:43Z"
-        },
-        {
-          "id": "ecba850940e09bd7ce1e0b5c069e671cdd72dbb1",
-          "title": "GLM-5.4：使用我们的第一个循环变压器实现广义编码 / GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-          "url": "https://news.ycombinator.com/item?id=50609685",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-23T10:06:43Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8337,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-23T10:06:43Z",
-      "latest_at": "2026-11-23T11:39:43.058000Z",
-      "primary_item": {
-        "id": "32c894c1224f34c2c28d1de543eccc940aab0eca",
-        "title": "GLM-5.4：借助首个循环变换器迈向泛化编码",
-        "url": "https://z.ai/blog/glm-5.4",
-        "source": "z.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_3f8d23a600e9",
-      "title": "弗吉尼亚州和俄勒冈州就性主题深度伪造视频一事起诉马斯克的AI公司 - Politico",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3BDN2l0TEF0R2NnTGd1Ym9nek9tdWgxY0I4bmJ4OFhoYnlNVjZUdGRUakxMbndHNE5Pd2d3RXVUeW9RYl9QYThoN1pIWGhkd0s4MmQ5NE1aWDR2OHpNZTRuX2FtYW80cC0tNkdqNDE2OGdhQmxmRE5jaHh5Y3F1cHBkYlQycnNiLVlFUFBocHhucVd4R21RcHJXdWNONjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3BDN2l0TEF0R2NnTGd1Ym9nek9tdWgxY0I4bmJ4OFhoYnlNVjZUdGRUakxMbndHNE5Pd2d3RXVUeW9RYl9QYThoN1pIWGhkd0s4MmQ5NE1aWDR2OHpNZTRuX2FtYW80cC0tNkdqNDE2OGdhQmxmRE5jaHh5Y3F1cHBkYlQycnNiLVlFUFBocHhucVd4R21RcHJXdWNONjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ce106fdd530e99058f3505f7e576fee58348a509",
-          "title": "弗吉尼亚州和俄勒冈州就性主题深度伪造视频一事起诉马斯克的AI公司 - Politico",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3BDN2l0TEF0R2NnTGd1Ym9nek9tdWgxY0I4bmJ4OFhoYnlNVjZUdGRUakxMbndHNE5Pd2d3RXVUeW9RYl9QYThoN1pIWGhkd0s4MmQ5NE1aWDR2OHpNZTRuX2FtYW80cC0tNkdqNDE2OGdhQmxmRE5jaHh5Y3F1cHBkYlQycnNiLVlFUFBocHhucVd4R21RcHJXdWNONjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-23T14:03:56.467000Z"
-        },
-        {
-          "id": "ac98cded4138ebb5bda6702ee2f50aeaf6916108",
-          "title": "弗吉尼亚州和俄勒冈州就性主题深度伪造视频起诉马斯克的AI公司politi.co/48CqKPT",
-          "url": "https://www.politico.com/news/2026/11/23/virginia-oregon-lawsuit-musk-ai-sexual-deepfakes-01180139",
-          "source": "www.politico.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-23T12:27:47.103000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com",
-        "www.politico.com"
-      ],
-      "items": [
-        {
-          "id": "ce106fdd530e99058f3505f7e576fee58348a509",
-          "title": "弗吉尼亚州和俄勒冈州就性主题深度伪造视频一事起诉马斯克的AI公司 - Politico",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3BDN2l0TEF0R2NnTGd1Ym9nek9tdWgxY0I4bmJ4OFhoYnlNVjZUdGRUakxMbndHNE5Pd2d3RXVUeW9RYl9QYThoN1pIWGhkd0s4MmQ5NE1aWDR2OHpNZTRuX2FtYW80cC0tNkdqNDE2OGdhQmxmRE5jaHh5Y3F1cHBkYlQycnNiLVlFUFBocHhucVd4R21RcHJXdWNONjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-23T14:03:56.467000Z"
-        },
-        {
-          "id": "ac98cded4138ebb5bda6702ee2f50aeaf6916108",
-          "title": "弗吉尼亚州和俄勒冈州就性主题深度伪造视频起诉马斯克的AI公司politi.co/48CqKPT",
-          "url": "https://www.politico.com/news/2026/11/23/virginia-oregon-lawsuit-musk-ai-sexual-deepfakes-01180139",
-          "source": "www.politico.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-23T12:27:47.103000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9338,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-23T12:27:47.103000Z",
-      "latest_at": "2026-11-23T14:03:56.467000Z",
-      "primary_item": {
-        "id": "ce106fdd530e99058f3505f7e576fee58348a509",
-        "title": "弗吉尼亚州和俄勒冈州就性主题深度伪造视频一事起诉马斯克的AI公司 - Politico",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3BDN2l0TEF0R2NnTGd1Ym9nek9tdWgxY0I4bmJ4OFhoYnlNVjZUdGRUakxMbndHNE5Pd2d3RXVUeW9RYl9QYThoN1pIWGhkd0s4MmQ5NE1aWDR2OHpNZTRuX2FtYW80cC0tNkdqNDE2OGdhQmxmRE5jaHh5Y3F1cHBkYlQycnNiLVlFUFBocHhucVd4R21RcHJXdWNONjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
+        "id": "506b940c695586dbdce4440d3cd52f4980b58671",
+        "title": "从 12 月 1 日开始，使用情况报告将包含用户 ID 列 / Usage reports will include a user ID column starting December 1",
+        "url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     }
   ]
