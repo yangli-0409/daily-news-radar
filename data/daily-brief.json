@@ -1,8 +1,488 @@
 {
-  "generated_at": "2026-11-24T23:09:41.111776Z",
+  "generated_at": "2026-11-25T05:33:04.129892Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_56d58da36a25",
+      "title": "AI生成世界不再只有画面:高德ABot-World0.5支持实时交互与声音生成",
+      "url": "https://www.aibase.com/news/32511",
+      "primary_url": "https://www.aibase.com/news/32511",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "72b2f253c738189185ac86ac58dc268bdb4c5391",
+          "title": "AI生成世界不再只有画面:高德ABot-World0.5支持实时交互与声音生成",
+          "url": "https://www.aibase.com/news/32511",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T05:33:04.129892Z"
+        },
+        {
+          "id": "a5cc7b84a5ddb29bfc08822330cccd730759646e",
+          "title": "AI 生成世界不再只有画面：高德 ABot-World0.5 支持实时交互与声音生成",
+          "url": "https://www.aibase.com/zh/news/32511",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "72b2f253c738189185ac86ac58dc268bdb4c5391",
+          "title": "AI生成世界不再只有画面:高德ABot-World0.5支持实时交互与声音生成",
+          "url": "https://www.aibase.com/news/32511",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T05:33:04.129892Z"
+        },
+        {
+          "id": "a5cc7b84a5ddb29bfc08822330cccd730759646e",
+          "title": "AI 生成世界不再只有画面：高德 ABot-World0.5 支持实时交互与声音生成",
+          "url": "https://www.aibase.com/zh/news/32511",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T05:33:04.129892Z",
+      "latest_at": "2026-11-25T05:33:04.129892Z",
+      "primary_item": {
+        "id": "72b2f253c738189185ac86ac58dc268bdb4c5391",
+        "title": "AI生成世界不再只有画面:高德ABot-World0.5支持实时交互与声音生成",
+        "url": "https://www.aibase.com/news/32511",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c6324170ede3",
+      "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
+      "url": "https://www.aibase.com/news/32508",
+      "primary_url": "https://www.aibase.com/news/32508",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "aec727ce7d97a187eba0c08a3767e03813ce60ea",
+          "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
+          "url": "https://www.aibase.com/news/32508",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T05:33:04.129892Z"
+        },
+        {
+          "id": "466f5861079ac9b7099e350bb686c21568b84079",
+          "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
+          "url": "https://www.aibase.com/zh/news/32508",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "aec727ce7d97a187eba0c08a3767e03813ce60ea",
+          "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
+          "url": "https://www.aibase.com/news/32508",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T05:33:04.129892Z"
+        },
+        {
+          "id": "466f5861079ac9b7099e350bb686c21568b84079",
+          "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
+          "url": "https://www.aibase.com/zh/news/32508",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T05:33:04.129892Z",
+      "latest_at": "2026-11-25T05:33:04.129892Z",
+      "primary_item": {
+        "id": "aec727ce7d97a187eba0c08a3767e03813ce60ea",
+        "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
+        "url": "https://www.aibase.com/news/32508",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a963a35f96f1",
+      "title": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
+      "url": "https://aihot.news/items/cebavio3uyjwli5r3imsuq1si",
+      "primary_url": "https://aihot.news/items/cebavio3uyjwli5r3imsuq1si",
+      "source": "公众号：千问APP",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "95258550019d055124d7e30267ce376444203c51",
+          "title": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
+          "url": "https://aihot.news/items/cebavio3uyjwli5r3imsuq1si",
+          "source": "公众号：千问APP",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-25T04:32:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：千问APP"
+      ],
+      "items": [
+        {
+          "id": "95258550019d055124d7e30267ce376444203c51",
+          "title": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
+          "url": "https://aihot.news/items/cebavio3uyjwli5r3imsuq1si",
+          "source": "公众号：千问APP",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-25T04:32:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9581,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T04:32:44Z",
+      "latest_at": "2026-11-25T04:32:44Z",
+      "primary_item": {
+        "id": "95258550019d055124d7e30267ce376444203c51",
+        "title": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
+        "url": "https://aihot.news/items/cebavio3uyjwli5r3imsuq1si",
+        "source": "公众号：千问APP",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3f29ffd2f9c6",
+      "title": "Anthropic 上市不到一周跌破 83 美元发行价",
+      "url": "https://aihot.news/items/yhlpti07v4y216qat3ml1qmca",
+      "primary_url": "https://aihot.news/items/yhlpti07v4y216qat3ml1qmca",
+      "source": "IT之家·人工智能",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8f9ac8ee07da7bd01ac36fdc890c2642991c39ee",
+          "title": "Anthropic 上市不到一周跌破 83 美元发行价",
+          "url": "https://aihot.news/items/yhlpti07v4y216qat3ml1qmca",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-25T03:29:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家·人工智能"
+      ],
+      "items": [
+        {
+          "id": "8f9ac8ee07da7bd01ac36fdc890c2642991c39ee",
+          "title": "Anthropic 上市不到一周跌破 83 美元发行价",
+          "url": "https://aihot.news/items/yhlpti07v4y216qat3ml1qmca",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-25T03:29:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7948,
+      "importance": 0.7948,
+      "importance_score": 0.7948,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.914,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T03:29:13Z",
+      "latest_at": "2026-11-25T03:29:13Z",
+      "primary_item": {
+        "id": "8f9ac8ee07da7bd01ac36fdc890c2642991c39ee",
+        "title": "Anthropic 上市不到一周跌破 83 美元发行价",
+        "url": "https://aihot.news/items/yhlpti07v4y216qat3ml1qmca",
+        "source": "IT之家·人工智能",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_41eb5b09a14c",
+      "title": "矩阵乘法指数被证明精确为 9/4",
+      "url": "https://aihot.news/items/pdtslys0302mclldlo6l1dlr9",
+      "primary_url": "https://aihot.news/items/pdtslys0302mclldlo6l1dlr9",
+      "source": "Greg Brockman",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ee064d308c5ee65dd65066659d8988bf5094e80a",
+          "title": "矩阵乘法指数被证明精确为 9/4",
+          "url": "https://aihot.news/items/pdtslys0302mclldlo6l1dlr9",
+          "source": "Greg Brockman",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-25T02:35:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Greg Brockman"
+      ],
+      "items": [
+        {
+          "id": "ee064d308c5ee65dd65066659d8988bf5094e80a",
+          "title": "矩阵乘法指数被证明精确为 9/4",
+          "url": "https://aihot.news/items/pdtslys0302mclldlo6l1dlr9",
+          "source": "Greg Brockman",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-25T02:35:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7874,
+      "importance": 0.7874,
+      "importance_score": 0.7874,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8768,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T02:35:38Z",
+      "latest_at": "2026-11-25T02:35:38Z",
+      "primary_item": {
+        "id": "ee064d308c5ee65dd65066659d8988bf5094e80a",
+        "title": "矩阵乘法指数被证明精确为 9/4",
+        "url": "https://aihot.news/items/pdtslys0302mclldlo6l1dlr9",
+        "source": "Greg Brockman",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_52cef34c7734",
+      "title": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
+      "url": "https://www.aibase.com/news/32507",
+      "primary_url": "https://www.aibase.com/news/32507",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "13308f9f51d4797361083698ca7a7a443a3cd393",
+          "title": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
+          "url": "https://www.aibase.com/news/32507",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T05:33:04.129892Z"
+        },
+        {
+          "id": "14a628ec152cf6e855fa8a273dcb5f6dfda8e4db",
+          "title": "Claude 生成的应用可以「装」进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
+          "url": "https://www.aibase.com/zh/news/32507",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "13308f9f51d4797361083698ca7a7a443a3cd393",
+          "title": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
+          "url": "https://www.aibase.com/news/32507",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T05:33:04.129892Z"
+        },
+        {
+          "id": "14a628ec152cf6e855fa8a273dcb5f6dfda8e4db",
+          "title": "Claude 生成的应用可以「装」进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
+          "url": "https://www.aibase.com/zh/news/32507",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T05:33:04.129892Z",
+      "latest_at": "2026-11-25T05:33:04.129892Z",
+      "primary_item": {
+        "id": "13308f9f51d4797361083698ca7a7a443a3cd393",
+        "title": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
+        "url": "https://www.aibase.com/news/32507",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_07a810ed9251",
+      "title": "Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10",
+      "url": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
+      "primary_url": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fccf6796989cac3e26a34126d22b9a0a43050911",
+          "title": "Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10",
+          "url": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T23:56:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "fccf6796989cac3e26a34126d22b9a0a43050911",
+          "title": "Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10",
+          "url": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-24T23:56:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7659,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T23:56:00Z",
+      "latest_at": "2026-11-24T23:56:00Z",
+      "primary_item": {
+        "id": "fccf6796989cac3e26a34126d22b9a0a43050911",
+        "title": "Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10",
+        "url": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_7a13ff91f5e0",
       "title": "GitHub.com 上的通知更可预测 / More predictable notifications on GitHub.com",
@@ -38,14 +518,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.807,
-      "importance": 0.807,
-      "importance_score": 0.807,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7301,
+        "recency": 0.4638,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +542,86 @@
         "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d83572b5433e",
+      "title": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
+      "url": "https://www.aibase.com/news/32504",
+      "primary_url": "https://www.aibase.com/news/32504",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2ba651cb32a6c6541caed2516089c52ca9a5be9c",
+          "title": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
+          "url": "https://www.aibase.com/news/32504",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T05:33:04.129892Z"
+        },
+        {
+          "id": "e8f5aafd790f32aafab9baaa7897ba6c15edbff6",
+          "title": "ShellBench 发布：GPT-6Astra 等先进 AI 模型日常任务失败率超三分之一",
+          "url": "https://www.aibase.com/zh/news/32504",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "2ba651cb32a6c6541caed2516089c52ca9a5be9c",
+          "title": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
+          "url": "https://www.aibase.com/news/32504",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T05:33:04.129892Z"
+        },
+        {
+          "id": "e8f5aafd790f32aafab9baaa7897ba6c15edbff6",
+          "title": "ShellBench 发布：GPT-6Astra 等先进 AI 模型日常任务失败率超三分之一",
+          "url": "https://www.aibase.com/zh/news/32504",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T05:33:04.129892Z",
+      "latest_at": "2026-11-25T05:33:04.129892Z",
+      "primary_item": {
+        "id": "2ba651cb32a6c6541caed2516089c52ca9a5be9c",
+        "title": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
+        "url": "https://www.aibase.com/news/32504",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -99,20 +659,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7986,
-      "importance": 0.7986,
-      "importance_score": 0.7986,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9328,
+        "recency": 0.6665,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-24T21:32:51Z",
       "latest_at": "2026-11-24T21:32:51Z",
@@ -159,20 +718,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7944,
-      "importance": 0.7944,
-      "importance_score": 0.7944,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.912,
+        "recency": 0.6458,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-24T21:02:58Z",
       "latest_at": "2026-11-24T21:02:58Z",
@@ -181,66 +739,6 @@
         "title": "OpenAI 发布 preprint：湿实验验证 GPT-6 系列模型具备内在蛋白质设计能力",
         "url": "https://aihot.news/items/vld1kqsp7wkz3o3qo1ubc9sg9",
         "source": "OpenAI",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_10c18e18a354",
-      "title": "GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜",
-      "url": "https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st",
-      "primary_url": "https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st",
-      "source": "Greg Brockman",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e612d0f5510c82b4322eebc4476212d9587a014f",
-          "title": "GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜",
-          "url": "https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st",
-          "source": "Greg Brockman",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-24T19:06:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Greg Brockman"
-      ],
-      "items": [
-        {
-          "id": "e612d0f5510c82b4322eebc4476212d9587a014f",
-          "title": "GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜",
-          "url": "https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st",
-          "source": "Greg Brockman",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-24T19:06:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8314,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T19:06:54Z",
-      "latest_at": "2026-11-24T19:06:54Z",
-      "primary_item": {
-        "id": "e612d0f5510c82b4322eebc4476212d9587a014f",
-        "title": "GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜",
-        "url": "https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st",
-        "source": "Greg Brockman",
         "source_name": "AI HOT"
       }
     },
@@ -279,20 +777,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
+      "score": 0.7202,
+      "importance": 0.7202,
+      "importance_score": 0.7202,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8073,
+        "recency": 0.5411,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-24T18:32:13Z",
       "latest_at": "2026-11-24T18:32:13Z",
@@ -339,20 +836,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7733,
-      "importance": 0.7733,
-      "importance_score": 0.7733,
+      "score": 0.72,
+      "importance": 0.72,
+      "importance_score": 0.72,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8063,
+        "recency": 0.54,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-24T18:30:42Z",
       "latest_at": "2026-11-24T18:30:42Z",
@@ -365,26 +861,26 @@
       }
     },
     {
-      "story_id": "story_be508b15c818",
-      "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
-      "url": "https://www.aibase.com/news/32500",
-      "primary_url": "https://www.aibase.com/news/32500",
+      "story_id": "story_1d1316ac2723",
+      "title": "Tidal宣布12月9日起封禁AI生成音乐，年底预计下架超2900万首歌曲",
+      "url": "https://www.aibase.com/news/32506",
+      "primary_url": "https://www.aibase.com/news/32506",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0777b16ef8a83cf0a816d8739ec609de73c58d9f",
-          "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
-          "url": "https://www.aibase.com/news/32500",
+          "id": "e9c97a164de906636924172b2a19890c1a38b7ec",
+          "title": "Tidal宣布12月9日起封禁AI生成音乐，年底预计下架超2900万首歌曲",
+          "url": "https://www.aibase.com/news/32506",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T13:07:46.699822Z"
+          "published_at": "2026-11-25T05:33:04.129892Z"
         },
         {
-          "id": "9d17f12831db889bf4dec8392971d5b95c23383a",
-          "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会「回头看」",
-          "url": "https://www.aibase.com/zh/news/32500",
+          "id": "4594c01991544c021a6d1f60f32180eae62a94c0",
+          "title": "Tidal 宣布 12 月 9 日起封禁 AI 生成音乐，年底预计下架超 2900 万首歌曲",
+          "url": "https://www.aibase.com/zh/news/32506",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -398,18 +894,18 @@
       ],
       "items": [
         {
-          "id": "0777b16ef8a83cf0a816d8739ec609de73c58d9f",
-          "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
-          "url": "https://www.aibase.com/news/32500",
+          "id": "e9c97a164de906636924172b2a19890c1a38b7ec",
+          "title": "Tidal宣布12月9日起封禁AI生成音乐，年底预计下架超2900万首歌曲",
+          "url": "https://www.aibase.com/news/32506",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T13:07:46.699822Z"
+          "published_at": "2026-11-25T05:33:04.129892Z"
         },
         {
-          "id": "9d17f12831db889bf4dec8392971d5b95c23383a",
-          "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会「回头看」",
-          "url": "https://www.aibase.com/zh/news/32500",
+          "id": "4594c01991544c021a6d1f60f32180eae62a94c0",
+          "title": "Tidal 宣布 12 月 9 日起封禁 AI 生成音乐，年底预计下架超 2900 万首歌曲",
+          "url": "https://www.aibase.com/zh/news/32506",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -418,14 +914,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7534,
-      "importance": 0.7534,
-      "importance_score": 0.7534,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.582,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -434,410 +930,176 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T13:07:46.699822Z",
-      "latest_at": "2026-11-24T13:07:46.699822Z",
+      "earliest_at": "2026-11-25T05:33:04.129892Z",
+      "latest_at": "2026-11-25T05:33:04.129892Z",
       "primary_item": {
-        "id": "0777b16ef8a83cf0a816d8739ec609de73c58d9f",
-        "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
-        "url": "https://www.aibase.com/news/32500",
+        "id": "e9c97a164de906636924172b2a19890c1a38b7ec",
+        "title": "Tidal宣布12月9日起封禁AI生成音乐，年底预计下架超2900万首歌曲",
+        "url": "https://www.aibase.com/news/32506",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_ce21e725116a",
-      "title": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
-      "url": "https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x",
-      "primary_url": "https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x",
-      "source": "Ars Technica：AI",
+      "story_id": "story_10c18e18a354",
+      "title": "GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜",
+      "url": "https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st",
+      "primary_url": "https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st",
+      "source": "Greg Brockman",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "652bf4c338a71ac9ad9d5d966cabc30935eb164a",
-          "title": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
-          "url": "https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x",
-          "source": "Ars Technica：AI",
+          "id": "e612d0f5510c82b4322eebc4476212d9587a014f",
+          "title": "GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜",
+          "url": "https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st",
+          "source": "Greg Brockman",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-11-24T12:30:05Z"
+          "published_at": "2026-11-24T19:06:54Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Ars Technica：AI"
+        "Greg Brockman"
       ],
       "items": [
         {
-          "id": "652bf4c338a71ac9ad9d5d966cabc30935eb164a",
-          "title": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
-          "url": "https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x",
-          "source": "Ars Technica：AI",
+          "id": "e612d0f5510c82b4322eebc4476212d9587a014f",
+          "title": "GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜",
+          "url": "https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st",
+          "source": "Greg Brockman",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-11-24T12:30:05Z"
+          "published_at": "2026-11-24T19:06:54Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7232,
-      "importance": 0.7232,
-      "importance_score": 0.7232,
+      "score": 0.725,
+      "importance": 0.725,
+      "importance_score": 0.725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5558,
+        "recency": 0.5652,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-24T12:30:05Z",
-      "latest_at": "2026-11-24T12:30:05Z",
+      "earliest_at": "2026-11-24T19:06:54Z",
+      "latest_at": "2026-11-24T19:06:54Z",
       "primary_item": {
-        "id": "652bf4c338a71ac9ad9d5d966cabc30935eb164a",
-        "title": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
-        "url": "https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x",
-        "source": "Ars Technica：AI",
+        "id": "e612d0f5510c82b4322eebc4476212d9587a014f",
+        "title": "GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜",
+        "url": "https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st",
+        "source": "Greg Brockman",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_a4b244609cc7",
-      "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
-      "url": "https://www.aibase.com/news/32498",
-      "primary_url": "https://www.aibase.com/news/32498",
+      "story_id": "story_d38fbabbf6eb",
+      "title": "业余天文学家带 AI 翻遍 1900 万颗恒星：筛出潜在系外行星信号，已交专业团队验证",
+      "url": "https://www.aibase.com/news/32509",
+      "primary_url": "https://www.aibase.com/news/32509",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6928b217a172943345aa47855e8cfd6f8d3433bb",
-          "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
-          "url": "https://www.aibase.com/news/32498",
+          "id": "adefd1ae274ce3b3d43fdd1058df8c851f5fb3a9",
+          "title": "业余天文学家带 AI 翻遍 1900 万颗恒星：筛出潜在系外行星信号，已交专业团队验证",
+          "url": "https://www.aibase.com/news/32509",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T13:07:46.699822Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6928b217a172943345aa47855e8cfd6f8d3433bb",
-          "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
-          "url": "https://www.aibase.com/news/32498",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-24T13:07:46.699822Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.582,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-24T13:07:46.699822Z",
-      "latest_at": "2026-11-24T13:07:46.699822Z",
-      "primary_item": {
-        "id": "6928b217a172943345aa47855e8cfd6f8d3433bb",
-        "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
-        "url": "https://www.aibase.com/news/32498",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_40bec5aa6efa",
-      "title": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
-      "url": "https://www.aibase.com/news/32494",
-      "primary_url": "https://www.aibase.com/news/32494",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4be391a939460f17e30b60f0468d6e9b1503e7d2",
-          "title": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
-          "url": "https://www.aibase.com/news/32494",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-24T13:07:46.699822Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4be391a939460f17e30b60f0468d6e9b1503e7d2",
-          "title": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
-          "url": "https://www.aibase.com/news/32494",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-24T13:07:46.699822Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.582,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-24T13:07:46.699822Z",
-      "latest_at": "2026-11-24T13:07:46.699822Z",
-      "primary_item": {
-        "id": "4be391a939460f17e30b60f0468d6e9b1503e7d2",
-        "title": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
-        "url": "https://www.aibase.com/news/32494",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_674ac2d96267",
-      "title": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
-      "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
-      "primary_url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
-      "source": "ChinaTalk",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b91e28e62d90a1962519b4ee38167faf771e196c",
-          "title": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
-          "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
-          "source": "ChinaTalk",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-24T01:41:25Z"
+          "published_at": "2026-11-25T05:33:04.129892Z"
         },
         {
-          "id": "763a8e60afeb209842e28ed26dcfb3ca21fbd61e",
-          "title": "ChinaTalk播客：Nvidia董事会恢复黄仁勋CEO职务，Megaspeed被列入实体清单",
-          "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
-          "source": "ChinaTalk",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-24T01:41:25Z"
+          "id": "f2c6e29fdfea799b701e8ee679b7aec977e92b8a",
+          "title": "业余天文学家带 AI 翻遍 1900 万颗恒星：筛出潜在系外行星信号，已交专业团队验证",
+          "url": "https://www.aibase.com/zh/news/32509",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "ChinaTalk"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "b91e28e62d90a1962519b4ee38167faf771e196c",
-          "title": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
-          "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
-          "source": "ChinaTalk",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-24T01:41:25Z"
+          "id": "adefd1ae274ce3b3d43fdd1058df8c851f5fb3a9",
+          "title": "业余天文学家带 AI 翻遍 1900 万颗恒星：筛出潜在系外行星信号，已交专业团队验证",
+          "url": "https://www.aibase.com/news/32509",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T05:33:04.129892Z"
         },
         {
-          "id": "763a8e60afeb209842e28ed26dcfb3ca21fbd61e",
-          "title": "ChinaTalk播客：Nvidia董事会恢复黄仁勋CEO职务，Megaspeed被列入实体清单",
-          "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
-          "source": "ChinaTalk",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-24T01:41:25Z"
+          "id": "f2c6e29fdfea799b701e8ee679b7aec977e92b8a",
+          "title": "业余天文学家带 AI 翻遍 1900 万颗恒星：筛出潜在系外行星信号，已交专业团队验证",
+          "url": "https://www.aibase.com/zh/news/32509",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6581,
-      "importance": 0.6581,
-      "importance_score": 0.6581,
-      "importance_label": "值得关注",
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1054,
+        "recency": 1.0,
         "story_heat": 0.25
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-24T01:41:25Z",
-      "latest_at": "2026-11-24T01:41:25Z",
+      "earliest_at": "2026-11-25T05:33:04.129892Z",
+      "latest_at": "2026-11-25T05:33:04.129892Z",
       "primary_item": {
-        "id": "b91e28e62d90a1962519b4ee38167faf771e196c",
-        "title": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
-        "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
-        "source": "ChinaTalk",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3d7f87193900",
-      "title": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
-      "url": "https://www.aibase.com/news/32497",
-      "primary_url": "https://www.aibase.com/news/32497",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bb0484b469db26a7774030905a1acd57dd9683f5",
-          "title": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
-          "url": "https://www.aibase.com/news/32497",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-24T13:07:46.699822Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "bb0484b469db26a7774030905a1acd57dd9683f5",
-          "title": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
-          "url": "https://www.aibase.com/news/32497",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-24T13:07:46.699822Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.582,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-24T13:07:46.699822Z",
-      "latest_at": "2026-11-24T13:07:46.699822Z",
-      "primary_item": {
-        "id": "bb0484b469db26a7774030905a1acd57dd9683f5",
-        "title": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
-        "url": "https://www.aibase.com/news/32497",
+        "id": "adefd1ae274ce3b3d43fdd1058df8c851f5fb3a9",
+        "title": "业余天文学家带 AI 翻遍 1900 万颗恒星：筛出潜在系外行星信号，已交专业团队验证",
+        "url": "https://www.aibase.com/news/32509",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_2fce111c8cb6",
-      "title": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
-      "url": "https://www.aibase.com/news/32496",
-      "primary_url": "https://www.aibase.com/news/32496",
+      "story_id": "story_186025c0f630",
+      "title": "马斯克拍板：AI5 芯片优先给 Optimus 机器人，特斯拉汽车留在“足以超人驾驶”的 AI4 上",
+      "url": "https://www.aibase.com/news/32520",
+      "primary_url": "https://www.aibase.com/news/32520",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6982391f613a612fdf6d58b07f999ce00cff42fc",
-          "title": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
-          "url": "https://www.aibase.com/news/32496",
+          "id": "37eb626e9de624834f538a18c756c971581dfea0",
+          "title": "马斯克拍板：AI5 芯片优先给 Optimus 机器人，特斯拉汽车留在“足以超人驾驶”的 AI4 上",
+          "url": "https://www.aibase.com/news/32520",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T13:07:46.699822Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6982391f613a612fdf6d58b07f999ce00cff42fc",
-          "title": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
-          "url": "https://www.aibase.com/news/32496",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-24T13:07:46.699822Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.582,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-24T13:07:46.699822Z",
-      "latest_at": "2026-11-24T13:07:46.699822Z",
-      "primary_item": {
-        "id": "6982391f613a612fdf6d58b07f999ce00cff42fc",
-        "title": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
-        "url": "https://www.aibase.com/news/32496",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f796e127a00b",
-      "title": "GPT-6.2 Astra 自主破解 1808 年匿名素描本作者之谜 / GPT 6.2 Astra Solves a Historical Mystery",
-      "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
-      "primary_url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
-      "source": "Simon Willison",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "6c33fdfb556308eb2eb976575ca200c4211c9813",
-          "title": "GPT-6.2 Astra 自主破解 1808 年匿名素描本作者之谜 / GPT 6.2 Astra Solves a Historical Mystery",
-          "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-24T16:53:59Z"
+          "published_at": "2026-11-25T05:33:04.129892Z"
         },
         {
-          "id": "c8495f14e898478fe8dc6cb034b57f1dddf910ce",
-          "title": "GPT-6.2 Astra 自主破解 1808 年匿名素描本作者之谜",
-          "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
+          "id": "1a5748b9674f9b9a17d4bab673837c44d287697d",
+          "title": "马斯克拍板：AI5 芯片优先给 Optimus 机器人，特斯拉汽车留在「足以超人驾驶」的 AI4 上",
+          "url": "https://www.aibase.com/zh/news/32520",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -846,23 +1108,23 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "Simon Willison"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "6c33fdfb556308eb2eb976575ca200c4211c9813",
-          "title": "GPT-6.2 Astra 自主破解 1808 年匿名素描本作者之谜 / GPT 6.2 Astra Solves a Historical Mystery",
-          "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-24T16:53:59Z"
+          "id": "37eb626e9de624834f538a18c756c971581dfea0",
+          "title": "马斯克拍板：AI5 芯片优先给 Optimus 机器人，特斯拉汽车留在“足以超人驾驶”的 AI4 上",
+          "url": "https://www.aibase.com/news/32520",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T05:33:04.129892Z"
         },
         {
-          "id": "c8495f14e898478fe8dc6cb034b57f1dddf910ce",
-          "title": "GPT-6.2 Astra 自主破解 1808 年匿名素描本作者之谜",
-          "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
+          "id": "1a5748b9674f9b9a17d4bab673837c44d287697d",
+          "title": "马斯克拍板：AI5 芯片优先给 Optimus 机器人，特斯拉汽车留在「足以超人驾驶」的 AI4 上",
+          "url": "https://www.aibase.com/zh/news/32520",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -871,46 +1133,48 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5858,
-      "importance": 0.5858,
-      "importance_score": 0.5858,
-      "importance_label": "值得关注",
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.7391,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.25
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-24T16:53:59Z",
-      "latest_at": "2026-11-24T23:09:41.111776Z",
+      "earliest_at": "2026-11-25T05:33:04.129892Z",
+      "latest_at": "2026-11-25T05:33:04.129892Z",
       "primary_item": {
-        "id": "6c33fdfb556308eb2eb976575ca200c4211c9813",
-        "title": "GPT-6.2 Astra 自主破解 1808 年匿名素描本作者之谜 / GPT 6.2 Astra Solves a Historical Mystery",
-        "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
-        "source": "Simon Willison",
-        "source_name": "OPML RSS"
+        "id": "37eb626e9de624834f538a18c756c971581dfea0",
+        "title": "马斯克拍板：AI5 芯片优先给 Optimus 机器人，特斯拉汽车留在“足以超人驾驶”的 AI4 上",
+        "url": "https://www.aibase.com/news/32520",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_96ac3c9ddd8a",
-      "title": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
-      "url": "https://www.aibase.com/news/32499",
-      "primary_url": "https://www.aibase.com/news/32499",
+      "story_id": "story_d003fed53e26",
+      "title": "Anthropic 给 Claude Artifacts 加“安装为应用”：AI 生成的工具可装进 macOS 和 Windows 桌面",
+      "url": "https://www.aibase.com/news/32510",
+      "primary_url": "https://www.aibase.com/news/32510",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "19602b17dc337cbaf2329bd59915b8a279a78603",
-          "title": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
-          "url": "https://www.aibase.com/news/32499",
+          "id": "83f00387adfa67bcf8c236d66fa8597c8c480926",
+          "title": "Anthropic 给 Claude Artifacts 加“安装为应用”：AI 生成的工具可装进 macOS 和 Windows 桌面",
+          "url": "https://www.aibase.com/news/32510",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T13:07:46.699822Z"
+          "published_at": "2026-11-25T05:33:04.129892Z"
         }
       ],
       "source_count": 1,
@@ -919,57 +1183,58 @@
       ],
       "items": [
         {
-          "id": "19602b17dc337cbaf2329bd59915b8a279a78603",
-          "title": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
-          "url": "https://www.aibase.com/news/32499",
+          "id": "83f00387adfa67bcf8c236d66fa8597c8c480926",
+          "title": "Anthropic 给 Claude Artifacts 加“安装为应用”：AI 生成的工具可装进 macOS 和 Windows 桌面",
+          "url": "https://www.aibase.com/news/32510",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T13:07:46.699822Z"
+          "published_at": "2026-11-25T05:33:04.129892Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.582,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-24T13:07:46.699822Z",
-      "latest_at": "2026-11-24T13:07:46.699822Z",
+      "earliest_at": "2026-11-25T05:33:04.129892Z",
+      "latest_at": "2026-11-25T05:33:04.129892Z",
       "primary_item": {
-        "id": "19602b17dc337cbaf2329bd59915b8a279a78603",
-        "title": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
-        "url": "https://www.aibase.com/news/32499",
+        "id": "83f00387adfa67bcf8c236d66fa8597c8c480926",
+        "title": "Anthropic 给 Claude Artifacts 加“安装为应用”：AI 生成的工具可装进 macOS 和 Windows 桌面",
+        "url": "https://www.aibase.com/news/32510",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_8d147fd1ffb0",
-      "title": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
-      "url": "https://www.aibase.com/news/32502",
-      "primary_url": "https://www.aibase.com/news/32502",
+      "story_id": "story_913181530c55",
+      "title": "GPT-6 不带专用生物模型上场：322 个设计蛋白进实验室，约一成有结合迹象",
+      "url": "https://www.aibase.com/news/32513",
+      "primary_url": "https://www.aibase.com/news/32513",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4263428678abdc5e8e3021f4ab3d10da72cbeac0",
-          "title": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
-          "url": "https://www.aibase.com/news/32502",
+          "id": "fe867052a1b7a0bb3a81b6b3ed34d8c92fbf6f7c",
+          "title": "GPT-6 不带专用生物模型上场：322 个设计蛋白进实验室，约一成有结合迹象",
+          "url": "https://www.aibase.com/news/32513",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T13:07:46.699822Z"
+          "published_at": "2026-11-25T05:33:04.129892Z"
         }
       ],
       "source_count": 1,
@@ -978,332 +1243,137 @@
       ],
       "items": [
         {
-          "id": "4263428678abdc5e8e3021f4ab3d10da72cbeac0",
-          "title": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
-          "url": "https://www.aibase.com/news/32502",
+          "id": "fe867052a1b7a0bb3a81b6b3ed34d8c92fbf6f7c",
+          "title": "GPT-6 不带专用生物模型上场：322 个设计蛋白进实验室，约一成有结合迹象",
+          "url": "https://www.aibase.com/news/32513",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T13:07:46.699822Z"
+          "published_at": "2026-11-25T05:33:04.129892Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.582,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-24T13:07:46.699822Z",
-      "latest_at": "2026-11-24T13:07:46.699822Z",
+      "earliest_at": "2026-11-25T05:33:04.129892Z",
+      "latest_at": "2026-11-25T05:33:04.129892Z",
       "primary_item": {
-        "id": "4263428678abdc5e8e3021f4ab3d10da72cbeac0",
-        "title": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
-        "url": "https://www.aibase.com/news/32502",
+        "id": "fe867052a1b7a0bb3a81b6b3ed34d8c92fbf6f7c",
+        "title": "GPT-6 不带专用生物模型上场：322 个设计蛋白进实验室，约一成有结合迹象",
+        "url": "https://www.aibase.com/news/32513",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_d6abf7ddb0f3",
-      "title": "GPT-6 模型展示了内在的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "primary_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_a58808d0bc10",
+      "title": "PenGPT：一种用于手写和草图生成的生成式变压器模型",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt",
+      "primary_url": "https://greydanus.github.io/2026/11/12/pengpt",
+      "source": "greydanus.github.io",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "d7ad6311162a5b83805137c6cad0e7135bf56aa3",
-          "title": "GPT-6 模型展示了内在的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "5fb6bb6a5bda2f03c13eaa97a687badeb8bf4c1f",
+          "title": "PenGPT：一种用于手写和草图生成的生成式变压器模型",
+          "url": "https://greydanus.github.io/2026/11/12/pengpt",
+          "source": "greydanus.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-25T03:48:39.862000Z"
         },
         {
-          "id": "6382c28d435863f7b3493e9f7f114283e62872f0",
-          "title": "GPT-6 模型展示了内在的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "url": "https://news.ycombinator.com/item?id=50634658",
+          "id": "ab27bf8d192af9d30e5f0ecf9505abb522a4c09c",
+          "title": "PenGPT：一种用于手写和草图生成的生成式变压器模型 / PenGPT: A Generative Transformer for Handwriting and Sketches",
+          "url": "https://greydanus.github.io/2026/11/12/pengpt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-25T00:54:49Z"
+        },
+        {
+          "id": "0e8a39337dbebc6974c2188456985e802015ca73",
+          "title": "PenGPT：手写和草图生成转换器 / PenGPT: A Generative Transformer for Handwriting and Sketches",
+          "url": "https://news.ycombinator.com/item?id=50637056",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-24T21:02:22Z"
+          "published_at": "2026-11-25T00:54:49Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "Readhub · AI",
+        "Hacker News · 24h最热",
+        "greydanus.github.io",
         "hackernews"
       ],
       "items": [
         {
-          "id": "d7ad6311162a5b83805137c6cad0e7135bf56aa3",
-          "title": "GPT-6 模型展示了内在的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "5fb6bb6a5bda2f03c13eaa97a687badeb8bf4c1f",
+          "title": "PenGPT：一种用于手写和草图生成的生成式变压器模型",
+          "url": "https://greydanus.github.io/2026/11/12/pengpt",
+          "source": "greydanus.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-25T03:48:39.862000Z"
         },
         {
-          "id": "6382c28d435863f7b3493e9f7f114283e62872f0",
-          "title": "GPT-6 模型展示了内在的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "url": "https://news.ycombinator.com/item?id=50634658",
+          "id": "ab27bf8d192af9d30e5f0ecf9505abb522a4c09c",
+          "title": "PenGPT：一种用于手写和草图生成的生成式变压器模型 / PenGPT: A Generative Transformer for Handwriting and Sketches",
+          "url": "https://greydanus.github.io/2026/11/12/pengpt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-25T00:54:49Z"
+        },
+        {
+          "id": "0e8a39337dbebc6974c2188456985e802015ca73",
+          "title": "PenGPT：手写和草图生成转换器 / PenGPT: A Generative Transformer for Handwriting and Sketches",
+          "url": "https://news.ycombinator.com/item?id=50637056",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-24T21:02:22Z"
+          "published_at": "2026-11-25T00:54:49Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5585,
+      "importance": 0.5585,
+      "importance_score": 0.5585,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "recency": 0.9275,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-24T21:02:22Z",
-      "latest_at": "2026-11-24T23:09:41.111776Z",
+      "earliest_at": "2026-11-25T00:54:49Z",
+      "latest_at": "2026-11-25T03:48:39.862000Z",
       "primary_item": {
-        "id": "d7ad6311162a5b83805137c6cad0e7135bf56aa3",
-        "title": "GPT-6 模型展示了内在的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
-        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_1951d3d0aee3",
-      "title": "Declare 是一款专为您和您的 AI 设计的 UI 语言",
-      "url": "https://davidtemkin.github.io/declarelang",
-      "primary_url": "https://davidtemkin.github.io/declarelang",
-      "source": "davidtemkin.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cfbfe9d48cfbe0877040431e2f4ebd1df0157648",
-          "title": "Declare 是一款专为您和您的 AI 设计的 UI 语言",
-          "url": "https://davidtemkin.github.io/declarelang",
-          "source": "davidtemkin.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-24T20:20:41.782000Z"
-        },
-        {
-          "id": "87955d17fa53c0e7d71a30917d387703ade3b5f7",
-          "title": "Declare 是一款专为您和您的 AI 设计的 UI 语言 / Declare is a UI language for you and your AI",
-          "url": "https://davidtemkin.github.io/declarelang",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-24T02:36:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "davidtemkin.github.io"
-      ],
-      "items": [
-        {
-          "id": "cfbfe9d48cfbe0877040431e2f4ebd1df0157648",
-          "title": "Declare 是一款专为您和您的 AI 设计的 UI 语言",
-          "url": "https://davidtemkin.github.io/declarelang",
-          "source": "davidtemkin.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-24T20:20:41.782000Z"
-        },
-        {
-          "id": "87955d17fa53c0e7d71a30917d387703ade3b5f7",
-          "title": "Declare 是一款专为您和您的 AI 设计的 UI 语言 / Declare is a UI language for you and your AI",
-          "url": "https://davidtemkin.github.io/declarelang",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-24T02:36:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5245,
-      "importance": 0.5245,
-      "importance_score": 0.5245,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8826,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-24T02:36:56Z",
-      "latest_at": "2026-11-24T20:20:41.782000Z",
-      "primary_item": {
-        "id": "cfbfe9d48cfbe0877040431e2f4ebd1df0157648",
-        "title": "Declare 是一款专为您和您的 AI 设计的 UI 语言",
-        "url": "https://davidtemkin.github.io/declarelang",
-        "source": "davidtemkin.github.io",
+        "id": "5fb6bb6a5bda2f03c13eaa97a687badeb8bf4c1f",
+        "title": "PenGPT：一种用于手写和草图生成的生成式变压器模型",
+        "url": "https://greydanus.github.io/2026/11/12/pengpt",
+        "source": "greydanus.github.io",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_88d7ae9c702e",
-      "title": "被指控在OpenAI安装窃听设备的沙特工程师有望以100万美元保释金获释",
-      "url": "https://www.businessinsider.com/openai-engineer-abdulrahman-alfozan-1-million-bond-2026-11",
-      "primary_url": "https://www.businessinsider.com/openai-engineer-abdulrahman-alfozan-1-million-bond-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "fc00c73a38da196bcc7853861a776d0148be025f",
-          "title": "被指控在OpenAI安装窃听设备的沙特工程师有望以100万美元保释金获释",
-          "url": "https://www.businessinsider.com/openai-engineer-abdulrahman-alfozan-1-million-bond-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-24T20:20:41.910000Z"
-        },
-        {
-          "id": "ab9a61998e8e6ecf967e329fea002b77644688d4",
-          "title": "被指控在OpenAI安装窃听设备的沙特工程师有望以100万美元保释金获释 / The Saudi engineer accused of bugging OpenAI is set to be released on a $1 million bond",
-          "url": "https://www.businessinsider.com/openai-engineer-abdulrahman-alfozan-1-million-bond-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-24T20:15:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "fc00c73a38da196bcc7853861a776d0148be025f",
-          "title": "被指控在OpenAI安装窃听设备的沙特工程师有望以100万美元保释金获释",
-          "url": "https://www.businessinsider.com/openai-engineer-abdulrahman-alfozan-1-million-bond-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-24T20:20:41.910000Z"
-        },
-        {
-          "id": "ab9a61998e8e6ecf967e329fea002b77644688d4",
-          "title": "被指控在OpenAI安装窃听设备的沙特工程师有望以100万美元保释金获释 / The Saudi engineer accused of bugging OpenAI is set to be released on a $1 million bond",
-          "url": "https://www.businessinsider.com/openai-engineer-abdulrahman-alfozan-1-million-bond-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-24T20:15:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5245,
-      "importance": 0.5245,
-      "importance_score": 0.5245,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8826,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-24T20:15:38Z",
-      "latest_at": "2026-11-24T20:20:41.910000Z",
-      "primary_item": {
-        "id": "fc00c73a38da196bcc7853861a776d0148be025f",
-        "title": "被指控在OpenAI安装窃听设备的沙特工程师有望以100万美元保释金获释",
-        "url": "https://www.businessinsider.com/openai-engineer-abdulrahman-alfozan-1-million-bond-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_fe3ce53458b8",
-      "title": "腾讯混元发布并开源Hy MT3",
-      "url": "https://www.aibase.com/news/32503",
-      "primary_url": "https://www.aibase.com/news/32503",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d6920df5f14a9302a98b5be40c3ca4ce86826efb",
-          "title": "腾讯混元发布并开源Hy MT3",
-          "url": "https://www.aibase.com/news/32503",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-24T13:07:46.699822Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d6920df5f14a9302a98b5be40c3ca4ce86826efb",
-          "title": "腾讯混元发布并开源Hy MT3",
-          "url": "https://www.aibase.com/news/32503",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-24T13:07:46.699822Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.582,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-24T13:07:46.699822Z",
-      "latest_at": "2026-11-24T13:07:46.699822Z",
-      "primary_item": {
-        "id": "d6920df5f14a9302a98b5be40c3ca4ce86826efb",
-        "title": "腾讯混元发布并开源Hy MT3",
-        "url": "https://www.aibase.com/news/32503",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
