@@ -1,8 +1,468 @@
 {
-  "generated_at": "2026-11-26T09:03:15.728623Z",
+  "generated_at": "2026-11-26T19:11:06.881947Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_621d4d2e1185",
+      "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+      "url": "https://www.aibase.com/news/32555",
+      "primary_url": "https://www.aibase.com/news/32555",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
+          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "url": "https://www.aibase.com/news/32555",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T18:11:06.881947Z"
+        },
+        {
+          "id": "8ffaa183187960b5c7eeb69894a566d083efacaa",
+          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "url": "https://www.aibase.com/zh/news/32555",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
+          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "url": "https://www.aibase.com/news/32555",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T18:11:06.881947Z"
+        },
+        {
+          "id": "8ffaa183187960b5c7eeb69894a566d083efacaa",
+          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "url": "https://www.aibase.com/zh/news/32555",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8287,
+      "importance": 0.8287,
+      "importance_score": 0.8287,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9583,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T18:11:06.881947Z",
+      "latest_at": "2026-11-26T19:11:06.881947Z",
+      "primary_item": {
+        "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
+        "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+        "url": "https://www.aibase.com/news/32555",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_79ca40a374f4",
+      "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
+      "url": "https://www.aibase.com/news/32556",
+      "primary_url": "https://www.aibase.com/news/32556",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8fff2caf8773da60e89b9cbde51dac67f3a4ec47",
+          "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
+          "url": "https://www.aibase.com/news/32556",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T18:11:06.881947Z"
+        },
+        {
+          "id": "3bc20fe2ca88633aa7e1254cb4a41b0f904bf2aa",
+          "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
+          "url": "https://www.aibase.com/zh/news/32556",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8fff2caf8773da60e89b9cbde51dac67f3a4ec47",
+          "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
+          "url": "https://www.aibase.com/news/32556",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T18:11:06.881947Z"
+        },
+        {
+          "id": "3bc20fe2ca88633aa7e1254cb4a41b0f904bf2aa",
+          "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
+          "url": "https://www.aibase.com/zh/news/32556",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8287,
+      "importance": 0.8287,
+      "importance_score": 0.8287,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9583,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T18:11:06.881947Z",
+      "latest_at": "2026-11-26T19:11:06.881947Z",
+      "primary_item": {
+        "id": "8fff2caf8773da60e89b9cbde51dac67f3a4ec47",
+        "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
+        "url": "https://www.aibase.com/news/32556",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_84cfcaab2f2b",
+      "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
+      "url": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
+      "primary_url": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
+      "source": "Ado Kukic",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "109703faef3119807708885c21c80f147acd34fc",
+          "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
+          "url": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
+          "source": "Ado Kukic",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-26T16:44:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ado Kukic"
+      ],
+      "items": [
+        {
+          "id": "109703faef3119807708885c21c80f147acd34fc",
+          "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
+          "url": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
+          "source": "Ado Kukic",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-26T16:44:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7917,
+      "importance": 0.7917,
+      "importance_score": 0.7917,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8984,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T16:44:47Z",
+      "latest_at": "2026-11-26T16:44:47Z",
+      "primary_item": {
+        "id": "109703faef3119807708885c21c80f147acd34fc",
+        "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
+        "url": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
+        "source": "Ado Kukic",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ba06afa288b2",
+      "title": "Philipp Schmid 撰文解释为何在 Skills 与 CLI 兴起后仍更看好 MCP",
+      "url": "https://aihot.news/items/jcdfpftbam647yhc210dbace9",
+      "primary_url": "https://aihot.news/items/jcdfpftbam647yhc210dbace9",
+      "source": "Philipp Schmid",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "71678d24872bcb7484dcbe1f009adea4792245de",
+          "title": "Philipp Schmid 撰文解释为何在 Skills 与 CLI 兴起后仍更看好 MCP",
+          "url": "https://aihot.news/items/jcdfpftbam647yhc210dbace9",
+          "source": "Philipp Schmid",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-26T13:30:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Philipp Schmid"
+      ],
+      "items": [
+        {
+          "id": "71678d24872bcb7484dcbe1f009adea4792245de",
+          "title": "Philipp Schmid 撰文解释为何在 Skills 与 CLI 兴起后仍更看好 MCP",
+          "url": "https://aihot.news/items/jcdfpftbam647yhc210dbace9",
+          "source": "Philipp Schmid",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-26T13:30:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7634,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T13:30:28Z",
+      "latest_at": "2026-11-26T13:30:28Z",
+      "primary_item": {
+        "id": "71678d24872bcb7484dcbe1f009adea4792245de",
+        "title": "Philipp Schmid 撰文解释为何在 Skills 与 CLI 兴起后仍更看好 MCP",
+        "url": "https://aihot.news/items/jcdfpftbam647yhc210dbace9",
+        "source": "Philipp Schmid",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b9131f901007",
+      "title": "MiniMax 推出 H3 Family：旗舰与扩展视频图像模型",
+      "url": "https://aihot.news/items/cxodjj13xa8ey821rbnmumcrf",
+      "primary_url": "https://aihot.news/items/cxodjj13xa8ey821rbnmumcrf",
+      "source": "MiniMax：Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b24ec9e5d7ca4d07e7b67f186966d53b03d80e8d",
+          "title": "MiniMax 推出 H3 Family：旗舰与扩展视频图像模型",
+          "url": "https://aihot.news/items/cxodjj13xa8ey821rbnmumcrf",
+          "source": "MiniMax：Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-26T12:00:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MiniMax：Blog"
+      ],
+      "items": [
+        {
+          "id": "b24ec9e5d7ca4d07e7b67f186966d53b03d80e8d",
+          "title": "MiniMax 推出 H3 Family：旗舰与扩展视频图像模型",
+          "url": "https://aihot.news/items/cxodjj13xa8ey821rbnmumcrf",
+          "source": "MiniMax：Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-26T12:00:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7521,
+      "importance": 0.7521,
+      "importance_score": 0.7521,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7007,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T12:00:09Z",
+      "latest_at": "2026-11-26T12:00:09Z",
+      "primary_item": {
+        "id": "b24ec9e5d7ca4d07e7b67f186966d53b03d80e8d",
+        "title": "MiniMax 推出 H3 Family：旗舰与扩展视频图像模型",
+        "url": "https://aihot.news/items/cxodjj13xa8ey821rbnmumcrf",
+        "source": "MiniMax：Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e677c8a37bf1",
+      "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+      "url": "https://www.aibase.com/news/32554",
+      "primary_url": "https://www.aibase.com/news/32554",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f72dec07e5d8b47bd36549174a043562dd8adce0",
+          "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+          "url": "https://www.aibase.com/news/32554",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T17:11:06.881947Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f72dec07e5d8b47bd36549174a043562dd8adce0",
+          "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+          "url": "https://www.aibase.com/news/32554",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T17:11:06.881947Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7953,
+      "importance": 0.7953,
+      "importance_score": 0.7953,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9167,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T17:11:06.881947Z",
+      "latest_at": "2026-11-26T17:11:06.881947Z",
+      "primary_item": {
+        "id": "f72dec07e5d8b47bd36549174a043562dd8adce0",
+        "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+        "url": "https://www.aibase.com/news/32554",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c01600d41603",
+      "title": "群体、群体、帮派：如何构建、训练和评估多智能体系统 / Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "primary_url": "https://huggingface.co/blog/training-swarms",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fdca9fe1ee8b7ae7060ed1afe965079fdd90b9ad",
+          "title": "群体、群体、帮派：如何构建、训练和评估多智能体系统 / Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+          "url": "https://huggingface.co/blog/training-swarms",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-26T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "fdca9fe1ee8b7ae7060ed1afe965079fdd90b9ad",
+          "title": "群体、群体、帮派：如何构建、训练和评估多智能体系统 / Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+          "url": "https://huggingface.co/blog/training-swarms",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-26T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7251,
+      "importance": 0.7251,
+      "importance_score": 0.7251,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.2006,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-26T00:00:00Z",
+      "latest_at": "2026-11-26T00:00:00Z",
+      "primary_item": {
+        "id": "fdca9fe1ee8b7ae7060ed1afe965079fdd90b9ad",
+        "title": "群体、群体、帮派：如何构建、训练和评估多智能体系统 / Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+        "url": "https://huggingface.co/blog/training-swarms",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_9d0ac0ee32a2",
       "title": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
@@ -75,14 +535,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.862,
-      "importance": 0.862,
-      "importance_score": 0.862,
+      "score": 0.7776,
+      "importance": 0.7776,
+      "importance_score": 0.7776,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.5779,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -155,14 +615,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.5779,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -179,127 +639,6 @@
         "url": "https://www.aibase.com/news/32549",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d5657c53d684",
-      "title": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
-      "url": "https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30",
-      "primary_url": "https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30",
-      "source": "Rohan Paul",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a042eef78ad9b9c70ad55e28e3d33d177177935f",
-          "title": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
-          "url": "https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30",
-          "source": "Rohan Paul",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-26T07:00:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Rohan Paul"
-      ],
-      "items": [
-        {
-          "id": "a042eef78ad9b9c70ad55e28e3d33d177177935f",
-          "title": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
-          "url": "https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30",
-          "source": "Rohan Paul",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-26T07:00:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7949,
-      "importance": 0.7949,
-      "importance_score": 0.7949,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9147,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-26T07:00:25Z",
-      "latest_at": "2026-11-26T07:00:25Z",
-      "primary_item": {
-        "id": "a042eef78ad9b9c70ad55e28e3d33d177177935f",
-        "title": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
-        "url": "https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30",
-        "source": "Rohan Paul",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c0d40e212e2d",
-      "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
-      "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
-      "primary_url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
-          "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
-          "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-25T22:18:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
-          "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
-          "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-25T22:18:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7834,
-      "importance": 0.7834,
-      "importance_score": 0.7834,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.5519,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-25T22:18:03Z",
-      "latest_at": "2026-11-25T22:18:03Z",
-      "primary_item": {
-        "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
-        "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
-        "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -356,14 +695,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.5779,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -436,14 +775,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.5779,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -463,121 +802,100 @@
       }
     },
     {
-      "story_id": "story_4a5edf7dcad0",
-      "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
-      "url": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
-      "primary_url": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
-      "source": "Calif：Research",
-      "source_name": "AI HOT",
+      "story_id": "story_c83866a1dbc9",
+      "title": "追踪被人工智能治愈的疾病",
+      "url": "https://diseasescuredbyai.com",
+      "primary_url": "https://diseasescuredbyai.com",
+      "source": "diseasescuredbyai.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "8e5c6ea05c12de304d512a3e1e5bf921deb42648",
-          "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
-          "url": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
-          "source": "Calif：Research",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-26T00:00:00Z"
+          "id": "fdcabfa31bd4db05a382fced59f883dd394c274a",
+          "title": "追踪被人工智能治愈的疾病",
+          "url": "https://diseasescuredbyai.com",
+          "source": "diseasescuredbyai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T18:23:52.767000Z"
+        },
+        {
+          "id": "8de14c02114364c7d705878055db44b00d76ead1",
+          "title": "追踪被人工智能治愈的疾病 / Tracking Diseases Cured by AI",
+          "url": "https://diseasescuredbyai.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T17:16:41Z"
+        },
+        {
+          "id": "1b706c13586cfe4c1973e340cea838066d7fc7c7",
+          "title": "追踪人工智能治愈的疾病 / Tracking Diseases Cured by AI",
+          "url": "https://news.ycombinator.com/item?id=50657307",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T17:16:41Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "Calif：Research"
+        "Hacker News · 24h最热",
+        "diseasescuredbyai.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "8e5c6ea05c12de304d512a3e1e5bf921deb42648",
-          "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
-          "url": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
-          "source": "Calif：Research",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-26T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7365,
-      "importance": 0.7365,
-      "importance_score": 0.7365,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6227,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-26T00:00:00Z",
-      "latest_at": "2026-11-26T00:00:00Z",
-      "primary_item": {
-        "id": "8e5c6ea05c12de304d512a3e1e5bf921deb42648",
-        "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
-        "url": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
-        "source": "Calif：Research",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_36b4c97a29ed",
-      "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
-      "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
-      "primary_url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
+          "id": "fdcabfa31bd4db05a382fced59f883dd394c274a",
+          "title": "追踪被人工智能治愈的疾病",
+          "url": "https://diseasescuredbyai.com",
+          "source": "diseasescuredbyai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T18:23:52.767000Z"
+        },
         {
-          "id": "61c0457fdc6898c6f577910dc990eb55c43da113",
-          "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
-          "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-25T23:56:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
+          "id": "8de14c02114364c7d705878055db44b00d76ead1",
+          "title": "追踪被人工智能治愈的疾病 / Tracking Diseases Cured by AI",
+          "url": "https://diseasescuredbyai.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T17:16:41Z"
+        },
         {
-          "id": "61c0457fdc6898c6f577910dc990eb55c43da113",
-          "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
-          "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-25T23:56:00Z"
+          "id": "1b706c13586cfe4c1973e340cea838066d7fc7c7",
+          "title": "追踪人工智能治愈的疾病 / Tracking Diseases Cured by AI",
+          "url": "https://news.ycombinator.com/item?id=50657307",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T17:16:41Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5664,
+      "importance": 0.5664,
+      "importance_score": 0.5664,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.62,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9672,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-25T23:56:00Z",
-      "latest_at": "2026-11-25T23:56:00Z",
+      "earliest_at": "2026-11-26T17:16:41Z",
+      "latest_at": "2026-11-26T18:23:52.767000Z",
       "primary_item": {
-        "id": "61c0457fdc6898c6f577910dc990eb55c43da113",
-        "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
-        "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
+        "id": "fdcabfa31bd4db05a382fced59f883dd394c274a",
+        "title": "追踪被人工智能治愈的疾病",
+        "url": "https://diseasescuredbyai.com",
+        "source": "diseasescuredbyai.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -634,14 +952,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.5779,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -661,62 +979,80 @@
       }
     },
     {
-      "story_id": "story_b6698ea4168d",
-      "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
-      "url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
-      "primary_url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
-      "source": "Calif：Research",
-      "source_name": "AI HOT",
+      "story_id": "story_d13b953c2793",
+      "title": "金价徘徊在15个月低点附近，交易员密切关注美联储政策走向及人工智能类股走势",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "9430c39f1099cc8e8e2e575112ce93dfad3a0a3c",
-          "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
-          "url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
-          "source": "Calif：Research",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-26T00:00:00Z"
+          "id": "a34f36adda18d4ce2b7b1ef9f3ea8be246f6ed32",
+          "title": "金价徘徊在15个月低点附近，交易员密切关注美联储政策走向及人工智能类股走势",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T17:19:48.713000Z"
+        },
+        {
+          "id": "ce09a74995f8bf2a1a43878462278727cf72d7e0",
+          "title": "黄金在遭遇重挫后震荡，交易员正评估美联储政策走向及对人工智能的担忧",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T07:11:32.404000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Calif：Research"
+        "www.bloomberg.com"
       ],
       "items": [
         {
-          "id": "9430c39f1099cc8e8e2e575112ce93dfad3a0a3c",
-          "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
-          "url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
-          "source": "Calif：Research",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-26T00:00:00Z"
+          "id": "a34f36adda18d4ce2b7b1ef9f3ea8be246f6ed32",
+          "title": "金价徘徊在15个月低点附近，交易员密切关注美联储政策走向及人工智能类股走势",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T17:19:48.713000Z"
+        },
+        {
+          "id": "ce09a74995f8bf2a1a43878462278727cf72d7e0",
+          "title": "黄金在遭遇重挫后震荡，交易员正评估美联储政策走向及对人工智能的担忧",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T07:11:32.404000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7365,
-      "importance": 0.7365,
-      "importance_score": 0.7365,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5325,
+      "importance": 0.5325,
+      "importance_score": 0.5325,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6227,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9227,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-26T00:00:00Z",
-      "latest_at": "2026-11-26T00:00:00Z",
+      "earliest_at": "2026-11-26T07:11:32.404000Z",
+      "latest_at": "2026-11-26T17:19:48.713000Z",
       "primary_item": {
-        "id": "9430c39f1099cc8e8e2e575112ce93dfad3a0a3c",
-        "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
-        "url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
-        "source": "Calif：Research",
-        "source_name": "AI HOT"
+        "id": "a34f36adda18d4ce2b7b1ef9f3ea8be246f6ed32",
+        "title": "金价徘徊在15个月低点附近，交易员密切关注美联储政策走向及人工智能类股走势",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -773,14 +1109,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.5779,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -800,183 +1136,159 @@
       }
     },
     {
-      "story_id": "story_3f602f46dbd1",
-      "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
-      "url": "https://www.aibase.com/news/32547",
-      "primary_url": "https://www.aibase.com/news/32547",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_620c989ebbb5",
+      "title": "OpenAI的定价失误意味着其新AI模型的大多数用户将更快达到使用上限",
+      "url": "https://www.businessinsider.com/openai-token-billing-cost-discount-mistake-sol-astra-2026-11",
+      "primary_url": "https://www.businessinsider.com/openai-token-billing-cost-discount-mistake-sol-astra-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "98cc17b52058d8857392ccf43b5bae81a4b14440",
-          "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
-          "url": "https://www.aibase.com/news/32547",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T09:03:15.728623Z"
+          "id": "a952ee8fb0bb52582d187aced6337401201de00f",
+          "title": "OpenAI的定价失误意味着其新AI模型的大多数用户将更快达到使用上限",
+          "url": "https://www.businessinsider.com/openai-token-billing-cost-discount-mistake-sol-astra-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T14:07:41.523000Z"
+        },
+        {
+          "id": "c0b29b38c09a5b067164f5f846872e0074d1ff8a",
+          "title": "OpenAI的定价失误意味着其新AI模型的大多数用户将更快达到使用上限 / OpenAI's pricing mix-up means most users of its new AI models will hit limits faster",
+          "url": "https://www.businessinsider.com/openai-token-billing-cost-discount-mistake-sol-astra-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-26T13:15:01Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "98cc17b52058d8857392ccf43b5bae81a4b14440",
-          "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
-          "url": "https://www.aibase.com/news/32547",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T09:03:15.728623Z"
+          "id": "a952ee8fb0bb52582d187aced6337401201de00f",
+          "title": "OpenAI的定价失误意味着其新AI模型的大多数用户将更快达到使用上限",
+          "url": "https://www.businessinsider.com/openai-token-billing-cost-discount-mistake-sol-astra-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T14:07:41.523000Z"
+        },
+        {
+          "id": "c0b29b38c09a5b067164f5f846872e0074d1ff8a",
+          "title": "OpenAI的定价失误意味着其新AI模型的大多数用户将更快达到使用上限 / OpenAI's pricing mix-up means most users of its new AI models will hit limits faster",
+          "url": "https://www.businessinsider.com/openai-token-billing-cost-discount-mistake-sol-astra-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-26T13:15:01Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5059,
+      "importance": 0.5059,
+      "importance_score": 0.5059,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7893,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-26T09:03:15.728623Z",
-      "latest_at": "2026-11-26T09:03:15.728623Z",
+      "earliest_at": "2026-11-26T13:15:01Z",
+      "latest_at": "2026-11-26T14:07:41.523000Z",
       "primary_item": {
-        "id": "98cc17b52058d8857392ccf43b5bae81a4b14440",
-        "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
-        "url": "https://www.aibase.com/news/32547",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "a952ee8fb0bb52582d187aced6337401201de00f",
+        "title": "OpenAI的定价失误意味着其新AI模型的大多数用户将更快达到使用上限",
+        "url": "https://www.businessinsider.com/openai-token-billing-cost-discount-mistake-sol-astra-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_65cbd851ed6c",
-      "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
-      "url": "https://www.aibase.com/news/32537",
-      "primary_url": "https://www.aibase.com/news/32537",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_64a870b6a927",
+      "title": "Moat：您的 OpenRouter 替代方案",
+      "url": "https://commandcode.ai/moat",
+      "primary_url": "https://commandcode.ai/moat",
+      "source": "commandcode.ai",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "642d00fa02c94ce09647f7e821ccf696c1d077ee",
-          "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
-          "url": "https://www.aibase.com/news/32537",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T09:03:15.728623Z"
+          "id": "01140fd2dbfa741f02e805dba26cfef5eff3d6e0",
+          "title": "Moat：您的 OpenRouter 替代方案",
+          "url": "https://commandcode.ai/moat",
+          "source": "commandcode.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T12:15:39.579000Z"
+        },
+        {
+          "id": "14d0f5f1db53313868fef1700211f34bb4d39b70",
+          "title": "Moat：您的 OpenRouter 替代方案 / Moat: Your OpenRouter Replacement",
+          "url": "https://commandcode.ai/moat",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T06:32:48Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News · 24h最热",
+        "commandcode.ai"
       ],
       "items": [
         {
-          "id": "642d00fa02c94ce09647f7e821ccf696c1d077ee",
-          "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
-          "url": "https://www.aibase.com/news/32537",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T09:03:15.728623Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-26T09:03:15.728623Z",
-      "latest_at": "2026-11-26T09:03:15.728623Z",
-      "primary_item": {
-        "id": "642d00fa02c94ce09647f7e821ccf696c1d077ee",
-        "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
-        "url": "https://www.aibase.com/news/32537",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_212bcefc70db",
-      "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
-      "url": "https://www.aibase.com/news/32538",
-      "primary_url": "https://www.aibase.com/news/32538",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
+          "id": "01140fd2dbfa741f02e805dba26cfef5eff3d6e0",
+          "title": "Moat：您的 OpenRouter 替代方案",
+          "url": "https://commandcode.ai/moat",
+          "source": "commandcode.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T12:15:39.579000Z"
+        },
         {
-          "id": "e0bedb73bb60645fa7cd13a79ecfb5f8c8c2b42b",
-          "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
-          "url": "https://www.aibase.com/news/32538",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T09:03:15.728623Z"
+          "id": "14d0f5f1db53313868fef1700211f34bb4d39b70",
+          "title": "Moat：您的 OpenRouter 替代方案 / Moat: Your OpenRouter Replacement",
+          "url": "https://commandcode.ai/moat",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T06:32:48Z"
         }
       ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e0bedb73bb60645fa7cd13a79ecfb5f8c8c2b42b",
-          "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
-          "url": "https://www.aibase.com/news/32538",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T09:03:15.728623Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4903,
+      "importance": 0.4903,
+      "importance_score": 0.4903,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7115,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-26T09:03:15.728623Z",
-      "latest_at": "2026-11-26T09:03:15.728623Z",
+      "earliest_at": "2026-11-26T06:32:48Z",
+      "latest_at": "2026-11-26T12:15:39.579000Z",
       "primary_item": {
-        "id": "e0bedb73bb60645fa7cd13a79ecfb5f8c8c2b42b",
-        "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
-        "url": "https://www.aibase.com/news/32538",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "01140fd2dbfa741f02e805dba26cfef5eff3d6e0",
+        "title": "Moat：您的 OpenRouter 替代方案",
+        "url": "https://commandcode.ai/moat",
+        "source": "commandcode.ai",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1052,14 +1364,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5486,
-      "importance": 0.5486,
-      "importance_score": 0.5486,
+      "score": 0.4642,
+      "importance": 0.4642,
+      "importance_score": 0.4642,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.878,
+        "recency": 0.4559,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1077,17 +1389,17 @@
       }
     },
     {
-      "story_id": "story_4c9c8b3ee9cb",
-      "title": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
-      "url": "https://www.aibase.com/news/32533",
-      "primary_url": "https://www.aibase.com/news/32533",
+      "story_id": "story_3f602f46dbd1",
+      "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+      "url": "https://www.aibase.com/news/32547",
+      "primary_url": "https://www.aibase.com/news/32547",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a91af59b259cafbff0f48bb72a4674d888b86685",
-          "title": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
-          "url": "https://www.aibase.com/news/32533",
+          "id": "98cc17b52058d8857392ccf43b5bae81a4b14440",
+          "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+          "url": "https://www.aibase.com/news/32547",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1100,9 +1412,9 @@
       ],
       "items": [
         {
-          "id": "a91af59b259cafbff0f48bb72a4674d888b86685",
-          "title": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
-          "url": "https://www.aibase.com/news/32533",
+          "id": "98cc17b52058d8857392ccf43b5bae81a4b14440",
+          "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+          "url": "https://www.aibase.com/news/32547",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1111,43 +1423,42 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7276,
+      "importance": 0.7276,
+      "importance_score": 0.7276,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.5779,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-26T09:03:15.728623Z",
       "latest_at": "2026-11-26T09:03:15.728623Z",
       "primary_item": {
-        "id": "a91af59b259cafbff0f48bb72a4674d888b86685",
-        "title": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
-        "url": "https://www.aibase.com/news/32533",
+        "id": "98cc17b52058d8857392ccf43b5bae81a4b14440",
+        "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+        "url": "https://www.aibase.com/news/32547",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_ff4da41a621f",
-      "title": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
-      "url": "https://www.aibase.com/news/32545",
-      "primary_url": "https://www.aibase.com/news/32545",
+      "story_id": "story_65cbd851ed6c",
+      "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+      "url": "https://www.aibase.com/news/32537",
+      "primary_url": "https://www.aibase.com/news/32537",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e6ac4d58660e23a7289f9036367823648490d298",
-          "title": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
-          "url": "https://www.aibase.com/news/32545",
+          "id": "642d00fa02c94ce09647f7e821ccf696c1d077ee",
+          "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+          "url": "https://www.aibase.com/news/32537",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1160,9 +1471,9 @@
       ],
       "items": [
         {
-          "id": "e6ac4d58660e23a7289f9036367823648490d298",
-          "title": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
-          "url": "https://www.aibase.com/news/32545",
+          "id": "642d00fa02c94ce09647f7e821ccf696c1d077ee",
+          "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+          "url": "https://www.aibase.com/news/32537",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1171,283 +1482,28 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7276,
+      "importance": 0.7276,
+      "importance_score": 0.7276,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.5779,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-26T09:03:15.728623Z",
       "latest_at": "2026-11-26T09:03:15.728623Z",
       "primary_item": {
-        "id": "e6ac4d58660e23a7289f9036367823648490d298",
-        "title": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
-        "url": "https://www.aibase.com/news/32545",
+        "id": "642d00fa02c94ce09647f7e821ccf696c1d077ee",
+        "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+        "url": "https://www.aibase.com/news/32537",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f63f4cad1468",
-      "title": "Anthropic 发布的 GRH 精益验证的简短版本",
-      "url": "https://github.com/lsernau/grh-lean",
-      "primary_url": "https://github.com/lsernau/grh-lean",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3c2734480629e299fdd51dc49557b9128a9daf4a",
-          "title": "Anthropic 发布的 GRH 精益验证的简短版本",
-          "url": "https://github.com/lsernau/grh-lean",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-25T22:55:35.524000Z"
-        },
-        {
-          "id": "f59d1e6b2f0906a1ebc36aaf115b2d117b2111ac",
-          "title": "Anthropic 发布的 GRH 精益验证的简短版本 / Much shorter version of GRH Lean verification from Anthropic",
-          "url": "https://github.com/lsernau/grh-lean",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-25T21:48:10Z"
-        },
-        {
-          "id": "a504151065ef7ed7fcfaf2446e07757b4346f198",
-          "title": "Anthropic 的 GRH Lean 验证的更短版本 / Much shorter version of GRH Lean verification from Anthropic",
-          "url": "https://news.ycombinator.com/item?id=50648050",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-25T21:48:10Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3c2734480629e299fdd51dc49557b9128a9daf4a",
-          "title": "Anthropic 发布的 GRH 精益验证的简短版本",
-          "url": "https://github.com/lsernau/grh-lean",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-25T22:55:35.524000Z"
-        },
-        {
-          "id": "f59d1e6b2f0906a1ebc36aaf115b2d117b2111ac",
-          "title": "Anthropic 发布的 GRH 精益验证的简短版本 / Much shorter version of GRH Lean verification from Anthropic",
-          "url": "https://github.com/lsernau/grh-lean",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-25T21:48:10Z"
-        },
-        {
-          "id": "a504151065ef7ed7fcfaf2446e07757b4346f198",
-          "title": "Anthropic 的 GRH Lean 验证的更短版本 / Much shorter version of GRH Lean verification from Anthropic",
-          "url": "https://news.ycombinator.com/item?id=50648050",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-25T21:48:10Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4886,
-      "importance": 0.4886,
-      "importance_score": 0.4886,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.578,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-25T21:48:10Z",
-      "latest_at": "2026-11-25T22:55:35.524000Z",
-      "primary_item": {
-        "id": "3c2734480629e299fdd51dc49557b9128a9daf4a",
-        "title": "Anthropic 发布的 GRH 精益验证的简短版本",
-        "url": "https://github.com/lsernau/grh-lean",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b7cf92c1a2c4",
-      "title": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
-      "url": "https://www.aibase.com/news/32536",
-      "primary_url": "https://www.aibase.com/news/32536",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1cc9d2e1173123e9ba5960ea0ad0a8d543ef6c28",
-          "title": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
-          "url": "https://www.aibase.com/news/32536",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T09:03:15.728623Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1cc9d2e1173123e9ba5960ea0ad0a8d543ef6c28",
-          "title": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
-          "url": "https://www.aibase.com/news/32536",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T09:03:15.728623Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-26T09:03:15.728623Z",
-      "latest_at": "2026-11-26T09:03:15.728623Z",
-      "primary_item": {
-        "id": "1cc9d2e1173123e9ba5960ea0ad0a8d543ef6c28",
-        "title": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
-        "url": "https://www.aibase.com/news/32536",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c31465abe4a5",
-      "title": "斯科特·阿伦森谈近期复杂性理论在人工智能领域的成就",
-      "url": "https://scottaaronson.blog/?p=10379",
-      "primary_url": "https://scottaaronson.blog/?p=10379",
-      "source": "scottaaronson.blog",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0edd2e0e7938f926563211d9309f34048b12a457",
-          "title": "斯科特·阿伦森谈近期复杂性理论在人工智能领域的成就",
-          "url": "https://scottaaronson.blog/?p=10379",
-          "source": "scottaaronson.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-25T22:08:00.119000Z"
-        },
-        {
-          "id": "6be4b930769b52216fcd7914f238d2a12eac7438",
-          "title": "天啊天啊天啊天啊 [算法复杂度的下界] / Scott Aaronson on recent complexity theory AI achievements",
-          "url": "https://scottaaronson.blog/?p=10379",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-25T21:52:52Z"
-        },
-        {
-          "id": "95c61068d5d52a37c3a5f08be3e9c365930bbaf2",
-          "title": "天啊天啊天啊天啊 [算法复杂度的下界] / Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-          "url": "https://scottaaronson.blog/?p=10379",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-25T19:11:27Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "scottaaronson.blog"
-      ],
-      "items": [
-        {
-          "id": "0edd2e0e7938f926563211d9309f34048b12a457",
-          "title": "斯科特·阿伦森谈近期复杂性理论在人工智能领域的成就",
-          "url": "https://scottaaronson.blog/?p=10379",
-          "source": "scottaaronson.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-25T22:08:00.119000Z"
-        },
-        {
-          "id": "6be4b930769b52216fcd7914f238d2a12eac7438",
-          "title": "天啊天啊天啊天啊 [算法复杂度的下界] / Scott Aaronson on recent complexity theory AI achievements",
-          "url": "https://scottaaronson.blog/?p=10379",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-25T21:52:52Z"
-        },
-        {
-          "id": "95c61068d5d52a37c3a5f08be3e9c365930bbaf2",
-          "title": "天啊天啊天啊天啊 [算法复杂度的下界] / Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-          "url": "https://scottaaronson.blog/?p=10379",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-25T19:11:27Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.482,
-      "importance": 0.482,
-      "importance_score": 0.482,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.545,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-25T19:11:27Z",
-      "latest_at": "2026-11-25T22:08:00.119000Z",
-      "primary_item": {
-        "id": "0edd2e0e7938f926563211d9309f34048b12a457",
-        "title": "斯科特·阿伦森谈近期复杂性理论在人工智能领域的成就",
-        "url": "https://scottaaronson.blog/?p=10379",
-        "source": "scottaaronson.blog",
-        "source_name": "Buzzing"
       }
     }
   ]
