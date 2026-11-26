@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年11月25日人工智能热点分享
-1、谷歌为 Gemini 新增独立隐私开关，重点是保留聊天记录的同时，可选择退出 AI 训练。
-2、带有 CUGA 的印度语语音代理。
-3、亚马逊开源 5 款 Decider v2 决策模型，长程推理准确率飙升，重塑智能体决策基座。
-4、腾讯混元开源 Hy4 flash GGUF 量化权重，重点是224B 大模型塞进 64GB Mac mini，分数几乎没掉。
-5、PrismML 三值压缩 Bonsai 2.5 27B，九分之一体积留下 93.7% 编程能力。
-6、小鹏IRON人形机器人计划2027年二季度发布，1月启动硬件量产。
-7、谷歌为 Gemini 推出新隐私设置，重点是聊天记录可独立保留，是否用于 AI 训练由用户说了算。
-8、小米今年 AI 投入 160 亿元，重点是CFO 称稳健落地，MiMo 调用量与 AI 收入持续增加。
-9、OpenAI、Anthropic 内部讨论"停训"，重点是前沿模型强到不敢发，员工担忧安全风险失控。
-10、直接管理60人!黄仁勋为何不愿为英伟达制定接班计划。
+2026年11月26日人工智能热点分享
+1、不换模型也能吐字快 4.2 倍，重点是腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速。
+2、点几下就能订，退订却得绕回原路，重点是德国消保机构把 OpenAI 告上法庭。
+3、MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考。
+4、Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图。
+5、OpenAI 开测“私有推理”，重点是模型运行时隔离企业数据，内部员工也无法查看。
+6、Anthropic CEO驳“让渡自由意志”指责，重点是把治理权交给 AI 是坏主意，同行全在喊口号。
+7、SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数，属于 AI 基础设施和算力成本相关信号。
+8、上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式。
+9、腾讯 Hy4 Flash 登陆 Fireworks，重点是专业活儿干得和 Claude 一样好，账单便宜两百倍。
+10、谷歌 12 款模型测出一个盲区，重点是AI 听你一面之词，会越聊越像你。
 
 ## 原始链接
-1. 谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练（AIbase） - https://www.aibase.com/news/32532
-2. 带有 CUGA 的印度语语音代理（Hugging Face 博客） - https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga
-3. 亚马逊开源 5 款 Decider v2 决策模型，长程推理准确率飙升，重塑智能体决策基座（AIbase） - https://www.aibase.com/news/32524
-4. 腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉（AIbase） - https://www.aibase.com/news/32527
-5. PrismML 三值压缩 Bonsai 2.5 27B，九分之一体积留下 93.7% 编程能力（AIbase） - https://www.aibase.com/news/32522
-6. 小鹏IRON人形机器人计划2027年二季度发布，1月启动硬件量产（AIbase） - https://www.aibase.com/news/32530
-7. 谷歌为 Gemini 推出新隐私设置：聊天记录可独立保留，是否用于 AI 训练由用户说了算（AIbase） - https://www.aibase.com/news/32531
-8. 小米今年 AI 投入 160 亿元：CFO 称稳健落地，MiMo 调用量与 AI 收入持续增加（AIbase） - https://www.aibase.com/news/32528
-9. OpenAI、Anthropic 内部讨论"停训"：前沿模型强到不敢发，员工担忧安全风险失控（AIbase） - https://www.aibase.com/news/32526
-10. 直接管理60人!黄仁勋为何不愿为英伟达制定接班计划（AIbase） - https://www.aibase.com/news/32525
+1. 不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速（AIbase） - https://www.aibase.com/news/32555
+2. 点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭（AIbase） - https://www.aibase.com/news/32556
+3. MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考（AIbase） - https://www.aibase.com/news/32554
+4. Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图（Ado Kukic） - https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj
+5. OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看（AIbase） - https://www.aibase.com/news/32541
+6. Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号（AIbase） - https://www.aibase.com/news/32549
+7. SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数（AIbase） - https://www.aibase.com/news/32553
+8. 上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式（AIbase） - https://www.aibase.com/news/32551
+9. 腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍（AIbase） - https://www.aibase.com/news/32546
+10. 谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你（AIbase） - https://www.aibase.com/news/32548
