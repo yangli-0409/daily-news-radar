@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年11月26日人工智能热点分享
-1、不换模型也能吐字快 4.2 倍，重点是腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速。
-2、点几下就能订，退订却得绕回原路，重点是德国消保机构把 OpenAI 告上法庭。
-3、MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考。
-4、Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图。
-5、OpenAI 开测“私有推理”，重点是模型运行时隔离企业数据，内部员工也无法查看。
-6、Anthropic CEO驳“让渡自由意志”指责，重点是把治理权交给 AI 是坏主意，同行全在喊口号。
-7、SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数，属于 AI 基础设施和算力成本相关信号。
-8、上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式。
-9、腾讯 Hy4 Flash 登陆 Fireworks，重点是专业活儿干得和 Claude 一样好，账单便宜两百倍。
-10、谷歌 12 款模型测出一个盲区，重点是AI 听你一面之词，会越聊越像你。
+2026年11月27日人工智能热点分享
+1、30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”，属于 AI 基础设施和算力成本相关信号。
+2、JetBrains 调查近 3 万开发者，重点是96% 已在用 AI 工具，但 46% 感到对代码的归属感下降。
+3、SAP 被曝拟裁至少 1 万人押注“AI 优先”，重点是波及全球 9% 员工，重点砍产品与工程和销售。
+4、谷歌修复 Chrome Gemini 内存问题，重点是单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB。
+5、Antigravity 实用技巧，重点是在 GEMINI.md 加一句话让模型边干活边汇报。
+6、90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”，属于 AI 基础设施和算力成本相关信号。
+7、Claude 能写代码也能审批合并了，重点是Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍。
+8、OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？，属于 AI 基础设施和算力成本相关信号。
+9、告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点。
+10、日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心。
 
 ## 原始链接
-1. 不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速（AIbase） - https://www.aibase.com/news/32555
-2. 点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭（AIbase） - https://www.aibase.com/news/32556
-3. MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考（AIbase） - https://www.aibase.com/news/32554
-4. Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图（Ado Kukic） - https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj
-5. OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看（AIbase） - https://www.aibase.com/news/32541
-6. Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号（AIbase） - https://www.aibase.com/news/32549
-7. SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数（AIbase） - https://www.aibase.com/news/32553
-8. 上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式（AIbase） - https://www.aibase.com/news/32551
-9. 腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍（AIbase） - https://www.aibase.com/news/32546
-10. 谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你（AIbase） - https://www.aibase.com/news/32548
+1. 30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”（AIbase） - https://www.aibase.com/news/32579
+2. JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降（AIbase） - https://www.aibase.com/news/32577
+3. SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售（AIbase） - https://www.aibase.com/news/32571
+4. 谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB（AIbase） - https://www.aibase.com/news/32575
+5. Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报（卡兹克） - https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc
+6. 90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”（AIbase） - https://www.aibase.com/news/32574
+7. Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍（AIbase） - https://www.aibase.com/news/32580
+8. OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？（AIbase） - https://www.aibase.com/news/32567
+9. 告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点（AIbase） - https://www.aibase.com/news/32569
+10. 日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心（AIbase） - https://www.aibase.com/news/32572
