@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T11:06:06.311603Z",
+  "generated_at": "2026-11-27T20:06:35.711259Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,14 +57,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.6247,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -81,6 +81,125 @@
         "url": "https://www.aibase.com/news/32579",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a671d854a07f",
+      "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
+      "url": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
+      "primary_url": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
+      "source": "面壁智能 OpenBMB",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cd38a5da778347a918c54615cbfbf00de955d112",
+          "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
+          "url": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
+          "source": "面壁智能 OpenBMB",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-27T13:32:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "面壁智能 OpenBMB"
+      ],
+      "items": [
+        {
+          "id": "cd38a5da778347a918c54615cbfbf00de955d112",
+          "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
+          "url": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
+          "source": "面壁智能 OpenBMB",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-27T13:32:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7261,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T13:32:15Z",
+      "latest_at": "2026-11-27T13:32:15Z",
+      "primary_item": {
+        "id": "cd38a5da778347a918c54615cbfbf00de955d112",
+        "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
+        "url": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
+        "source": "面壁智能 OpenBMB",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0d88709a3709",
+      "title": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+      "url": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
+      "primary_url": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
+      "source": "卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2186f123ac1f40fc5dcba1fa3d731dd9007eb6e9",
+          "title": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+          "url": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
+          "source": "卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-27T12:38:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "卡兹克"
+      ],
+      "items": [
+        {
+          "id": "2186f123ac1f40fc5dcba1fa3d731dd9007eb6e9",
+          "title": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+          "url": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
+          "source": "卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-27T12:38:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.689,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-27T12:38:45Z",
+      "latest_at": "2026-11-27T12:38:45Z",
+      "primary_item": {
+        "id": "2186f123ac1f40fc5dcba1fa3d731dd9007eb6e9",
+        "title": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+        "url": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
+        "source": "卡兹克",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -137,14 +256,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.6247,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -161,66 +280,6 @@
         "url": "https://www.aibase.com/news/32577",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e127ac5b32cd",
-      "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
-      "url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
-      "primary_url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
-      "source": "Rohan Paul",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a07e5bffc5148db025b36448c8dc490936a33b88",
-          "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
-          "url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
-          "source": "Rohan Paul",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-27T07:21:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Rohan Paul"
-      ],
-      "items": [
-        {
-          "id": "a07e5bffc5148db025b36448c8dc490936a33b88",
-          "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
-          "url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
-          "source": "Rohan Paul",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-27T07:21:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8441,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T07:21:40Z",
-      "latest_at": "2026-11-27T07:21:40Z",
-      "primary_item": {
-        "id": "a07e5bffc5148db025b36448c8dc490936a33b88",
-        "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
-        "url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
-        "source": "Rohan Paul",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -277,14 +336,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.6247,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -357,14 +416,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.6247,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -418,20 +477,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.6247,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T11:06:06.311603Z",
       "latest_at": "2026-11-27T11:06:06.311603Z",
@@ -478,20 +536,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.6247,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T11:06:06.311603Z",
       "latest_at": "2026-11-27T11:06:06.311603Z",
@@ -538,20 +595,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.6247,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T11:06:06.311603Z",
       "latest_at": "2026-11-27T11:06:06.311603Z",
@@ -561,6 +617,259 @@
         "url": "https://www.aibase.com/news/32567",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_01cdd83d3c55",
+      "title": "GPT 6.2 Astra 解开了历史之谜",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "primary_url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "source": "generativehistory.substack.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ba87d87eccdc98b51cb10c23a5c28f77ae4dd095",
+          "title": "GPT 6.2 Astra 解开了历史之谜",
+          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+          "source": "generativehistory.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T17:52:00.183000Z"
+        },
+        {
+          "id": "7294eb1a38085e974fcb8c90be814b40266f4cf8",
+          "title": "GPT 6.2 Astra 解开了历史之谜 / GPT 6.2 Astra Solves a Historical Mystery",
+          "url": "https://news.ycombinator.com/item?id=50667744",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T15:03:17Z"
+        },
+        {
+          "id": "4d3900f8579e540430a74bf9ae736b64c14a098c",
+          "title": "GPT 6.2 Astra 解开了历史之谜 / GPT 6.2 Astra solves a historical mystery",
+          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T15:03:17Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "generativehistory.substack.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ba87d87eccdc98b51cb10c23a5c28f77ae4dd095",
+          "title": "GPT 6.2 Astra 解开了历史之谜",
+          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+          "source": "generativehistory.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T17:52:00.183000Z"
+        },
+        {
+          "id": "7294eb1a38085e974fcb8c90be814b40266f4cf8",
+          "title": "GPT 6.2 Astra 解开了历史之谜 / GPT 6.2 Astra Solves a Historical Mystery",
+          "url": "https://news.ycombinator.com/item?id=50667744",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T15:03:17Z"
+        },
+        {
+          "id": "4d3900f8579e540430a74bf9ae736b64c14a098c",
+          "title": "GPT 6.2 Astra 解开了历史之谜 / GPT 6.2 Astra solves a historical mystery",
+          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T15:03:17Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5543,
+      "importance": 0.5543,
+      "importance_score": 0.5543,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9065,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T15:03:17Z",
+      "latest_at": "2026-11-27T17:52:00.183000Z",
+      "primary_item": {
+        "id": "ba87d87eccdc98b51cb10c23a5c28f77ae4dd095",
+        "title": "GPT 6.2 Astra 解开了历史之谜",
+        "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+        "source": "generativehistory.substack.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_f21d90605390",
+      "title": "我害怕人工智能",
+      "url": "https://thesoapbox.email/archive/3",
+      "primary_url": "https://thesoapbox.email/archive/3",
+      "source": "thesoapbox.email",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9dcca2d45dd1cfac8460fe746cf240000fb02e22",
+          "title": "我害怕人工智能",
+          "url": "https://thesoapbox.email/archive/3",
+          "source": "thesoapbox.email",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T18:39:34.459000Z"
+        },
+        {
+          "id": "e5ba0781667491f36d846b9e8267c8269aaae1a1",
+          "title": "我害怕人工智能 / I'm Scared of AI",
+          "url": "https://thesoapbox.email/archive/3",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T17:45:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "thesoapbox.email"
+      ],
+      "items": [
+        {
+          "id": "9dcca2d45dd1cfac8460fe746cf240000fb02e22",
+          "title": "我害怕人工智能",
+          "url": "https://thesoapbox.email/archive/3",
+          "source": "thesoapbox.email",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T18:39:34.459000Z"
+        },
+        {
+          "id": "e5ba0781667491f36d846b9e8267c8269aaae1a1",
+          "title": "我害怕人工智能 / I'm Scared of AI",
+          "url": "https://thesoapbox.email/archive/3",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T17:45:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5359,
+      "importance": 0.5359,
+      "importance_score": 0.5359,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9396,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T17:45:31Z",
+      "latest_at": "2026-11-27T18:39:34.459000Z",
+      "primary_item": {
+        "id": "9dcca2d45dd1cfac8460fe746cf240000fb02e22",
+        "title": "我害怕人工智能",
+        "url": "https://thesoapbox.email/archive/3",
+        "source": "thesoapbox.email",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4f426f509098",
+      "title": "数学家担心，人工智能即将使网络安全形同虚设",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "primary_url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "source": "www.thetimes.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "774fc23fba87d2e1a146c58a4a39772e88320316",
+          "title": "数学家担心，人工智能即将使网络安全形同虚设",
+          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+          "source": "www.thetimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T17:52:00.179000Z"
+        },
+        {
+          "id": "8b3ca6973325d1cf847438662a0824827b8682c3",
+          "title": "数学家担心，人工智能即将使网络安全形同虚设 / AI on brink of making online security useless, mathematicians fear",
+          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T11:09:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.thetimes.com"
+      ],
+      "items": [
+        {
+          "id": "774fc23fba87d2e1a146c58a4a39772e88320316",
+          "title": "数学家担心，人工智能即将使网络安全形同虚设",
+          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+          "source": "www.thetimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T17:52:00.179000Z"
+        },
+        {
+          "id": "8b3ca6973325d1cf847438662a0824827b8682c3",
+          "title": "数学家担心，人工智能即将使网络安全形同虚设 / AI on brink of making online security useless, mathematicians fear",
+          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T11:09:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5293,
+      "importance": 0.5293,
+      "importance_score": 0.5293,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9065,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T11:09:04Z",
+      "latest_at": "2026-11-27T17:52:00.179000Z",
+      "primary_item": {
+        "id": "774fc23fba87d2e1a146c58a4a39772e88320316",
+        "title": "数学家担心，人工智能即将使网络安全形同虚设",
+        "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+        "source": "www.thetimes.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -598,20 +907,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.6247,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T11:06:06.311603Z",
       "latest_at": "2026-11-27T11:06:06.311603Z",
@@ -621,6 +929,181 @@
         "url": "https://www.aibase.com/news/32569",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d6b51fef844a",
+      "title": "“Kimi for Science”：更多科学构想，化为现实",
+      "url": "https://www.kimi.ai/news/kimi-for-science-program",
+      "primary_url": "https://www.kimi.ai/news/kimi-for-science-program",
+      "source": "www.kimi.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3006c7ea7f263217c3e99b338c48191211eaa192",
+          "title": "“Kimi for Science”：更多科学构想，化为现实",
+          "url": "https://www.kimi.ai/news/kimi-for-science-program",
+          "source": "www.kimi.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T15:43:52.256000Z"
+        },
+        {
+          "id": "cc4ac8e73dffc8881009d19b284703ef7ec99cd4",
+          "title": "“Kimi for Science”：更多科学构想，化为现实 / Kimi for Science: More scientific ideas, made possible",
+          "url": "https://www.kimi.ai/news/kimi-for-science-program",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T12:03:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.kimi.ai"
+      ],
+      "items": [
+        {
+          "id": "3006c7ea7f263217c3e99b338c48191211eaa192",
+          "title": "“Kimi for Science”：更多科学构想，化为现实",
+          "url": "https://www.kimi.ai/news/kimi-for-science-program",
+          "source": "www.kimi.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T15:43:52.256000Z"
+        },
+        {
+          "id": "cc4ac8e73dffc8881009d19b284703ef7ec99cd4",
+          "title": "“Kimi for Science”：更多科学构想，化为现实 / Kimi for Science: More scientific ideas, made possible",
+          "url": "https://www.kimi.ai/news/kimi-for-science-program",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T12:03:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5115,
+      "importance": 0.5115,
+      "importance_score": 0.5115,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8176,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T12:03:11Z",
+      "latest_at": "2026-11-27T15:43:52.256000Z",
+      "primary_item": {
+        "id": "3006c7ea7f263217c3e99b338c48191211eaa192",
+        "title": "“Kimi for Science”：更多科学构想，化为现实",
+        "url": "https://www.kimi.ai/news/kimi-for-science-program",
+        "source": "www.kimi.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_138e1e18872d",
+      "title": "克劳德破坏SOTA机器学习研究任务",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "primary_url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "source": "twitter.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d15548e82cdd78c30561bdfbc0f2b648fba44afd",
+          "title": "克劳德破坏SOTA机器学习研究任务",
+          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T11:11:55.754000Z"
+        },
+        {
+          "id": "dca60c223811c703c69c1d67a33b5513fd354b2a",
+          "title": "克劳德破坏SOTA机器学习研究任务 / Claude sabotaging SOTA ML research tasks",
+          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T08:28:08Z"
+        },
+        {
+          "id": "8a6419e55e71c77f2f374f14b47bf182c1aa4f3d",
+          "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
+          "url": "https://news.ycombinator.com/item?id=50664325",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T08:28:08Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "twitter.com"
+      ],
+      "items": [
+        {
+          "id": "d15548e82cdd78c30561bdfbc0f2b648fba44afd",
+          "title": "克劳德破坏SOTA机器学习研究任务",
+          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T11:11:55.754000Z"
+        },
+        {
+          "id": "dca60c223811c703c69c1d67a33b5513fd354b2a",
+          "title": "克劳德破坏SOTA机器学习研究任务 / Claude sabotaging SOTA ML research tasks",
+          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T08:28:08Z"
+        },
+        {
+          "id": "8a6419e55e71c77f2f374f14b47bf182c1aa4f3d",
+          "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
+          "url": "https://news.ycombinator.com/item?id=50664325",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T08:28:08Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4987,
+      "importance": 0.4987,
+      "importance_score": 0.4987,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6287,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T08:28:08Z",
+      "latest_at": "2026-11-27T11:11:55.754000Z",
+      "primary_item": {
+        "id": "d15548e82cdd78c30561bdfbc0f2b648fba44afd",
+        "title": "克劳德破坏SOTA机器学习研究任务",
+        "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+        "source": "twitter.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -658,20 +1141,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.6247,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T11:06:06.311603Z",
       "latest_at": "2026-11-27T11:06:06.311603Z",
@@ -756,14 +1238,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5516,
-      "importance": 0.5516,
-      "importance_score": 0.5516,
+      "score": 0.4765,
+      "importance": 0.4765,
+      "importance_score": 0.4765,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8931,
+        "recency": 0.5177,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -815,20 +1297,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.6247,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T11:06:06.311603Z",
       "latest_at": "2026-11-27T11:06:06.311603Z",
@@ -838,84 +1319,6 @@
         "url": "https://www.aibase.com/news/32570",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_138e1e18872d",
-      "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
-      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-      "primary_url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "dca60c223811c703c69c1d67a33b5513fd354b2a",
-          "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
-          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T08:28:08Z"
-        },
-        {
-          "id": "8a6419e55e71c77f2f374f14b47bf182c1aa4f3d",
-          "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
-          "url": "https://news.ycombinator.com/item?id=50664325",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T08:28:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "dca60c223811c703c69c1d67a33b5513fd354b2a",
-          "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
-          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T08:28:08Z"
-        },
-        {
-          "id": "8a6419e55e71c77f2f374f14b47bf182c1aa4f3d",
-          "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
-          "url": "https://news.ycombinator.com/item?id=50664325",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T08:28:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5261,
-      "importance": 0.5261,
-      "importance_score": 0.5261,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8903,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T08:28:08Z",
-      "latest_at": "2026-11-27T08:28:08Z",
-      "primary_item": {
-        "id": "dca60c223811c703c69c1d67a33b5513fd354b2a",
-        "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
-        "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1009,14 +1412,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5232,
-      "importance": 0.5232,
-      "importance_score": 0.5232,
+      "score": 0.4481,
+      "importance": 0.4481,
+      "importance_score": 0.4481,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6261,
+        "recency": 0.2507,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1068,20 +1471,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.6247,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T11:06:06.311603Z",
       "latest_at": "2026-11-27T11:06:06.311603Z",
@@ -1091,379 +1493,6 @@
         "url": "https://www.aibase.com/news/32576",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e66da7a647d4",
-      "title": "通用大模型能“击穿”物理AI？何小鹏给出清醒答案：物理世界的约束，不是靠参数能填平的",
-      "url": "https://www.aibase.com/news/32568",
-      "primary_url": "https://www.aibase.com/news/32568",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9debfeac57fab6efe4f0350cbfaa01ba27d2a265",
-          "title": "通用大模型能“击穿”物理AI？何小鹏给出清醒答案：物理世界的约束，不是靠参数能填平的",
-          "url": "https://www.aibase.com/news/32568",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9debfeac57fab6efe4f0350cbfaa01ba27d2a265",
-          "title": "通用大模型能“击穿”物理AI？何小鹏给出清醒答案：物理世界的约束，不是靠参数能填平的",
-          "url": "https://www.aibase.com/news/32568",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T11:06:06.311603Z",
-      "latest_at": "2026-11-27T11:06:06.311603Z",
-      "primary_item": {
-        "id": "9debfeac57fab6efe4f0350cbfaa01ba27d2a265",
-        "title": "通用大模型能“击穿”物理AI？何小鹏给出清醒答案：物理世界的约束，不是靠参数能填平的",
-        "url": "https://www.aibase.com/news/32568",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_50f5c4b995bf",
-      "title": "一位斯坦福大学物理学家放弃了一项由人工智能辅助提出的理论，该理论曾引发科学界争议",
-      "url": "https://www.businessinsider.com/stanford-physicist-openai-astra-quantum-gravity-smart-people-say-2026-11",
-      "primary_url": "https://www.businessinsider.com/stanford-physicist-openai-astra-quantum-gravity-smart-people-say-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6f0ec89b713ceceaefdf28d68d2205124cb974fc",
-          "title": "一位斯坦福大学物理学家放弃了一项由人工智能辅助提出的理论，该理论曾引发科学界争议",
-          "url": "https://www.businessinsider.com/stanford-physicist-openai-astra-quantum-gravity-smart-people-say-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T00:47:45.029000Z"
-        },
-        {
-          "id": "034c791313ffc056ec53daa4f7cb24f2b0240352",
-          "title": "一位斯坦福大学物理学家放弃了一项由人工智能辅助提出的理论，该理论曾引发科学界争议 / What smart people are saying about an AI-assisted theory of quantum gravity",
-          "url": "https://www.businessinsider.com/stanford-physicist-openai-astra-quantum-gravity-smart-people-say-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-26T23:50:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "6f0ec89b713ceceaefdf28d68d2205124cb974fc",
-          "title": "一位斯坦福大学物理学家放弃了一项由人工智能辅助提出的理论，该理论曾引发科学界争议",
-          "url": "https://www.businessinsider.com/stanford-physicist-openai-astra-quantum-gravity-smart-people-say-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T00:47:45.029000Z"
-        },
-        {
-          "id": "034c791313ffc056ec53daa4f7cb24f2b0240352",
-          "title": "一位斯坦福大学物理学家放弃了一项由人工智能辅助提出的理论，该理论曾引发科学界争议 / What smart people are saying about an AI-assisted theory of quantum gravity",
-          "url": "https://www.businessinsider.com/stanford-physicist-openai-astra-quantum-gravity-smart-people-say-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-26T23:50:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4621,
-      "importance": 0.4621,
-      "importance_score": 0.4621,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5706,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-26T23:50:35Z",
-      "latest_at": "2026-11-27T00:47:45.029000Z",
-      "primary_item": {
-        "id": "6f0ec89b713ceceaefdf28d68d2205124cb974fc",
-        "title": "一位斯坦福大学物理学家放弃了一项由人工智能辅助提出的理论，该理论曾引发科学界争议",
-        "url": "https://www.businessinsider.com/stanford-physicist-openai-astra-quantum-gravity-smart-people-say-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_dd2f6217ba9b",
-      "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-      "url": "https://www.aibase.com/news/32573",
-      "primary_url": "https://www.aibase.com/news/32573",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
-          "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-          "url": "https://www.aibase.com/news/32573",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
-          "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-          "url": "https://www.aibase.com/news/32573",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T11:06:06.311603Z",
-      "latest_at": "2026-11-27T11:06:06.311603Z",
-      "primary_item": {
-        "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
-        "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-        "url": "https://www.aibase.com/news/32573",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c83866a1dbc9",
-      "title": "追踪被人工智能治愈的疾病",
-      "url": "https://diseasescuredbyai.com",
-      "primary_url": "https://diseasescuredbyai.com",
-      "source": "diseasescuredbyai.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "fdcabfa31bd4db05a382fced59f883dd394c274a",
-          "title": "追踪被人工智能治愈的疾病",
-          "url": "https://diseasescuredbyai.com",
-          "source": "diseasescuredbyai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T18:23:52.767000Z"
-        },
-        {
-          "id": "8de14c02114364c7d705878055db44b00d76ead1",
-          "title": "追踪被人工智能治愈的疾病 / Tracking Diseases Cured by AI",
-          "url": "https://diseasescuredbyai.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-26T17:16:41Z"
-        },
-        {
-          "id": "1b706c13586cfe4c1973e340cea838066d7fc7c7",
-          "title": "追踪人工智能治愈的疾病 / Tracking Diseases Cured by AI",
-          "url": "https://news.ycombinator.com/item?id=50657307",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T17:16:41Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "diseasescuredbyai.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "fdcabfa31bd4db05a382fced59f883dd394c274a",
-          "title": "追踪被人工智能治愈的疾病",
-          "url": "https://diseasescuredbyai.com",
-          "source": "diseasescuredbyai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T18:23:52.767000Z"
-        },
-        {
-          "id": "8de14c02114364c7d705878055db44b00d76ead1",
-          "title": "追踪被人工智能治愈的疾病 / Tracking Diseases Cured by AI",
-          "url": "https://diseasescuredbyai.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-26T17:16:41Z"
-        },
-        {
-          "id": "1b706c13586cfe4c1973e340cea838066d7fc7c7",
-          "title": "追踪人工智能治愈的疾病 / Tracking Diseases Cured by AI",
-          "url": "https://news.ycombinator.com/item?id=50657307",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T17:16:41Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4338,
-      "importance": 0.4338,
-      "importance_score": 0.4338,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.304,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-26T17:16:41Z",
-      "latest_at": "2026-11-26T18:23:52.767000Z",
-      "primary_item": {
-        "id": "fdcabfa31bd4db05a382fced59f883dd394c274a",
-        "title": "追踪被人工智能治愈的疾病",
-        "url": "https://diseasescuredbyai.com",
-        "source": "diseasescuredbyai.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6bac70b0e180",
-      "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
-      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
-      "primary_url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "49117a1841e3ead0553e05f2c5913c5b1226b22d",
-          "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
-          "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T00:03:18Z"
-        },
-        {
-          "id": "79e08575461284dcb9cf11d7a8bf9d62e0e54d8d",
-          "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
-          "url": "https://news.ycombinator.com/item?id=50661218",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T00:03:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "49117a1841e3ead0553e05f2c5913c5b1226b22d",
-          "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
-          "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T00:03:18Z"
-        },
-        {
-          "id": "79e08575461284dcb9cf11d7a8bf9d62e0e54d8d",
-          "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
-          "url": "https://news.ycombinator.com/item?id=50661218",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T00:03:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4559,
-      "importance": 0.4559,
-      "importance_score": 0.4559,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5397,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T00:03:18Z",
-      "latest_at": "2026-11-27T00:03:18Z",
-      "primary_item": {
-        "id": "49117a1841e3ead0553e05f2c5913c5b1226b22d",
-        "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
-        "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
