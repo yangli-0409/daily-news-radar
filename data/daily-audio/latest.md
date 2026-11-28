@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年11月27日人工智能热点分享
-1、30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”，属于 AI 基础设施和算力成本相关信号。
-2、JetBrains 调查近 3 万开发者，重点是96% 已在用 AI 工具，但 46% 感到对代码的归属感下降。
-3、SAP 被曝拟裁至少 1 万人押注“AI 优先”，重点是波及全球 9% 员工，重点砍产品与工程和销售。
-4、谷歌修复 Chrome Gemini 内存问题，重点是单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB。
-5、Antigravity 实用技巧，重点是在 GEMINI.md 加一句话让模型边干活边汇报。
-6、90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”，属于 AI 基础设施和算力成本相关信号。
-7、Claude 能写代码也能审批合并了，重点是Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍。
-8、OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？，属于 AI 基础设施和算力成本相关信号。
-9、告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点。
-10、日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心。
+2026年11月28日人工智能热点分享
+1、MiniMax 评估内部模型逆向能力，重点是200 万行 Rust 克隆知名二进制分析软件。
+2、Hugging Face 上带隐藏恶意软件的 GGUF 大模型已致 2400 人受害。
+3、Donald Knuth suspends error bounties due to an influx of AI-generated reports。
+4、难道只有我觉得在公共场合跟AI说话很奇怪吗？，这条新闻关注相关变化背后的原因和影响。
+5、OpenAI 就苹果涉嫌窃取商业秘密一事提起反诉。
+6、Show HN，重点是Fleetlayer——用于在多台机器上运行多个AI代理的框架。
+7、Claude Code sabotage，重点是preliminary benchmarking。
+8、这款备受瞩目的新“置顶”iPhone联系人其实是一个AI助手。
+9、GTA 6，重点是The AI race to clone the biggest video game for PC。
+10、房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境。
 
 ## 原始链接
-1. 30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”（AIbase） - https://www.aibase.com/news/32579
-2. JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降（AIbase） - https://www.aibase.com/news/32577
-3. SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售（AIbase） - https://www.aibase.com/news/32571
-4. 谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB（AIbase） - https://www.aibase.com/news/32575
-5. Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报（卡兹克） - https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc
-6. 90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”（AIbase） - https://www.aibase.com/news/32574
-7. Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍（AIbase） - https://www.aibase.com/news/32580
-8. OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？（AIbase） - https://www.aibase.com/news/32567
-9. 告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点（AIbase） - https://www.aibase.com/news/32569
-10. 日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心（AIbase） - https://www.aibase.com/news/32572
+1. MiniMax 评估内部模型逆向能力：200 万行 Rust 克隆知名二进制分析软件（公众号：MiniMax） - https://aihot.news/items/j903zx9d0v80rsxi3aw7yj12s
+2. Hugging Face 上带隐藏恶意软件的 GGUF 大模型已致 2400 人受害（Readhub · AI） - https://malspark.com/blog/malicious-gguf-models-hugging-face
+3. Donald Knuth suspends error bounties due to an influx of AI-generated reports（Hacker News · 24h最热） - https://cs.stanford.edu/~knuth/moratorium.html
+4. 难道只有我觉得在公共场合跟AI说话很奇怪吗？（www.businessinsider.com） - https://www.businessinsider.com/talking-to-ai-voice-public-feels-weird-2026-11
+5. OpenAI 就苹果涉嫌窃取商业秘密一事提起反诉（www.bbc.co.uk） - https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss
+6. Show HN: Fleetlayer——用于在多台机器上运行多个AI代理的框架（fleetlayer.ai） - https://fleetlayer.ai
+7. Claude Code sabotage: preliminary benchmarking（Hacker News · 24h最热） - https://xinyadu.github.io/blog/claude-code-sabotage.html
+8. 这款备受瞩目的新“置顶”iPhone联系人其实是一个AI助手（www.businessinsider.com） - https://www.businessinsider.com/ai-agents-pinned-imessage-contacts-2026-11
+9. GTA 6: The AI race to clone the biggest video game for PC（Hacker News · 24h最热） - https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo
+10. 房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境（drmahfouz.substack.com） - https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai
