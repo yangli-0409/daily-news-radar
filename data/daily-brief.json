@@ -1,400 +1,181 @@
 {
-  "generated_at": "2026-11-28T02:51:24.328698Z",
+  "generated_at": "2026-11-28T11:12:13.233140Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 7,
   "items": [
     {
-      "story_id": "story_e033ea677147",
-      "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
-      "url": "https://www.aibase.com/news/32579",
-      "primary_url": "https://www.aibase.com/news/32579",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_35b91976f440",
+      "title": "这款备受瞩目的新“置顶”iPhone联系人其实是一个AI助手",
+      "url": "https://www.businessinsider.com/ai-agents-pinned-imessage-contacts-2026-11",
+      "primary_url": "https://www.businessinsider.com/ai-agents-pinned-imessage-contacts-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "fb41951088b7dfdc9db1456429929085d507bbd5",
-          "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
-          "url": "https://www.aibase.com/news/32579",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
+          "id": "38062e186e2c8beeb5884f46714d2fb863659f3f",
+          "title": "这款备受瞩目的新“置顶”iPhone联系人其实是一个AI助手",
+          "url": "https://www.businessinsider.com/ai-agents-pinned-imessage-contacts-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-28T10:23:42.039000Z"
         },
         {
-          "id": "e8ed4eebeb9ab4ec3712ed4d40c02bd2140e4237",
-          "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的「算力焦虑」",
-          "url": "https://www.aibase.com/zh/news/32579",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "4dca231b10bf0c1d9da575a680b53b50ff831afb",
+          "title": "这款备受瞩目的新“置顶”iPhone联系人其实是一个AI助手 / We asked 6 techies to show us their pinned iPhone contacts. AI agents dominated.",
+          "url": "https://www.businessinsider.com/ai-agents-pinned-imessage-contacts-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-28T09:55:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "fb41951088b7dfdc9db1456429929085d507bbd5",
-          "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
-          "url": "https://www.aibase.com/news/32579",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
+          "id": "38062e186e2c8beeb5884f46714d2fb863659f3f",
+          "title": "这款备受瞩目的新“置顶”iPhone联系人其实是一个AI助手",
+          "url": "https://www.businessinsider.com/ai-agents-pinned-imessage-contacts-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-28T10:23:42.039000Z"
         },
         {
-          "id": "e8ed4eebeb9ab4ec3712ed4d40c02bd2140e4237",
-          "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的「算力焦虑」",
-          "url": "https://www.aibase.com/zh/news/32579",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "4dca231b10bf0c1d9da575a680b53b50ff831afb",
+          "title": "这款备受瞩目的新“置顶”iPhone联系人其实是一个AI助手 / We asked 6 techies to show us their pinned iPhone contacts. AI agents dominated.",
+          "url": "https://www.businessinsider.com/ai-agents-pinned-imessage-contacts-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-28T09:55:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7057,
-      "importance": 0.7057,
-      "importance_score": 0.7057,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.3435,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-27T11:06:06.311603Z",
-      "latest_at": "2026-11-27T11:06:06.311603Z",
-      "primary_item": {
-        "id": "fb41951088b7dfdc9db1456429929085d507bbd5",
-        "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
-        "url": "https://www.aibase.com/news/32579",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_536a2012a672",
-      "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
-      "url": "https://www.aibase.com/news/32577",
-      "primary_url": "https://www.aibase.com/news/32577",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "889ff516fe2ad21ef2813ed9425ae0859d5ca43a",
-          "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
-          "url": "https://www.aibase.com/news/32577",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
-        },
-        {
-          "id": "db539f3bfb0bf2ab7e93b0bd47dd8c140e6a6ba4",
-          "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
-          "url": "https://www.aibase.com/zh/news/32577",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "889ff516fe2ad21ef2813ed9425ae0859d5ca43a",
-          "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
-          "url": "https://www.aibase.com/news/32577",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
-        },
-        {
-          "id": "db539f3bfb0bf2ab7e93b0bd47dd8c140e6a6ba4",
-          "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
-          "url": "https://www.aibase.com/zh/news/32577",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7057,
-      "importance": 0.7057,
-      "importance_score": 0.7057,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.3435,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-27T11:06:06.311603Z",
-      "latest_at": "2026-11-27T11:06:06.311603Z",
-      "primary_item": {
-        "id": "889ff516fe2ad21ef2813ed9425ae0859d5ca43a",
-        "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
-        "url": "https://www.aibase.com/news/32577",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8a71b4b95c98",
-      "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-      "url": "https://www.aibase.com/news/32571",
-      "primary_url": "https://www.aibase.com/news/32571",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
-          "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "url": "https://www.aibase.com/news/32571",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
-        },
-        {
-          "id": "eaac0cac353dc9c566bb18b61a8f06972c8de0a5",
-          "title": "SAP 被曝拟裁至少 1 万人押注「AI 优先」：波及全球 9% 员工，重点砍产品与工程和销售",
-          "url": "https://www.aibase.com/zh/news/32571",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
-          "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "url": "https://www.aibase.com/news/32571",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
-        },
-        {
-          "id": "eaac0cac353dc9c566bb18b61a8f06972c8de0a5",
-          "title": "SAP 被曝拟裁至少 1 万人押注「AI 优先」：波及全球 9% 员工，重点砍产品与工程和销售",
-          "url": "https://www.aibase.com/zh/news/32571",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7057,
-      "importance": 0.7057,
-      "importance_score": 0.7057,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.3435,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-27T11:06:06.311603Z",
-      "latest_at": "2026-11-27T11:06:06.311603Z",
-      "primary_item": {
-        "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
-        "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-        "url": "https://www.aibase.com/news/32571",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b86b8951642f",
-      "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-      "url": "https://www.aibase.com/news/32575",
-      "primary_url": "https://www.aibase.com/news/32575",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f2efee7f2e6e30b08eab23f6d9461d1905757b4e",
-          "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-          "url": "https://www.aibase.com/news/32575",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
-        },
-        {
-          "id": "38f35c57915d1bae4678389fe8adc8009e961165",
-          "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-          "url": "https://www.aibase.com/zh/news/32575",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "f2efee7f2e6e30b08eab23f6d9461d1905757b4e",
-          "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-          "url": "https://www.aibase.com/news/32575",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
-        },
-        {
-          "id": "38f35c57915d1bae4678389fe8adc8009e961165",
-          "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-          "url": "https://www.aibase.com/zh/news/32575",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7057,
-      "importance": 0.7057,
-      "importance_score": 0.7057,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.3435,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-27T11:06:06.311603Z",
-      "latest_at": "2026-11-27T11:06:06.311603Z",
-      "primary_item": {
-        "id": "f2efee7f2e6e30b08eab23f6d9461d1905757b4e",
-        "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-        "url": "https://www.aibase.com/news/32575",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4e825df2be8b",
-      "title": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐 / Woman evicted after landlord's AI assistant told her she could delay rent",
-      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
-      "primary_url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "2b9c8715d0408b12df2ad1a87ad9e67e6557fa5b",
-          "title": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐 / Woman evicted after landlord's AI assistant told her she could delay rent",
-          "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-28T01:32:56Z"
-        },
-        {
-          "id": "b71a7525da42301b3dfc9709c9659517047bfece",
-          "title": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐 / Woman evicted after landlord's AI assistant told her she could delay rent",
-          "url": "https://news.ycombinator.com/item?id=50673521",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-28T01:32:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2b9c8715d0408b12df2ad1a87ad9e67e6557fa5b",
-          "title": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐 / Woman evicted after landlord's AI assistant told her she could delay rent",
-          "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-28T01:32:56Z"
-        },
-        {
-          "id": "b71a7525da42301b3dfc9709c9659517047bfece",
-          "title": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐 / Woman evicted after landlord's AI assistant told her she could delay rent",
-          "url": "https://news.ycombinator.com/item?id=50673521",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-28T01:32:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.5413,
+      "importance": 0.5413,
+      "importance_score": 0.5413,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9455,
+        "recency": 0.9663,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-28T01:32:56Z",
-      "latest_at": "2026-11-28T01:32:56Z",
+      "earliest_at": "2026-11-28T09:55:01Z",
+      "latest_at": "2026-11-28T10:23:42.039000Z",
       "primary_item": {
-        "id": "2b9c8715d0408b12df2ad1a87ad9e67e6557fa5b",
-        "title": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐 / Woman evicted after landlord's AI assistant told her she could delay rent",
+        "id": "38062e186e2c8beeb5884f46714d2fb863659f3f",
+        "title": "这款备受瞩目的新“置顶”iPhone联系人其实是一个AI助手",
+        "url": "https://www.businessinsider.com/ai-agents-pinned-imessage-contacts-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4e825df2be8b",
+      "title": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境",
+      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "primary_url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "source": "drmahfouz.substack.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ae732f2d3e8a2149f230ac3245bd930efb1dff52",
+          "title": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境",
+          "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+          "source": "drmahfouz.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-28T04:31:49.729000Z"
+        },
+        {
+          "id": "2b9c8715d0408b12df2ad1a87ad9e67e6557fa5b",
+          "title": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境 / Woman evicted after landlord's AI assistant told her she could delay rent",
+          "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-28T01:32:56Z"
+        },
+        {
+          "id": "b71a7525da42301b3dfc9709c9659517047bfece",
+          "title": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐 / Woman evicted after landlord's AI assistant told her she could delay rent",
+          "url": "https://news.ycombinator.com/item?id=50673521",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-28T01:32:56Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "drmahfouz.substack.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ae732f2d3e8a2149f230ac3245bd930efb1dff52",
+          "title": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境",
+          "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+          "source": "drmahfouz.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-28T04:31:49.729000Z"
+        },
+        {
+          "id": "2b9c8715d0408b12df2ad1a87ad9e67e6557fa5b",
+          "title": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境 / Woman evicted after landlord's AI assistant told her she could delay rent",
+          "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-28T01:32:56Z"
+        },
+        {
+          "id": "b71a7525da42301b3dfc9709c9659517047bfece",
+          "title": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐 / Woman evicted after landlord's AI assistant told her she could delay rent",
+          "url": "https://news.ycombinator.com/item?id=50673521",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-28T01:32:56Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5174,
+      "importance": 0.5174,
+      "importance_score": 0.5174,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.722,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-28T01:32:56Z",
+      "latest_at": "2026-11-28T04:31:49.729000Z",
+      "primary_item": {
+        "id": "ae732f2d3e8a2149f230ac3245bd930efb1dff52",
+        "title": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境",
         "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "source": "drmahfouz.substack.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -470,14 +251,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5092,
-      "importance": 0.5092,
-      "importance_score": 0.5092,
+      "score": 0.4396,
+      "importance": 0.4396,
+      "importance_score": 0.4396,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6809,
+        "recency": 0.3331,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -567,14 +348,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4981,
-      "importance": 0.4981,
-      "importance_score": 0.4981,
+      "score": 0.4285,
+      "importance": 0.4285,
+      "importance_score": 0.4285,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6254,
+        "recency": 0.2776,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -588,162 +369,6 @@
         "title": "GPT 6.2 Astra 解开了历史之谜",
         "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
         "source": "generativehistory.substack.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_f21d90605390",
-      "title": "我害怕人工智能",
-      "url": "https://thesoapbox.email/archive/3",
-      "primary_url": "https://thesoapbox.email/archive/3",
-      "source": "thesoapbox.email",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9dcca2d45dd1cfac8460fe746cf240000fb02e22",
-          "title": "我害怕人工智能",
-          "url": "https://thesoapbox.email/archive/3",
-          "source": "thesoapbox.email",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T18:39:34.459000Z"
-        },
-        {
-          "id": "e5ba0781667491f36d846b9e8267c8269aaae1a1",
-          "title": "我害怕人工智能 / I'm Scared of AI",
-          "url": "https://thesoapbox.email/archive/3",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T17:45:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "thesoapbox.email"
-      ],
-      "items": [
-        {
-          "id": "9dcca2d45dd1cfac8460fe746cf240000fb02e22",
-          "title": "我害怕人工智能",
-          "url": "https://thesoapbox.email/archive/3",
-          "source": "thesoapbox.email",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T18:39:34.459000Z"
-        },
-        {
-          "id": "e5ba0781667491f36d846b9e8267c8269aaae1a1",
-          "title": "我害怕人工智能 / I'm Scared of AI",
-          "url": "https://thesoapbox.email/archive/3",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T17:45:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4797,
-      "importance": 0.4797,
-      "importance_score": 0.4797,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6585,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T17:45:31Z",
-      "latest_at": "2026-11-27T18:39:34.459000Z",
-      "primary_item": {
-        "id": "9dcca2d45dd1cfac8460fe746cf240000fb02e22",
-        "title": "我害怕人工智能",
-        "url": "https://thesoapbox.email/archive/3",
-        "source": "thesoapbox.email",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4f426f509098",
-      "title": "数学家担心，人工智能即将使网络安全形同虚设",
-      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-      "primary_url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-      "source": "www.thetimes.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "774fc23fba87d2e1a146c58a4a39772e88320316",
-          "title": "数学家担心，人工智能即将使网络安全形同虚设",
-          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-          "source": "www.thetimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T17:52:00.179000Z"
-        },
-        {
-          "id": "8b3ca6973325d1cf847438662a0824827b8682c3",
-          "title": "数学家担心，人工智能即将使网络安全形同虚设 / AI on brink of making online security useless, mathematicians fear",
-          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T11:09:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.thetimes.com"
-      ],
-      "items": [
-        {
-          "id": "774fc23fba87d2e1a146c58a4a39772e88320316",
-          "title": "数学家担心，人工智能即将使网络安全形同虚设",
-          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-          "source": "www.thetimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T17:52:00.179000Z"
-        },
-        {
-          "id": "8b3ca6973325d1cf847438662a0824827b8682c3",
-          "title": "数学家担心，人工智能即将使网络安全形同虚设 / AI on brink of making online security useless, mathematicians fear",
-          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T11:09:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4731,
-      "importance": 0.4731,
-      "importance_score": 0.4731,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6254,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T11:09:04Z",
-      "latest_at": "2026-11-27T17:52:00.179000Z",
-      "primary_item": {
-        "id": "774fc23fba87d2e1a146c58a4a39772e88320316",
-        "title": "数学家担心，人工智能即将使网络安全形同虚设",
-        "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-        "source": "www.thetimes.com",
         "source_name": "Buzzing"
       }
     },
@@ -801,14 +426,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4941,
-      "importance": 0.4941,
-      "importance_score": 0.4941,
+      "score": 0.4245,
+      "importance": 0.4245,
+      "importance_score": 0.4245,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7304,
+        "recency": 0.3826,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -823,6 +448,84 @@
         "url": "https://github.com/skeeto/prospero",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_f21d90605390",
+      "title": "我害怕人工智能",
+      "url": "https://thesoapbox.email/archive/3",
+      "primary_url": "https://thesoapbox.email/archive/3",
+      "source": "thesoapbox.email",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9dcca2d45dd1cfac8460fe746cf240000fb02e22",
+          "title": "我害怕人工智能",
+          "url": "https://thesoapbox.email/archive/3",
+          "source": "thesoapbox.email",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T18:39:34.459000Z"
+        },
+        {
+          "id": "e5ba0781667491f36d846b9e8267c8269aaae1a1",
+          "title": "我害怕人工智能 / I'm Scared of AI",
+          "url": "https://thesoapbox.email/archive/3",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T17:45:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "thesoapbox.email"
+      ],
+      "items": [
+        {
+          "id": "9dcca2d45dd1cfac8460fe746cf240000fb02e22",
+          "title": "我害怕人工智能",
+          "url": "https://thesoapbox.email/archive/3",
+          "source": "thesoapbox.email",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T18:39:34.459000Z"
+        },
+        {
+          "id": "e5ba0781667491f36d846b9e8267c8269aaae1a1",
+          "title": "我害怕人工智能 / I'm Scared of AI",
+          "url": "https://thesoapbox.email/archive/3",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T17:45:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4101,
+      "importance": 0.4101,
+      "importance_score": 0.4101,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.3107,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T17:45:31Z",
+      "latest_at": "2026-11-27T18:39:34.459000Z",
+      "primary_item": {
+        "id": "9dcca2d45dd1cfac8460fe746cf240000fb02e22",
+        "title": "我害怕人工智能",
+        "url": "https://thesoapbox.email/archive/3",
+        "source": "thesoapbox.email",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -879,14 +582,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4553,
-      "importance": 0.4553,
-      "importance_score": 0.4553,
+      "score": 0.3857,
+      "importance": 0.3857,
+      "importance_score": 0.3857,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5364,
+        "recency": 0.1886,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -901,278 +604,6 @@
         "url": "https://www.kimi.ai/news/kimi-for-science-program",
         "source": "www.kimi.ai",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_138e1e18872d",
-      "title": "克劳德破坏SOTA机器学习研究任务",
-      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-      "primary_url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-      "source": "twitter.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d15548e82cdd78c30561bdfbc0f2b648fba44afd",
-          "title": "克劳德破坏SOTA机器学习研究任务",
-          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-          "source": "twitter.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T11:11:55.754000Z"
-        },
-        {
-          "id": "e8f5bd93385476eef5bcfc33d5ddcb984278a1b7",
-          "title": "克劳德破坏SOTA机器学习研究任务 / Claude sabotaging ML research tasks?",
-          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T08:28:08Z"
-        },
-        {
-          "id": "d65795261bc1f708ffa4fe6ec0e6b89e805fed32",
-          "title": "克劳德破坏机器学习研究任务？ / Claude sabotaging ML research tasks?",
-          "url": "https://news.ycombinator.com/item?id=50664325",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T08:28:08Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "twitter.com"
-      ],
-      "items": [
-        {
-          "id": "d15548e82cdd78c30561bdfbc0f2b648fba44afd",
-          "title": "克劳德破坏SOTA机器学习研究任务",
-          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-          "source": "twitter.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T11:11:55.754000Z"
-        },
-        {
-          "id": "e8f5bd93385476eef5bcfc33d5ddcb984278a1b7",
-          "title": "克劳德破坏SOTA机器学习研究任务 / Claude sabotaging ML research tasks?",
-          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T08:28:08Z"
-        },
-        {
-          "id": "d65795261bc1f708ffa4fe6ec0e6b89e805fed32",
-          "title": "克劳德破坏机器学习研究任务？ / Claude sabotaging ML research tasks?",
-          "url": "https://news.ycombinator.com/item?id=50664325",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T08:28:08Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4425,
-      "importance": 0.4425,
-      "importance_score": 0.4425,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3476,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T08:28:08Z",
-      "latest_at": "2026-11-27T11:11:55.754000Z",
-      "primary_item": {
-        "id": "d15548e82cdd78c30561bdfbc0f2b648fba44afd",
-        "title": "克劳德破坏SOTA机器学习研究任务",
-        "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-        "source": "twitter.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_74835a583675",
-      "title": "那个你的AI在背后议论你的群聊",
-      "url": "https://construct22.com",
-      "primary_url": "https://construct22.com",
-      "source": "construct22.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d928708c3f684735612866f23f57ce9693e923aa",
-          "title": "那个你的AI在背后议论你的群聊",
-          "url": "https://construct22.com",
-          "source": "construct22.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T08:32:09.163000Z"
-        },
-        {
-          "id": "c6306c0efa6d522180688bdc050cddfbce1bc2b0",
-          "title": "那个你的AI在背后议论你的群聊 / Group chat where your AI talks behind your back",
-          "url": "https://construct22.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T06:44:34Z"
-        },
-        {
-          "id": "8705f9549c8021093695621965d1f563b5641518",
-          "title": "群聊，你的人工智能在背后对你说话 / Group chat where your AI talks behind your back",
-          "url": "https://news.ycombinator.com/item?id=50663595",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T06:44:34Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "construct22.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d928708c3f684735612866f23f57ce9693e923aa",
-          "title": "那个你的AI在背后议论你的群聊",
-          "url": "https://construct22.com",
-          "source": "construct22.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T08:32:09.163000Z"
-        },
-        {
-          "id": "c6306c0efa6d522180688bdc050cddfbce1bc2b0",
-          "title": "那个你的AI在背后议论你的群聊 / Group chat where your AI talks behind your back",
-          "url": "https://construct22.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T06:44:34Z"
-        },
-        {
-          "id": "8705f9549c8021093695621965d1f563b5641518",
-          "title": "群聊，你的人工智能在背后对你说话 / Group chat where your AI talks behind your back",
-          "url": "https://news.ycombinator.com/item?id=50663595",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T06:44:34Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4203,
-      "importance": 0.4203,
-      "importance_score": 0.4203,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2366,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T06:44:34Z",
-      "latest_at": "2026-11-27T08:32:09.163000Z",
-      "primary_item": {
-        "id": "d928708c3f684735612866f23f57ce9693e923aa",
-        "title": "那个你的AI在背后议论你的群聊",
-        "url": "https://construct22.com",
-        "source": "construct22.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0256b11e8366",
-      "title": "“克劳德的Fursona是什么？”及其他问题 / \"What's Claude's fursona?\" and other questions",
-      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
-      "primary_url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "7f849edb9e204c1128daa311da756932b96fc63e",
-          "title": "“克劳德的Fursona是什么？”及其他问题 / \"What's Claude's fursona?\" and other questions",
-          "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T04:56:18Z"
-        },
-        {
-          "id": "48a6148e152f8dc2148ce4bd9260df0209676d82",
-          "title": "“克劳德的兽名是什么？”以及其他问题 / \"What's Claude's fursona?\" and other questions",
-          "url": "https://news.ycombinator.com/item?id=50662933",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T04:56:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "7f849edb9e204c1128daa311da756932b96fc63e",
-          "title": "“克劳德的Fursona是什么？”及其他问题 / \"What's Claude's fursona?\" and other questions",
-          "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T04:56:18Z"
-        },
-        {
-          "id": "48a6148e152f8dc2148ce4bd9260df0209676d82",
-          "title": "“克劳德的兽名是什么？”以及其他问题 / \"What's Claude's fursona?\" and other questions",
-          "url": "https://news.ycombinator.com/item?id=50662933",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T04:56:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3653,
-      "importance": 0.3653,
-      "importance_score": 0.3653,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0867,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T04:56:18Z",
-      "latest_at": "2026-11-27T04:56:18Z",
-      "primary_item": {
-        "id": "7f849edb9e204c1128daa311da756932b96fc63e",
-        "title": "“克劳德的Fursona是什么？”及其他问题 / \"What's Claude's fursona?\" and other questions",
-        "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
