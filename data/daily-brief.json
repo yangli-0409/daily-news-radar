@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-27T20:06:35.711259Z",
+  "generated_at": "2026-11-28T02:51:24.328698Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 14,
   "items": [
     {
       "story_id": "story_e033ea677147",
@@ -57,21 +57,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
-      "importance_label": "行业动态",
+      "score": 0.7057,
+      "importance": 0.7057,
+      "importance_score": 0.7057,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6247,
+        "recency": 0.3435,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T11:06:06.311603Z",
       "latest_at": "2026-11-27T11:06:06.311603Z",
@@ -81,125 +80,6 @@
         "url": "https://www.aibase.com/news/32579",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a671d854a07f",
-      "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
-      "url": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
-      "primary_url": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
-      "source": "面壁智能 OpenBMB",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cd38a5da778347a918c54615cbfbf00de955d112",
-          "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
-          "url": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
-          "source": "面壁智能 OpenBMB",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-27T13:32:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "面壁智能 OpenBMB"
-      ],
-      "items": [
-        {
-          "id": "cd38a5da778347a918c54615cbfbf00de955d112",
-          "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
-          "url": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
-          "source": "面壁智能 OpenBMB",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-27T13:32:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7261,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T13:32:15Z",
-      "latest_at": "2026-11-27T13:32:15Z",
-      "primary_item": {
-        "id": "cd38a5da778347a918c54615cbfbf00de955d112",
-        "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
-        "url": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
-        "source": "面壁智能 OpenBMB",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0d88709a3709",
-      "title": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
-      "url": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
-      "primary_url": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
-      "source": "卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2186f123ac1f40fc5dcba1fa3d731dd9007eb6e9",
-          "title": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
-          "url": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
-          "source": "卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-27T12:38:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "卡兹克"
-      ],
-      "items": [
-        {
-          "id": "2186f123ac1f40fc5dcba1fa3d731dd9007eb6e9",
-          "title": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
-          "url": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
-          "source": "卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-27T12:38:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.689,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-27T12:38:45Z",
-      "latest_at": "2026-11-27T12:38:45Z",
-      "primary_item": {
-        "id": "2186f123ac1f40fc5dcba1fa3d731dd9007eb6e9",
-        "title": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
-        "url": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
-        "source": "卡兹克",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -256,21 +136,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
-      "importance_label": "行业动态",
+      "score": 0.7057,
+      "importance": 0.7057,
+      "importance_score": 0.7057,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6247,
+        "recency": 0.3435,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T11:06:06.311603Z",
       "latest_at": "2026-11-27T11:06:06.311603Z",
@@ -336,21 +215,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
-      "importance_label": "行业动态",
+      "score": 0.7057,
+      "importance": 0.7057,
+      "importance_score": 0.7057,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6247,
+        "recency": 0.3435,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T11:06:06.311603Z",
       "latest_at": "2026-11-27T11:06:06.311603Z",
@@ -363,7 +241,7 @@
       }
     },
     {
-      "story_id": "story_51e424892643",
+      "story_id": "story_b86b8951642f",
       "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
       "url": "https://www.aibase.com/news/32575",
       "primary_url": "https://www.aibase.com/news/32575",
@@ -416,21 +294,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
-      "importance_label": "行业动态",
+      "score": 0.7057,
+      "importance": 0.7057,
+      "importance_score": 0.7057,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6247,
+        "recency": 0.3435,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T11:06:06.311603Z",
       "latest_at": "2026-11-27T11:06:06.311603Z",
@@ -443,180 +320,178 @@
       }
     },
     {
-      "story_id": "story_a65603203e95",
-      "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
-      "url": "https://www.aibase.com/news/32574",
-      "primary_url": "https://www.aibase.com/news/32574",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_4e825df2be8b",
+      "title": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐 / Woman evicted after landlord's AI assistant told her she could delay rent",
+      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "primary_url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "9454515bcc555fb4b1af37afbe394f65faff8cb2",
-          "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
-          "url": "https://www.aibase.com/news/32574",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
+          "id": "2b9c8715d0408b12df2ad1a87ad9e67e6557fa5b",
+          "title": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐 / Woman evicted after landlord's AI assistant told her she could delay rent",
+          "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-28T01:32:56Z"
+        },
+        {
+          "id": "b71a7525da42301b3dfc9709c9659517047bfece",
+          "title": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐 / Woman evicted after landlord's AI assistant told her she could delay rent",
+          "url": "https://news.ycombinator.com/item?id=50673521",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-28T01:32:56Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "9454515bcc555fb4b1af37afbe394f65faff8cb2",
-          "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
-          "url": "https://www.aibase.com/news/32574",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
+          "id": "2b9c8715d0408b12df2ad1a87ad9e67e6557fa5b",
+          "title": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐 / Woman evicted after landlord's AI assistant told her she could delay rent",
+          "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-28T01:32:56Z"
+        },
+        {
+          "id": "b71a7525da42301b3dfc9709c9659517047bfece",
+          "title": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐 / Woman evicted after landlord's AI assistant told her she could delay rent",
+          "url": "https://news.ycombinator.com/item?id=50673521",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-28T01:32:56Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5371,
+      "importance": 0.5371,
+      "importance_score": 0.5371,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6247,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9455,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-27T11:06:06.311603Z",
-      "latest_at": "2026-11-27T11:06:06.311603Z",
+      "earliest_at": "2026-11-28T01:32:56Z",
+      "latest_at": "2026-11-28T01:32:56Z",
       "primary_item": {
-        "id": "9454515bcc555fb4b1af37afbe394f65faff8cb2",
-        "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
-        "url": "https://www.aibase.com/news/32574",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "2b9c8715d0408b12df2ad1a87ad9e67e6557fa5b",
+        "title": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐 / Woman evicted after landlord's AI assistant told her she could delay rent",
+        "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
-      "story_id": "story_05d73e85004e",
-      "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
-      "url": "https://www.aibase.com/news/32580",
-      "primary_url": "https://www.aibase.com/news/32580",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_061346cb2f74",
+      "title": "Show HN: 在一台 GB10 上，通过 vLLM 使 Inkling 2 Mini 达到 101 tok/s",
+      "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10",
+      "primary_url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10",
+      "source": "runtimenotes.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "2ef9255d5cfef559a095ffde0aae6da03b1b35fa",
-          "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
-          "url": "https://www.aibase.com/news/32580",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
+          "id": "3f7be7e51bb3571eb9896ab731c28beb007d26c6",
+          "title": "Show HN: 在一台 GB10 上，通过 vLLM 使 Inkling 2 Mini 达到 101 tok/s",
+          "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10",
+          "source": "runtimenotes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T19:11:54.278000Z"
+        },
+        {
+          "id": "b5db33a8a39e77087df4a724711c0a7e16b165ec",
+          "title": "Show HN: 在一台 GB10 上，通过 vLLM 使 Inkling 2 Mini 达到 101 tok/s / Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+          "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T18:59:55Z"
+        },
+        {
+          "id": "5ff304159646cb622000589a53a5abbcbd32d4e9",
+          "title": "显示 HN：在 1 GB10 上从 vLLM 中的 Inkling 2 Mini 获得 101 tok/s / Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+          "url": "https://news.ycombinator.com/item?id=50670443",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T18:59:55Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News · 24h最热",
+        "hackernews",
+        "runtimenotes.com"
       ],
       "items": [
         {
-          "id": "2ef9255d5cfef559a095ffde0aae6da03b1b35fa",
-          "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
-          "url": "https://www.aibase.com/news/32580",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6247,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-27T11:06:06.311603Z",
-      "latest_at": "2026-11-27T11:06:06.311603Z",
-      "primary_item": {
-        "id": "2ef9255d5cfef559a095ffde0aae6da03b1b35fa",
-        "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
-        "url": "https://www.aibase.com/news/32580",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6be7c06d9fd0",
-      "title": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
-      "url": "https://www.aibase.com/news/32567",
-      "primary_url": "https://www.aibase.com/news/32567",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
+          "id": "3f7be7e51bb3571eb9896ab731c28beb007d26c6",
+          "title": "Show HN: 在一台 GB10 上，通过 vLLM 使 Inkling 2 Mini 达到 101 tok/s",
+          "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10",
+          "source": "runtimenotes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T19:11:54.278000Z"
+        },
         {
-          "id": "1a83c8ff3e0117796eef292304d62ef103a5c222",
-          "title": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
-          "url": "https://www.aibase.com/news/32567",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
+          "id": "b5db33a8a39e77087df4a724711c0a7e16b165ec",
+          "title": "Show HN: 在一台 GB10 上，通过 vLLM 使 Inkling 2 Mini 达到 101 tok/s / Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+          "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T18:59:55Z"
+        },
         {
-          "id": "1a83c8ff3e0117796eef292304d62ef103a5c222",
-          "title": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
-          "url": "https://www.aibase.com/news/32567",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
+          "id": "5ff304159646cb622000589a53a5abbcbd32d4e9",
+          "title": "显示 HN：在 1 GB10 上从 vLLM 中的 Inkling 2 Mini 获得 101 tok/s / Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+          "url": "https://news.ycombinator.com/item?id=50670443",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T18:59:55Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5092,
+      "importance": 0.5092,
+      "importance_score": 0.5092,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6247,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6809,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-27T11:06:06.311603Z",
-      "latest_at": "2026-11-27T11:06:06.311603Z",
+      "earliest_at": "2026-11-27T18:59:55Z",
+      "latest_at": "2026-11-27T19:11:54.278000Z",
       "primary_item": {
-        "id": "1a83c8ff3e0117796eef292304d62ef103a5c222",
-        "title": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
-        "url": "https://www.aibase.com/news/32567",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "3f7be7e51bb3571eb9896ab731c28beb007d26c6",
+        "title": "Show HN: 在一台 GB10 上，通过 vLLM 使 Inkling 2 Mini 达到 101 tok/s",
+        "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10",
+        "source": "runtimenotes.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -692,14 +567,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5543,
-      "importance": 0.5543,
-      "importance_score": 0.5543,
+      "score": 0.4981,
+      "importance": 0.4981,
+      "importance_score": 0.4981,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9065,
+        "recency": 0.6254,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -770,14 +645,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5359,
-      "importance": 0.5359,
-      "importance_score": 0.5359,
+      "score": 0.4797,
+      "importance": 0.4797,
+      "importance_score": 0.4797,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9396,
+        "recency": 0.6585,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -848,14 +723,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5293,
-      "importance": 0.5293,
-      "importance_score": 0.5293,
+      "score": 0.4731,
+      "importance": 0.4731,
+      "importance_score": 0.4731,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9065,
+        "recency": 0.6254,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -873,62 +748,81 @@
       }
     },
     {
-      "story_id": "story_7ec626ba7a36",
-      "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-      "url": "https://www.aibase.com/news/32569",
-      "primary_url": "https://www.aibase.com/news/32569",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_42792ea1ec91",
+      "title": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui",
+      "url": "https://github.com/skeeto/prospero",
+      "primary_url": "https://github.com/skeeto/prospero",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
-          "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-          "url": "https://www.aibase.com/news/32569",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
+          "id": "63ec982a6a936d92cf04993b50aec68ad7036d56",
+          "title": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui",
+          "url": "https://github.com/skeeto/prospero",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T20:23:14Z"
+        },
+        {
+          "id": "2c1bf4c5a071731b7606bd30365c395c7a0913f8",
+          "title": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui",
+          "url": "https://news.ycombinator.com/item?id=50671275",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T20:23:14Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
-          "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-          "url": "https://www.aibase.com/news/32569",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
+          "id": "63ec982a6a936d92cf04993b50aec68ad7036d56",
+          "title": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui",
+          "url": "https://github.com/skeeto/prospero",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T20:23:14Z"
+        },
+        {
+          "id": "2c1bf4c5a071731b7606bd30365c395c7a0913f8",
+          "title": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui",
+          "url": "https://news.ycombinator.com/item?id=50671275",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T20:23:14Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4941,
+      "importance": 0.4941,
+      "importance_score": 0.4941,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6247,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7304,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-27T11:06:06.311603Z",
-      "latest_at": "2026-11-27T11:06:06.311603Z",
+      "earliest_at": "2026-11-27T20:23:14Z",
+      "latest_at": "2026-11-27T20:23:14Z",
       "primary_item": {
-        "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
-        "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-        "url": "https://www.aibase.com/news/32569",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "63ec982a6a936d92cf04993b50aec68ad7036d56",
+        "title": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui",
+        "url": "https://github.com/skeeto/prospero",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -985,14 +879,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5115,
-      "importance": 0.5115,
-      "importance_score": 0.5115,
+      "score": 0.4553,
+      "importance": 0.4553,
+      "importance_score": 0.4553,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8176,
+        "recency": 0.5364,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1027,8 +921,8 @@
           "published_at": "2026-11-27T11:11:55.754000Z"
         },
         {
-          "id": "dca60c223811c703c69c1d67a33b5513fd354b2a",
-          "title": "克劳德破坏SOTA机器学习研究任务 / Claude sabotaging SOTA ML research tasks",
+          "id": "e8f5bd93385476eef5bcfc33d5ddcb984278a1b7",
+          "title": "克劳德破坏SOTA机器学习研究任务 / Claude sabotaging ML research tasks?",
           "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1036,8 +930,8 @@
           "published_at": "2026-11-27T08:28:08Z"
         },
         {
-          "id": "8a6419e55e71c77f2f374f14b47bf182c1aa4f3d",
-          "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
+          "id": "d65795261bc1f708ffa4fe6ec0e6b89e805fed32",
+          "title": "克劳德破坏机器学习研究任务？ / Claude sabotaging ML research tasks?",
           "url": "https://news.ycombinator.com/item?id=50664325",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -1062,8 +956,8 @@
           "published_at": "2026-11-27T11:11:55.754000Z"
         },
         {
-          "id": "dca60c223811c703c69c1d67a33b5513fd354b2a",
-          "title": "克劳德破坏SOTA机器学习研究任务 / Claude sabotaging SOTA ML research tasks",
+          "id": "e8f5bd93385476eef5bcfc33d5ddcb984278a1b7",
+          "title": "克劳德破坏SOTA机器学习研究任务 / Claude sabotaging ML research tasks?",
           "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1071,8 +965,8 @@
           "published_at": "2026-11-27T08:28:08Z"
         },
         {
-          "id": "8a6419e55e71c77f2f374f14b47bf182c1aa4f3d",
-          "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
+          "id": "d65795261bc1f708ffa4fe6ec0e6b89e805fed32",
+          "title": "克劳德破坏机器学习研究任务？ / Claude sabotaging ML research tasks?",
           "url": "https://news.ycombinator.com/item?id=50664325",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -1082,14 +976,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4987,
-      "importance": 0.4987,
-      "importance_score": 0.4987,
+      "score": 0.4425,
+      "importance": 0.4425,
+      "importance_score": 0.4425,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6287,
+        "recency": 0.3476,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1104,65 +998,6 @@
         "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
         "source": "twitter.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7d77be3bea7a",
-      "title": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
-      "url": "https://www.aibase.com/news/32572",
-      "primary_url": "https://www.aibase.com/news/32572",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3cdf49c0ed5773c1c1b2788ac089b4227606da62",
-          "title": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
-          "url": "https://www.aibase.com/news/32572",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3cdf49c0ed5773c1c1b2788ac089b4227606da62",
-          "title": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
-          "url": "https://www.aibase.com/news/32572",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6247,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-27T11:06:06.311603Z",
-      "latest_at": "2026-11-27T11:06:06.311603Z",
-      "primary_item": {
-        "id": "3cdf49c0ed5773c1c1b2788ac089b4227606da62",
-        "title": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
-        "url": "https://www.aibase.com/news/32572",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1183,8 +1018,8 @@
           "published_at": "2026-11-27T08:32:09.163000Z"
         },
         {
-          "id": "2ef7ffb3b013b05343bd05b873e77d922e189f99",
-          "title": "那个你的AI在背后议论你的群聊 / The group chat where your AI talks behind your back",
+          "id": "c6306c0efa6d522180688bdc050cddfbce1bc2b0",
+          "title": "那个你的AI在背后议论你的群聊 / Group chat where your AI talks behind your back",
           "url": "https://construct22.com",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1192,8 +1027,8 @@
           "published_at": "2026-11-27T06:44:34Z"
         },
         {
-          "id": "6d490c5117020b0f0929c4eb0eede210adbf2964",
-          "title": "人工智能在你背后说话的群聊 / The group chat where your AI talks behind your back",
+          "id": "8705f9549c8021093695621965d1f563b5641518",
+          "title": "群聊，你的人工智能在背后对你说话 / Group chat where your AI talks behind your back",
           "url": "https://news.ycombinator.com/item?id=50663595",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -1218,8 +1053,8 @@
           "published_at": "2026-11-27T08:32:09.163000Z"
         },
         {
-          "id": "2ef7ffb3b013b05343bd05b873e77d922e189f99",
-          "title": "那个你的AI在背后议论你的群聊 / The group chat where your AI talks behind your back",
+          "id": "c6306c0efa6d522180688bdc050cddfbce1bc2b0",
+          "title": "那个你的AI在背后议论你的群聊 / Group chat where your AI talks behind your back",
           "url": "https://construct22.com",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1227,8 +1062,8 @@
           "published_at": "2026-11-27T06:44:34Z"
         },
         {
-          "id": "6d490c5117020b0f0929c4eb0eede210adbf2964",
-          "title": "人工智能在你背后说话的群聊 / The group chat where your AI talks behind your back",
+          "id": "8705f9549c8021093695621965d1f563b5641518",
+          "title": "群聊，你的人工智能在背后对你说话 / Group chat where your AI talks behind your back",
           "url": "https://news.ycombinator.com/item?id=50663595",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -1238,14 +1073,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4765,
-      "importance": 0.4765,
-      "importance_score": 0.4765,
+      "score": 0.4203,
+      "importance": 0.4203,
+      "importance_score": 0.4203,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5177,
+        "recency": 0.2366,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1263,236 +1098,81 @@
       }
     },
     {
-      "story_id": "story_c4652fadb832",
-      "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-      "url": "https://www.aibase.com/news/32570",
-      "primary_url": "https://www.aibase.com/news/32570",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_0256b11e8366",
+      "title": "“克劳德的Fursona是什么？”及其他问题 / \"What's Claude's fursona?\" and other questions",
+      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
+      "primary_url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
-          "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-          "url": "https://www.aibase.com/news/32570",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
-          "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-          "url": "https://www.aibase.com/news/32570",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6247,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-27T11:06:06.311603Z",
-      "latest_at": "2026-11-27T11:06:06.311603Z",
-      "primary_item": {
-        "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
-        "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-        "url": "https://www.aibase.com/news/32570",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_19dd4641586d",
-      "title": "AI让自主托管重新变得有趣",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "primary_url": "https://janlukas.blog/posts/ai-self-hosting",
-      "source": "janlukas.blog",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "92db19404cf7e4a88fdfc43db6354196e332d0d1",
-          "title": "AI让自主托管重新变得有趣",
-          "url": "https://janlukas.blog/posts/ai-self-hosting",
-          "source": "janlukas.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T02:07:37.097000Z"
-        },
-        {
-          "id": "52ba91543d73bfd92f8216808ce26389d92765ae",
-          "title": "AI 让自主托管重新变得有趣",
-          "url": "https://janlukas.blog/posts/ai-self-hosting",
-          "source": "janlukas.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T23:27:36.973000Z"
-        },
-        {
-          "id": "3ca853b3da294a1aaf58f8db76531f1cf7945bc2",
-          "title": "AI 让自主托管重新变得有趣 / AI made self-hosting fun again",
-          "url": "https://janlukas.blog/posts/ai-self-hosting",
+          "id": "7f849edb9e204c1128daa311da756932b96fc63e",
+          "title": "“克劳德的Fursona是什么？”及其他问题 / \"What's Claude's fursona?\" and other questions",
+          "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-26T21:47:45Z"
+          "published_at": "2026-11-27T04:56:18Z"
         },
         {
-          "id": "c4a0d37319135e2f0ac887daf4cb474b392221ba",
-          "title": "人工智能再次让自托管变得有趣 / AI made self-hosting fun again",
-          "url": "https://news.ycombinator.com/item?id=50660180",
+          "id": "48a6148e152f8dc2148ce4bd9260df0209676d82",
+          "title": "“克劳德的兽名是什么？”以及其他问题 / \"What's Claude's fursona?\" and other questions",
+          "url": "https://news.ycombinator.com/item?id=50662933",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-26T21:47:45Z"
+          "published_at": "2026-11-27T04:56:18Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "hackernews",
-        "janlukas.blog"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "92db19404cf7e4a88fdfc43db6354196e332d0d1",
-          "title": "AI让自主托管重新变得有趣",
-          "url": "https://janlukas.blog/posts/ai-self-hosting",
-          "source": "janlukas.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T02:07:37.097000Z"
-        },
-        {
-          "id": "52ba91543d73bfd92f8216808ce26389d92765ae",
-          "title": "AI 让自主托管重新变得有趣",
-          "url": "https://janlukas.blog/posts/ai-self-hosting",
-          "source": "janlukas.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T23:27:36.973000Z"
-        },
-        {
-          "id": "3ca853b3da294a1aaf58f8db76531f1cf7945bc2",
-          "title": "AI 让自主托管重新变得有趣 / AI made self-hosting fun again",
-          "url": "https://janlukas.blog/posts/ai-self-hosting",
+          "id": "7f849edb9e204c1128daa311da756932b96fc63e",
+          "title": "“克劳德的Fursona是什么？”及其他问题 / \"What's Claude's fursona?\" and other questions",
+          "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-26T21:47:45Z"
+          "published_at": "2026-11-27T04:56:18Z"
         },
         {
-          "id": "c4a0d37319135e2f0ac887daf4cb474b392221ba",
-          "title": "人工智能再次让自托管变得有趣 / AI made self-hosting fun again",
-          "url": "https://news.ycombinator.com/item?id=50660180",
+          "id": "48a6148e152f8dc2148ce4bd9260df0209676d82",
+          "title": "“克劳德的兽名是什么？”以及其他问题 / \"What's Claude's fursona?\" and other questions",
+          "url": "https://news.ycombinator.com/item?id=50662933",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-26T21:47:45Z"
+          "published_at": "2026-11-27T04:56:18Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.4481,
-      "importance": 0.4481,
-      "importance_score": 0.4481,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3653,
+      "importance": 0.3653,
+      "importance_score": 0.3653,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2507,
-        "story_heat": 0.75
+        "recency": 0.0867,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-26T21:47:45Z",
-      "latest_at": "2026-11-27T02:07:37.097000Z",
+      "earliest_at": "2026-11-27T04:56:18Z",
+      "latest_at": "2026-11-27T04:56:18Z",
       "primary_item": {
-        "id": "92db19404cf7e4a88fdfc43db6354196e332d0d1",
-        "title": "AI让自主托管重新变得有趣",
-        "url": "https://janlukas.blog/posts/ai-self-hosting",
-        "source": "janlukas.blog",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_878ebd450fa3",
-      "title": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
-      "url": "https://www.aibase.com/news/32576",
-      "primary_url": "https://www.aibase.com/news/32576",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8260c480781c8810c8501da8261fdb8f9b860539",
-          "title": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
-          "url": "https://www.aibase.com/news/32576",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8260c480781c8810c8501da8261fdb8f9b860539",
-          "title": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
-          "url": "https://www.aibase.com/news/32576",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T11:06:06.311603Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6247,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-27T11:06:06.311603Z",
-      "latest_at": "2026-11-27T11:06:06.311603Z",
-      "primary_item": {
-        "id": "8260c480781c8810c8501da8261fdb8f9b860539",
-        "title": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
-        "url": "https://www.aibase.com/news/32576",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "7f849edb9e204c1128daa311da756932b96fc63e",
+        "title": "“克劳德的Fursona是什么？”及其他问题 / \"What's Claude's fursona?\" and other questions",
+        "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
